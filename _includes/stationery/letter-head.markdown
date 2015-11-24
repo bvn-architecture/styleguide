@@ -1,5 +1,5 @@
-##LETTERHEAD
+##Letterhead
 Our pre-printed letterheads include 5 different images on the reverse side.
 
-###PAPER STOCK
+###Paper stock
 Mohawk ultra white Superfine Eggshell 118gsm

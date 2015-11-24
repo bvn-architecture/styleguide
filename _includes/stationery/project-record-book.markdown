@@ -1,5 +1,5 @@
-##PROJECT RECORD BOOK
+##Project record book
 
-###PAPER STOCK
+###Paper stock
 Covers: Notturno 700gsm, black
 Inside pages: Nordset 120gsm white

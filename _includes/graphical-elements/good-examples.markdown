@@ -1,2 +1,2 @@
-##EXAMPLES OF USAGE OF THE GRAPHIC ELEMENTS
-Always show the graphic elements in full. Try to maximise the size of the element on the page.
+##Examples of usage of the graphic elements
+always Show The Graphic Elements In Full. Try To Maximise The Size Of The Element On The Page.

@@ -1,13 +1,13 @@
-##EXAMPLES OF INCORRECT USAGE OF GRAPHIC ELEMENTS
+##Examples of incorrect usage of graphic elements
 
-###CROPPING
+###Cropping
 Do not crop graphic elements
 
-###INCORRECT ADDITION OF ELEMENTS
+###Incorrect addition of elements
 Do not add graphic elements over photography in layouts.
 
-###FILL IN
+###Fill in
 Do not use photography inside graphic elements.
 
-###PROPORTIONS
+###Proportions
 Do not combine elements or change proportions.

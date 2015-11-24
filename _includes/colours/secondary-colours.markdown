@@ -1,4 +1,4 @@
-#SECONDARY COLOURS
+##Secondary colours
 Primary (black and white) and secondary colours are preferred over tertiary colours for use in drawings and plans.
 
 **C**40 **M**48 **Y**77 **K**17 / **R**150 **G**119 **B**69

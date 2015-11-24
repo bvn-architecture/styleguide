@@ -1,14 +1,14 @@
-##BVN MENU
+##Bvn menu
 There is a BVN menu located on the right-hand side of the menu bar.
 
-###CHANGE LETTERHEAD FIELDS
+###Change letterhead fields
 This button opens the dialogue box for editing the address, date, office etc.
 
-###REFRESH ALL FIELDS
+###Refresh all fields
 This button refreshes all fields filled in the dialogue box.
 
-###TOGGLE PRINT GRAPHICS
+###Toggle print graphics
 This button hides the BVN header and footer. Use this when printing on pre-printed letterhead stock.
 
-###APPLY BVN TABLE FORMAT
+###Apply bvn table format
 Use this button to apply the BVN table style.
