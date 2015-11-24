@@ -1,8 +1,8 @@
 title:              "Styleguide"
 email:              "someone@bvn.com.au"
 description:        "This is how to use our graphic assets"
-#baseurl:            "" # the subpath of your site, e.g. /blog/
-#url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
+baseurl:           "/styleguide/"
+url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
 twitter_username:   "architecturebvn"
 github_username:    "bvn-architecture"
 facebook-publisher: "https://www.facebook.com/pages/BVN-Architecture/131354776914013?fref=ts"
