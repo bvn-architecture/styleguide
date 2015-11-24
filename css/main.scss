@@ -6,9 +6,36 @@
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
+@font-face{
+    font-family: 'Blender-book';
+    src: url('blender/blenderpro-book-webfont.eot'                );
+    src: url('blender/blenderpro-book-webfont.eot?#iefix'         ) format('embedded-opentype'),
+         url('blender/blenderpro-book-webfont.woff'               ) format('woff'),
+         url('blender/blenderpro-book-webfont.ttf'                ) format('truetype'),
+         url('blender/blenderpro-book-webfont.svg#blender_probook') format('svg');
+}
+// @font-face{
+//     font-family: 'Blender-bold';
+//     src: url('blender/blenderpro-bold-webfont.eot'                );
+//     src: url('blender/blenderpro-bold-webfont.eot?#iefix'         ) format('embedded-opentype'),
+//          url('blender/blenderpro-bold-webfont.woff'               ) format('woff'),
+//          url('blender/blenderpro-bold-webfont.ttf'                ) format('truetype'),
+//          url('blender/blenderpro-bold-webfont.svg#blender_probold') format('svg');
+// }
+@font-face{
+    font-family: 'Blender-medium';
+    src: url('blender/blenderpro-medium-webfont.eot'                );
+    src: url('blender/blenderpro-medium-webfont.eot?#iefix'         ) format('embedded-opentype'),
+         url('blender/blenderpro-medium-webfont.woff'               ) format('woff'),
+         url('blender/blenderpro-medium-webfont.ttf'                ) format('truetype'),
+         url('blender/blenderpro-medium-webfont.svg#blender_promedium') format('svg');
+}
+
+// Our variables
+$base-font-family: 'Blender-book', "Blender", Arial, sans-serif;
+// $bold-font-family: 'Blender-bold', "Blender", Arial, sans-serif;
+$medium-font-family: 'Blender-medium', "Blender", Arial, sans-serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
