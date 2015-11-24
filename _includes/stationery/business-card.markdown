@@ -1,7 +1,5 @@
-##Business Card
-
+##BUSINESS CARD
 Our business cards include 5 different images on the reverse side.
 
-#Paper Stock
-
+###PAPER STOCK
 Our stock is Strathmore Premium Wove ultimate white 352gsm.
