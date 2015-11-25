@@ -3,32 +3,29 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
 @font-face{
     font-family: 'Blender-book';
-    src: url('blender/blenderpro-book-webfont.eot'                );
-    src: url('blender/blenderpro-book-webfont.eot?#iefix'         ) format('embedded-opentype'),
-         url('blender/blenderpro-book-webfont.woff'               ) format('woff'),
-         url('blender/blenderpro-book-webfont.ttf'                ) format('truetype'),
-         url('blender/blenderpro-book-webfont.svg#blender_probook') format('svg');
+    src: url('http://bvn.camp/static/blender/blenderpro-book-webfont.eot'                );
+    src: url('http://bvn.camp/static/blender/blenderpro-book-webfont.eot?#iefix'         ) format('embedded-opentype'),
+         url('http://bvn.camp/static/blender/blenderpro-book-webfont.woff'               ) format('woff'),
+         url('http://bvn.camp/static/blender/blenderpro-book-webfont.ttf'                ) format('truetype'),
+         url('http://bvn.camp/static/blender/blenderpro-book-webfont.svg#blender_probook') format('svg');
 }
 // @font-face{
 //     font-family: 'Blender-bold';
-//     src: url('blender/blenderpro-bold-webfont.eot'                );
-//     src: url('blender/blenderpro-bold-webfont.eot?#iefix'         ) format('embedded-opentype'),
-//          url('blender/blenderpro-bold-webfont.woff'               ) format('woff'),
-//          url('blender/blenderpro-bold-webfont.ttf'                ) format('truetype'),
-//          url('blender/blenderpro-bold-webfont.svg#blender_probold') format('svg');
+//     src: url('http://bvn.camp/static/blender/blenderpro-bold-webfont.eot'                );
+//     src: url('http://bvn.camp/static/blender/blenderpro-bold-webfont.eot?#iefix'         ) format('embedded-opentype'),
+//          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.woff'               ) format('woff'),
+//          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.ttf'                ) format('truetype'),
+//          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.svg#blender_probold') format('svg');
 // }
 @font-face{
     font-family: 'Blender-medium';
-    src: url('blender/blenderpro-medium-webfont.eot'                );
-    src: url('blender/blenderpro-medium-webfont.eot?#iefix'         ) format('embedded-opentype'),
-         url('blender/blenderpro-medium-webfont.woff'               ) format('woff'),
-         url('blender/blenderpro-medium-webfont.ttf'                ) format('truetype'),
-         url('blender/blenderpro-medium-webfont.svg#blender_promedium') format('svg');
+    src: url('http://bvn.camp/static/blender/blenderpro-medium-webfont.eot'                );
+    src: url('http://bvn.camp/static/blender/blenderpro-medium-webfont.eot?#iefix'         ) format('embedded-opentype'),
+         url('http://bvn.camp/static/blender/blenderpro-medium-webfont.woff'               ) format('woff'),
+         url('http://bvn.camp/static/blender/blenderpro-medium-webfont.ttf'                ) format('truetype'),
+         url('http://bvn.camp/static/blender/blenderpro-medium-webfont.svg#blender_promedium') format('svg');
 }
 
 // Our variables
@@ -37,17 +34,12 @@ $base-font-family: 'Blender-book', "Blender", Arial, sans-serif;
 $medium-font-family: 'Blender-medium', "Blender", Arial, sans-serif;
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
+$base-font-weight: 400;
+
+$small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
@@ -74,6 +66,7 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "colours",
         "base",
         "layout",
         "syntax-highlighting"
