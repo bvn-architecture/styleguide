@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70.299 45.063">
   <font horiz-adv-x="1000">
-    <font-face font-family="Blender-Bold" underline-position="-133" underline-thickness="20"/>
+    <font-face underline-position="-133" underline-thickness="20"/>
     <glyph unicode="D" horiz-adv-x="563" d="M467 145v306c0 19-3 39-16 57-12 17-50 60-72 73-17 11-42 17-61 17H44V0h274c21 0 44 9 60 18 22 12 62 52 74 70s15 39 15 57m-318-45v398h159c2 0 8 0 9-1 12-6 32-24 44-44 1-2 1-5 1-5V147c0-12-30-38-44-46-1-1-7-1-7-1z"/>
     <glyph unicode="E" horiz-adv-x="516" d="M420 0v100H149v147h252v100H149v151h271v100H44V0z"/>
     <glyph unicode="I" horiz-adv-x="249" d="M149 0v598H44V0z"/>
@@ -19,17 +19,17 @@
     <use xlink:href="#a" overflow="visible"/>
   </clipPath>
   <g clip-path="url(#b)">
-    <text transform="translate(2.835 42.91)" fill="#010202" font-family="'Blender-Bold'" font-size="10">
+    <text transform="translate(2.835 42.91)" fill="#010202" font-size="10">
       SYDNEY
     </text>
   </g>
   <g clip-path="url(#b)">
-    <text transform="translate(35.405 42.91)" fill="#010202" font-family="'Blender-Bold'" font-size="10">
+    <text transform="translate(35.405 42.91)" fill="#010202" font-size="10">
       
     </text>
   </g>
   <g clip-path="url(#b)">
-    <text transform="translate(37.675 42.91)" fill="#010202" font-family="'Blender-Bold'" font-size="10">
+    <text transform="translate(37.675 42.91)" fill="#010202" font-size="10">
       STUDIO
     </text>
   </g>
