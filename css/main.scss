@@ -28,6 +28,8 @@
          url('http://bvn.camp/static/blender/blenderpro-medium-webfont.svg#blender_promedium') format('svg');
 }
 
+* { box-sizing: Border-box }
+
 // Our variables
 $base-font-family: 'Blender-book', "Blender", Arial, sans-serif;
 // $bold-font-family: 'Blender-bold', "Blender", Arial, sans-serif;
