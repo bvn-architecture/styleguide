@@ -52,3 +52,27 @@ $tertiary-orange: rgba(197, 96, 59, 1);
     height: 2em;
     width: 5em;
 }
+
+
+span.colour-letter {
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+}
+span.colour-value {
+    display: inline-block;
+    width: 2em;
+    text-align: right;
+}
+
+.swatch{
+	&.primary{
+		width: 49.7%;//this is very annoying. TODO make a media query for this
+		display: inline-block;
+		.bvn-white{
+			stroke-width: 1px; 
+    		stroke: black
+    	}
+	}
+
+}
