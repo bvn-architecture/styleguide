@@ -1,0 +1,6 @@
+footer{
+	@include outer-container;
+	.post-list{
+		@include span-columns(12);
+	}
+}
