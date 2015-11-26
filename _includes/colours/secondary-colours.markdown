@@ -1,7 +1,50 @@
 ##Secondary colours
 Primary (black and white) and secondary colours are preferred over tertiary colours for use in drawings and plans.
 
- <div class="secondary-brown secondary-swatch"></div>
+<span class="swatch secondary secondary-brown"></span>
+<span class="colour-letter">C</span><span class="colour-value">40</span>
+<span class="colour-letter">Y</span><span class="colour-value">48</span>
+<span class="colour-letter">M</span><span class="colour-value">77</span>
+<span class="colour-letter">K</span><span class="colour-value">17</span>/
+<span class="colour-letter">R</span><span class="colour-value">150</span>
+<span class="colour-letter">G</span><span class="colour-value">119</span>
+<span class="colour-letter">B</span><span class="colour-value">69</span>
+
+<span class="swatch secondary secondary-brown"></span>
+<span class="colour-letter">C</span><span class="colour-value">40</span>
+<span class="colour-letter">Y</span><span class="colour-value">48</span>
+<span class="colour-letter">M</span><span class="colour-value">77</span>
+<span class="colour-letter">K</span><span class="colour-value">17</span>/
+<span class="colour-letter">R</span><span class="colour-value">150</span>
+<span class="colour-letter">G</span><span class="colour-value">119</span>
+<span class="colour-letter">B</span><span class="colour-value">69</span>
+
+<span class="swatch secondary secondary-brown"></span>
+<span class="colour-letter">C</span><span class="colour-value">40</span>
+<span class="colour-letter">Y</span><span class="colour-value">48</span>
+<span class="colour-letter">M</span><span class="colour-value">77</span>
+<span class="colour-letter">K</span><span class="colour-value">17</span>/
+<span class="colour-letter">R</span><span class="colour-value">150</span>
+<span class="colour-letter">G</span><span class="colour-value">119</span>
+<span class="colour-letter">B</span><span class="colour-value">69</span>
+
+<span class="swatch secondary secondary-brown"></span>
+<span class="colour-letter">C</span><span class="colour-value">40</span>
+<span class="colour-letter">Y</span><span class="colour-value">48</span>
+<span class="colour-letter">M</span><span class="colour-value">77</span>
+<span class="colour-letter">K</span><span class="colour-value">17</span>/
+<span class="colour-letter">R</span><span class="colour-value">150</span>
+<span class="colour-letter">G</span><span class="colour-value">119</span>
+<span class="colour-letter">B</span><span class="colour-value">69</span>
+
+<span class="swatch secondary secondary-brown"></span>
+<span class="colour-letter">C</span><span class="colour-value">40</span>
+<span class="colour-letter">Y</span><span class="colour-value">48</span>
+<span class="colour-letter">M</span><span class="colour-value">77</span>
+<span class="colour-letter">K</span><span class="colour-value">17</span>/
+<span class="colour-letter">R</span><span class="colour-value">150</span>
+<span class="colour-letter">G</span><span class="colour-value">119</span>
+<span class="colour-letter">B</span><span class="colour-value">69</span>
 
 |:--------|:--------|
 | | **C**40 **M**48 **Y**77 **K**17 / **R**150 **G**119 **B**69 |

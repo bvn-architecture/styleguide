@@ -31,17 +31,10 @@ Our primary colours are black and white. Our logo should never appear in any oth
 	</div>
 </div>
 
-<svg width="100%" height="50">
-	<svg width="25%" height"50%"><rect width="25%" height="100%" style="fill:rgb(0,0,0);opacity:1.00" />
-	<rect x="25%" width="25%" height="100%" style="fill:rgb(0,0,0);opacity:0.70" />
-	<rect x="50%" width="25%" height="100%" style="fill:rgb(0,0,0);opacity:0.40" />
-	<rect x="75%" width="25%" height="100%" style="fill:rgb(0,0,0);opacity:0.15" />
-</svg>
-<table border="0" width="100%">
-	<tr>
-		<td align="center">100%</td>
-		<td align="center">70%</td>
-		<td align="center">40%</td>
-		<td align="center">15%</td>
-	</tr>
-</table>
+
+<div class="swatch tint">
+	<div class="tint-wrapper"><div class="tint100"></div><div class="tint-value">100%</div></div>
+	<div class="tint-wrapper"><div class="tint070"></div><div class="tint-value">70%</div></div>
+	<div class="tint-wrapper"><div class="tint040"></div><div class="tint-value">40%</div></div>
+	<div class="tint-wrapper"><div class="tint015"></div><div class="tint-value">15%</div></div>
+</div>
