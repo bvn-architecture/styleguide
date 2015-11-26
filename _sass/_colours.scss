@@ -94,8 +94,9 @@ span.colour-value {
     }
     
   }
-  &.secondary{
+  &.secondary, &.tertiary{
   	@include span-columns(2);
   	height: 2em;
   }
+
 }
