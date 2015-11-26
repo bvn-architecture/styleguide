@@ -56,10 +56,11 @@ span.colour-letter {
     font-weight: bold;
     display: inline-block;
     width: 1em;
+    text-align: right;
 }
 span.colour-value {
     display: inline-block;
-    width: 2em;
+    width: 1.7em;
     text-align: right;
 }
 
@@ -67,7 +68,9 @@ span.colour-value {
   display: inline-block;
 
   &.primary{
-    width: 49.7%;//this is very annoying there is a space between them. TODO make a media query for this
+    @include span-columns(6);
+    @include omega(2n);
+    //width: 49.7%;//this is very annoying there is a space between them. TODO make a media query for this
     .bvn-white{
         stroke-width: 1px; 
         stroke: black
@@ -77,7 +80,7 @@ span.colour-value {
     width: 100%;
     .tint-wrapper{      
       display: inline-block;
-      width: 24%;
+      @include span-columns(3);
       div{
         height: 2em;
         &.tint100{background-color:rgba($bvn-black, 1.00)}
@@ -86,15 +89,13 @@ span.colour-value {
         &.tint015{background-color:rgba($bvn-black, 0.15)}
       }
       .tint-value {
-        padding-right: 3em;
-        text-align: right;
+        text-align: center;
       }
     }
     
   }
   &.secondary{
-  	width:15%;
+  	@include span-columns(2);
   	height: 2em;
-  	transform: translateY(0.7em);
   }
 }
