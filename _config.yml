@@ -1,7 +1,7 @@
 title:              "Styleguide"
 email:              "someone@bvn.com.au"
 # description:        "This is how to use our graphic assets"
-baseurl:            "/styleguide/"
+#baseurl:            "/styleguide/"
 url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
 twitter_username:   "architecturebvn"
 github_username:    "bvn-architecture"
@@ -11,6 +11,8 @@ publisher_website:  "http://bvn.com.au/"
 
 # Build settings
 markdown:     "kramdown"
+redcarpet:
+  extensions: ["tables"]
 
 encoding:     "utf-8"
 permalink:    "none"
