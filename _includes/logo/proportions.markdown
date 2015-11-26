@@ -1,6 +1,6 @@
 ##Proportions
 The logo should never be altered in any way. Do not stretch the logo either horizontally or vertically.
 
+{% include logo/images/page-10/proportions-tall.svg %}
 
-MISS IMAGE
-{% include logo/images/page-11/logo-with-address-1.svg %}
+{% include logo/images/page-10/proportions-squash.svg %}
