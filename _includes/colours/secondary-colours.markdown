@@ -10,45 +10,38 @@ Primary (black and white) and secondary colours are preferred over tertiary colo
 <span class="colour-letter">G</span><span class="colour-value">119</span>
 <span class="colour-letter">B</span><span class="colour-value">69</span>
 
-<span class="swatch secondary secondary-brown"></span>
-<span class="colour-letter">C</span><span class="colour-value">40</span>
-<span class="colour-letter">Y</span><span class="colour-value">48</span>
+<span class="swatch secondary secondary-beige"></span>
+<span class="colour-letter">C</span><span class="colour-value">14</span>
+<span class="colour-letter">Y</span><span class="colour-value">14</span>
 <span class="colour-letter">M</span><span class="colour-value">77</span>
-<span class="colour-letter">K</span><span class="colour-value">17</span>/
-<span class="colour-letter">R</span><span class="colour-value">150</span>
-<span class="colour-letter">G</span><span class="colour-value">119</span>
-<span class="colour-letter">B</span><span class="colour-value">69</span>
+<span class="colour-letter">K</span><span class="colour-value">0</span>/
+<span class="colour-letter">R</span><span class="colour-value">225</span>
+<span class="colour-letter">G</span><span class="colour-value">217</span>
+<span class="colour-letter">B</span><span class="colour-value">210</span>
 
-<span class="swatch secondary secondary-brown"></span>
-<span class="colour-letter">C</span><span class="colour-value">40</span>
-<span class="colour-letter">Y</span><span class="colour-value">48</span>
-<span class="colour-letter">M</span><span class="colour-value">77</span>
-<span class="colour-letter">K</span><span class="colour-value">17</span>/
-<span class="colour-letter">R</span><span class="colour-value">150</span>
-<span class="colour-letter">G</span><span class="colour-value">119</span>
-<span class="colour-letter">B</span><span class="colour-value">69</span>
+<span class="swatch secondary secondary-blue"></span>
+<span class="colour-letter">C</span><span class="colour-value">30</span>
+<span class="colour-letter">Y</span><span class="colour-value">0</span>
+<span class="colour-letter">M</span><span class="colour-value">10</span>
+<span class="colour-letter">K</span><span class="colour-value">0</span>/
+<span class="colour-letter">R</span><span class="colour-value">190</span>
+<span class="colour-letter">G</span><span class="colour-value">226</span>
+<span class="colour-letter">B</span><span class="colour-value">233</span>
 
-<span class="swatch secondary secondary-brown"></span>
-<span class="colour-letter">C</span><span class="colour-value">40</span>
-<span class="colour-letter">Y</span><span class="colour-value">48</span>
-<span class="colour-letter">M</span><span class="colour-value">77</span>
-<span class="colour-letter">K</span><span class="colour-value">17</span>/
-<span class="colour-letter">R</span><span class="colour-value">150</span>
-<span class="colour-letter">G</span><span class="colour-value">119</span>
-<span class="colour-letter">B</span><span class="colour-value">69</span>
+<span class="swatch secondary secondary-green"></span>
+<span class="colour-letter">C</span><span class="colour-value">75</span>
+<span class="colour-letter">Y</span><span class="colour-value">0</span>
+<span class="colour-letter">M</span><span class="colour-value">62</span>
+<span class="colour-letter">K</span><span class="colour-value">35</span>/
+<span class="colour-letter">R</span><span class="colour-value">30</span>
+<span class="colour-letter">G</span><span class="colour-value">130</span>
+<span class="colour-letter">B</span><span class="colour-value">96</span>
 
-<span class="swatch secondary secondary-brown"></span>
-<span class="colour-letter">C</span><span class="colour-value">40</span>
-<span class="colour-letter">Y</span><span class="colour-value">48</span>
-<span class="colour-letter">M</span><span class="colour-value">77</span>
-<span class="colour-letter">K</span><span class="colour-value">17</span>/
-<span class="colour-letter">R</span><span class="colour-value">150</span>
-<span class="colour-letter">G</span><span class="colour-value">119</span>
-<span class="colour-letter">B</span><span class="colour-value">69</span>
-
-|:--------|:--------|
-| | **C**40 **M**48 **Y**77 **K**17 / **R**150 **G**119 **B**69 |
-| <svg width="100" height="50"><rect width="100%" height="100%" style="fill:rgb(225,217,210)" /></svg> | **C**14 **M**14 **Y**17 **K**0 / **R**225 **G**217 **B**210 |
-| <svg width="100" height="50"><rect width="100%" height="100%" style="fill:rgb(190,226,233)" /></svg> | **C**30 **M**0 **Y**10 **K**0 / **R**190 **G**226 **B**233 |
-| <svg width="100" height="50"><rect width="100%" height="100%" style="fill:rgb(30,130,96)" /></svg> | **C**75 **M**0 **Y**62 **K**35 / **R**30 **G**130 **B**96 |
-| <svg width="100" height="50"><rect width="100%" height="100%" style="fill:rgb(250,209,0)" /></svg> | **C**5 **M**10 **Y**100 **K**5 / **R**240 **G**209 **B**0 |
+<span class="swatch secondary secondary-yellow"></span>
+<span class="colour-letter">C</span><span class="colour-value">5</span>
+<span class="colour-letter">Y</span><span class="colour-value">10</span>
+<span class="colour-letter">M</span><span class="colour-value">100</span>
+<span class="colour-letter">K</span><span class="colour-value">5</span>/
+<span class="colour-letter">R</span><span class="colour-value">240</span>
+<span class="colour-letter">G</span><span class="colour-value">209</span>
+<span class="colour-letter">B</span><span class="colour-value">0</span>
