@@ -1,5 +1,6 @@
 ##BVN graphic elements
 
+<div class="graphic-elements-container">
 {% include graphical-elements/images/shape_01.svg %}
 {% include graphical-elements/images/shape_02.svg %}
 {% include graphical-elements/images/shape_03.svg %}
@@ -20,3 +21,4 @@
 {% include graphical-elements/images/shape_18.svg %}
 {% include graphical-elements/images/shape_19.svg %}
 {% include graphical-elements/images/shape_20.svg %}
+</div>
