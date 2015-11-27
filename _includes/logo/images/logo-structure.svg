@@ -1,83 +1,60 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-   viewBox="0 0 257.1 155.9" enable-background="new 0 0 257.1 155.9" xml:space="preserve">
 
-<rect x="24.4" y="1" fill="none" stroke="#000000" stroke-width="0.25" width="231.9" height="154.6"/>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1700.79 850.391" enable-background="new 0 0 1700.79 850.391"
+	 xml:space="preserve">
 
-<!-- Dimentions  -->
 
-<g id="third-gap"> 
-    
-    <rect x="24.4" y="1" fill="none" stroke="#000000" stroke-width="0.25" width="231.9" height="154.6"/>
-    <rect x="55.4" y="124.7" fill="#FFFFFF" stroke="#000000" stroke-width="0.25" width="30.8" height="30.9"/>
-    <rect x="24.5" y="93.7" fill="#FFFFFF" stroke="#000000" stroke-width="0.25" width="30.8" height="30.9"/>
-    
+<g id="logo-one-third-clear-space">
+	
+  <!-- White 1/3 boxes -->
+  <rect x="282.286" y="5.455" fill="none" stroke="#000000" stroke-width="0.25" width="1264.949" height="843.299"/>
+	<rect x="451.383" y="680.202" fill="#FFFFFF" stroke="#000000" stroke-width="0.25" width="168.005" height="168.552"/>
+	<rect x="282.832" y="511.107" fill="#FFFFFF" stroke="#000000" stroke-width="0.25" width="168.005" height="168.551"/>
+	<rect x="283.377" y="174.551" fill="#FFFFFF" width="166.369" height="167.46"/>
+	<path d="M449.746,175.642v165.823H284.468V175.642H449.746 M450.837,174.006H282.832v168.551h168.005V174.006L450.837,174.006z"/>
 
-    <g>
-      <rect x="24.6" y="32" fill="#FFFFFF" width="30.5" height="30.7"/>
-      <path d="M55.1,32.2v30.4H24.8V32.2H55.1 M55.3,31.9H24.5v30.9h30.8V31.9L55.3,31.9z"/>
-    </g>
-    <rect x="21.6" y="31.9" width="2.8" height="30.9"/>
-    <rect x="24.4" y="1" fill="none" stroke="#000000" stroke-width="0.25" width="231.9" height="154.6"/>
-    
+  <!-- side box -->
+	<rect x="267.013" y="174.006" width="15.273" height="168.551"/>
 
-    <text transform="matrix(1 0 0 1 38.0581 50.1732)" font-family="'Blender-Medium'" font-size="7">X</text>
-    <text transform="matrix(1 0 0 1 68.9771 142.4193)" font-family="'Blender-Medium'" font-size="7">X</text>
-    <text transform="matrix(1 0 0 1 1 50.2015)" font-family="'Blender-Medium'" font-size="7">1/3</text>  
+  <!--X Text -->
+	<text transform="matrix(1 0 0 1 356.7891 273.679)" font-size="38.183">X</text>
+	<text transform="matrix(1 0 0 1 525.4414 776.8547)" font-size="38.183">X</text>
+	<text transform="matrix(1 0 0 1 154.6445 273.8352)" font-size="38.183">1/3</text>
 </g>
 
 
-
-
-<g id="structure"> 
-
-    <rect x="24.4" y="1" fill="none" stroke="#000000" stroke-width="0.25" width="231.9" height="154.6"/>
-
-
+<g id="structure">
+	<rect x="282.286" y="5.455" fill="none" stroke="#000000" stroke-width="0.25" width="1264.949" height="843.299"/>
 </g>
 
-
-<!-- Circles -->
-
-<circle id="top-circle" fill="none" stroke="#000000" stroke-width="0.25" cx="82.2" cy="58.8" r="26.7"/>
-<circle id="bot-circle" fill="none" stroke="#000000" stroke-width="0.25" cx="82.2" cy="97.7" r="26.7"/>
-
-
+<!-- 2 Circles -->
+<circle id="logo-top-circle" fill="none" stroke="#000000" stroke-width="0.25" cx="597.568" cy="320.738" r="145.641"/>
+<circle id="logo-bot-circle" fill="none" stroke="#000000" stroke-width="0.25" cx="597.568" cy="532.926" r="145.641"/>
 
 <!-- Guide Lines -->
-
-<g id="guides">
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="24.4" y1="32" x2="256.3" y2="32"/>
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="24.4" y1="46.6" x2="256.3" y2="46.6"/>
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="24.4" y1="110" x2="256.3" y2="110"/>
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="24.4" y1="124.5" x2="256.3" y2="124.5"/>
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="70" y1="1" x2="70" y2="155.6"/>
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="55.4" y1="1" x2="55.4" y2="155.6"/>
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="225.3" y1="1" x2="225.3" y2="155.6"/>
-  <line fill="none" stroke="#000000" stroke-width="0.25" x1="210.7" y1="1" x2="210.7" y2="155.6"/>
-</g>  
-
-
-
-<!-- Grey BVN Logo -->
-
-<g>
-  <path fill="#D0D0D0" d="M163.3,52v57.8h-14.9L163.3,52z M106.2,109.8c1.8-3.6,2.9-7.7,2.9-12.1c0-7.6-3.2-14.6-8.4-19.5
-  c5.2-4.9,8.4-11.8,8.4-19.5c0,0,0,0,0-0.1l13.2,51.1H106.2z M70.1,109.8V85.7h12.1c6.6,0,12.1,5.4,12.1,12.1
-  c0,6.6-5.4,12.1-12,12.1H70.1z M82.2,46.7c6.6,0,12.1,5.4,12.1,12.1c0,6.6-5.4,12.1-12,12.1H70.1V46.7H82.2z M149.4,46.7
-  l-14,54.5l-14.1-54.5H149.4z M204.8,109.8h-26.6v-44L204.8,109.8z M210.6,90.7l-26.6-44h26.6V90.7z M55.3,31.9v92.7h170.1V31.9
-  H55.3z"/>
+<g id="logo-guide-lines">
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="282.286" y1="174.551" x2="1547.235" y2="174.551"/>
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="282.286" y1="254.19" x2="1547.235" y2="254.19"/>
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="282.286" y1="600.019" x2="1547.235" y2="600.019"/>
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="282.286" y1="679.112" x2="1547.235" y2="679.112"/>
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="531.021" y1="5.455" x2="531.021" y2="848.754"/>
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="451.383" y1="5.455" x2="451.383" y2="848.754"/>
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="1378.139" y1="5.455" x2="1378.139" y2="848.754"/>
+	<line fill="none" stroke="#000000" stroke-width="0.25" x1="1298.5" y1="5.455" x2="1298.5" y2="848.754"/>
 </g>
 
 
+<!-- BVN Text -->
+<!-- Grey D0D0D0 -->
+<path id="logo-bvn-text" fill="#000000" d="M1039.946,283.645v315.283H958.67L1039.946,283.645z M728.482,598.928c9.817-19.639,15.817-42.002,15.817-66.003
+		c0-41.455-17.455-79.64-45.819-106.366c28.364-26.729,45.819-64.366,45.819-106.367c0,0,0,0,0-0.546l72.002,278.736h-87.819
+		V598.928z M531.566,598.928V467.469h66.002c36.002,0,66.003,29.455,66.003,66.002c0,36.001-29.456,66.002-65.457,66.002h-66.548
+		V598.928L531.566,598.928z M597.568,254.735c36.002,0,66.003,29.456,66.003,66.003c0,36.001-29.456,66.002-65.457,66.002h-66.548
+		V254.735H597.568z M964.125,254.735L887.76,552.017l-76.913-297.282H964.125L964.125,254.735z M1266.317,598.928h-145.096V358.921
+		L1266.317,598.928z M1297.954,494.742L1152.86,254.735h145.094V494.742z M450.837,174.006v505.651h927.847V174.006H450.837z"/>
 
-<!-- Black BVN Logo -->
 
-<g id="bvn-text">  
-    <path d="M163.3,52v57.8h-14.9L163.3,52z M106.2,109.8c1.8-3.6,2.9-7.7,2.9-12.1c0-7.6-3.2-14.6-8.4-19.5
-      c5.2-4.9,8.4-11.8,8.4-19.5c0,0,0,0,0-0.1l13.2,51.1H106.2z M70.1,109.8V85.7h12.1c6.6,0,12.1,5.4,12.1,12.1
-      c0,6.6-5.4,12.1-12,12.1H70.1z M82.2,46.7c6.6,0,12.1,5.4,12.1,12.1c0,6.6-5.4,12.1-12,12.1H70.1V46.7H82.2z M149.4,46.7l-14,54.5
-      l-14.1-54.5H149.4z M204.8,109.8h-26.6v-44L204.8,109.8z M210.6,90.7l-26.6-44h26.6V90.7z M55.3,31.9v92.7h170.1V31.9H55.3z"/>
-</g>
-
-
+<!-- White Rectangle -->
+<!--
+<rect id="logo-white-rectangle" x="531.566" y="254.735" fill="#FFFFFF" width="766.387" height="344.193"/>
+-->
 </svg>
