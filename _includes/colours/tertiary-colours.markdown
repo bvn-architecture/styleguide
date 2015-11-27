@@ -1,83 +1,20 @@
 ##Tertiary colours
 Our extended colour palette includes 15 colours with an allowance of 3 tints for each colour. This means you have 60 colours to work with – which can be used in any colour combination.
 
-<span class="swatch tertiary tertiary-blue"></span>
-<span class="colour-letter">C</span><span class="colour-value">100</span>
-<span class="colour-letter">Y</span><span class="colour-value">50</span>
-<span class="colour-letter">M</span><span class="colour-value">10</span>
-<span class="colour-letter">K</span><span class="colour-value">15</span>
-<span class="colour-letter">R</span><span class="colour-value">0</span>
-<span class="colour-letter">G</span><span class="colour-value">94</span>
-<span class="colour-letter">B</span><span class="colour-value">151</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-blue" c="100" m="50" y="10" k="15" r="0" g="94" b="151" %}
 
-<span class="swatch tertiary tertiary-pink"></span>
-<span class="colour-letter">C</span><span class="colour-value">6</span>
-<span class="colour-letter">Y</span><span class="colour-value">43</span>
-<span class="colour-letter">M</span><span class="colour-value">4</span>
-<span class="colour-letter">K</span><span class="colour-value">0</span>
-<span class="colour-letter">R</span><span class="colour-value">223</span>
-<span class="colour-letter">G</span><span class="colour-value">171</span>
-<span class="colour-letter">B</span><span class="colour-value">200</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-pink" c="6" m="43" y="4" k="0" r="223" g="171" b="200" %}
 
-<span class="swatch tertiary tertiary-green"></span>
-<span class="colour-letter">C</span><span class="colour-value">46</span>
-<span class="colour-letter">Y</span><span class="colour-value">0</span>
-<span class="colour-letter">M</span><span class="colour-value">25</span>
-<span class="colour-letter">K</span><span class="colour-value">55</span>
-<span class="colour-letter">R</span><span class="colour-value">85</span>
-<span class="colour-letter">G</span><span class="colour-value">120</span>
-<span class="colour-letter">B</span><span class="colour-value">117</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-green" c="46" m="0" y="25" k="55" r="85" g="120" b="117" %}
 
-<span class="swatch tertiary tertiary-red"></span>
-<span class="colour-letter">C</span><span class="colour-value">0</span>
-<span class="colour-letter">Y</span><span class="colour-value">90</span>
-<span class="colour-letter">M</span><span class="colour-value">75</span>
-<span class="colour-letter">K</span><span class="colour-value">5</span>
-<span class="colour-letter">R</span><span class="colour-value">222</span>
-<span class="colour-letter">G</span><span class="colour-value">50</span>
-<span class="colour-letter">B</span><span class="colour-value">54</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-red" c="0" m="90" y="75" k="5" r="222" g="50" b="54" %}
 
-<span class="swatch tertiary tertiary-emerald"></span>
-<span class="colour-letter">C</span><span class="colour-value">50</span>
-<span class="colour-letter">Y</span><span class="colour-value">0</span>
-<span class="colour-letter">M</span><span class="colour-value">50</span>
-<span class="colour-letter">K</span><span class="colour-value">0</span>
-<span class="colour-letter">R</span><span class="colour-value">170</span>
-<span class="colour-letter">G</span><span class="colour-value">210</span>
-<span class="colour-letter">B</span><span class="colour-value">154</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-emerald" c="50" m="0" y="50" k="0" r="170" g="210" b="154" %}
 
-<span class="swatch tertiary tertiary-teal"></span>
-<span class="colour-letter">C</span><span class="colour-value">54</span>
-<span class="colour-letter">Y</span><span class="colour-value">0</span>
-<span class="colour-letter">M</span><span class="colour-value">27</span>
-<span class="colour-letter">K</span><span class="colour-value">0</span>
-<span class="colour-letter">R</span><span class="colour-value">124</span>
-<span class="colour-letter">G</span><span class="colour-value">200</span>
-<span class="colour-letter">B</span><span class="colour-value">197</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-teal" c="54" m="0" y="27" k="0" r="124" g="200" b="197" %}
 
-<span class="swatch tertiary tertiary-darkgreen"></span>
-<span class="colour-letter">C</span><span class="colour-value">60</span>
-<span class="colour-letter">Y</span><span class="colour-value">0</span>
-<span class="colour-letter">M</span><span class="colour-value">10</span>
-<span class="colour-letter">K</span><span class="colour-value">80</span>
-<span class="colour-letter">R</span><span class="colour-value">26</span>
-<span class="colour-letter">G</span><span class="colour-value">67</span>
-<span class="colour-letter">B</span><span class="colour-value">77</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-darkgreen" c="60" m="0" y="10" k="80" r="26" g="67" b="77" %}
 
-<span class="swatch tertiary tertiary-purple"></span>
-<span class="colour-letter">C</span><span class="colour-value">66</span>
-<span class="colour-letter">Y</span><span class="colour-value">72</span>
-<span class="colour-letter">M</span><span class="colour-value">40</span>
-<span class="colour-letter">K</span><span class="colour-value">25</span>
-<span class="colour-letter">R</span><span class="colour-value">96</span>
-<span class="colour-letter">G</span><span class="colour-value">73</span>
-<span class="colour-letter">B</span><span class="colour-value">98</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-purple" c="66" m="72" y="40" k="25" r="96" g="73" b="98" %}
 
-<span class="swatch tertiary tertiary-orange"></span>
-<span class="colour-letter">C</span><span class="colour-value">20</span>
-<span class="colour-letter">Y</span><span class="colour-value">70</span>
-<span class="colour-letter">M</span><span class="colour-value">80</span>
-<span class="colour-letter">K</span><span class="colour-value">5</span>
-<span class="colour-letter">R</span><span class="colour-value">197</span>
-<span class="colour-letter">G</span><span class="colour-value">96</span>
-<span class="colour-letter">B</span><span class="colour-value">59</span>
+{% include colours/colour-pattern.md classes="swatch tertiary tertiary-orange" c="20" m="70" y="80" k="5" r="197" g="96" b="59" %}
