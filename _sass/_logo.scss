@@ -6,3 +6,17 @@
 	width: 30em;
 	height: 10em;
 }
+
+
+
+#stripped-background{
+	.background{		fill: green;	}
+	.foreground{		fill: yellow;	}
+	.bvn-text-colour{	fill: white;	}
+}
+
+#pink-background{
+	.background{		fill: pink;		}
+	.foreground{		fill: pink;		}
+	.bvn-text-colour{	fill: blue;		}
+}	
