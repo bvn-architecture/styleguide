@@ -1,0 +1,11 @@
+.intro-text{
+  p{
+    @include span-columns(10);
+    @include shift(1);
+    .name {
+        margin-top: 2em;
+        margin-bottom: 0;
+        font-weight: bold;
+    }
+  }
+}
