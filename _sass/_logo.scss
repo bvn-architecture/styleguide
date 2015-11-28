@@ -1,10 +1,11 @@
 #stretch{
-	width:  50vw;
-    height: 100vw;
+	@include span-columns(3);
+	@include omega(2n);
+	height: 20em;
 }
 #squash{
-	width: 90vw;
-	height: 50vw;
+	@include span-columns(9);
+	height: 6em;
 }
 
 #logo-white-on-black{
