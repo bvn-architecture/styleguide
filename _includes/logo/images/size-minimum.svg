@@ -11,6 +11,6 @@
 <line fill="none" stroke="#010202" stroke-width="0.5" x1="14.5" y1="28.2" x2="47.9" y2="28.2"/>
 <line fill="none" stroke="#010202" stroke-width="0.5" x1="14.5" y1="27.1" x2="14.5" y2="29.3"/>
 <line fill="none" stroke="#010202" stroke-width="0.5" x1="47.9" y1="27.1" x2="47.9" y2="29.3"/>
-<text transform="matrix(1 0 0 1 2.8347 46.2423)" fill="#010202" font-family="'Blender-Medium'" font-size="7">MINIMUM SIZE 12</text>
-<text transform="matrix(1 0 0 1 50.9811 46.2423)" fill="#010202" font-family="'Blender-Medium'" font-size="7">mm</text>
+<text transform="matrix(1 0 0 1 2.8347 46.2423)" fill="#010202" font-size="7">MINIMUM SIZE 12</text>
+<text transform="matrix(1 0 0 1 50.9811 46.2423)" fill="#010202" font-size="7">mm</text>
 </svg>

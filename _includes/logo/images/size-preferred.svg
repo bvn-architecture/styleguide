@@ -11,6 +11,6 @@
 <line fill="none" stroke="#010202" stroke-width="0.5" x1="9.7" y1="37.5" x2="60.2" y2="37.5"/>
 <line fill="none" stroke="#010202" stroke-width="0.5" x1="9.7" y1="36.3" x2="9.7" y2="38.6"/>
 <line fill="none" stroke="#010202" stroke-width="0.5" x1="60.2" y1="36.3" x2="60.2" y2="38.6"/>
-<text transform="matrix(1 0 0 1 2.8347 55.517)" fill="#010202" font-family="'Blender-Medium'" font-size="7">PREFERRED SIZE 18</text>
-<text transform="matrix(1 0 0 1 59.8503 55.517)" fill="#010202" font-family="'Blender-Medium'" font-size="7">mm</text>
+<text transform="matrix(1 0 0 1 2.8347 55.517)" fill="#010202" font-size="7">PREFERRED SIZE 18</text>
+<text transform="matrix(1 0 0 1 59.8503 55.517)" fill="#010202" font-size="7">mm</text>
 </svg>
