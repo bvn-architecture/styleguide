@@ -29,6 +29,11 @@
 	.bvn-text-colour{	fill: blue;			}
 }	
 
+#logo-size-width{
+	@include span-columns(4);
+	@include omega(3n);
+}
+
 #logo-clear-space{
 	.logo-one-third-clear-space{	visibility:visible;		}
 	.logo-surrounding-rectangle{	visibility:visible;		}
