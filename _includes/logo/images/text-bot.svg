@@ -1,4 +1,4 @@
-<svg id="logo-text-bot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70.299 45.063">
+<svg {{include.meta}} xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70.299 45.063">
   <font horiz-adv-x="1000">
     <font-face underline-position="-133" underline-thickness="20"/>
     <glyph unicode="D" horiz-adv-x="563" d="M467 145v306c0 19-3 39-16 57-12 17-50 60-72 73-17 11-42 17-61 17H44V0h274c21 0 44 9 60 18 22 12 62 52 74 70s15 39 15 57m-318-45v398h159c2 0 8 0 9-1 12-6 32-24 44-44 1-2 1-5 1-5V147c0-12-30-38-44-46-1-1-7-1-7-1z"/>
@@ -20,17 +20,7 @@
   </clipPath>
   <g clip-path="url(#b)">
     <text transform="translate(2.835 42.91)" fill="#010202" font-size="10">
-      SYDNEY
-    </text>
-  </g>
-  <g clip-path="url(#b)">
-    <text transform="translate(35.405 42.91)" fill="#010202" font-size="10">
-      
-    </text>
-  </g>
-  <g clip-path="url(#b)">
-    <text transform="translate(37.675 42.91)" fill="#010202" font-size="10">
-      STUDIO
+      SYDNEY  STUDIO
     </text>
   </g>
   <path clip-path="url(#b)" fill="#010202" d="M35.243 8.867v17.344h-4.457l4.457-17.344zm-17.14 17.344c.55-1.091.862-2.319.862-3.621 0-2.295-.969-4.37-2.519-5.841 1.55-1.472 2.519-3.548 2.519-5.847v-.019l3.956 15.328h-4.818zm-10.82 0v-7.24H10.9c1.994.007 3.617 1.631 3.617 3.62 0 1.994-1.621 3.617-3.61 3.621H7.283zM10.9 7.283c1.994.007 3.617 1.631 3.617 3.62 0 1.993-1.621 3.617-3.61 3.62H7.283v-7.24H10.9zm20.157 0l-4.205 16.361-4.223-16.361h8.428zm16.629 18.928h-7.994V13.02l7.994 13.191zm1.724-5.737L41.416 7.283h7.994v13.191zM2.835 30.658h51.024V2.834H2.835v27.824z"/>

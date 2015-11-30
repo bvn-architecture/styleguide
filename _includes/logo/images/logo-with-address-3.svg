@@ -1,5 +1,4 @@
-<svg id="logo-logo-with-address-3" version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 235.3 168" xml:space="preserve">
+<svg {{include.meta}} version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
 <rect x="2.8" y="2.8" fill="#FFFFFF" stroke="#010202" stroke-width="0.25" width="229.6" height="162.3"/>
 
