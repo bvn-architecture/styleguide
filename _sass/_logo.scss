@@ -28,3 +28,11 @@
 	.foreground{		fill: pink;			}
 	.bvn-text-colour{	fill: blue;			}
 }	
+
+#logo-clear-space{
+	.logo-one-third-clear-space{	visibility:visible;		}
+	.logo-surrounding-rectangle{	visibility:visible;		}
+	.logo-top-circle{				visibility:visible;		}
+	.logo-guide-lines{				visibility:hidden;		}
+	.logo-bvn-text{					visibility:visible;		}
+}
