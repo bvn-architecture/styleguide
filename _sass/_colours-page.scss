@@ -60,6 +60,7 @@ span.colour-value {
 .swatch-samples{@include outer-container;}
 .colour-block.numbers{
   @include span-columns(2);
+  text-align: right;
 }
 .swatch-examples{
  @include span-columns(10);
