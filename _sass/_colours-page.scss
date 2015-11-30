@@ -56,3 +56,23 @@ span.colour-value {
     display: block;
   }
 }
+
+
+.colour-block.numbers{
+  @include span-columns(2);
+}
+.swatch-examples{
+ @include span-columns(10);
+  .colour-block {
+    @include span-columns(2 of 10);
+    @include omega();
+  }
+  .colour-block div { 
+    height: 2em;
+    &.opacity-100{opacity: 1.00;}
+    &.opacity-070{opacity: 0.70;}
+    &.opacity-040{opacity: 0.40;}
+    &.opacity-015{opacity: 0.15;}
+  }
+  
+}
