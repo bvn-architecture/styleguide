@@ -57,7 +57,7 @@ span.colour-value {
   }
 }
 
-
+.swatch-samples{@include outer-container;}
 .colour-block.numbers{
   @include span-columns(2);
 }
@@ -75,4 +75,23 @@ span.colour-value {
     &.opacity-015{opacity: 0.15;}
   }
   
+}
+
+.plan-colouring{
+  @include span-columns(6);
+  @include omega(2n);
+}
+#colour-option-one{
+  .meeting-room{ fill:$secondary-green;}
+  .open-space{   fill:$secondary-blue;}
+  .crazy-space{  fill:$tertiary-teal;}
+  .private-space{fill:$secondary-brown;}
+  .wc{           fill:$secondary-yellow;}
+}
+#colour-option-two{
+  .meeting-room{ fill:$secondary-green;}
+  .open-space{   fill:$secondary-blue;}
+  .crazy-space{  fill:$tertiary-teal;}
+  .private-space{fill:$secondary-brown;}
+  .wc{           fill:$secondary-yellow;}
 }
