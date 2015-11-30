@@ -9,29 +9,38 @@
 }
 
 #logo-white-on-black{
+	@include span-columns(5);
 	rect{fill:$bvn-black;}
 	path{fill:$bvn-white;}
 }
 #logo-black-on-white{
+	@include span-columns(5);
 	rect{fill:$bvn-white;}
 	path{fill:$bvn-black;}
 }
 
 #stripped-background{
-	.background{		fill: green;		}
-	.foreground{		fill: yellow;		}
-	.bvn-text-colour{	fill: white;		}
+	@include span-columns(5);
+	.background{		fill: #1E8260;		}
+	.foreground{		fill: #F0D100;		}
+	.bvn-text-colour{	fill: #FFFFFF;		}
 }
 
 #pink-background{
-	.background{		fill: pink;			}
-	.foreground{		fill: pink;			}
-	.bvn-text-colour{	fill: blue;			}
+	@include span-columns(5);
+	.background{		fill: #E9ABC8;			}
+	.foreground{		fill: #E9ABC8;			}
+	.bvn-text-colour{	fill: #BEE2E9;			}
 }	
 
 #logo-size-width{
 	@include span-columns(4);
 	@include omega(3n);
+}
+
+#logo-graphic-elements{
+	@include span-columns(6);
+	@include omega(6n);
 }
 
 #logo-clear-space{
@@ -40,4 +49,19 @@
 	.logo-top-circle{				visibility:visible;		}
 	.logo-guide-lines{				visibility:hidden;		}
 	.logo-bvn-text{					visibility:visible;		}
+}
+
+#logo-logo-with-address-one{
+	@include span-columns(6);
+	@include omega(6n);
+}
+
+#logo-logo-with-address-two{
+	@include span-columns(6);
+	//@include omega(8n);
+}
+
+#logo-logo-with-address-three{
+	@include span-columns(6);
+	//@include omega(8n);
 }
