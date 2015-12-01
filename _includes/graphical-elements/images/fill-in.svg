@@ -1,5 +1,4 @@
-<svg version="1.1" id="fill-in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	  viewBox="0 0 74.183 131.272" enable-background="new 0 0 74.183 131.272"
+<svg version="1.1" id="graphic-elements-fill-in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 74.183 131.272" enable-background="new 0 0 74.183 131.272"
 	 xml:space="preserve">
 <text transform="matrix(0 -1 1 0 576.8164 782.8228)" font-family="'Blender-Book'" font-size="7"> </text>
 <g>
@@ -20,7 +19,7 @@
 		</clipPath>
 		<g transform="matrix(1 0 0 1 1.192093e-007 1.192093e-007)" clip-path="url(#SVGID_4_)">
 			
-				<image overflow="visible" width="148" height="267" xlink:href="/assets/7F6C6CF8.jpg"  transform="matrix(0.4778 0 0 0.479 1.7998 1.7373)">
+				<image overflow="visible" width="148" height="267" xlink:href="/assets/CF87DFC2.jpg"  transform="matrix(0.4778 0 0 0.479 1.7998 1.7373)">
 			</image>
 		</g>
 	</g>
