@@ -62,21 +62,34 @@ span.colour-value {
   @include span-columns(2);
   text-align: right;
 }
-.swatch-examples{
- @include span-columns(10);
-  .colour-block {
-    @include span-columns(2 of 10);
-    @include omega();
-  }
-  .colour-block div { 
+
+.colour-block div { 
     height: 2em;
     &.opacity-100{opacity: 1.00;}
     &.opacity-070{opacity: 0.70;}
     &.opacity-040{opacity: 0.40;}
     &.opacity-015{opacity: 0.15;}
   }
-  
+.swatch-samples{
+ @include span-columns(10);
+  .colour-block {
+    @include span-columns(2 of 10);
+    @include omega();
+  }
 }
+
+.swatch-random{
+  clear:both;
+  >div{
+    width: 5%;
+    display: inline-block;
+  }
+  >:nth-child(3){width:15%;}
+  >:nth-child(4){width:10%;}
+  >:nth-child(5){width:20%;}
+
+}
+
 
 .plan-colouring{
   @include span-columns(6);

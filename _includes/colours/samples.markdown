@@ -9,6 +9,9 @@
 {% include colours/sample-swatch-examples.md %}
 </div>
 
+{% include colours/sample-swatch-random.md %}
+
+
 ##Samples
 
 The following pages provide examples of how to use colour in drawings and plans.
