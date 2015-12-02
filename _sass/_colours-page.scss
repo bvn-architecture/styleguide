@@ -49,8 +49,11 @@ span.colour-value {
     
   }
   &.secondary, &.tertiary{
-  	@include span-columns(2);
-  	height: 2em;
+  	
+      @include span-columns(2);
+  	  height: 2em;
+    
+
   }
 
 
@@ -62,6 +65,13 @@ span.colour-value {
   text-align: right;
 }
 
+
+.colour-block-sec { 
+    height: 2em;
+    @include span-columns(2);
+    &.opacity-100{opacity: 1.00;}
+}
+
 .colour-block div { 
     height: 2em;
     &.opacity-100{opacity: 1.00;}
@@ -69,6 +79,8 @@ span.colour-value {
     &.opacity-040{opacity: 0.40;}
     &.opacity-015{opacity: 0.15;}
   }
+
+
 
 .swatch-examples{
  @include span-columns(10);
