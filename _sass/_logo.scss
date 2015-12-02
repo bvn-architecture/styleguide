@@ -34,7 +34,6 @@
 	.foreground{		fill: #E9ABC8;			}
 	.bvn-text-colour{	fill: #BEE2E9;			}
 }	
-
 #logo-size-width{
 	@include span-columns(6);
 	@include omega();
