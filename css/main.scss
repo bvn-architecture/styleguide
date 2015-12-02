@@ -11,14 +11,14 @@
          url('http://bvn.camp/static/blender/blenderpro-book-webfont.ttf'                ) format('truetype'),
          url('http://bvn.camp/static/blender/blenderpro-book-webfont.svg#blender_probook') format('svg');
 }
-// @font-face{
-//     font-family: 'Blender-bold';
-//     src: url('http://bvn.camp/static/blender/blenderpro-bold-webfont.eot'                );
-//     src: url('http://bvn.camp/static/blender/blenderpro-bold-webfont.eot?#iefix'         ) format('embedded-opentype'),
-//          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.woff'               ) format('woff'),
-//          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.ttf'                ) format('truetype'),
-//          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.svg#blender_probold') format('svg');
-// }
+ @font-face{
+     font-family: 'Blender-bold';
+     src: url('http://bvn.camp/static/blender/blenderpro-bold-webfont.eot'                );
+     src: url('http://bvn.camp/static/blender/blenderpro-bold-webfont.eot?#iefix'         ) format('embedded-opentype'),
+          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.woff'               ) format('woff'),
+          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.ttf'                ) format('truetype'),
+          url('http://bvn.camp/static/blender/blenderpro-bold-webfont.svg#blender_probold') format('svg');
+}
 @font-face{
     font-family: 'Blender-medium';
     src: url('http://bvn.camp/static/blender/blenderpro-medium-webfont.eot'                );
@@ -32,7 +32,7 @@
 
 // Our variables
 $base-font-family: 'Blender-book', "Blender", Arial, sans-serif;
-// $bold-font-family: 'Blender-bold', "Blender", Arial, sans-serif;
+$bold-font-family: 'Blender-bold', "Blender", Arial, sans-serif;
 $medium-font-family: 'Blender-medium', "Blender", Arial, sans-serif;
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;

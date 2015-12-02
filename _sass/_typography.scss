@@ -7,3 +7,16 @@
 		@include omega(2n);		
 	}
 }
+
+.typo-book-italic{
+	font-style: italic;
+}
+
+.typo-bold{
+	font-family: blender-bold;
+}
+
+.typo-bold-italic{
+	font-family: blender-bold;
+	font-style: italic;
+}
