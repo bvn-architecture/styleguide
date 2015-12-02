@@ -69,7 +69,8 @@ span.colour-value {
     &.opacity-040{opacity: 0.40;}
     &.opacity-015{opacity: 0.15;}
   }
-.swatch-samples{
+
+.swatch-examples{
  @include span-columns(10);
   .colour-block {
     @include span-columns(2 of 10);
