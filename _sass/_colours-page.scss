@@ -52,9 +52,8 @@ span.colour-value {
   	@include span-columns(2);
   	height: 2em;
   }
-  .cmyk {
-    display: block;
-  }
+
+
 }
 
 .swatch-samples{@include outer-container;}
@@ -132,4 +131,12 @@ span.colour-value {
 }
 svg#colour-option-two image {
     display: none; //test to see if png looks acceptably good
+}
+
+.rbg-wrap{
+  display: inline-block;
+}
+
+.cmyk-wrap{
+  display: inline-block;
 }
