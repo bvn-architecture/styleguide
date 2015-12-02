@@ -1,16 +1,11 @@
-<svg version="1.1" id="graphic-elements-fill-in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-   x="0px" y="0px" viewBox="333.9 33.9 292.2 492.7" enable-background="new 333.9 33.9 292.2 492.7" xml:space="preserve">
-<g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 560">
   <defs>
-    <path id="SVGID_1_" d="M333.9,548h116.9V333.6H333.9C333.9,333.6,333.9,548,333.9,548z M509.2,392c0,32.3,26.2,58.4,58.4,58.4 s58.4-26.2,58.4-58.4c0-32.3-26.2-58.4-58.4-58.4S509.2,359.8,509.2,392 M509.2,12.1H333.9v321.5l175.3,0V226.4h116.9V12.1H509.2z"/>
+    <path id="a" d="M327.3 560h122.2V336H327.3v224zm183.2-163c0 33.8 27.4 61 61 61s61-27.3 61-61c0-33.6-27.4-61-61-61s-61 27.3-61 61m0-397H327.3v336h183V224h122.3V0h-122z"/>
   </defs>
-  <clipPath id="SVGID_2_">
-    <use xlink:href="#SVGID_1_"  overflow="visible"/>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
   </clipPath>
-  <g clip-path="url(#SVGID_2_)" enable-background="new">
-      <image overflow="visible" width="148" height="267" xlink:href="../../assets/BEE33D76.jpg"  transform="matrix(0.4778 0 0 0.479 1.7998 1.7373)">	
-      <!--<image overflow="visible" width="240" height="309" xlink:href="shackleton.jpg"  transform="matrix(1.5904 0 0 1.5943 289.4373 33.8775)">-->
-    </image>
+  <g clip-path="url(#b)">
+    <image width="309" height="348" overflow="visible" xlink:href="http://bvn-architecture.github.io/styleguide/assets/BEE33D76.jpg" transform="translate(285.335) scale(1.6138)"/>
   </g>
-</g>
 </svg>
