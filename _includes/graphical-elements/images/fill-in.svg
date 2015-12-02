@@ -1,27 +1,16 @@
-<svg version="1.1" id="graphic-elements-fill-in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 74.183 131.272" enable-background="new 0 0 74.183 131.272"
-	 xml:space="preserve">
-<text transform="matrix(0 -1 1 0 576.8164 782.8228)" font-family="'Blender-Book'" font-size="7"> </text>
+<svg version="1.1" id="graphic-elements-fill-in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   x="0px" y="0px" viewBox="333.9 33.9 292.2 492.7" enable-background="new 333.9 33.9 292.2 492.7" xml:space="preserve">
 <g>
-	<defs>
-		<path id="SVGID_1_" d="M2.834,128.449h27.4V78.203h-27.4V128.449z M43.935,91.902c0,7.566,6.134,13.7,13.7,13.7
-			s13.701-6.134,13.701-13.7c0-7.565-6.135-13.699-13.701-13.699S43.935,84.337,43.935,91.902 M43.935,2.834h-41.1v75.368
-			l41.1,0.001V53.08h27.401V2.834H43.935z"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<g clip-path="url(#SVGID_2_)">
-		<defs>
-			<rect id="SVGID_3_" x="1.8" y="1.737" width="70.713" height="127.903"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  overflow="visible"/>
-		</clipPath>
-		<g transform="matrix(1 0 0 1 1.192093e-007 1.192093e-007)" clip-path="url(#SVGID_4_)">
-			
-				<image overflow="visible" width="148" height="267" xlink:href="../../assets/BEE33D76.jpg"  transform="matrix(0.4778 0 0 0.479 1.7998 1.7373)">
-			</image>
-		</g>
-	</g>
+  <defs>
+    <path id="SVGID_1_" d="M333.9,548h116.9V333.6H333.9C333.9,333.6,333.9,548,333.9,548z M509.2,392c0,32.3,26.2,58.4,58.4,58.4 s58.4-26.2,58.4-58.4c0-32.3-26.2-58.4-58.4-58.4S509.2,359.8,509.2,392 M509.2,12.1H333.9v321.5l175.3,0V226.4h116.9V12.1H509.2z"/>
+  </defs>
+  <clipPath id="SVGID_2_">
+    <use xlink:href="#SVGID_1_"  overflow="visible"/>
+  </clipPath>
+  <g clip-path="url(#SVGID_2_)" enable-background="new">
+      <image overflow="visible" width="148" height="267" xlink:href="../../assets/BEE33D76.jpg"  transform="matrix(0.4778 0 0 0.479 1.7998 1.7373)">	
+      <!--<image overflow="visible" width="240" height="309" xlink:href="shackleton.jpg"  transform="matrix(1.5904 0 0 1.5943 289.4373 33.8775)">-->
+    </image>
+  </g>
 </g>
 </svg>
