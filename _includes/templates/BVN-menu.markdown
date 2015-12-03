@@ -1,6 +1,8 @@
 ##BVN menu
 There is a BVN menu located on the right-hand side of the menu bar.
 
+![](../../assets/templates-bvn-menu.jpg)
+
 ###Change letterhead fields
 This button opens the dialogue box for editing the address, date, office etc.
 
