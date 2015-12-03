@@ -1,3 +1,5 @@
+<section id="templates-page-dialogue-box">
+</section>
 ##How to use electronic and hard copy template
 
 ###Dialogue box

@@ -1,3 +1,5 @@
+<section id="graphical-elements-examples-of-incorrect-usage-of-graphic-elements">
+</section>
 ##Examples of incorrect usage of graphic elements
 
 ###Cropping

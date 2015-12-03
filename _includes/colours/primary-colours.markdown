@@ -1,3 +1,5 @@
+<section id="colours-page-primary-colours">
+</section>
 ##Primary colours
 Our primary colours are black and white. Our logo should never appear in any other colours than black and white. Secondary and tertiary colours are for use in colouring plans and drawings.
 

@@ -1,3 +1,5 @@
+<section id="stationery-page-envelopes">
+</section>
 ##Envelopes
 There are 3 sizes of envelope available - DL, C5 and C4.
 

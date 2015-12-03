@@ -1,3 +1,6 @@
+<section id="colours-page-swatches">
+</section>
+
 <div class="swatch-samples">
 <div class="colour-block numbers">
     <div>100%</div>
@@ -11,7 +14,8 @@
 
 {% include colours/sample-swatch-random.md %}
 
-
+<section id="colours-page-samples">
+</section>
 ##Samples
 
 The following pages provide examples of how to use colour in drawings and plans.
