@@ -1,4 +1,4 @@
-
+article.post.colour{
 .secondary-swatch, .tertiary-swatch  {
     display: inline-block;
     height: 2em;
@@ -157,6 +157,8 @@ span.colour-value {
   .wc{                fill:$secondary-yellow;   }
 }
 
+
+
 svg#colour-option-two image {
     display: none; //test to see if png looks acceptably good
 }
@@ -167,4 +169,5 @@ svg#colour-option-two image {
 
 .cmyk-wrap{
   display: inline-block;
+}
 }

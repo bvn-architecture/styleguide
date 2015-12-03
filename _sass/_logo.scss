@@ -1,3 +1,5 @@
+article.post.logo{
+
 #stretch{
 	@include span-columns(3);
 	@include omega(2n);
@@ -63,4 +65,5 @@
 
 #logo-logo-with-address-three{
 	@include span-columns(6);
+}
 }

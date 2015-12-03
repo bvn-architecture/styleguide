@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Logo"
+class:  "logo"
 date:   2015-11-30 17:52:48 +1100
 categories: jekyll update
 ---

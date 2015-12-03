@@ -1,7 +1,10 @@
+article.post.graphic-elements{
+
 .graphic-elements-container{
 	@include outer-container;
 	svg{
 		@include span-columns(3);
 		@include omega(4n);
 	}
+}
 }

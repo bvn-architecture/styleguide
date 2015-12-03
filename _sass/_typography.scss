@@ -1,3 +1,4 @@
+article.post.typography{
 .blender-samples{
 	.title{
 		@include span-columns(3);
@@ -19,4 +20,5 @@
 .typo-bold-italic{
 	font-family: blender-bold;
 	font-style: italic;
+}
 }

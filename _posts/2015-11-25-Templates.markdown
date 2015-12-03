@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Templates"
+class:  "templates"
 date:   2015-11-25 17:52:48 +1100
 categories: jekyll update
 ---
