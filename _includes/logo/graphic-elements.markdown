@@ -1,5 +1,6 @@
 <section id="logo-page-graphic-elements">
 </section>
+
 ##Graphic elements
 Do not add graphic elements or text to the mark.
 {% include cross-icon.svg %}

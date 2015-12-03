@@ -1,5 +1,6 @@
 <section id="stationery-page-letterhead">
 </section>
+
 ##Letterhead
 Our pre-printed letterheads include 5 different images on the reverse side.
 

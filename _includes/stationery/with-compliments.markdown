@@ -1,5 +1,6 @@
 <section id="stationery-page-with-compliments">
 </section>
+
 ##With compliments
 Our ‘With compliments’ slips have 5 different background images.
 

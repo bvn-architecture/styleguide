@@ -1,5 +1,6 @@
 <section id="logo-page-proportions">
 </section>
+
 ##Proportions
 The logo should never be altered in any way. Do not stretch the logo either horizontally or vertically.
 

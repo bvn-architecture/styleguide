@@ -1,5 +1,6 @@
 <section id="logo-page-size">
 </section>
+
 ##Size
 The logo must be kept in its original proportion.
 

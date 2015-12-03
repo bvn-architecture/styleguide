@@ -1,5 +1,6 @@
 <section id="templates-page-bvn-menu">
 </section>
+
 ##BVN menu
 There is a BVN menu located on the right-hand side of the menu bar.
 

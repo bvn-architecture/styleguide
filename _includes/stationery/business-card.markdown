@@ -1,3 +1,6 @@
+<section id="stationery-page-business-card">
+</section>
+
 ##Business card
 Our business cards include 5 different images on the reverse side.
 
