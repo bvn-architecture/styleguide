@@ -126,22 +126,37 @@ span.colour-value {
 
 .plan-colouring{
   @include span-columns(6);
-  @include omega(2n);
+  @include omega();
 }
 #colour-option-one{
-  .meeting-room{ fill:$secondary-green;}
-  .open-space{   fill:$secondary-blue;}
-  .crazy-space{  fill:$tertiary-teal;}
-  .private-space{fill:$secondary-brown;}
-  .wc{           fill:$secondary-yellow;}
+  .open-space{        fill:$secondary-yellow;}
+  .crazy-space{       fill:$trans-secondary-yellow;   }
+  .private-space{     fill:$tertiary-teal;      }
+  .meeting-room{      fill:$secondary-green;    }
+  .wc{                fill:$secondary-brown;   }
 }
 #colour-option-two{
-  .meeting-room{ fill:$secondary-green;}
-  .open-space{   fill:$secondary-blue;}
-  .crazy-space{  fill:$tertiary-teal;}
-  .private-space{fill:$secondary-brown;}
-  .wc{           fill:$secondary-yellow;}
+  .open-space{        fill:$tertiary-green;}
+  .crazy-space{       fill:$trans-tertiary-green;   }
+  .private-space{     fill:$tertiary-pink;      }
+  .meeting-room{      fill:$secondary-beige;    }
+  .wc{                fill:$secondary-blue;   }
 }
+#colour-option-three{
+  .open-space{        fill:$secondary-blue;}
+  .crazy-space{       fill:$trans-secondary-blue;   }
+  .private-space{     fill:$secondary-green;      }
+  .meeting-room{      fill:$secondary-yellow;    }
+  .wc{                fill:$secondary-brown;   }
+}
+#colour-option-four{
+  .open-space{        fill:$secondary-brown;}
+  .crazy-space{       fill:$trans-secondary-brown;   }
+  .private-space{     fill:$secondary-blue;      }
+  .meeting-room{      fill:$secondary-green;    }
+  .wc{                fill:$secondary-yellow;   }
+}
+
 svg#colour-option-two image {
     display: none; //test to see if png looks acceptably good
 }
