@@ -200,3 +200,7 @@ pre {
 .cross-options{
     @include span-columns(1);
 }
+.red-cross-spacing{
+    @include span-columns(12);
+
+}

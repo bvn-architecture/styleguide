@@ -56,11 +56,12 @@ article.post.logo{
 
 #logo-logo-with-address-one{
 	@include span-columns(6);
-	@include omega(6n);
+	
 }
 
 #logo-logo-with-address-two{
 	@include span-columns(6);
+	@include omega();
 }
 
 #logo-logo-with-address-three{
