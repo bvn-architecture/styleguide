@@ -30,7 +30,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+h1, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -84,6 +84,10 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
     clear: both;
+}
+h2{
+    padding-top: 40px;
+    padding-bottom: 0px;
 }
 
 
@@ -202,4 +206,10 @@ pre {
 }
 .red-cross-spacing{
     @include span-columns(12);
+}
+
+
+//breakline
+hr{
+    margin-bottom: 10px;
 }

@@ -2,6 +2,7 @@
 </section>
 
 ##Graphic elements
+<hr>
 Do not add graphic elements or text to the mark.
 
 <div class="red-cross-spacing">

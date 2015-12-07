@@ -2,6 +2,7 @@
 </section>
 
 ##Secondary colours
+<hr>
 Primary (black and white) and secondary colours are preferred over tertiary colours for use in drawings and plans.
 
 {% include colours/colour-pattern.md classes="swatch secondary secondary-brown" colourname="secondary-brown" c="40" m="48" y="77" k="17" r="150" g="119" b="69" %}

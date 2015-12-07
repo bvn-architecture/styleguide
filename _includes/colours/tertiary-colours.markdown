@@ -2,6 +2,7 @@
 </section>
 
 ##Tertiary colours
+<hr>
 Our extended colour palette includes 15 colours with an allowance of 3 tints for each colour. This means you have 60 colours to work with – which can be used in any colour combination.
 
 {% include colours/colour-pattern.md classes="swatch tertiary tertiary-blue" colourname="tertiary-blue" c="100" m="50" y="10" k="15" r="0" g="94" b="151" %}

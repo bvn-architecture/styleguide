@@ -2,6 +2,7 @@
 </section>
 
 ##With compliments
+<hr>
 Our ‘With compliments’ slips have 5 different background images.
 
 ###Paper stock

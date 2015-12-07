@@ -2,6 +2,7 @@
 </section>
 
 ##Colours
+<hr>
 Incorrectly reversing the mark out of a background colour.
 
 <div class="red-cross-spacing">

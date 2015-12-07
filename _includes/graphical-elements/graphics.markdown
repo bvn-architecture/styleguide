@@ -2,7 +2,7 @@
 </section>
 
 ##BVN graphic elements
-
+<hr>
 <div class="graphic-elements-container">
 {% include graphical-elements/images/shape_01.svg %}
 {% include graphical-elements/images/shape_02.svg %}

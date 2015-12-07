@@ -2,6 +2,7 @@
 </section>
 
 ##Size
+<hr>
 The logo must be kept in its original proportion.
 
 ###Preferred size
