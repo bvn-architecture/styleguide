@@ -23,7 +23,7 @@
 
 <!-- Two circles -->
 <circle id="logo-structure-circle-top"  r="145.642" fill="none" stroke="#000000" stroke-width="1" cx="318.011" cy="1168.813"></circle>
-<circle id="logo-structure-circle-bot" r="145.642" fill="none" stroke="#000000" stroke-width="1" cx="318.011" cy="1381.001"></circle>
+<circle id="logo-structure-circle-bot" r="145.642" fill="none	" stroke="#000000" stroke-width="1" cx="318.011" cy="1381.001"></circle>
 
 <!-- Grid lines -->
 <g id="logo-structure-grid-lines">
