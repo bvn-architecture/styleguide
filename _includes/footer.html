@@ -1,19 +1,16 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
+    <nav class="foot-nav">
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
@@ -25,19 +22,7 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+        {% include social-links.html %}
       </div>
 
       <div class="footer-col footer-col-3">
@@ -48,3 +33,6 @@
   </div>
 
 </footer>
+
+
+<div>Icons made by <a href="http://www.flaticon.com/authors/google" title="Google">Google</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
