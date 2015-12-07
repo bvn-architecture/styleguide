@@ -19,22 +19,22 @@
 	 M1016.125,1030.921h84.512 M809.624,1045.203h206.5 M1016.125,1045.203h84.512 M809.624,1073.766h206.5 M1016.125,1073.766h84.512
 	 M1100.644,1073.766h13.939 M1114.583,1073.766h14.984 M1129.568,1073.766h69.529 M1199.097,1073.766h11.803 M1210.9,1073.766
 	h73.361"/>
-<text transform="matrix(1 0 0 1 809.3677 957.0671)" fill="#010101" font-size="8.8524">Project</text>
-<text transform="matrix(1 0 0 1 1114.3228 957.0671)" fill="#010101" font-size="8.8524">Project number</text>
-<text transform="matrix(1 0 0 1 809.3677 971.0046)" fill="#010101" font-size="8.8524">Date</text>
-<text transform="matrix(1 0 0 1 1015.8638 971.0046)" fill="#010101" font-size="8.8524">Time</text>
-<text transform="matrix(1 0 0 1 1114.3228 971.0046)" fill="#010101" font-size="8.8524">File number</text>
-<text transform="matrix(1 0 0 1 809.3677 985.2859)" fill="#010101" font-size="8.8524">At</text>
-<text transform="matrix(1 0 0 1 1114.3228 985.2859)" fill="#010101" font-size="8.8524">Minuted by</text>
-<text transform="matrix(1 0 0 1 809.3677 999.5671)" fill="#010101" font-size="8.8524">Participants</text>
-<text transform="matrix(1 0 0 1 1114.3228 999.5671)" fill="#010101" font-size="8.8524">Of</text>
-<text transform="matrix(1 0 0 1 1114.3228 1013.8406)" fill="#010101" font-size="8.8524">Event</text>
-<text transform="matrix(1 0 0 1 1129.3052 1028.1296)" fill="#010101" font-size="9.836">Phone call</text>
-<text transform="matrix(1 0 0 1 1210.6411 1028.1296)" fill="#010101" font-size="9.836">Inspection</text>
-<text transform="matrix(1 0 0 1 1129.3052 1042.4187)" fill="#010101" font-size="9.836">Meeting</text>
-<text transform="matrix(1 0 0 1 1210.6411 1042.4187)" fill="#010101" font-size="9.836">Other</text>
-<text transform="matrix(1 0 0 1 809.3677 1070.9695)" fill="#010101" font-size="8.8524">Item</text>
-<text transform="matrix(1 0 0 1 1114.3228 1070.9695)" fill="#010101" font-size="8.8524">Action</text>
+<text transform="matrix(1 0 0 1 809.3677 957.0671)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Project</text>
+<text transform="matrix(1 0 0 1 1114.3228 957.0671)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Project number</text>
+<text transform="matrix(1 0 0 1 809.3677 971.0046)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Date</text>
+<text transform="matrix(1 0 0 1 1015.8638 971.0046)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Time</text>
+<text transform="matrix(1 0 0 1 1114.3228 971.0046)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">File number</text>
+<text transform="matrix(1 0 0 1 809.3677 985.2859)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">At</text>
+<text transform="matrix(1 0 0 1 1114.3228 985.2859)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Minuted by</text>
+<text transform="matrix(1 0 0 1 809.3677 999.5671)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Participants</text>
+<text transform="matrix(1 0 0 1 1114.3228 999.5671)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Of</text>
+<text transform="matrix(1 0 0 1 1114.3228 1013.8406)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Event</text>
+<text transform="matrix(1 0 0 1 1129.3052 1028.1296)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Phone call</text>
+<text transform="matrix(1 0 0 1 1210.6411 1028.1296)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Inspection</text>
+<text transform="matrix(1 0 0 1 1129.3052 1042.4187)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Meeting</text>
+<text transform="matrix(1 0 0 1 1210.6411 1042.4187)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Other</text>
+<text transform="matrix(1 0 0 1 809.3677 1070.9695)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Item</text>
+<text transform="matrix(1 0 0 1 1114.3228 1070.9695)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Action</text>
 <path fill="#FFFFFF" d="M1114.697,1018.574h10.91v10.906h-10.91V1018.574z"/>
 <path fill="none" stroke="#010101" stroke-width="0.063" d="M1114.697,1018.574h10.91v10.906h-10.91V1018.574z"/>
 <path fill="#FFFFFF" d="M1195.384,1018.574h10.902v10.906h-10.902V1018.574z"/>
@@ -66,21 +66,22 @@
 	 M445.826,1002.361h73.365 M44.552,1016.642h206.497 M251.049,1016.642h84.515 M44.552,1030.921h206.497 M251.049,1030.921h84.515
 	 M44.552,1045.203h206.497 M251.049,1045.203h84.515 M44.552,1073.766h206.497 M251.049,1073.766h84.515 M335.568,1073.766h13.939
 	 M349.508,1073.766h14.986 M364.494,1073.766h69.529 M434.023,1073.766h11.803 M445.826,1073.766h73.365"/>
-<text transform="matrix(1 0 0 1 44.3013 957.0671)" fill="#010101" font-size="8.8524">Project</text>
-<text transform="matrix(1 0 0 1 349.2583 957.0671)" fill="#010101" font-size="8.8524">Project number</text>
-<text transform="matrix(1 0 0 1 44.3013 971.0046)" fill="#010101" font-size="8.8524">Date</text>
-<text transform="matrix(1 0 0 1 250.8032 971.0046)" fill="#010101" font-size="8.8524">Time</text>
-<text transform="matrix(1 0 0 1 349.2583 971.0046)" fill="#010101" font-size="8.8524">File number</text>
-<text transform="matrix(1 0 0 1 44.3013 985.2859)" fill="#010101" font-size="8.8524">At</text>
-<text transform="matrix(1 0 0 1 349.2583 985.2859)" fill="#010101" font-size="8.8524">Minuted by</text>
-<text transform="matrix(1 0 0 1 44.3013 999.5671)" fill="#010101" font-size="8.8524">Participants</text>
-<text transform="matrix(1 0 0 1 349.2583 1013.8406)" fill="#010101" font-size="8.8524">Event</text>
-<text transform="matrix(1 0 0 1 364.2485 1028.1296)" fill="#010101" font-size="9.836">Phone call</text>
-<text transform="matrix(1 0 0 1 445.5806 1028.1296)" fill="#010101" font-size="9.836">Inspection</text>
-<text transform="matrix(1 0 0 1 364.2485 1042.4187)" fill="#010101" font-size="9.836">Meeting</text>
-<text transform="matrix(1 0 0 1 445.5806 1042.4187)" fill="#010101" font-size="9.836">Other</text>
-<text transform="matrix(1 0 0 1 44.3013 1070.9695)" fill="#010101" font-size="8.8524">Item</text>
-<text transform="matrix(1 0 0 1 349.2583 1070.9695)" fill="#010101" font-size="8.8524">Action</text>
+
+<text transform="matrix(1 0 0 1 44.3013 957.0671)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Project</text>
+<text transform="matrix(1 0 0 1 349.2583 957.0671)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Project number</text>
+<text transform="matrix(1 0 0 1 44.3013 971.0046)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Date</text>
+<text transform="matrix(1 0 0 1 250.8032 971.0046)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Time</text>
+<text transform="matrix(1 0 0 1 349.2583 971.0046)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">File number</text>
+<text transform="matrix(1 0 0 1 44.3013 985.2859)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">At</text>
+<text transform="matrix(1 0 0 1 349.2583 985.2859)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Minuted by</text>
+<text transform="matrix(1 0 0 1 44.3013 999.5671)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Participants</text>
+<text transform="matrix(1 0 0 1 349.2583 1013.8406)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Event</text>
+<text transform="matrix(1 0 0 1 364.2485 1028.1296)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Phone call</text>
+<text transform="matrix(1 0 0 1 445.5806 1028.1296)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Inspection</text>
+<text transform="matrix(1 0 0 1 364.2485 1042.4187)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Meeting</text>
+<text transform="matrix(1 0 0 1 445.5806 1042.4187)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Other</text>
+<text transform="matrix(1 0 0 1 44.3013 1070.9695)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Item</text>
+<text transform="matrix(1 0 0 1 349.2583 1070.9695)" fill="#010101" font-family="'Blender-medium'" font-size="8.8524">Action</text>
 <path fill="#FFFFFF" d="M349.63,1018.574h10.906v10.906H349.63V1018.574z"/>
 <path fill="none" stroke="#010101" stroke-width="0.063" d="M349.63,1018.574h10.906v10.906H349.63V1018.574z"/>
 <path fill="#FFFFFF" d="M430.313,1018.574h10.905v10.906h-10.905V1018.574z"/>
