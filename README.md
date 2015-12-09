@@ -20,8 +20,8 @@
 ##Known window problems
 There are some compatibility issues with ruby and jekyll for windows operating systems. If you are running on Linux or Mac OS, ignore this stage.
 
-*"Base URL" must be commended out in the file "config.yml". Do not commit this change, it will not work with 'Git-hub pages.' Simply untick "config.yml" or right click and discard changes before a commit.
-*Refrence file directories do not need any "../" indicating a move out of folder. They are necessary for GitHub.
+*   "Base URL" must be commended out in the file "config.yml". Do not commit this change, it will not work with 'Git-hub pages.' Simply untick "config.yml" or right click and discard changes before a commit.
+*   Refrence file directories do not need any "../" indicating a move out of folder. They are necessary for GitHub.
 
 ##Testing server on local
 To test your jekyll files on you computer before syncing:
