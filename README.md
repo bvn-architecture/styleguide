@@ -8,12 +8,19 @@
 
 
 ##Installation
-* For an instalation guide on vanila jekyll: http://jekyllrb.com/docs/installation/
-* Install kramdown: gem install kramdown
-* For windows: http://jekyll-windows.juthilo.com/
-* Install Github desktop: https://desktop.github.com/
+###Installing the necessary files to run jekyll
+* To install jekyll for windows: http://jekyll-windows.juthilo.com/
+* For an instalation guide on vanilla jekyll: http://jekyllrb.com/docs/installation/
+
+###Git-Hub software required to participate
+* Install Github desktop (Easy to use for beginers): https://desktop.github.com/
 * Install Git-for-windows (better than windows CMD): https://git-for-windows.github.io/
 * Jekyll for Github: https://help.github.com/articles/using-jekyll-with-pages/
+* Pull files from Git-Hub
+
+###This repository uses certain gems
+* Install kramdown: *gem install kramdown*
+* 
 
 ##Editing files
 Subline Text 3 is an excellent editor for SVG, markdown and html, you can get the software at: http://www.sublimetext.com/3
@@ -31,7 +38,7 @@ To test your jekyll files on you computer before syncing:
 * Adjust changes as above before pushing the changes
 
 ##Syncing Git-Hub
-Synicning your files with Git-Hub will allow you to work on a project with multiple people and keep track of every change
+You must receiving files from Git-Hub to work on a local
 * Open git-hub for desktop,
 * Press the "+" sign at the top left,
 * Select "clone",
@@ -39,6 +46,7 @@ Synicning your files with Git-Hub will allow you to work on a project with multi
 * Select location on your computer to create the files, press OK.
 
 ##Pushing and pulling changes on Git-Hub
+Synicning your files with Git-Hub will allow you to work on a project with multiple people and keep track of every change. Sync regulary to keep local files up tp date
 * Press "Sync" in the top right to receive changes to files
 * Commit a change to officially note the changes to github: Insert a summary and press "Commit to ___"
 * Press "Sync" in the top right to upload and receive files.
