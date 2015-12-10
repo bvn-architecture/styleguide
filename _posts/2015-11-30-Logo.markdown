@@ -24,3 +24,10 @@ categories: jekyll update
 {% include logo/colours-incorrect.markdown %}
 
 {% include logo/logo-with-address-incorrect.markdown %}
+
+
+
+<svg>
+  <use xlink:href="http://bvn-architecture.github.io/styleguide/assets/testfile.svg#icon-1"></use>
+</svg>
+
