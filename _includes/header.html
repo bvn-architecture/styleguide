@@ -14,14 +14,25 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
+        {% for postpage in site.posts %}
+          <a class="page-link" {% if postpage.url == postpage.url %}class="active"{% endif %} href="{{ postpage.url }}">{{ postpage.title }} </a>
         {% endfor %}
       </div>
+
     </nav>
 
   </div>
 
 </header>
+
+<!--
+<ul>
+  {% for p in pages %}
+    <li>
+      <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+        {{ p.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+-->
