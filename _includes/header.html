@@ -15,7 +15,7 @@
       
       <div class="trigger">
         {% for postpage in site.posts %}
-          <a class="page-link" {% if postpage.url == postpage.url %}class="active"{% endif %} href="/styleguide/{{ postpage.url }}">{{ postpage.title }} </a>
+          <a class="page-link" {% if postpage.url == postpage.url %}class="active"{% endif %} href="{{ postpage.url }}">{{ postpage.title }} </a>
         {% endfor %}
       </div>
 
