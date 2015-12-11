@@ -6,7 +6,7 @@ date:   2015-11-30 17:52:48 +1100
 categories: jekyll update
 ---
 
-{% include logo/images/base-logo.svg %}
+{% include ../assets/testfile.svg %}
 
 {% include logo/geometrical-form.markdown %}
 
@@ -27,6 +27,6 @@ categories: jekyll update
 {% include logo/logo-with-address-incorrect.markdown %}
 
 <svg>
-  <use xlink:href="base-logo.svg"></use>
+  <use xlink:href="testfile.svg"></use>
 </svg>
 
