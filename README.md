@@ -38,7 +38,7 @@ To test your jekyll files on you computer before syncing:
 * Adjust changes as above before pushing the changes
 
 ##Syncing Git-Hub
-You must receiving files from Git-Hub to work on a local
+You must receiving files from Git-Hub to work locally:
 * Open git-hub for desktop,
 * Press the "+" sign at the top left,
 * Select "clone",
