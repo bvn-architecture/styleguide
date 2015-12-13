@@ -1,8 +1,14 @@
 title:              "Styleguide"
 email:              "someone@bvn.com.au"
 description:        "This is how to use our graphic assets"
+
 baseurl:            "/styleguide"
 url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
+host:    localhost
+#source:  src
+#exclude: ['src/bower_components']
+
+
 twitter_username:   "architecturebvn"
 github_username:    "bvn-architecture"
 facebook_username:	"BVN-Architecture"
@@ -18,7 +24,7 @@ redcarpet:
   extensions: ["tables"]
 
 encoding:     "utf-8"
-permalink:    "none"
+permalink:    :title
 highlighter:  "pygments"
 
 sass:
