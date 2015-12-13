@@ -171,6 +171,13 @@
     padding: $spacing-unit 0;
 }
 
+@include media($small-screen) {
+    .page-content .wrapper {
+        margin: 0 1em;
+        width: inherit;
+    }
+}
+
 .page-heading {
     font-size: 20px;
 }
