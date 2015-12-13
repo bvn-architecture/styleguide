@@ -64,6 +64,42 @@
 <meta property="article:section"        content="Article Section" />
 <meta property="article:tag"            content="Article Tag"     /> -->
 
-<meta property="fb:admins"              content="architecturebvn"  /><!-- 1522938594658821 -->
+<!-- <meta property="fb:admins"              content="architecturebvn"  /> TODO: understand this --><!-- 1522938594658821 -->
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"https://google.com/article"
+  },
+  "headline": "{{page.description}}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}",
+    "height": 800,
+    "width": 800
+  },
+  "datePublished": "{{page.date}}",
+  "author": {
+    "@type": "Person",
+    "name": "{{page.author}}"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "{{site.publisher}}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.image }}",
+      "width": 600,
+      "height": 600
+    }
+  },
+  "description": "{{page.description}}"
+}
+</script>
+
+
 
 </head>
