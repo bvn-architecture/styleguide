@@ -1,6 +1,7 @@
-title:              "Styleguide"
+title:              "BVN Styleguide"
 email:              "someone@bvn.com.au"
 description:        "This is how to use our graphic assets"
+image:              "TODO put in CDN based image here"
 
 baseurl:            "/styleguide"
 url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site

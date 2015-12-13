@@ -37,4 +37,13 @@
 <meta name="msapplication-config" content="{{site.baseurl}}/assets/icons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
+<!-- Twitter card markup -->
+{% if site.twitter_username %}
+<meta name="twitter:card"        content="summary" />
+<meta name="twitter:site"        content="{{site.twitter_username}}" />
+<meta name="twitter:title"       content="{{site.title}}" />
+<meta name="twitter:description" content="{{page.description}}" />
+<meta name="twitter:image"       content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
+{% endif %}
+
 </head>
