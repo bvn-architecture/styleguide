@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "Colour"
-class:  "colour"
-date:   2015-11-29 17:52:48 +1100
-categories: jekyll update
+layout:      post
+title:       "Colour"
+class:       "colour"
+date:        2015-11-29 17:52:48 +1100
+description: "How to use our colours"
+categories: 
+image:      
+ 
 ---
 
 {% include colours/primary-colours.markdown %}

@@ -4,8 +4,8 @@ title:        Templates
 class:       "templates"
 date:         2015-11-25 17:52:48 +1100
 description: "How to use our premade templates"
-categories:   jekyll update
-image:
+categories:      
+image:        
 ---
 
 {% include templates/dialogue-box.markdown %}
