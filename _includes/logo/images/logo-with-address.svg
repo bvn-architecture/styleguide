@@ -1,18 +1,26 @@
 <svg version="1.1" id="logo-logo-with-address" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 384.426 174.634" enable-background="new 0 0 384.426 174.634"
 	 xml:space="preserve">
-<g>
+
+<?php include_once("/../../assets/base-logo.svg"); ?>
+
 	<rect x="2.834" y="2.834" fill="#FFFFFF" width="378.756" height="168.964"/>
+
+<use xlink:href="base-logo.svg"></use>
+
+	<!--
 	<path d="M66.699,45.644v17.103h-4.262L66.699,45.644z M50.31,62.747c0.526-1.074,0.824-2.287,0.824-3.569
 		c0-2.263-0.926-4.31-2.408-5.76c1.482-1.452,2.408-3.499,2.408-5.767c0-0.006,0-0.012,0-0.019l3.783,15.114H50.31z M39.965,62.747
 		v-7.14h3.458c1.907,0.007,3.458,1.608,3.458,3.57c0,1.965-1.55,3.567-3.452,3.569H39.965z M43.423,44.083
 		c1.907,0.007,3.458,1.607,3.458,3.568c0,1.966-1.55,3.567-3.452,3.57h-3.465v-7.139H43.423z M62.696,44.083l-4.021,16.133
 		l-4.038-16.133H62.696z M78.596,62.747h-7.645V49.739L78.596,62.747z M80.245,57.089l-7.644-13.007h7.644V57.089z M35.712,39.695
 		v27.439h48.786V39.695H35.712z"/>
-</g>
+-->
+
 <line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,1.501" x1="379.831" y1="2.866" x2="3.875" y2="3.114"/>
 <line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,1.504" x1="3.125" y1="4.618" x2="3.125" y2="170.797"/>
 <path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M3.125,171.549
 	L3.125,171.549 M3.125,3.114L3.125,3.114 M381.332,2.864L381.332,2.864"/>
 <rect x="36.891" y="25.582" fill="none" width="276.5" height="11.5"/>
 <text transform="matrix(1 0 0 1 36.8911 30.3818)" font-size="8">255 PITT STREET / SYDNEY 2000 AUSTRALIA / T +61 2 8297 7200 / BVN.COM.AU</text>
+
 </svg>

@@ -12,16 +12,27 @@
           <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>
-
+      
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
+        {% for postpage in site.posts %}
+          <a class="page-link" {% if postpage.url == postpage.url %}class="active"{% endif %} href="/styleguide/{{ postpage.url }}">{{ postpage.title }} </a>
         {% endfor %}
       </div>
+
     </nav>
 
   </div>
 
 </header>
+
+<!--
+<ul>
+  {% for p in pages %}
+    <li>
+      <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+        {{ p.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+-->
