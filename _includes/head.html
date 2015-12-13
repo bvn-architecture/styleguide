@@ -54,11 +54,11 @@
 
 <!-- Open Graph data -->
 <meta property="og:title"               content="{{site.title}}"/>
-<meta property="og:type"                content="article"/>
-<meta property="og:url"                 content="http://www.example.com/"/>
-<meta property="og:image"               content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
 <meta property="og:description"         content="{{page.description}}"/>
-<meta property="og:site_name"           content="Site Name, i.e. Moz" />
+<meta property="og:type"                content="article"/>
+<meta property="og:url"                 content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+<meta property="og:image"               content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
+<meta property="og:site_name"           content="{{site.title}}" />
 <meta property="article:published_time" content="{{page.date}}"    />
 <!-- <meta property="article:modified_time"  content="2013-09-16T19:08:47+01:00"    />
 <meta property="article:section"        content="Article Section" />
