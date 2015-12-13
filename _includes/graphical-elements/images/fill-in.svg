@@ -6,6 +6,6 @@
     <use xlink:href="#a" overflow="visible"/>
   </clipPath>
   <g clip-path="url(#b)">
-    <image width="309" height="348" overflow="visible" xlink:href="../../assets/BEE33D76.jpg" transform="translate(285.335) scale(1.6138)"/>
+    <image width="309" height="348" overflow="visible" xlink:href="{{site.baseurl}}/assets/BEE33D76.jpg" transform="translate(285.335) scale(1.6138)"/>
   </g>
 </svg>

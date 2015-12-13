@@ -4719,5 +4719,5 @@
  <text transform="matrix(1 0 0 1 26.4676 649.4444)" font-size="7">LEGEND 03</text>
  <text transform="matrix(1 0 0 1 26.4676 672.1251)" font-size="7">LEGEND 05</text>
 </g>
-<image overflow="visible" width="509" height="925" xlink:href="../../assets/asb-plan.png"  transform="matrix(0.6142 0 0 0.6142 50.3056 1)" style="mix-blend-mode: darken;"></image>
+<image overflow="visible" width="509" height="925" xlink:href="{{site.baseurl}}/assets/asb-plan.png"  transform="matrix(0.6142 0 0 0.6142 50.3056 1)" style="mix-blend-mode: darken;"></image>
 </svg>

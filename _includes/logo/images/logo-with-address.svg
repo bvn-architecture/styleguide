@@ -1,7 +1,7 @@
 <svg version="1.1" id="logo-logo-with-address" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 384.426 174.634" enable-background="new 0 0 384.426 174.634"
 	 xml:space="preserve">
 
-<?php include_once("/../../assets/base-logo.svg"); ?>
+<?php include_once("/{{site.baseurl}}/assets/base-logo.svg"); ?>
 
 	<rect x="2.834" y="2.834" fill="#FFFFFF" width="378.756" height="168.964"/>
 
