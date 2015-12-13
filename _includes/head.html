@@ -10,13 +10,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
- <script src="/js/svg4everybody.js"></script>
-<script>svg4everybody(); // run it now or whenever you are ready</script>
-<script src="/js/svg4everybody.legacy.js"></script>
+<script src="{{ "/js/svg4everybody.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 <script>svg4everybody(); // run it now or whenever you are ready</script>
 
 <!-- favicon -->
-  <link rel="apple-touch-icon" sizes="57x57" href="../../assets/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="57x57" href="../../assets/icons/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="../../assets/icons/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="../../assets/icons/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="../../assets/icons/apple-touch-icon-76x76.png">
