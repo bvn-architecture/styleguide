@@ -1,9 +1,11 @@
 ---
-layout:     post
-title:      Templates
-class:      "templates"
-date:       2015-11-25 17:52:48 +1100
-categories: jekyll update
+layout:       post
+title:        Templates
+class:       "templates"
+date:         2015-11-25 17:52:48 +1100
+description: "How to use our premade templates"
+categories:   jekyll update
+image:
 ---
 
 {% include templates/dialogue-box.markdown %}
