@@ -24,6 +24,8 @@ Most of the instructions below are for Windows. If you are lucky enough to be us
     ruby dk.rb install
     gem install jekyll
     gem install kramdown
+    gem install bundler
+    gem 'github-pages'
 ```
 * Install Python v2.7.11 [32bit](https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi) or [64bit](https://www.python.org/ftp/python/2.7.11/python-2.7.11.amd64.msi) At "Customize Python", click on 'Add python.exe to path' and choose 'Entire feature will be installed on local drive'
 * Open cmd.exe and run the following lines separately:
@@ -31,14 +33,10 @@ Most of the instructions below are for Windows. If you are lucky enough to be us
     cd C:\Python27
     python -m pip install Pygments
 ```    
-
-
+* Install [Git-for-windows](https://git-scm.com/download/win)
 
 ###GitHub software required to participate
-* Install Github desktop (Easy to use for beginners): https://desktop.github.com/
-* Install Git-for-windows (better than windows CMD): https://git-for-windows.github.io/
-* Jekyll for Github: https://help.github.com/articles/using-jekyll-with-pages/
-* Pull files from Git-Hub
+*Install [Github desktop](https://desktop.github.com/)
 
 ###This repository uses several gems
 `gem install github-pages kramdown bourbon neat`
