@@ -1,56 +1,35 @@
-<svg version="1.1" id="stationery-letterhead" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 436.958 399.674" enable-background="new 0 0 436.958 399.674"
-	 xml:space="preserve">
-<rect x="300.186" y="3.59" fill="#FFFFFF" width="133.938" height="189.426"/>
-<rect x="3.516" y="3.591" fill="#FFFFFF" width="133.937" height="189.424"/>
-<rect x="300.186" y="3.59" fill="none" stroke="#000000" stroke-width="0.225" width="133.938" height="189.426"/>
-<path d="M378.965,26.328v124.729h-56.042V26.328H378.965z M392.135,164.227V13.156l-82.382,0.002v151.068H392.135z"/>
-<path fill="none" stroke="#000000" stroke-width="0.45" stroke-miterlimit="10" d="M378.965,26.328v124.729h-56.042V26.328H378.965z
-	 M392.135,164.227V13.156l-82.382,0.002v151.068H392.135z"/>
-<rect x="300.186" y="207.414" fill="#FFFFFF" width="133.938" height="189.424"/>
-<rect x="300.186" y="207.414" fill="none" stroke="#000000" stroke-width="0.225" width="133.938" height="189.424"/>
-<g>
-	<path d="M375.658,326.844v-93.387V216.98h-65.905v120.855h32.952v49.436h32.953v-49.436V326.844z M408.611,233.457
-		c0-9.1-7.377-16.477-16.477-16.477s-16.477,7.377-16.477,16.477s7.377,16.477,16.477,16.477S408.611,242.557,408.611,233.457"/>
-	<path fill="none" stroke="#000000" stroke-width="0.45" stroke-miterlimit="10" d="M375.658,326.844v-93.387V216.98h-65.905
-		v120.855h32.952v49.436h32.953v-49.436V326.844z M408.611,233.457c0-9.1-7.377-16.477-16.477-16.477s-16.477,7.377-16.477,16.477
-		s7.377,16.477,16.477,16.477S408.611,242.557,408.611,233.457z"/>
-</g>
-<rect x="151.851" y="207.414" fill="#FFFFFF" width="133.937" height="189.426"/>
-<rect x="151.851" y="207.414" fill="none" stroke="#000000" stroke-width="0.225" width="133.937" height="189.426"/>
-<path d="M161.417,387.271h49.429v-73.664v-22.961V216.98h-49.429v73.666v22.961V387.271z M252.038,281.398V216.98h-32.953v64.418
-	H252.038z"/>
-<path fill="none" stroke="#000000" stroke-width="0.45" stroke-miterlimit="10" d="M161.417,387.271h49.429v-73.664v-22.961V216.98
-	h-49.429v73.666v22.961V387.271z M252.038,281.398V216.98h-32.953v64.418H252.038z"/>
-<rect x="3.516" y="207.414" fill="#FFFFFF" width="133.937" height="189.424"/>
-<rect x="3.516" y="207.414" fill="none" stroke="#000000" stroke-width="0.225" width="133.937" height="189.424"/>
-<g>
-	<path d="M62.512,324.098c0,9.102,7.377,16.479,16.476,16.479c9.1,0,16.477-7.377,16.477-16.479c0-9.098-7.377-16.475-16.477-16.475
-		C69.889,307.623,62.512,315,62.512,324.098 M46.036,307.623H13.083v60.428h32.953V307.623z M62.512,277.408h32.953V216.98H62.512
-		H13.083v90.643h49.429V277.408z"/>
-	<path fill="none" stroke="#000000" stroke-width="0.45" stroke-miterlimit="10" d="M62.512,324.098
-		c0,9.102,7.377,16.479,16.476,16.479c9.1,0,16.477-7.377,16.477-16.479c0-9.098-7.377-16.475-16.477-16.475
-		C69.889,307.623,62.512,315,62.512,324.098z M46.036,307.623H13.083v60.428h32.953V307.623z M62.512,277.408h32.953V216.98H62.512
-		H13.083v90.643h49.429V277.408z"/>
-</g>
-<rect x="151.851" y="3.479" fill="#FFFFFF" width="133.937" height="189.424"/>
-<rect x="151.851" y="3.479" fill="none" stroke="#000000" stroke-width="0.225" width="133.937" height="189.424"/>
-<path d="M251.658,58.336h-24.335V21.664h24.334L251.658,58.336z M260.276,66.955v-53.91h-98.858l0,0v53.91V133.9h16.476v45.32
-	h24.715h24.714V133.9V66.955H260.276z"/>
-<path fill="none" stroke="#000000" stroke-width="0.45" stroke-miterlimit="10" d="M251.658,58.336h-24.335V21.664h24.334
-	L251.658,58.336z M260.276,66.955v-53.91h-98.858l0,0v53.91V133.9h16.476v45.32h24.715h24.714V133.9V66.955H260.276z"/>
-<rect x="3.516" y="3.59" fill="none" stroke="#000000" stroke-width="0.225" width="133.937" height="189.426"/>
-<rect x="3.516" y="3.59" fill="none" stroke="#000000" stroke-width="0.225" width="133.937" height="189.424"/>
-<g>
-	<defs>
-		<rect id="SVGID_1_" x="13.083" y="8.978" width="114.358" height="177.974"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<g transform="matrix(1 0 0 1 2.384186e-007 0)" clip-path="url(#SVGID_2_)">
-		
-			<image overflow="visible" width="1030" height="1452" xlink:href="/assets/letterhead-documents.png"  transform="matrix(0.1314 0 0 0.1314 2.8345 2.835)">
-		</image>
-	</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 436.958 399.674">
+  <path fill="#FFF" d="M300.2 3.6h134V193H300zM3.5 3.6h134V193H3.4z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M300.2 3.6h134V193H300z"/>
+  <path d="M379 26.3V151h-56V26.4h56zm13 138v-151H310v151H392z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M379 26.3V151h-56V26.4h56zm13 138v-151H310v151H392z"/>
+  <path fill="#FFF" d="M300.2 207.4h134v189.4H300z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M300.2 207.4h134v189.4H300z"/>
+  <path d="M375.7 326.8V217h-66v120.8h33v49.5h33v-60.5zm33-93.3c0-9-7.5-16.5-16.6-16.5s-16.3 7.4-16.3 16.5S383 250 392 250s16.6-7.4 16.6-16.5"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M375.7 326.8V217h-66v120.8h33v49.5h33v-60.5zm33-93.3c0-9-7.5-16.5-16.6-16.5s-16.3 7.4-16.3 16.5S383 250 392 250s16.6-7.4 16.6-16.5z"/>
+  <path fill="#FFF" d="M152 207.4h133.8v189.4h-134z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M152 207.4h133.8v189.4h-134z"/>
+  <path d="M161.4 387.3h49.4V217h-49.4v170.3zm90.6-106V217h-33v64.4h33z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M161.4 387.3h49.4V217h-49.4v170.3zm90.6-106V217h-33v64.4h33z"/>
+  <path fill="#FFF" d="M3.5 207.4h134v189.4H3.4z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M3.5 207.4h134v189.4H3.4z"/>
+  <path d="M62.5 324c0 9.2 7.4 16.6 16.5 16.6 9 0 16.5-7.4 16.5-16.5 0-9-7.4-16.4-16.5-16.4-9 0-16.5 7.4-16.5 16.5M46 307.7H13V368h33v-60.4zm16.5-30.2h33V217H13v90.6h49.5v-30.2z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M62.5 324c0 9.2 7.4 16.6 16.5 16.6 9 0 16.5-7.4 16.5-16.5 0-9-7.4-16.4-16.5-16.4-9 0-16.5 7.4-16.5 16.5zM46 307.7H13V368h33v-60.4zm16.5-30.2h33V217H13v90.6h49.5v-30.2z"/>
+  <path fill="#FFF" d="M152 3.5h133.8V193h-134z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M152 3.5h133.8V193h-134z"/>
+  <path d="M251.7 58.3h-24.4V21.7h24.4v36.6zm8.6 8.7V13h-99v121H178V179h49.3V67h33z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M251.7 58.3h-24.4V21.7h24.4v36.6zm8.6 8.7V13h-99v121H178V179h49.3V67h33z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M3.5 3.6h134V193H3.4z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M3.5 3.6h134V193H3.4z"/>
+  <g>
+    <defs>
+      <path id="a" d="M13 9h114.5v178H13z"/>
+    </defs>
+    <clipPath id="b">
+      <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#b)">
+      <image width="1030" height="1452" overflow="visible" xlink:href="{{site.baseurl}}/assets/letterhead-documents.png" transform="translate(2.834 2.835) scale(.1314)"/>
+    </g>
+  </g>
 </svg>
