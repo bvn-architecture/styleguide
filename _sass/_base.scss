@@ -159,8 +159,9 @@ pre {
 
 .page-content{
     @include outer-container;
-
-    @include outer-container(95%);//TODO this is going to need to be media queried
+    @include media(max-width 850px){
+        @include outer-container(95%);
+    }
 }
 
 /**
