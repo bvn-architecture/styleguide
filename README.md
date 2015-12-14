@@ -39,7 +39,13 @@ You need to get the project from GitHub before you can work locally:
 ```
     cd C:\Python27
     python -m pip install Pygments
-```    
+```
+Once all that's done you have an _environment_. You need to get the project set up on your machine. Run:
+```
+cd wherever-you-put-the-project
+bundle install
+```
+This will install all the gems you need.
 
 ##Editing files
 Sublime Text 3 is an excellent editor for SVG, markdown and html, you can get the software at: http://www.sublimetext.com/3
