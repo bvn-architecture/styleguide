@@ -23,6 +23,8 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+
+    @include outer-container(90%);//TODO this is going to need to be media queried
 }
 
 
