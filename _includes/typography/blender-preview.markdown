@@ -6,13 +6,15 @@
 <span class="typo-example">{% include typography/characters.markdown %}</span>
 </span>
 
+<span class="typo-medium">
+<span class="title">Medium</span>
+<span class="typo-example">{% include typography/characters.markdown %}</span>
+</span>
+
+
 <span class="typo-bold">
 <span class="title">Bold</span>
 <span class="typo-example">	{% include typography/characters.markdown %}</span>
 </span>
 
-<span class="typo-bold-italic">
-<span class="title">Bold italic</span>
-<span class="typo-example">{% include typography/characters.markdown %}</span>
-</span>
 </div>
