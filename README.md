@@ -34,7 +34,7 @@ Most of the instructions below are for Windows. If you are lucky enough to be us
 
 
 
-###Git-Hub software required to participate
+###GitHub software required to participate
 * Install Github desktop (Easy to use for beginners): https://desktop.github.com/
 * Install Git-for-windows (better than windows CMD): https://git-for-windows.github.io/
 * Jekyll for Github: https://help.github.com/articles/using-jekyll-with-pages/
