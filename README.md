@@ -6,11 +6,26 @@
 [![Throughput Graph](https://graphs.waffle.io/bvn-architecture/styleguide/throughput.svg)](https://waffle.io/bvn-architecture/styleguide/metrics)
 
 
-
 ##Installation
 ###Installing the necessary files to run jekyll
 * To install jekyll for windows: http://jekyll-windows.juthilo.com/
-* For an instalation guide on vanilla jekyll: http://jekyllrb.com/docs/installation/
+* http://jekyllrb.com/docs/installation/
+
+
+1. Download and install [Ruby](https://cache.ruby-lang.org/pub/ruby/2.0/ruby-2.0.0-p647.tar.gz "Title"). (Tick "Add Ruby executables to your PATH")
+2. Download Ruby Dev Kit [32Bit](dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe) or [64bit](dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe). Extract at 'C:\RubyDevKit\'
+3. Open cmd.exe and run the following lines seperatley:
+		'cd C:\RubyDevKit'
+		'ruby dk.rb init'
+		'ruby dk.rb install'
+		'gem install jekyll'
+		'gem install kramdown'
+4. Install Python v2.7.11 [32bit](https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi) or [64bit](https://www.python.org/ftp/python/2.7.11/python-2.7.11.amd64.msi) At "Customize Python", click on 'Add python.exe to path' and choose 'Entire feature will be installed on local drive'
+5. Open cmd.exe and run the following lines seperatley:
+		'cd C:\Python27'
+		'python -m pip install Pygments'
+
+
 
 ###Git-Hub software required to participate
 * Install Github desktop (Easy to use for beginers): https://desktop.github.com/
