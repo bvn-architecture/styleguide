@@ -24,7 +24,6 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 
-    @include outer-container(90%);//TODO this is going to need to be media queried
 }
 
 
@@ -160,6 +159,8 @@ pre {
 
 .page-content{
     @include outer-container;
+
+    @include outer-container(95%);//TODO this is going to need to be media queried
 }
 
 /**
