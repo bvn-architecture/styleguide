@@ -5,7 +5,7 @@ image:              "https://pbs.twimg.com/profile_images/517109367418527744/lEy
 
 baseurl:            "/styleguide"
 url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
-host:    localhost
+host:                localhost
 #source:  src
 #exclude: ['src/bower_components']
 
