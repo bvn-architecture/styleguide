@@ -1,8 +1,15 @@
-# styleguide
+# styleguide [![Stories in Ready](https://badge.waffle.io/bvn-architecture/styleguide.png?label=ready&title=Ready)](http://waffle.io/bvn-architecture/styleguide)
 
-[![Stories in Ready](https://badge.waffle.io/bvn-architecture/styleguide.png?label=ready&title=Ready)](http://waffle.io/bvn-architecture/styleguide)
+This is the repository behind the BVN styleguide. It's job is to allow the whole world to see how we use our assets.
+
+If you would like to make a contribution then there are two ways:
+
+1. If it's a simple change, something like a typo, then you can just use the GitHub interface to submit a pull request.
+2. If it's more complicated then follow the instructions below
 
 ##Installation
+Most of the instructions below are for Windows. If you are lucky enough to be using a unix machine then you are probably smart enough to figure it out on your own.
+
 ###Installing the necessary files to run Jekyll
 * To install Jekyll for Windows: `http://jekyll-windows.juthilo.com/`
 * `http://jekyllrb.com/docs/installation/`
