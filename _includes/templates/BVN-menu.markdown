@@ -2,7 +2,7 @@
 </section>
 
 ##BVN menu
-<hr>
+
 There is a BVN menu located on the right-hand side of the menu bar.
 
 ![]({{site.baseurl}}/assets/templates-bvn-menu.jpg)

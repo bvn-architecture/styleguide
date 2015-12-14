@@ -2,7 +2,7 @@
 </section>
 
 ##Logo with address
-<hr>
+
 The logo and address should only ever appear in the top left-hand side corner of the page.
 
 <div class="red-cross-spacing">

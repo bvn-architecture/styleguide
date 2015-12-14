@@ -2,7 +2,7 @@
 </section>
 
 ##Examples of incorrect usage of graphic elements
-<hr>
+
 
 ###Cropping
 Do not crop graphic elements

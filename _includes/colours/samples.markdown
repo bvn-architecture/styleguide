@@ -18,7 +18,7 @@
 </section>
 
 ##Samples
-<hr>
+
 
 The following pages provide examples of how to use colour in drawings and plans.
 

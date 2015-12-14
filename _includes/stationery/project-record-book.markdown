@@ -2,7 +2,7 @@
 </section>
 
 ##Project record book
-<hr>
+
 
 ###Paper stock
 Covers: Notturno 700gsm, black

@@ -2,7 +2,7 @@
 </section>
 
 ##Letterhead
-<hr>
+
 Our pre-printed letterheads include 5 different images on the reverse side.
 
 ###Paper stock

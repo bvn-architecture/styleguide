@@ -2,7 +2,7 @@
 </section>
 
 ##Business card
-<hr>
+
 Our business cards include 5 different images on the reverse side.
 
 ###Paper stock
