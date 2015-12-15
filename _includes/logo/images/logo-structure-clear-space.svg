@@ -2,8 +2,8 @@
   <path fill="#FFF" stroke="#000" stroke-width=".3" d="M299.59 509.035h168v168.6h-168zM130.99 339.935h168v168.6h-168z"/>
   <path fill="#FFF" d="M131.59 3.435h166.4v167.5h-166.4z"/>
   <path d="M297.89 4.435v166h-165.2v-166h165.2m1-1.6h-168v168.6h168V2.835zM115.19 2.834h15.3v168.6h-15.3z"/>
-  <text transform="translate(204.98 102.515)" font-family="'ArialMT'" font-size="38.2">X</text>
-  <text transform="translate(373.63 605.69)" font-family="'ArialMT'" font-size="38.2">X</text>
-  <text transform="translate(2.834 102.67)" font-family="'ArialMT'" font-size="38.2">1/3</text>
+  <text transform="translate(204.98 102.515)" font-size="38.2">X</text>
+  <text transform="translate(373.63 605.69)" font-size="38.2">X</text>
+  <text transform="translate(2.834 102.67)" font-size="38.2">1/3</text>
   <path d="M888.19 112.435v315.4h-81.3l81.2-315.4h.1zm-311.6 315.4c9.8-19.7 15.8-42 15.8-66 0-41.5-17.5-79.7-45.8-106.4 28.3-26.8 45.8-64.4 45.8-106.4v-.6l72 278.8h-87.8v.6zm-197 0v-131.6h66c36 0 66 29.4 66 66 0 36-29.4 66-65.4 66h-66.4v-.6l-.2.2zm66-344.3c36 0 66 29.5 66 66 0 36-29.4 66-65.4 66h-66.4v-132h66-.2zm366.6 0l-76 297.3-77-297.3h153zm302.4 344.3h-145v-240l145 240zm31.7-104.3l-145-240h145v240zm-847.3-320.7v505.7h928V2.835h-928z"/>
 </svg>
