@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700.79 850.391">
-  <rect x="451.4" y="680.2" fill="#FFF" stroke="#000" stroke-width=".3" width="168" height="168.6"/>
-  <rect x="282.8" y="511.1" fill="#FFF" stroke="#000" stroke-width=".3" width="168" height="168.6"/>
-  <rect x="283.4" y="174.6" fill="#FFF" width="166.4" height="167.5"/>
-  <path d="M449.7 175.6v166H284.5v-166h165.2m1-1.6h-168v168.6h168V174z"/>
-  <rect x="267" y="174" width="15.3" height="168.6"/>
-  <text transform="translate(356.79 273.68)"   font-size="38.2">X</text>
-  <text transform="translate(525.44 776.855)"  font-size="38.2">X</text>
-  <text transform="translate(154.644 273.835)" font-size="38.2">1/3</text>
-  <path class="logo-bvn-text" d="M1040 283.6V599h-81.3l81.2-315.4zM728.4 599c9.8-19.7 15.8-42 15.8-66 0-41.5-17.5-79.7-45.8-106.4 28.3-26.8 45.8-64.4 45.8-106.4v-.6l72 278.8h-87.8v.5zm-197 0V467.4h66c36 0 66 29.4 66 66 0 36-29.4 66-65.4 66h-66.4v-.6zm66-344.3c36 0 66 29.5 66 66 0 36-29.4 66-65.4 66h-66.4v-132h66zm366.6 0L888 552l-77-297.3H964zM1266.4 599h-145V359l145 240zm31.7-104.3l-145-240h145v240zM450.8 174v505.7h928V174h-928z"/>
+<svg id="logo-structure-clear-space" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1229.825 680.471">
+  <path fill="#FFF" stroke="#000" stroke-width=".3" d="M299.59 509.035h168v168.6h-168zM130.99 339.935h168v168.6h-168z"/>
+  <path fill="#FFF" d="M131.59 3.435h166.4v167.5h-166.4z"/>
+  <path d="M297.89 4.435v166h-165.2v-166h165.2m1-1.6h-168v168.6h168V2.835zM115.19 2.834h15.3v168.6h-15.3z"/>
+  <text transform="translate(204.98 102.515)" font-family="'ArialMT'" font-size="38.2">X</text>
+  <text transform="translate(373.63 605.69)" font-family="'ArialMT'" font-size="38.2">X</text>
+  <text transform="translate(2.834 102.67)" font-family="'ArialMT'" font-size="38.2">1/3</text>
+  <path d="M888.19 112.435v315.4h-81.3l81.2-315.4h.1zm-311.6 315.4c9.8-19.7 15.8-42 15.8-66 0-41.5-17.5-79.7-45.8-106.4 28.3-26.8 45.8-64.4 45.8-106.4v-.6l72 278.8h-87.8v.6zm-197 0v-131.6h66c36 0 66 29.4 66 66 0 36-29.4 66-65.4 66h-66.4v-.6l-.2.2zm66-344.3c36 0 66 29.5 66 66 0 36-29.4 66-65.4 66h-66.4v-132h66-.2zm366.6 0l-76 297.3-77-297.3h153zm302.4 344.3h-145v-240l145 240zm31.7-104.3l-145-240h145v240zm-847.3-320.7v505.7h928V2.835h-928z"/>
 </svg>
