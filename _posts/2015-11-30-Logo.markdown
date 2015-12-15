@@ -5,7 +5,7 @@ class:       "logo"
 date:        2015-11-30 17:52:48 +1100
 description: "This document displays the necessary information to correctly disply the BVN logo."
 categories:
-image: {% include logo/images/base-logo.svg %}
+image:
 
 ---
 
