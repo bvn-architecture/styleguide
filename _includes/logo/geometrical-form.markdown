@@ -4,6 +4,6 @@
 ##Geometrical form
 
 The BVN logo is based on basic geometrical shapes which are the foundation of our graphic identity and language.
-See {% 2015-11-27-Graphic-Elements %}
+See Graphical Elements
 
 {% include logo/images/logo-structure.svg %}
