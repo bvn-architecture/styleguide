@@ -46,7 +46,7 @@
 <meta name="twitter:site"        content="{{site.twitter_username}}" />
 <meta name="twitter:title"       content="{{site.title}}" />
 <meta name="twitter:description" content="{{page.description}}" />
-<meta name="twitter:image"       content="https://pbs.twimg.com/profile_images/517109367418527744/lEydqla3.jpeg" />
+<meta name="twitter:image"       content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
 <!-- <meta name="twitter:creator" content="@author_handle"> -->
 {% endif %}
 
