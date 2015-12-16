@@ -3,7 +3,7 @@ layout:       post
 title:        Templates
 class:       "templates"
 date:         2015-11-25 17:52:48 +1100
-description: "How to use our premade templates"
+description: "BVN designed templates."
 categories:      
 image:        
 ---

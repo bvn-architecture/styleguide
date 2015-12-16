@@ -3,7 +3,7 @@ layout:      post
 title:       "Typography"
 class:       "typography"
 date:        2015-11-28 17:52:48 +1100
-description: "How to use our Typography"
+description: "BVN fonts"
 categories: 
 image:      
 ---

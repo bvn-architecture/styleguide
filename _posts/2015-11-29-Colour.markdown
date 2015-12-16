@@ -3,7 +3,7 @@ layout:      post
 title:       "Colour"
 class:       "colour"
 date:        2015-11-29 17:52:48 +1100
-description: "How to use our colours"
+description: "BVN designated colours."
 categories: 
 image:      "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpeg"
  

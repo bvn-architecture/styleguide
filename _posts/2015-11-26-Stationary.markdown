@@ -3,7 +3,7 @@ layout:      post
 title:       "Stationery"     
 class:       "stationery"     
 date:        2015-11-26 17:52:48 +1100     
-description: "How to use our stationery"
+description: "BVN stationery guidelines."
 categories:  
 image:       
 
