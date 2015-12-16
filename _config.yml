@@ -10,9 +10,9 @@ host:                localhost
 email:              "someone@bvn.com.au"
 description:        "This is how to use our graphic assets"
 image:              "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpeg"
-baseurl:            "/"
+baseurl:            ""
 url:                "http://manuals.bvn.com.au" # the base hostname & protocol for your site
-host:                localhost
+#host:                localhost
 #source:  src
 #exclude: ['src/bower_components']
 
