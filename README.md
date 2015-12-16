@@ -7,7 +7,7 @@ If you would like to make a contribution then there are two ways:
 1. If it's a simple change, something like a typo, then you can just use the GitHub interface to submit a pull request.
 2. If it's more complicated then follow the instructions below.
 
-##Installation and setu[]
+##Installation and setup
 Most of the instructions below are for Windows. If you are lucky enough to be using a unix machine then you are probably smart enough to figure it out on your own.
 
 ###Get git & GitHub
