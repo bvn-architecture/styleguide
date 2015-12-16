@@ -59,17 +59,19 @@ span.colour-value {
 
 }
 
-.swatch-samples{@include outer-container;}
-.colour-block.numbers{
-  @include span-columns(2);
-  text-align: right;
-}
-
-
-.colour-block-sec { 
-    height: 2em;
+.swatch-samples{
+  @include outer-container;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  .colour-block.numbers{
     @include span-columns(2);
-    &.opacity-100{opacity: 1.00;}
+    text-align: right;
+  }
+  .colour-block-sec { 
+      height: 2em;
+      @include span-columns(2);
+      &.opacity-100{opacity: 1.00;}
+  }
 }
 
 .colour-block div { 
@@ -85,8 +87,10 @@ span.colour-value {
 .swatch-examples{
  @include span-columns(10);
   .colour-block {
-    @include span-columns(2 of 10);
-    @include omega();
+    float: left;
+    display: inline-block;
+    width: 20%;
+    margin: 0;
   }
 }
 
