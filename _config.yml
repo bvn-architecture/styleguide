@@ -1,7 +1,7 @@
 title:              "BVN Styleguide"
 email:              "someone@bvn.com.au"
 description:        "This is how to use our graphic assets"
-image:              "https://pbs.twimg.com/profile_images/517109367418527744/lEydqla3.jpeg"
+image:              "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpeg"
 baseurl:            "/styleguide"
 url:                "http://bvn-architecture.github.io" # the base hostname & protocol for your site
 host:                localhost
