@@ -6,7 +6,38 @@ baseurl:            "/"
 url:                "http://manuals.bvn.com.au" # the base hostname & protocol for your site
 host:                localhost
 #source:  src
+#exclude: ['src/bower_components']title:              "BVN Styleguide"
+email:              "someone@bvn.com.au"
+description:        "This is how to use our graphic assets"
+image:              "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpeg"
+baseurl:            "/"
+url:                "http://manuals.bvn.com.au" # the base hostname & protocol for your site
+host:                localhost
+#source:  src
 #exclude: ['src/bower_components']
+
+
+twitter_username:   "architecturebvn"
+github_username:    "bvn-architecture"
+facebook_username:  "BVN-Architecture"
+facebook_publisher: "https://www.facebook.com/pages/BVN-Architecture/131354776914013?fref=ts"
+insta_username:     "architecturebvn"
+linkedin_username:  "bvn-architecture"
+publisher:          "BVN"
+publisher_website:  "http://bvn.com.au/"
+
+# Build settings
+markdown:     "kramdown"
+redcarpet:
+  extensions: ["tables"]
+
+encoding:     "utf-8"
+permalink:    :title
+highlighter:  "pygments"
+
+sass:
+    sass_dir: _sass
+
 
 
 twitter_username:   "architecturebvn"
