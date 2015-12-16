@@ -27,3 +27,4 @@ image: "http://bvn-architecture.github.io/styleguide/assets/templates-letterhead
 
 {% include logo/logo-with-address-incorrect.markdown %}
 
+{% include logo/assets.md %}
