@@ -44,10 +44,10 @@
 {% if site.twitter_username %}
 <meta name="twitter:card"        content="summary" />
 <meta name="twitter:site"        content="{{site.twitter_username}}" />
-<meta name="twitter:title"       content="{{site.title}}" />
+<meta name="twitter:title"       content="{{site.title}} - {{page.title}}" />
 <meta name="twitter:description" content="{{page.description}}" />
 <meta name="twitter:image"       content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
-<!-- <meta name="twitter:creator" content="@author_handle"> -->
+<meta name="twitter:creator" content="{{site.author}}">
 {% endif %}
 
 <!-- Schema.org markup for Google+ -->
