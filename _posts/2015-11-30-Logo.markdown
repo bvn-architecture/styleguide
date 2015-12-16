@@ -5,7 +5,7 @@ class:       "logo"
 date:        2015-11-30 17:52:48 +1100
 description: "This document provides the necessary information to correctly display the BVN logo."
 categories:
-image: "http://bvn-architecture.github.io/styleguide/assets/templates-letterhead.jpg"
+image: "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpg"
 
 ---
 
