@@ -15,14 +15,11 @@
       <!-- bag of dicks -->
       <div class="trigger">
         {% for postpage in site.posts %}
-          <a class="page-link" 
-             {% if postpage.url == postpage.url %}
-               class="active"
-             {% endif %} 
-             href="{{ postpage.url }}">
+          <a class="page-link" {% if postpage.url == postpage.url %} class="active" {% endif %} href="{{ postpage.url | prepend: site.baseurl }}">
                {{ postpage.title }}
           </a>
         {% endfor %}
+        
       </div>
 
     </nav>
