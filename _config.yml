@@ -1,6 +1,6 @@
 title:              "BVN Styleguide"
 email:              "someone@bvn.com.au"
-description:        "This is how to use our graphic assets"
+description:        "BVN's graphical guidelines."
 image:              "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpeg"
 baseurl:            "/"
 url:                "http://manuals.bvn.com.au" # the base hostname & protocol for your site
