@@ -2,10 +2,11 @@ title:              "BVN Styleguide"
 email:              "someone@bvn.com.au"
 description:        "BVN's graphical guidelines."
 image:              "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpeg"
+date:               2015-11-30T17:52:48+11:00
+
 baseurl:            "/"
 url:                "http://manuals.bvn.com.au" # the base hostname & protocol for your site
 #host:                localhost
-date:
 #source:  src
 #exclude: ['src/bower_components']title:              "BVN Styleguide"
 
