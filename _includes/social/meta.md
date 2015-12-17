@@ -23,8 +23,8 @@
 <meta property="og:image"               content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
 <meta property="og:site_name"           content="{{site.title}} - {{page.title}}" />
 <meta property="article:published_time" content="{{page.date}}"    />
-<!-- <meta property="article:modified_time"  content="2013-09-16T19:08:47+01:00"    />
-<meta property="article:section"        content="Article Section" />
+<meta property="article:modified_time"  content="{{page.date}}"    />
+<!-- <meta property="article:section"        content="Article Section" />
 <meta property="article:tag"            content="Article Tag"     /> -->
 
 <!-- <meta property="fb:admins"              content="architecturebvn"  /> TODO: understand this --><!-- 1522938594658821 -->
