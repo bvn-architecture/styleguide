@@ -2,7 +2,7 @@
 layout:      post
 title:       "Graphic Elements"
 class:       "graphic-elements"
-date:        2015-11-28 17:52:48 +1100
+date:        2015-11-28T17:52:48+11:00
 description: "BVN designated graphic elements guidelines."
 categories: 
 image:      
