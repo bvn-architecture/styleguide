@@ -7,7 +7,7 @@ Our primary colours are black and white. Our logo should never appear in any oth
 
 <div class="primary-container">
 	<div class="swatch primary">
-		<svg width="100%" height="50%">
+		<svg width="100%" height="50%" alt="colour-primary-black-swatch">
 			<rect width="100%" height="100%" class="bvn-black" />
 		</svg>
 		<div class="values">Pureblack<br>
