@@ -23,8 +23,8 @@ You need to get the project from GitHub before you can work locally:
 * Select location on your computer to create the files, press OK.
 
 ###Installing the necessary files to run Jekyll
-* Download and install Ruby [32bit](dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p647.exe) or [64bit](dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p647-x64.exe). Tick "Add Ruby executables to your PATH"
-* Download Ruby Dev Kit [32Bit](dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe) or [64bit](dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe). Extract at 'C:\RubyDevKit\'
+* Download and install Ruby [32bit](https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p647.exe) or [64bit](dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p647-x64.exe). Tick "Add Ruby executables to your PATH"
+* Download Ruby Dev Kit [32Bit](https://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe) or [64bit](dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe). Extract at 'C:\RubyDevKit\'
 * Move/copy 'gemfile' from cloned GitHub folder (styleguide) into 'C:\RubyDevKit'
 * Open cmd.exe and run the following lines separately (NOTE: The software [Avast](https://www.avast.com/en-au/index) is know to have problems with installing gems, disable before installing Ruby gems.): 
 ```
