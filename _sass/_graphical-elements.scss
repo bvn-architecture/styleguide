@@ -7,4 +7,22 @@ article.post.graphic-elements{
 		@include omega(4n);
 	}
 }
+
+
+
+
+
+
+#graphical-logo-frame{
+
+	.logo-structure-surrounding-box{visibility: hidden;}
+	.logo-structure-black-box{visibility: hidden;}
+	.logo-structure-white-box{visibility: hidden;}
+	.logo-structure-bvn-text{visibility: hidden;}
+	.logo-structure-frame{visibility: hidden;}
+	.logo-structure-circle-top{visibility: hidden;}
+	.logo-structure-circle-bot{visibility: hidden;}
+	.logo-structure-grid-lines{visibility: hidden;}
+}
+
 }

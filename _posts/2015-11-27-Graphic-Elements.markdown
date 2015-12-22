@@ -9,6 +9,8 @@ image:
  
 ---
 
+{% include graphical-elements/building-blocks.markdown %}
+
 {% include graphical-elements/graphics.markdown %}
 
 {% include graphical-elements/good-examples.markdown %}

@@ -68,9 +68,22 @@ article.post.logo{
 	@include span-columns(6);
 }
 
+#logo-geometrical-form{
+  .logo-structure-surrounding-box{ opacity:1;}
+  .logo-structure-black-box{ opacity:0;}
+  .logo-structure-white-box{ opacity:0;}
+  .logo-structure-bvn-text{ opacity:.3;}
+  .logo-structure-frame{ opacity:0;}
+  .logo-structure-circle-top{ opacity:1;}
+  .logo-structure-circle-bot{ opacity:1;}
+  .logo-structure-grid-lines{ opacity:1;}
+}
 
 
 
+
+
+/* Annimation
 #logo-structure-surrounding-box {
   animation-duration: 15s;
   animation-name: surrounding-box-keys;
@@ -201,7 +214,7 @@ article.post.logo{
     100% { opacity: 0; }
 }
 
-
+*/
 
 }
 
