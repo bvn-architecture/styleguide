@@ -17,8 +17,10 @@ article.post.graphic-elements{
 	@include omega();
 }
 #six-block{
+	@include shift(3);
 	@include span-columns(6);
 	@include omega();
+
 }
 
 #graphical-logo-frame {
