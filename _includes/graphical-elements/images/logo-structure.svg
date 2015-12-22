@@ -1,7 +1,9 @@
-<svg version="1.1" {{include.meta}} xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-0.105 850.695 1272.728 848.977" enable-background="new -0.105 850.695 1272.728 848.977" xml:space="preserve" alt="Logo created with geometrical shapes used to form the BVN graphic elements.">
+<svg {{include.meta}} version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-0.105 850.695 1272.728 848.977" xml:space="preserve" alt="Logo created with geometrical shapes used to form the BVN graphic elements.">
 
 <!-- Surrounding box -->
-<rect id="logo-structure-surrounding-box" x="2.729" y="853.53" fill="none" stroke="#000000" stroke-miterlimit="10" width="1267.058" height="843.301"/>
+<g id="logo-structure-surrounding-box">
+<rect x="2.729" y="853.53" fill="none" stroke="#000000" stroke-miterlimit="10" width="1267.058" height="843.301"/>
+</g>
 
 <!-- Black box -->
 <rect id="logo-structure-black-box" x="171.562" y="1022.362" width="929.399" height="506.498"/>
@@ -22,20 +24,20 @@
 <path id="logo-structure-frame" d="M171.562,1022.362v506.498h929.399v-506.498H171.562z M1020.098,1447.997H252.426v-344.77h767.672V1447.997z"/>
 
 <!-- Two circles -->
-<circle id="logo-structure-circle-top"  r="145.642" fill="none" stroke="#000000" stroke-width="1" cx="318.011" cy="1168.813"></circle>
-<circle id="logo-structure-circle-bot" r="145.642" fill="none	" stroke="#000000" stroke-width="1" cx="318.011" cy="1381.001"></circle>
+<circle id="logo-structure-circle-top"  r="145.642" fill="none" stroke="#000000" stroke-width="2" cx="318.011" cy="1168.813"></circle>
+<circle id="logo-structure-circle-bot" r="145.642" fill="none	" stroke="#000000" stroke-width="2" cx="318.011" cy="1381.001"></circle>
 
 <!-- Grid lines -->
 <g xmlns="http://www.w3.org/2000/svg" id="logo-structure-grid-lines">
-	<line fill="none" stroke="#000000" y2="1022.627" y1="1022.627" x1="2.729" stroke-width="1" x2="1269.78"/>
-	<line fill="none" stroke="#000000" stroke-width="1" x2="1269.78" y1="1102.265" x1="2.729" y2="1102.265"/>
-	<line fill="none" stroke="#000000" x2="1269.78" x1="2.729" stroke-width="1" y2="1449.222" y1="1449.222"/>
-	<line fill="none" stroke="#000000" stroke-width="1" x2="1269.78" x1="2.729" y1="1528.86" y2="1528.86"/>
+	<line fill="none" stroke="#000000" y2="1022.627" y1="1022.627" x1="2.729" stroke-width="2" x2="1269.78"/>
+	<line fill="none" stroke="#000000" stroke-width="2" x2="1269.78" y1="1102.265" x1="2.729" y2="1102.265"/>
+	<line fill="none" stroke="#000000" x2="1269.78" x1="2.729" stroke-width="2" y2="1449.222" y1="1449.222"/>
+	<line fill="none" stroke="#000000" stroke-width="2" x2="1269.78" x1="2.729" y1="1528.86" y2="1528.86"/>
 
-	<line fill="none" stroke="#000000" x2="251.464" y1="853.529" x1="251.464" y2="1696.83" stroke-width="1"/>
-	<line fill="none" stroke-width="1" y2="1696.83" x2="171.826" y1="853.529" x1="171.826" stroke="#000000"/>
-	<line fill="none" stroke-width="1" y1="853.529" x2="1100.583" x1="1100.961" y2="1696.83" stroke="#000000"/>
-	<line fill="none" stroke="#000000" stroke-width="1" y2="1696.83" y1="853.529" x2="1021.323" x1="1021.323"/>
+	<line fill="none" stroke="#000000" x2="251.464" y1="853.529" x1="251.464" y2="1696.83" stroke-width="2"/>
+	<line fill="none" stroke-width="2" y2="1696.83" x2="171.826" y1="853.529" x1="171.826" stroke="#000000"/>
+	<line fill="none" stroke-width="2" y1="853.529" x2="1100.583" x1="1100.961" y2="1696.83" stroke="#000000"/>
+	<line fill="none" stroke="#000000" stroke-width="2" y2="1696.83" y1="853.529" x2="1021.323" x1="1021.323"/>
 </g>
 
 </svg>
