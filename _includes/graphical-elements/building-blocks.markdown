@@ -6,7 +6,7 @@
 The BVN logo is based on basic geometrical shapes which are the foundation of our graphic identity and language.
 Do not change the proportion, design or positioning of these design elements in any application.
 
-<g id="six-block">
+<g id="graphical-elements-logo-split">
 	{% include graphical-elements/images/logo-structure.svg meta="id='graphical-logo-frame'" %}
 
 	{% include graphical-elements/images/logo-structure.svg meta="id='graphical-logo-box'" %}
