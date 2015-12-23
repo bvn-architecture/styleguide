@@ -1,226 +1,214 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+//Reset some basic elements
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
+  margin: 0;
+  padding: 0;
 }
 
 
-
-/**
- * Basic styling
- */
+//Basic styling
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
-
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
 }
 
 
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+//Set `margin-bottom` to maintain vertical rhythm
+h1,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
 
 
-
-/**
- * Images
- */
+//Images
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
 
-
-/**
- * Figures
- */
+//Figures
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
 
 
-
-/**
- * Lists
- */
-ul, ol {
-    margin-left: $spacing-unit;
+//Lists
+ul,
+ol {
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+     margin-bottom: 0;
+  }
 }
 
 
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
-    clear: both;
+//Headings
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: $base-font-weight;
+  clear: both;
 }
 h2{
-    display: block;
-    padding-top:    20px;
-    padding-bottom:  0px;
-    margin-bottom:   1em;
-    border-bottom:   1px solid rgba(0, 0, 0, 0.33);
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 1em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.33);
 }
 h3{
-    font-size: 25px;
-    font-weight: bold;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 
 
-/**
- * Links
- */
+//Links
 a {
-    color: $brand-color;
-    text-decoration: none;
+  color: $brand-color;
+  text-decoration: none;
+  
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
 }
 
 
-
-/**
- * Blockquotes
- */
+//Blockquotes
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
 }
 
 
-
-/**
- * Code formatting
- */
+//Code formatting
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+  font-size: 15px;
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #eef;
 }
 
 code {
-    padding: 1px 5px;
+  padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: auto;
-
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  padding: 8px 12px;
+  overflow-x: auto;
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 
-.page-content{
-    @include outer-container;
-    @include media(max-width 850px){
-        @include outer-container(95%);
-    }
+.page-content {
+  @include outer-container;
+  @include media(max-width 850px) {
+    @include outer-container(95%);
+  }
 }
 
-/**
- * Wrapper
- */
+
+//Wrapper
 .wrapper {
   @include span-columns(12);
 }
 
 
-
-/**
- * Clearfix
- */
+//Clearfix
 %clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 
-
-/**
- * Icons
- */
+//Icons
 .icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
+  > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    path {
+      fill: $grey-color;
     }
+  }
 }
 
 //Wrong Cross Icon
-.cross-options{
-    @include span-columns(1);
+.cross-options {
+  @include span-columns(1);
 }
-.red-cross-spacing{
-    @include span-columns(12);
+.red-cross-spacing {
+  @include span-columns(12);
 }
 
 
 //breakline
 hr{
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
