@@ -1,0 +1,29 @@
+---
+layout:      post
+title:       "Logo"
+class:       "logo"
+date:        2015-11-30T17:52:48+11:00
+description: "BVN logo guidelines."
+categories:
+image: 
+---
+
+{% include logo/geometrical-form.markdown %}
+
+{% include logo/clear-space.markdown %}
+
+{% include logo/size.markdown %}
+
+{% include logo/colour.markdown %}
+
+{% include logo/logo-with-address.markdown %}
+
+{% include logo/proportions.markdown %}
+
+{% include logo/graphic-elements.markdown %}
+
+{% include logo/colours-incorrect.markdown %}
+
+{% include logo/logo-with-address-incorrect.markdown %}
+
+{% include logo/assets.md %}

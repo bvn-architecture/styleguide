@@ -1,0 +1,66 @@
+<svg version="1.1" id="examples-of-usage-of-the-graphic-elements" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1700.79 850.391" enable-background="new 0 0 1700.79 850.391"
+	 xml:space="preserve" alt="Examples of graphic element uses.">
+<rect x="1211.901" y="247.368" fill="#FFFFFF" width="413.584" height="584.924"/>
+<rect x="10.501" y="18.443" fill="white" stroke="#000000" stroke-width="0.25" width="827.166" height="584.924"/>
+<path d="M25.705,308.886h-1.771l1.771-2.794V308.886z M27.143,309.642v-0.756h-0.641v-3.813h-1.03l-2.501,3.898v0.671h2.735v1.264
+	h0.796v-1.264H27.143z"/>
+<g>
+	<path d="M243.557,98.863c0,28.099,22.777,50.88,50.876,50.88s50.88-22.781,50.88-50.88s-22.781-50.876-50.88-50.876
+		S243.557,70.764,243.557,98.863 M243.557,200.637V98.863V47.987H40.049v373.189h101.752v152.651h203.512v-373.19H243.557z"/>
+</g>
+<line fill="none" stroke="#000000" stroke-width="0.25" x1="424.088" y1="18.095" x2="424.088" y2="603.716"/>
+<rect x="92.681" y="665.664" fill="#FFFFFF" width="288.39" height="166.628"/>
+<rect x="92.681" y="665.664" fill="none" stroke="#000000" stroke-width="0.25" width="288.39" height="166.628"/>
+<path d="M173.257,797.509v-32.96h-49.672v32.96H173.257z M184.929,809.18h-73.02V675.283h0.003h73.017h90.676v22.314h61.385v33.476
+	v33.476h-61.385h-90.676V809.18z"/>
+<rect x="403.003" y="665.549" fill="#FFFFFF" width="288.39" height="166.628"/>
+<rect x="403.003" y="665.549" fill="none" stroke="#000000" stroke-width="0.25" width="288.39" height="166.628"/>
+<g>
+	<path d="M452.765,779.599v16.342h-4.202L452.765,779.599z M436.616,795.941c0.519-1.026,0.812-2.187,0.812-3.413
+		c0-2.16-0.912-4.116-2.372-5.503c1.46-1.386,2.372-3.342,2.372-5.506c0-0.008,0-0.012,0-0.019l3.728,14.44H436.616z
+		 M426.426,795.941v-6.822h3.405c1.879,0.008,3.409,1.538,3.409,3.409c0,1.879-1.526,3.409-3.401,3.413H426.426z M429.831,778.11
+		c1.879,0.004,3.409,1.534,3.409,3.409c0,1.879-1.526,3.405-3.401,3.409h-3.413v-6.818H429.831z M448.818,778.11l-3.958,15.411
+		l-3.979-15.411H448.818z M464.484,795.941h-7.533v-12.429L464.484,795.941z M466.107,790.535l-7.529-12.425h7.529V790.535z
+		 M422.231,773.92v26.208h48.063V773.92H422.231z"/>
+</g>
+<rect x="776.378" y="247.368" fill="#FFFFFF" width="413.583" height="584.924"/>
+<rect x="776.378" y="247.368" fill="none" stroke="#000000" stroke-width="0.25" width="413.583" height="584.924"/>
+<path d="M805.922,802.748h152.629V575.276V504.38V276.908H805.922V504.38v70.9V802.748z M1085.749,475.821V276.908H983.993v198.913
+	H1085.749z"/>
+<path fill="none" stroke="#000000" stroke-width="0.375" stroke-miterlimit="10" d="M805.922,802.748h152.629V575.276V504.38
+	V276.908H805.922V504.38v70.9V802.748z M1085.749,475.821V276.908H983.993v198.913H1085.749z"/>
+<rect x="1211.901" y="247.368" fill="none" stroke="#000000" stroke-width="0.25" width="413.584" height="584.924"/>
+<rect x="923.901" y="18.443" fill="#FFFFFF" width="372.229" height="175.477"/>
+<rect x="923.901" y="18.443" fill="none" stroke="#000000" stroke-width="0.25" width="372.229" height="175.477"/>
+<g>
+	<path d="M965.44,46.271v10.847h-2.787L965.44,46.271z M954.719,57.121c0.344-0.682,0.541-1.452,0.541-2.264
+		c0-1.435-0.607-2.734-1.574-3.653c0.967-0.919,1.574-2.22,1.574-3.654c0-0.007,0-0.011,0-0.015l2.475,9.586H954.719z
+		 M947.958,57.121v-4.527h2.26c1.244,0.003,2.26,1.019,2.26,2.264s-1.012,2.261-2.256,2.264H947.958z M950.217,45.282
+		c1.244,0.004,2.26,1.02,2.26,2.265c0,1.244-1.012,2.26-2.256,2.26h-2.266v-4.524H950.217z M962.819,45.282l-2.627,10.231
+		l-2.643-10.231H962.819z M973.221,57.121h-5.004v-8.248L973.221,57.121z M974.299,53.531l-5.004-8.249h5.004V53.531z M945.174,42.5
+		v17.396h31.9V42.5H945.174z"/>
+</g>
+<rect x="1318.063" y="18.443" fill="#FFFFFF" width="372.223" height="175.477"/>
+<rect x="1318.063" y="18.443" fill="none" stroke="#000000" stroke-width="0.25" width="372.223" height="175.477"/>
+<g>
+	<path d="M1507.323,133.402h-142.797h-25.193V32.624h184.799v50.392h75.588v50.387h-75.588H1507.323z M1364.526,183.789
+		c-13.914,0-25.193-11.279-25.193-25.193s11.279-25.193,25.193-25.193s25.193,11.279,25.193,25.193
+		S1378.44,183.789,1364.526,183.789"/>
+</g>
+<rect x="697.711" y="236.795" fill="none" width="52.333" height="337"/>
+<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 726.5107 573.7947)" font-size="48">INTRODUCTION</text>
+<rect x="739.52" y="481.357" fill="none" width="12.875" height="92.5"/>
+<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 747.9189 573.8572)" font-family="'Blender-Medium'" font-size="14">BVN IN BRIEF</text>
+<rect x="24.304" y="427.687" fill="none" width="11" height="145.999"/>
+<text transform="matrix(4.489659e-011 -1 1 4.489659e-011 27.3042 573.6873)" font-size="5">SUBISSION TITLE COMES HERE WITH DATE JUNE 2014</text>
+<rect x="422.19" y="688.957" fill="none" width="255.767" height="41.52"/>
+<text transform="matrix(1 0 0 1 422.1899 694.3572)"><tspan x="0" y="0" font-size="9">PRINCIPAL, BArch RAIA</tspan><tspan x="0" y="10" font-family="'Blender-Bold'" font-size="9">T</tspan><tspan x="4.563" y="10" font-size="9"> +61 2 8297 7200 </tspan><tspan x="69.885" y="10" font-family="'Blender-Bold'" font-size="9">M</tspan><tspan x="75.861" y="10" font-size="9"> +61 538 628 532 E abbie_galvin@bvn.com.au</tspan><tspan x="0" y="20" font-size="9">255 PITT STREET / SYDNEY 2000 AUSTRALIA / BVN.COM.AU</tspan></text>
+<rect x="422.419" y="677.426" fill="none" width="67.625" height="20.403"/>
+<text transform="matrix(1 0 0 1 422.4189 684.0037)" font-family="'Blender-Bold'" font-size="11">ABBIE GALVIN</text>
+<rect x="945.174" y="33.625" fill="none" width="121.375" height="6.625"/>
+<text transform="matrix(1 0 0 1 945.1743 36.6248)" font-size="5">255 PITT STREET / SYDNEY 2000 AUSTRALIA / BVN.COM.AU</text>
+<image overflow="visible" width="1030" height="1452" xlink:href="{{site.baseurl}}/assets/letterhead-documents.png"  transform="matrix(0.396 0 0 0.396 1214.7759 251.0295)">
+</image>
+<rect x="10.501" y="18.443" fill="none" stroke="#000000" stroke-width="0.25" width="827.166" height="584.924"/>
+</svg>

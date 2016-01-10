@@ -1,0 +1,15 @@
+.intro-text{
+    @include span-columns(10);
+    @include shift(1);
+  
+  p{
+    .name {
+        margin-top: 2em;
+        margin-bottom: 0;
+        font-weight: bold;
+    }
+  }
+  .signature{
+  	//@include shift(1);
+  }
+}

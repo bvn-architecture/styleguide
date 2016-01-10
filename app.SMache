@@ -1,0 +1,11 @@
+CACHE MANIFEST
+
+CACHE:
+#only precache the woff files. Let's not be dicks with other people's bandwidth!
+https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bold-webfont.woff
+https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-book-webfont.woff
+https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bookitalic-webfont.woff
+https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-medium-webfont.woff
+
+NETWORK:
+*
