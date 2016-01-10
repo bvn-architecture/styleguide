@@ -1,0 +1,21 @@
+footer {
+  @include outer-container;
+  .post-list {
+    @include span-columns(12);
+  }
+
+  .org-info {
+    .site-description,
+    .social-media-list {
+      @include media(max-width 400px) {
+        @include span-columns(10);
+        @include shift(1);
+          }
+
+      @include media(min-width 401px) {
+        @include span-columns(5);
+        @include shift(1);
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 560" alt="Incorrect graphical elements" alt="Incorrect graphic element filled in with an image.">
+  <defs>
+    <path id="a" d="M327.3 560h122.2V336H327.3v224zm183.2-163c0 33.8 27.4 61 61 61s61-27.3 61-61c0-33.6-27.4-61-61-61s-61 27.3-61 61m0-397H327.3v336h183V224h122.3V0h-122z"/>
+  </defs>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
+  </clipPath>
+  <g clip-path="url(#b)">
+    <image width="309" height="348" overflow="visible" xlink:href="{{site.baseurl}}/assets/BEE33D76.jpg" transform="translate(285.335) scale(1.6138)"/>
+  </g>
+</svg>

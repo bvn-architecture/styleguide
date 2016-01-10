@@ -1,0 +1,21 @@
+<ul class="social-media-list">
+  {% if site.github_username %}
+  <li> {% include social/icon-github.html username=site.github_username %}     </li>
+  {% endif %}
+
+  {% if site.twitter_username %}
+  <li> {% include social/icon-twitter.html username=site.twitter_username %}   </li>
+  {% endif %}
+
+  {% if site.insta_username %}
+  <li> {% include social/icon-insta.html username=site.insta_username %}        </li>
+  {% endif %}
+
+  {% if site.facebook_username %}
+  <li> {% include social/icon-facebook.html username=site.facebook_username %}  </li>
+  {% endif %}
+
+  {% if site.linkedin_username %}
+  <li> {% include social/icon-linkedin.html username=site.linkedin_username %}  </li>
+  {% endif %}
+</ul>

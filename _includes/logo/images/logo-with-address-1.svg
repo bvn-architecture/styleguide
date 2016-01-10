@@ -1,0 +1,12 @@
+<svg  {{include.meta}} version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 154.5 216.1" xml:space="preserve" alt="Incorrect example of the BVN Logo with the address.">
+
+<rect x="2.8" y="2.8" fill="#FFFFFF" stroke="#010202" stroke-width="0.25" width="148.8" height="210.5"/>
+
+<path fill="#010202" d="M28.7,196.1v4.3h-1.1L28.7,196.1z M24.4,200.4c0.1-0.3,0.2-0.6,0.2-0.9c0-0.6-0.2-1.1-0.6-1.5
+		c0.4-0.4,0.6-0.9,0.6-1.5c0,0,0,0,0,0l1,3.8H24.4z M21.7,200.4v-1.8h0.9c0.5,0,0.9,0.4,0.9,0.9c0,0.5-0.4,0.9-0.9,0.9H21.7z
+		 M22.6,195.7c0.5,0,0.9,0.4,0.9,0.9c0,0.5-0.4,0.9-0.9,0.9h-0.9v-1.8H22.6z M27.6,195.7l-1.1,4.1l-1.1-4.1H27.6z M31.8,200.4h-2
+		v-3.3L31.8,200.4z M32.2,199l-2-3.3h2V199z M20.6,194.6v7h12.8v-7H20.6z"/>
+
+<text transform="matrix(1 0 0 1 20.5509 192.2302)" fill="#010202" font-size="2">225 PITT STREET / SYDNEY 2000 AUSTRALIA / T +61 2 8297 7200 / BVN.COM.AU</text>
+</svg>
