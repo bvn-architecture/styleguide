@@ -1,0 +1,59 @@
+$text-color: #111;
+$background-color: #fdfdfd;
+$brand-color: #2a7ae2;
+
+$grey-color: #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark: darken($grey-color, 25%);
+
+$bvn-black: #000;
+$bvn-white: #fff;
+
+$secondary-brown: rgba(150, 119, 69, 1);
+$secondary-beige: rgba(225, 217, 210, 1);
+$secondary-blue: rgba(190, 226, 233, 1);
+$secondary-green: rgba(30, 130, 96, 1);
+$secondary-yellow: rgba(240, 209, 0, 1);
+
+$tertiary-blue: rgba(0, 94, 151, 1);
+$tertiary-pink: rgba(233, 171, 200, 1);
+$tertiary-green: rgba(85, 120, 117, 1);
+$tertiary-red: rgba(222, 50, 54, 1);
+$tertiary-emerald: rgba(170, 210, 154, 1);
+$tertiary-teal: rgba(124, 200, 197, 1);
+$tertiary-darkgreen: rgba(26, 67, 77, 1);
+$tertiary-purple: rgba(96, 73, 98, 1);
+$tertiary-orange: rgba(197, 96, 59, 1);
+
+$trans-secondary-brown: rgba(150, 119, 69, .3);
+$trans-secondary-beige: rgba(225, 217, 210, .3);
+$trans-secondary-blue: rgba(190, 226, 233, .3);
+$trans-secondary-green: rgba(30, 130, 96, .3);
+$trans-secondary-yellow: rgba(240, 209, 0, .3);
+
+$trans-tertiary-blue: rgba(0, 94, 151, .3);
+$trans-tertiary-pink: rgba(233, 171, 200, .3);
+$trans-tertiary-green: rgba(85, 120, 117, .3);
+$trans-tertiary-red: rgba(222, 50, 54, .3);
+$trans-tertiary-emerald: rgba(170, 210, 154, .3);
+$trans-tertiary-teal: rgba(124, 200, 197, .3);
+$trans-tertiary-darkgreen: rgba(26, 67, 77, .3);
+$trans-tertiary-purple: rgba(96, 73, 98, .3);
+$trans-tertiary-orange: rgba(197, 96, 59, .3);
+
+.bvn-black { background-color: $bvn-black; fill: $bvn-black; }
+.bvn-white { background-color: $bvn-white; fill: $bvn-white; }
+.secondary-brown { background-color: $secondary-brown; fill: $secondary-brown; }
+.secondary-beige { background-color: $secondary-beige; fill: $secondary-beige; }
+.secondary-blue { background-color: $secondary-blue; fill: $secondary-blue; }
+.secondary-green { background-color: $secondary-green; fill: $secondary-green; }
+.secondary-yellow { background-color: $secondary-yellow; fill: $secondary-yellow; }
+.tertiary-blue { background-color: $tertiary-blue; fill: $tertiary-blue; }
+.tertiary-pink { background-color: $tertiary-pink; fill: $tertiary-pink; }
+.tertiary-green { background-color: $tertiary-green; fill: $tertiary-green; }
+.tertiary-red { background-color: $tertiary-red; fill: $tertiary-red; }
+.tertiary-emerald { background-color: $tertiary-emerald; fill: $tertiary-emerald; }
+.tertiary-teal { background-color: $tertiary-teal; fill: $tertiary-teal; }
+.tertiary-darkgreen { background-color: $tertiary-darkgreen; fill: $tertiary-darkgreen;}
+.tertiary-purple { background-color: $tertiary-purple; fill: $tertiary-purple; }
+.tertiary-orange { background-color: $tertiary-orange; fill: $tertiary-orange; }

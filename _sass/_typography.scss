@@ -1,0 +1,27 @@
+article.post.typography{
+  .blender-samples{
+    .title{
+      @include span-columns(3);
+    }
+    .typo-example{
+      @include span-columns(9);
+      @include omega(2n); 
+      margin-bottom: 1em;   
+    }
+  }
+
+  .typo-book-italic{
+    font-family: $italic-font-family;
+  }
+
+  .typo-bold{
+    font-family: $bold-font-family;
+  }
+
+  .typo-medium{
+    font-family: $medium-font-family;
+  }
+}
+
+  
+

@@ -1,0 +1,35 @@
+<svg id="stationery-letterhead" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 436.958 399.674" alt="Examples of BVN letterhead documents.">
+  <path fill="#FFF" d="M300.2 3.6h134V193H300zM3.5 3.6h134V193H3.4z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M300.2 3.6h134V193H300z"/>
+  <path d="M379 26.3V151h-56V26.4h56zm13 138v-151H310v151H392z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M379 26.3V151h-56V26.4h56zm13 138v-151H310v151H392z"/>
+  <path fill="#FFF" d="M300.2 207.4h134v189.4H300z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M300.2 207.4h134v189.4H300z"/>
+  <path d="M375.7 326.8V217h-66v120.8h33v49.5h33v-60.5zm33-93.3c0-9-7.5-16.5-16.6-16.5s-16.3 7.4-16.3 16.5S383 250 392 250s16.6-7.4 16.6-16.5"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M375.7 326.8V217h-66v120.8h33v49.5h33v-60.5zm33-93.3c0-9-7.5-16.5-16.6-16.5s-16.3 7.4-16.3 16.5S383 250 392 250s16.6-7.4 16.6-16.5z"/>
+  <path fill="#FFF" d="M152 207.4h133.8v189.4h-134z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M152 207.4h133.8v189.4h-134z"/>
+  <path d="M161.4 387.3h49.4V217h-49.4v170.3zm90.6-106V217h-33v64.4h33z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M161.4 387.3h49.4V217h-49.4v170.3zm90.6-106V217h-33v64.4h33z"/>
+  <path fill="#FFF" d="M3.5 207.4h134v189.4H3.4z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M3.5 207.4h134v189.4H3.4z"/>
+  <path d="M62.5 324c0 9.2 7.4 16.6 16.5 16.6 9 0 16.5-7.4 16.5-16.5 0-9-7.4-16.4-16.5-16.4-9 0-16.5 7.4-16.5 16.5M46 307.7H13V368h33v-60.4zm16.5-30.2h33V217H13v90.6h49.5v-30.2z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M62.5 324c0 9.2 7.4 16.6 16.5 16.6 9 0 16.5-7.4 16.5-16.5 0-9-7.4-16.4-16.5-16.4-9 0-16.5 7.4-16.5 16.5zM46 307.7H13V368h33v-60.4zm16.5-30.2h33V217H13v90.6h49.5v-30.2z"/>
+  <path fill="#FFF" d="M152 3.5h133.8V193h-134z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M152 3.5h133.8V193h-134z"/>
+  <path d="M251.7 58.3h-24.4V21.7h24.4v36.6zm8.6 8.7V13h-99v121H178V179h49.3V67h33z"/>
+  <path fill="none" stroke="#000" stroke-width=".5" stroke-miterlimit="10" d="M251.7 58.3h-24.4V21.7h24.4v36.6zm8.6 8.7V13h-99v121H178V179h49.3V67h33z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M3.5 3.6h134V193H3.4z"/>
+  <path fill="none" stroke="#000" stroke-width=".2" d="M3.5 3.6h134V193H3.4z"/>
+  <g>
+    <defs>
+      <path id="a" d="M13 9h114.5v178H13z"/>
+    </defs>
+    <clipPath id="b">
+      <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#b)">
+      <image width="1030" height="1452" overflow="visible" xlink:href="{{site.baseurl}}/assets/letterhead-documents.png" transform="translate(2.834 2.835) scale(.1314)"/>
+    </g>
+  </g>
+</svg>

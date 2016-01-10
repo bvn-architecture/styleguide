@@ -1,0 +1,26 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <nav class="foot-nav">
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <div class="org-info">
+      <h2 class="footer-heading">{{ site.title }}</h2>
+
+      <div class="site-description">{{ site.description }}</div>
+      
+      {% include social/social-links.html %}
+
+      
+    </div>
+    
+    <div class="cc-attributution">Icons made by <a href="http://www.flaticon.com/authors/google" title="Google">Google</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
+    
+</footer>

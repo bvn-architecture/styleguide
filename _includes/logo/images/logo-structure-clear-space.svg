@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -116 1091.3 660.5" alt="Demonstration of correct clear space surrounding the BVN logo.">
+  <path fill="none" stroke="#000" stroke-width=".3" d="M102.3-115h987v658.4h-987z"/>
+  <path fill="#FFF" stroke="#000" stroke-width=".3" d="M234 411.8h131v131.6H234V411.8zm-131.7-132h131v131.6h-131V279.8z"/>
+  <path fill="#FFF" d="M102.7 17h130v131h-130V17z"/>
+  <path d="M232.5 18v129.5h-129V18h129m.8-1.4h-131v131.6h131V16.6zM90 16.6h11.8v131.6h-12V16.6z"/>
+  <text transform="translate(160.007 94.436)"  font-size="29.8">X</text>
+  <text transform="translate(291.655 487.214)" font-size="29.8">X</text>
+  <text transform="translate(2.212 94.557)"    font-size="29.8">1/3</text>
+  <path d="M693.3 102.2v246.2h-63.5l63.5-246.2zM450 348.4c7.7-15.4 12.4-32.8 12.4-51.5 0-32.5-13.7-62.3-35.8-83.2 22-21 35.8-50.3 35.8-83v-.6l56.2 217.6H450v.6zm-153.7 0V245.7h51.5c28 0 51.5 23 51.5 51.5 0 28-23 51.5-51 51.5h-52v-.5.2zm51.5-268.8c28 0 51.5 23 51.5 51.5 0 28.2-23 51.6-51 51.6h-52v-103H348h-.2zm286.2 0l-59.3 232-60-232H634zm236 268.8H757V161l113 187.4zm24.8-81.4L781.6 79.6h113.2V267zM233.4 16.6v394.7h724.4V16.6H233.4z"/>
+</svg>

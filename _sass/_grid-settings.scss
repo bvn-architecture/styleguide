@@ -1,0 +1,11 @@
+$column: 90px;
+$gutter: 10px;
+$grid-columns: 12;
+$max-width: 900px;
+$first-breakpoint-value: 400px;
+$second-breakpoint-value: 835px;
+$third-breakpoint-value: 900px;
+$small-screen:  new-breakpoint(max-width em($first-breakpoint-value - 1) 2);
+$medium-screen: new-breakpoint(min-width em($first-breakpoint-value) max-width em($second-breakpoint-value) 4);
+$large-screen:  new-breakpoint(min-width em($second-breakpoint-value + 1) max-width em($third-breakpoint-value - 1) 8);
+$xl-screen:     new-breakpoint(min-width em($third-breakpoint-value));

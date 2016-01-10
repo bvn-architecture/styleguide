@@ -1,0 +1,98 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@font-face{
+    font-family: 'Blender-book';
+    //src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-book-webfont.eot'                );
+    src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-book-webfont.eot?#iefix'         ) format('embedded-opentype'),
+         url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-book-webfont.woff'               ) format('woff');//,
+         //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-book-webfont.ttf'                ) format('truetype'),
+         //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-book-webfont.svg#blender_probook') format('svg');
+}
+@font-face{
+    font-family: 'Blender-book-italic';
+    //src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bookitalic-webfont.eot'                );
+    src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bookitalic-webfont.eot?#iefix'         ) format('embedded-opentype'),
+         url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bookitalic-webfont.woff'               ) format('woff');//,
+         //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bookitalic-webfont.ttf'                ) format('truetype'),
+         //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bookitalic-webfont.svg#blender_probook') format('svg');
+}
+ @font-face{
+     font-family: 'Blender-bold';
+     //src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bold-webfont.eot'                );
+     src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bold-webfont.eot?#iefix'         ) format('embedded-opentype'),
+          url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bold-webfont.woff'               ) format('woff');//,
+          //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bold-webfont.ttf'                ) format('truetype'),
+          //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-bold-webfont.svg#blender_probold') format('svg');
+}
+@font-face{
+    font-family: 'Blender-medium';
+    //src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-medium-webfont.eot'                );
+    src: url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-medium-webfont.eot?#iefix'         ) format('embedded-opentype'),
+         url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-medium-webfont.woff'               ) format('woff');//,
+         //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-medium-webfont.ttf'                ) format('truetype'),
+         //url('https://s3-ap-southeast-2.amazonaws.com/styleguide-cuttlefish/blender/blenderpro-medium-webfont.svg#blender_promedium') format('svg');
+}
+
+// Our variables
+$base-font-family:   'Blender-book',        "Blender", Arial, sans-serif;
+$bold-font-family:   'Blender-bold',        "Blender", Arial, sans-serif;
+$medium-font-family: 'Blender-medium',      "Blender", Arial, sans-serif;
+$italic-font-family: 'Blender-book-italic', "Blender", Arial, sans-serif;
+$base-font-size:   18px;
+$small-font-size:  $base-font-size * 0.875;
+$base-font-weight: 400;
+
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+* { box-sizing: Border-box }
+
+//vendor imports
+@import "../bourbon/bourbon"; 
+@import "grid-settings";
+//$visual-grid: true;
+@import "../neat/neat";
+@import "../neat/neat-helpers";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "colours",
+        "base",
+        "layout",
+        "syntax-highlighting",
+        "footer",
+        "colours-page",
+        "logo",
+        "graphical-elements",
+        "typography",
+        "intro-message",
+        "stationery",
+        "templates",
+        "foot-nav"
+;
