@@ -53,6 +53,16 @@ There are some compatibility issues with ruby and jekyll for windows operating s
 ##Editing files
 [Sublime Text 3](http://www.sublimetext.com/3) is an excellent editor for SVG, markdown and html. 
 
+###Making a pull request
+1. Make a new branch within GitHub (desktop application).
+2. Change branch to the new assigned branch.
+3. Make changes and sync (pull and push) changes.
+4. Submit a pull request.
+5. On github.com, navigate to pull requests and select the submitted pull request.
+6. Check for any error/warnings before merging the pull request.
+7. Press “Merge pull request,” Press “Confirm merge.”
+8. Clean up branch if necessary.
+
 ###Testing server on local
 To test your Jekyll files on you computer before syncing:
 * Navigate to your folder file in GitBash. (NOTE: You can press 'shift + right click' to open GitBash and cmd.exe with the folder, skipping the 'cd C:/...' line)
@@ -76,3 +86,4 @@ Synchronising your files with GitHub will allow you to work on a project with mu
 We use Waffle to prioritise issues, to see what we think needs to be worked on next [go to the board](https://waffle.io/bvn-architecture/styleguide)
 
 [![Throughput Graph](https://graphs.waffle.io/bvn-architecture/styleguide/throughput.svg)](https://waffle.io/bvn-architecture/styleguide/metrics)
+
