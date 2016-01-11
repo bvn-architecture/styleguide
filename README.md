@@ -53,11 +53,11 @@ There are some compatibility issues with ruby and jekyll for windows operating s
 ##Editing files
 [Sublime Text 3](http://www.sublimetext.com/3) is an excellent editor for SVG, markdown and html. 
 
-###Making a pull request
-1. Make a new branch within GitHub (desktop application).
+###Making a pull request on new branch
+1. "Create a new branch" within GitHub (desktop application).
 2. Change branch to the new assigned branch.
-3. Make changes and sync (pull and push) changes.
-4. Submit a pull request.
+3. Make changes to files and sync (pull and push) changes.
+4. "Create pull request," add the title and description.
 5. On github.com, navigate to pull requests and select the submitted pull request.
 6. Check for any error/warnings before merging the pull request.
 7. Press “Merge pull request,” Press “Confirm merge.”
