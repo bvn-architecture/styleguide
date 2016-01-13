@@ -10,8 +10,6 @@ p,
 blockquote,
 pre,
 hr,
-dl,
-dd,
 ol,
 ul,
 figure {
@@ -45,7 +43,6 @@ blockquote,
 pre,
 ul,
 ol,
-dl,
 figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
@@ -66,20 +63,6 @@ figure > img {
 
 figcaption {
   font-size: $small-font-size;
-}
-
-
-//Lists
-ul,
-ol {
-  margin-left: $spacing-unit;
-}
-
-li {
-  > ul,
-  > ol {
-     margin-bottom: 0;
-  }
 }
 
 
@@ -105,6 +88,13 @@ h3{
   font-weight: bold;
 }
 
+//List
+ul {
+  list-style: none;
+}
+li:before {
+  content: "-   ";
+}
 
 
 //Links
@@ -211,4 +201,22 @@ pre {
 //breakline
 hr{
   margin-bottom: 10px;
+}
+
+
+//dl tables
+dl {
+
+}
+
+dt {
+  float: left;
+  @include span-columns(3);
+}
+
+dd {
+  float: left;
+  @include span-columns(8);
+  @include omega();
+  
 }
