@@ -1,7 +1,5 @@
 .alphabet-table-key{
-    @include span-columns(3);
-    
-
+	@include span-columns(3);
 }
 
 .alphabet-table-value{

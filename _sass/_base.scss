@@ -88,15 +88,6 @@ h3{
   font-weight: bold;
 }
 
-//List
-ul {
-  list-style: none;
-}
-li:before {
-  content: "-   ";
-}
-
-
 //Links
 a {
   color: $brand-color;
@@ -189,6 +180,7 @@ pre {
   }
 }
 
+
 //Wrong Cross Icon
 .cross-options {
   @include span-columns(1);
@@ -203,20 +195,30 @@ hr{
   margin-bottom: 10px;
 }
 
-
 //dl tables
 dl {
-
 }
 
 dt {
   float: left;
   @include span-columns(3);
+  >p{
+    font-size: 24vw;
+    outline-width: 0;
+    @include span-columns(3);
+  }
 }
 
 dd {
   float: left;
   @include span-columns(8);
-  @include omega();
-  
+  @include omega(); 
+}
+
+//List
+ul {
+  list-style: none;
+}
+li:before {
+  content: "-   ";
 }

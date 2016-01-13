@@ -8,4 +8,4 @@ categories:
 image:        
 ---
 
-{% include a-introductory-documents.markdown %}
+{% include alphabet/alphabet-markdown/a-introductory-documents.markdown %}
