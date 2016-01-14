@@ -10,3 +10,4 @@ image:
 
 {% include alphabet/alphabet-markdown/letter-a.markdown %}
 {% include alphabet/alphabet-markdown/letter-b.markdown %}
+{% include alphabet/alphabet-markdown/letter-c.markdown %}

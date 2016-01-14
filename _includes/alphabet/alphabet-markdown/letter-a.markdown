@@ -2,11 +2,11 @@
 
 <dl>
 
-<dt markdown="1" font-witdh="100%" height="200px">
-{% include alphabet/alphabet-markdown/a/a.svg %}
+<dt markdown="1" class="alphabet-table-key">
+{% include alphabet/alphabet-markdown/cap-letter.svg letter-assign="A" %}
 </dt>
-<dd>
-<div markdown="1" style="height:200px">
+<dd class="alphabet-table-value">
+<div markdown="1">
 ###Introductory documents
 </div>
 
