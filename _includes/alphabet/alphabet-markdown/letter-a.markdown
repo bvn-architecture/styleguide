@@ -1,4 +1,6 @@
-
+<div data-role="main" class="ui-content">
+	<div data-role="collapsible">
+		<h1>A - Introductory documents</h1>
 
 <dl>
 
@@ -9,6 +11,7 @@
 <div markdown="1">
 ###Introductory documents
 </div>
+</dd>
 
 <dt markdown="1">
 {% include alphabet/alphabet-markdown/a/a-1-key.markdown %}
@@ -17,6 +20,7 @@
 <div markdown="1">
 {% include alphabet/alphabet-markdown/a/a-1-value.markdown %}
 </div>
+</dd>
 
 <dt markdown="1">
 {% include alphabet/alphabet-markdown/a/a-2-key.markdown %}
@@ -25,6 +29,7 @@
 <div markdown="1">
 {% include alphabet/alphabet-markdown/a/a-2-value.markdown %}
 </div>
+</dd>
 
 <dt markdown="1">
 {% include alphabet/alphabet-markdown/a/a-3-key.markdown %}
@@ -33,6 +38,7 @@
 <div markdown="1">
 {% include alphabet/alphabet-markdown/a/a-3-value.markdown %}
 </div>
+</dd>
 
 <dt markdown="1">
 {% include alphabet/alphabet-markdown/a/a-4-key.markdown %}
@@ -41,6 +47,7 @@
 <div markdown="1">
 {% include alphabet/alphabet-markdown/a/a-4-value.markdown %}
 </div>
+</dd>
 
 <dt markdown="1">
 {% include alphabet/alphabet-markdown/a/a-5-key.markdown %}
@@ -52,3 +59,8 @@
 </dd>
 
 </dl>
+
+
+
+</div>
+</div>

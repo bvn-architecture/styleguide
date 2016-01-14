@@ -206,7 +206,7 @@ dt {
 }
 
 dd {
-  float: left;
+  
   @include span-columns(8);
   @include omega(); 
   margin-bottom: 10px;
