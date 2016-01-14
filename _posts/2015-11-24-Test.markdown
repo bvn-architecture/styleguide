@@ -1,11 +1,12 @@
 ---
 layout:       post
-title:        Templates
-class:       "templates"
+title:        Test
+class:       "test"
 date:         2015-11-25T17:52:48+11:00
-description: "BVN designed templates."
+description: "test styleguide."
 categories:      
 image:        
 ---
 
-{% include alphabet/alphabet-markdown/a-introductory-documents.markdown %}
+{% include alphabet/alphabet-markdown/letter-a.markdown %}
+{% include alphabet/alphabet-markdown/letter-b.markdown %}

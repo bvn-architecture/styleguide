@@ -1,5 +1,6 @@
 .alphabet-table-key{
-	@include span-columns(3);
+	@include span-columns(12);
+	font: width:"100%", height:"200px"
 }
 
 .alphabet-table-value{
