@@ -205,6 +205,14 @@ dt {
   margin-bottom: 10px;
 }
 
+//larger than phone
+@media screen and (max-width: 960px){
+  dt{
+    @include span-columns(12);
+  }
+}  
+
+
 dd {
   
   @include span-columns(8);
