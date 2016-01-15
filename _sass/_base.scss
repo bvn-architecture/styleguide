@@ -218,7 +218,7 @@ dd {
 }
 
 //Smaller than tabler, do this
-@media screen and (max-width: 960px){
+@media screen and (max-width: 1000px){
   dt{
     @include span-columns(12);
   }

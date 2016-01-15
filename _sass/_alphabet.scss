@@ -1,16 +1,27 @@
 .alphabet-table-key{
-	height: 200px;
+	height: 250px;
 
 }
 
 
 .alphabet-table-value{
    > div{
-    	height: 200px;
+    	height: 250px;
    }
 }
 
-@media screen and (max-width: 900px){
+.alphabet-table-key-two{
+   //font-size: 25vw;
+     > div{
+      height: 250px;
+      font-size: 400px;
+      line-height: 0.55;
+   }
+
+}
+
+
+@media screen and (max-width: 1000px){
   .alphabet-table-value{
    	> div{
       height: auto;

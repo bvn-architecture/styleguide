@@ -3,8 +3,10 @@
 
 <dl>
 
-<dt markdown="1" class="alphabet-table-key">
-{% include alphabet/alphabet-markdown/cap-letter.svg letter-assign="H" %}
+<dt class="alphabet-table-key-two">
+<div markdown="1" >
+H
+</div>
 </dt>
 <dd class="alphabet-table-value">
 <div markdown="1">
@@ -33,7 +35,7 @@
 <dt markdown="1">
 </dt>
 <dd markdown="1">
-####Feature stairs
+####_Feature stairs_
 </dd>
 
 <dt markdown="1">
@@ -66,7 +68,7 @@
 <dt markdown="1">
 </dt>
 <dd markdown="1">
-####Lifts
+####_Lifts_
 </dd>
 
 <dt markdown="1">

@@ -4,8 +4,10 @@
 
 <dl>
 
-<dt markdown="1" class="alphabet-table-key">
-{% include alphabet/alphabet-markdown/cap-letter.svg letter-assign="D" %}
+<dt class="alphabet-table-key-two">
+<div markdown="1" >
+D
+</div>
 </dt>
 <dd class="alphabet-table-value">
 <div markdown="1">
