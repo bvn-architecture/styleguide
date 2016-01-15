@@ -8,7 +8,9 @@ categories:
 image:        
 ---
 
-{% include alphabet/alphabet-markdown/letter-a.markdown %}
-{% include alphabet/alphabet-markdown/letter-b.markdown %}
-{% include alphabet/alphabet-markdown/letter-c.markdown %}
-{% include alphabet/alphabet-markdown/letter-c.markdown %}
+{% include alphabet/alphabet-introduction.markdown %}
+{% include alphabet/letter-a.markdown %}
+{% include alphabet/letter-b.markdown %}
+{% include alphabet/letter-c.markdown %}
+{% include alphabet/letter-d.markdown %}
+{% include alphabet/letter-e.markdown %}

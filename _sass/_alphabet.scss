@@ -21,3 +21,17 @@
 	margin: 0 !important;
 	
 }
+
+//changing jquerymobile css
+.ui-collapsible-themed-content .ui-collapsible-content{
+	border: 0px;
+}
+
+.ui-body-a,
+.ui-page-theme-a .ui-body-inherit,
+html .ui-bar-a .ui-body-inherit,
+html .ui-body-a .ui-body-inherit,
+html body .ui-group-theme-a .ui-body-inherit,
+html .ui-panel-page-container-a{
+	background-color: transparent;
+}

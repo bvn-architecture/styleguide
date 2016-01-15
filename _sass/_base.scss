@@ -217,14 +217,14 @@ dd {
   margin-bottom: 10px;
 }
 
-//larger than phone
+//Smaller than tabler, do this
 @media screen and (max-width: 960px){
   dt{
     @include span-columns(12);
   }
   dd{
-    margin-left: 0px;
-    @include span-columns(12);
+    @include shift(1);
+    width: auto;
   }
 }  
 

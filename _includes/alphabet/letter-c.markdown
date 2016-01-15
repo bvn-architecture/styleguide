@@ -1,3 +1,5 @@
+<div data-role="collapsible" data-inset="false">
+	<h1>C - External elevations</h1>
 
 
 <dl>
@@ -9,6 +11,7 @@
 <div markdown="1">
 ###External elevations
 </div>
+</dd>
 
 <dt markdown="1">
 {% include alphabet/alphabet-markdown/c/c-1-key.markdown %}
@@ -17,6 +20,7 @@
 <div markdown="1">
 {% include alphabet/alphabet-markdown/c/c-1-value.markdown %}
 </div>
+</dd>
 
 <dt markdown="1">
 {% include alphabet/alphabet-markdown/c/c-2-key.markdown %}
@@ -28,3 +32,5 @@
 </dd>
 
 </dl>
+
+</div>

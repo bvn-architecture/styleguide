@@ -1,6 +1,5 @@
-<div data-role="main" class="ui-content">
-	<div data-role="collapsible">
-		<h1>A - Introductory documents</h1>
+<div data-role="collapsible" data-inset="false">
+	<h1>A - Introductory documents</h1>
 
 <dl>
 
@@ -62,5 +61,4 @@
 
 
 
-</div>
 </div>
