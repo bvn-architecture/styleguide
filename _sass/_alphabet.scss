@@ -1,13 +1,23 @@
 .alphabet-table-key{
 	height: 200px;
+
 }
+
 
 .alphabet-table-value{
-    > div{
+   > div{
     	height: 200px;
-    }
-
-
-
+   }
 }
 
+@media screen and (max-width: 900px){
+  .alphabet-table-value{
+   	> div{
+      height: auto;
+    }
+  }
+}  
+.custom-collapsible{
+	margin: 0 !important;
+	
+}

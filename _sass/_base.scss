@@ -12,7 +12,8 @@ pre,
 hr,
 ol,
 ul,
-dt,dl,
+dt,
+dl,
 figure {
   margin: 0;
   padding: 0;
@@ -202,9 +203,18 @@ dl {
 
 dt {
   float: left;
+  clear: left;
   @include span-columns(3);
   margin-bottom: 10px;
   @include omega();
+}
+
+
+
+dd {
+  @include span-columns(9);
+  margin-left: auto;
+  margin-bottom: 10px;
 }
 
 //larger than phone
@@ -212,15 +222,11 @@ dt {
   dt{
     @include span-columns(12);
   }
+  dd{
+    margin-left: 0px;
+    @include span-columns(12);
+  }
 }  
-
-
-dd {
-  
-  @include span-columns(9);
-  margin-left: 0px;
-  margin-bottom: 10px;
-}
 
 
 //List
