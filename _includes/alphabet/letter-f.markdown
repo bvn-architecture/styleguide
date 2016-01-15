@@ -1,0 +1,45 @@
+<div data-role="collapsible" data-inset="false">
+	<h1>F - Floor, wall and ceiling finishes</h1>
+
+
+<dl>
+
+<dt markdown="1" class="alphabet-table-key">
+{% include alphabet/alphabet-markdown/cap-letter.svg letter-assign="F" %}
+</dt>
+<dd class="alphabet-table-value">
+<div markdown="1">
+###Floor, wall and ceiling finishes
+</div>
+</dd>
+
+<dt markdown="1">
+{% include alphabet/alphabet-markdown/f/f-1-key.markdown %}
+</dt>
+<dd>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/f/f-1-value.markdown %}
+</div>
+</dd>
+
+<dt markdown="1">
+{% include alphabet/alphabet-markdown/f/f-2-key.markdown %}
+</dt>
+<dd>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/f/f-2-value.markdown %}
+</div>
+
+</dd>
+<dt markdown="1">
+{% include alphabet/alphabet-markdown/f/f-3-key.markdown %}
+</dt>
+<dd>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/f/f-3-value.markdown %}
+</div>
+</dd>
+
+</dl>
+
+</div>

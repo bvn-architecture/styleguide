@@ -14,3 +14,6 @@ image:
 {% include alphabet/letter-c.markdown %}
 {% include alphabet/letter-d.markdown %}
 {% include alphabet/letter-e.markdown %}
+{% include alphabet/letter-f.markdown %}
+{% include alphabet/letter-g.markdown %}
+{% include alphabet/letter-h.markdown %}
