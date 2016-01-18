@@ -1,9 +1,9 @@
 ---
 layout:       post
-title:        Test
+title:        BVN Alphabet
 class:       "test"
 date:         2015-11-25T17:52:48+11:00
-description: "test styleguide"
+description: "CART - BVN alphabet"
 categories:      
 image:        
 ---
@@ -26,3 +26,7 @@ image:
 {% include alphabet/letter-q.markdown %}
 {% include alphabet/letter-r.markdown %}
 {% include alphabet/letter-s.markdown %}
+{% include alphabet/letter-t.markdown %}
+{% include alphabet/letter-u.markdown %}
+{% include alphabet/letter-v.markdown %}
+{% include alphabet/letter-z.markdown %}

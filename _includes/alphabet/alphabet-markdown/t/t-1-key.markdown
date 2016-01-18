@@ -1,0 +1,1 @@
+General arrangement plan <span class="highlight-red">1:100</span>
