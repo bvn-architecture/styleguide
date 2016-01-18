@@ -31,8 +31,14 @@ J
 </div>
 </dt>
 <dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/j/j-2-value.markdown %}
+<div class="alphabet-table-value-three" markdown="1">
+{% include alphabet/alphabet-markdown/j/j-2-1-value.markdown %}
+</div>
+<div class="alphabet-table-value-three" markdown="1">
+{% include alphabet/alphabet-markdown/j/j-2-2-value.markdown %}
+</div>
+<div class="alphabet-table-value-three" markdown="1">
+{% include alphabet/alphabet-markdown/j/j-2-3-value.markdown %}
 </div>
 </dd>
 
