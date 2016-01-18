@@ -1,1 +1,1 @@
-Building location 1:200
+Building location <span class="highlight-red">1:200</span>

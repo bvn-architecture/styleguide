@@ -15,8 +15,10 @@ E
 </div>
 </dd>
 
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/e/e-1-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">

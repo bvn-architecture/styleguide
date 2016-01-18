@@ -1,1 +1,1 @@
-Lift car details 1:5
+Lift car details <span class="highlight-red">1:5</span>

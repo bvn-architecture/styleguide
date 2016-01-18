@@ -1,8 +1,5 @@
 - Grid lines
-- Finished floor level benchmarks
-- External wall systems, materials and finishes codes
-(No internal finishes description - all internal finishes are documented in F series)
-- Section symbols referring to 1:5 plan and section details in K series
-- ‘Enlarged area boxes’ referring to 1:5 plan details in K series
-- Openable windows indication
-- Movement/deflection joints
+- Setting-out dimensions - offsets from grids
+- ‘Enlarged area boxes’ referring to <span class="highlight-red">1:5</span> details in N series
+- Section references to <span class="highlight-red">1:5</span> details in N series
+- Description using systems, materials and finishes codes

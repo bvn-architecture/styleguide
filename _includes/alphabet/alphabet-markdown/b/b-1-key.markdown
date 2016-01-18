@@ -1,1 +1,1 @@
-General arrangements floor plans 1:100
+General arrangements floor plans <span class="highlight-red">1:100</span>

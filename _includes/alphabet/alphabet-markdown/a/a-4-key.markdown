@@ -1,2 +1,2 @@
-Site plan 1:500
+Site plan <span class="highlight-red">1:500</span>
 (overall plan including access roads and context)

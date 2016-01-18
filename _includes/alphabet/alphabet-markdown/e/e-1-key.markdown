@@ -1,5 +1,6 @@
-Reflected ceiling plans 1:100
+Reflected ceiling plans <span class="highlight-red">1:100</span>
 Show:
+
 - _Doors, only if full height_
 - _Full height joinery_
 - _Blinds, curtains, projectors and similar ceiling mounted items_

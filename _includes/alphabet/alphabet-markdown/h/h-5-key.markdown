@@ -1,1 +1,1 @@
-Feature stairs - details 1:5
+Feature stairs - details <span class="highlight-red">1:5</span>

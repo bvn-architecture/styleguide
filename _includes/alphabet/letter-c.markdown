@@ -15,8 +15,10 @@ C
 </div>
 </dd>
 
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/c/c-1-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">
@@ -24,8 +26,10 @@ C
 </div>
 </dd>
 
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/c/c-2-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">

@@ -9,7 +9,7 @@
 External door hardware is described in J series door schedule)
 - Glazing codes
 - Openable windows indication
-- ‘Enlarged area boxes’ referring to 1:50 elevations in C series
+- ‘Enlarged area boxes’ referring to <span class="highlight-red">1:50</span> elevations in C series
 - Section references
 - Graphical differentiation between existing structure and new build
 - Movement/deflection joints

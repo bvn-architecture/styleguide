@@ -5,7 +5,7 @@
 <dl>
 
 <dt class="alphabet-table-key-two">
-<div markdown="1" >
+<div markdown="1">
 F
 </div>
 </dt>
@@ -15,8 +15,10 @@ F
 </div>
 </dd>
 
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/f/f-1-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">
@@ -24,8 +26,10 @@ F
 </div>
 </dd>
 
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/f/f-2-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">
@@ -33,8 +37,10 @@ F
 </div>
 
 </dd>
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/f/f-3-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">

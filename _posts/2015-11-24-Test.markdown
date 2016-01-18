@@ -3,7 +3,7 @@ layout:       post
 title:        Test
 class:       "test"
 date:         2015-11-25T17:52:48+11:00
-description: "test styleguide."
+description: "test styleguide"
 categories:      
 image:        
 ---
@@ -17,3 +17,8 @@ image:
 {% include alphabet/letter-f.markdown %}
 {% include alphabet/letter-g.markdown %}
 {% include alphabet/letter-h.markdown %}
+{% include alphabet/letter-j.markdown %}
+{% include alphabet/letter-k.markdown %}
+{% include alphabet/letter-l.markdown %}
+{% include alphabet/letter-m.markdown %}
+{% include alphabet/letter-n.markdown %}

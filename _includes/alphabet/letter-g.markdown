@@ -4,7 +4,7 @@
 <dl>
 
 <dt class="alphabet-table-key-two">
-<div markdown="1" >
+<div markdown="1">
 G
 </div>
 </dt>
@@ -14,8 +14,10 @@ G
 </div>
 </dd>
 
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/g/g-1-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">

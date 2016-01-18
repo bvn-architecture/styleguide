@@ -15,8 +15,10 @@ B
 </div>
 </dd>
 
-<dt markdown="1">
+<dt>
+<div markdown="1">
 {% include alphabet/alphabet-markdown/b/b-1-key.markdown %}
+</div>
 </dt>
 <dd>
 <div markdown="1">
