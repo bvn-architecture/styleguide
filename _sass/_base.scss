@@ -223,7 +223,18 @@ dd {
   margin-bottom: 10px;
   @include shift(0.5);
   @include span-columns(8.5);
+  > div{
+    > ul{
+      > li:before {
+        content: "-";
+        padding-right: 8px;
+      }
+
+    }
+
+  }
 }
+
 
 //Smaller than tabler, do this
 @media screen and (max-width: 1000px){
@@ -240,7 +251,4 @@ dd {
 //List
 ul {
   list-style: none;
-}
-li:before {
-  content: "-   ";
 }
