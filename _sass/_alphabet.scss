@@ -4,6 +4,12 @@
 
 .alphabet-table-key{
 	height: 250px;
+  > div{
+    > P{
+      //line-height: 0.55;
+      line-height: 0.6;
+    }
+  }
 
 }
 
@@ -15,11 +21,12 @@
 }
 
 .alphabet-table-key-two{
-   //font-size: 25vw;
      > div{
-      height: 250px;
+      height: 275px;
       font-size: 400px;
-      line-height: 0.55;
+      > p{
+        line-height: 0.6;
+      }
    }
 
 }
