@@ -12,6 +12,7 @@ pre,
 hr,
 ol,
 ul,
+dd,
 dt,
 dl,
 figure {
@@ -199,7 +200,6 @@ hr{
 
 //dl tables
 dl {
-
 }
 
 dt {
@@ -219,13 +219,10 @@ dt {
   }
 }
 
-
-
-
 dd {
-  @include span-columns(9);
-  margin-left: auto;
   margin-bottom: 10px;
+  @include shift(0.5);
+  @include span-columns(8.5);
 }
 
 //Smaller than tabler, do this
