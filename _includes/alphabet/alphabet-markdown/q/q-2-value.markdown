@@ -1,0 +1,8 @@
+- Grid lines
+- Room names, room numbers and finished floor levels (FFL)
+- Wet areas fixtures and fittings codes
+- Section references referring to K series interface details
+- ‘Enlarged area boxes’ referring to K series interface details
+- Internal elevation references
+- Setting-out points
+- Dimensions and setting-out other than already done in <span class="highlight-red">1:100</span> E series

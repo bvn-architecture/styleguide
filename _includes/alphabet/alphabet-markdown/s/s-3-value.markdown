@@ -1,0 +1,6 @@
+- Plan, section, elevation in ‘nested’ arrangement
+- ‘Enlarged area boxes’ referring to S series <span class="highlight-red">1:5</span> details
+- Section references
+- Elevation references
+- Dimensions
+- Systems, materials and finishes codes

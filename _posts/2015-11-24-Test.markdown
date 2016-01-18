@@ -22,3 +22,7 @@ image:
 {% include alphabet/letter-l.markdown %}
 {% include alphabet/letter-m.markdown %}
 {% include alphabet/letter-n.markdown %}
+{% include alphabet/letter-p.markdown %}
+{% include alphabet/letter-q.markdown %}
+{% include alphabet/letter-r.markdown %}
+{% include alphabet/letter-s.markdown %}
