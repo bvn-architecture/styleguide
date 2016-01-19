@@ -1,1 +1,1 @@
-Building location <span class="highlight-red">1:200</span>
+<span class="transform-to-uppercase">Building location <span class="highlight-red">1:200</span></span>

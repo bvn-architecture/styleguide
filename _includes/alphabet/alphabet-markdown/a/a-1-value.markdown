@@ -1,4 +1,3 @@
 - Project name
 - BVN logo, Client's logo
-- 'Pretty picture'
-- 3D external view or simple rendering of the building
+- 'Pretty picture' - 3D external view or simple rendering of the building

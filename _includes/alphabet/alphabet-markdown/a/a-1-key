@@ -1,1 +1,1 @@
-Cover sheet
+<span class="transform-to-uppercase">Cover sheet</span>

@@ -2,6 +2,10 @@
   color: red;
 }
 
+.transform-to-uppercase{
+  text-transform: uppercase;
+}
+
 .alphabet-table-key{
 	height: 250px;
   > div{
@@ -33,6 +37,7 @@
 .alphabet-table-value-three{
   @include span-columns(1 of 3);
 }
+
 
 
 @media screen and (max-width: 1000px){

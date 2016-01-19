@@ -2,4 +2,4 @@
 - Setting-out dimensions/offsets from grid lines
 - Detail description using materials, systems and finishes codes
 - Detail reference boxes to <span class="highlight-red">1:5</span> K series interface details
-- Section references to <span class="highlight-red">1:5</span K series interface details
+- Section references to <span class="highlight-red">1:5</span> K series interface details

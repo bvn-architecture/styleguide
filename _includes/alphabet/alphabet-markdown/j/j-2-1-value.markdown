@@ -1,4 +1,3 @@
-- <span class="highlight-red">Contents of ‘base case’ door schedule:</span>
 - <span class="highlight-red">Level</span>
 - <span class="highlight-red">Door number</span>
 - <span class="highlight-red">Room number</span>

@@ -1,5 +1,6 @@
-Reflected ceiling plans <span class="highlight-red">1:100</span>
-Show:
+<span class="transform-to-uppercase">Reflected ceiling plans <span class="highlight-red">1:100</span></span>
+
+_Show:_
 
 - _Doors, only if full height_
 - _Full height joinery_

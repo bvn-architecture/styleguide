@@ -1,1 +1,1 @@
-Legend sheet
+<span class="transform-to-uppercase">Legend sheet</span>

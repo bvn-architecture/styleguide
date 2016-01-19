@@ -1,1 +1,1 @@
-Plans, sections and elevations in 'nested' arrangement <span class="highlight-red">1:20 1:10</span>
+<span class="transform-to-uppercase">Plans, sections and elevations in 'nested' arrangement <span class="highlight-red">1:20 1:10</span></span>

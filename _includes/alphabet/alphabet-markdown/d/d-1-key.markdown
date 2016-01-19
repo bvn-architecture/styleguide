@@ -1,1 +1,1 @@
-Sections <span class="highlight-red">1:100</span>
+<span class="transform-to-uppercase">Sections <span class="highlight-red">1:100</span></span>

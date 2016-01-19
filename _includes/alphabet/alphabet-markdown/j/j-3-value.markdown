@@ -1,2 +1,0 @@
-- Dimensions describing the geometry of door frames - all other variables eg partition thickness indicate as ‘VARIES’
-- Dimensions and description of vision panels, grilles and similar

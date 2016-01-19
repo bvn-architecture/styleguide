@@ -44,7 +44,6 @@ h6,
 p,
 blockquote,
 pre,
-ul,
 ol,
 figure,
 %vertical-rhythm {
@@ -210,6 +209,7 @@ dt {
   @include omega();
   //When inside key column on table.
    > div{
+    margin-bottom: $spacing-unit / 2;
     > p{
       margin-bottom: 0px;
       //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
@@ -224,14 +224,16 @@ dd {
   @include shift(0.5);
   @include span-columns(8.5);
   > div{
+    margin-bottom: $spacing-unit / 2;
+    > p{
+      margin-bottom: 0px;
+    }
     > ul{
       > li:before {
         content: "-";
         padding-right: 8px;
       }
-
     }
-
   }
 }
 

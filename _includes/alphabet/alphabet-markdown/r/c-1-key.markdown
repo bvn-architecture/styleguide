@@ -1,1 +1,0 @@
-Any other drawn information that doesn't fall into the BVN Alphabet sections.

@@ -1,7 +1,7 @@
-Detailed set-out elevations, with associated plans and sections <span class="highlight-red">1:50</span>
+<span class="transform-to-uppercase">Detailed set-out elevations, with associated plans and sections <span class="highlight-red">1:50</span></span>
 
-Nested arrangement of elevation, associated plan(s) and section(s) at <span class="highlight-red">1:50</span>, showing typical and special conditions of the facade.
+_Nested arrangement of elevation, associated plan(s) and section(s) at <span class="highlight-red">1:50</span>, showing typical and special conditions of the facade._
 
-Includes cladding, windows, curtain walling, shopfronts, roofing.
+_Includes cladding, windows, curtain walling, shopfronts, roofing._
 
-Shows typical configurations and composite interface with roof, ceilings, floors and internal partitions.
+_Shows typical configurations and composite interface with roof, ceilings, floors and internal partitions._

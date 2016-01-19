@@ -1,1 +1,1 @@
-Joinery details <span class="highlight-red">1:2 1:1</span>
+<span class="transform-to-uppercase">Joinery details <span class="highlight-red">1:2 1:1</span></span>

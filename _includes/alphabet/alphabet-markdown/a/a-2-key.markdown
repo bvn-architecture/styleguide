@@ -1,1 +1,1 @@
-Design intent
+<span class="transform-to-uppercase">Design intent</span>

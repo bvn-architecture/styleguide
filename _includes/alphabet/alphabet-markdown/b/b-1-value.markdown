@@ -11,14 +11,14 @@
 - Doors horizontal dimensional setting-out - offsets from grid lines and to critical side of the
 door frame only
 - Windows and external doors horizontal dimensional setting-out - offsets from grid lines only
-(See C and K series for windows description)
-- Joinery codes
-(If showing joinery at <span class="highlight-red">1:100</span> makes drawing graphically heavy, do not show here. Create a <span class="highlight-red">1:100</span> subset of general arrangement joinery drawings in L series)
+    - _(See C and K series for windows description)_
+- Joinery codes 
+    - _(If showing joinery at <span class="highlight-red">1:100</span> makes drawing graphically heavy, do not show here. Create a <span class="highlight-red">1:100</span> subset of general arrangement joinery drawings in L series)_
 - Wayfinding signage - free standing and wall hung; show codes and setting-out dimensions
 - Stair numbers, lift numbers, escalator numbers
 - ‘Enlarged area boxes’ referring to <span class="highlight-red">1:50</span> enlarged plans in B series if required
-(Do not show any description inside the box at <span class="highlight-red">1:100</span> scale.
-Only applicable if an area of floor plan becomes graphically heavy at <span class="highlight-red">1:100</span>)
+    - _(Do not show any description inside the box at <span class="highlight-red">1:100</span> scale._
+    - _Only applicable if an area of floor plan becomes graphically heavy at <span class="highlight-red">1:100</span>)_
 - Main section references to <span class="highlight-red">1:100</span> sections in D series drawings
 - External elevation references to <span class="highlight-red">1:100</span> elevations in C series drawings
 - Ramp falls
@@ -26,7 +26,7 @@ Only applicable if an area of floor plan becomes graphically heavy at <span clas
 - Graphical differentiation between the existing structure and the new build
 - Graphical differentiation between concrete and the other types of partition
 - Architectural metalwork systems codes
-(If showing metalwork at <span class="highlight-red">1:100</span> makes drawing graphically heavy, do not show here, create a <span class="highlight-red">1:100</span> subset of general arrangement metalwork drawings in N series)
+    - _(If showing metalwork at <span class="highlight-red">1:100</span> makes drawing graphically heavy, do not show here, create a <span class="highlight-red">1:100</span> subset of general arrangement metalwork drawings in N series)_
 - Grid lines
 - Ridge/parapet levels
 - Roofing systems, material and finishes codes

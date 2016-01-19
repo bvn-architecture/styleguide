@@ -1,1 +1,1 @@
-Concrete and waterproofing plans <span class="highlight-red">1:100</span>
+<span class="transform-to-uppercase">Concrete and waterproofing plans <span class="highlight-red">1:100</span></span>

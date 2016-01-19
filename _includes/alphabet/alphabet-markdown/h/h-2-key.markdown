@@ -1,1 +1,1 @@
-Escape stairs - back-of-house stairs - sections <span class="highlight-red">1:50</span>
+<span class="transform-to-uppercase">Escape stairs - back-of-house stairs - sections <span class="highlight-red">1:50</span></span>

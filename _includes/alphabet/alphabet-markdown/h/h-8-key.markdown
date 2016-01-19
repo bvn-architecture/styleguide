@@ -1,1 +1,1 @@
-Lift car details <span class="highlight-red">1:5</span>
+<span class="transform-to-uppercase">Lift car details <span class="highlight-red">1:5</span></span>
