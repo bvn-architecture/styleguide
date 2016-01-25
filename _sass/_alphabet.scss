@@ -1,60 +1,65 @@
-.highlight-red{
+.highlight-red {
   color: red;
 }
 
-.transform-to-uppercase{
+.transform-to-uppercase {
   text-transform: uppercase;
 }
 
-.alphabet-table-key{
-	height: 250px;
-  > div{
-    > P{
+.alphabet-table-key {
+  height: 250px;
+
+  > div {
+    > p {
       //line-height: 0.55;
-      line-height: 0.6;
+      line-height: .6;
     }
   }
 }
 
 
-.alphabet-table-value{
-   > div{
-    	height: 250px;
-   }
+.alphabet-table-value {
+
+  > div {
+    height: 250px;
+  }
 }
 
-.alphabet-table-key-two{
-     > div{
-      height: 275px;
-      font-size: 400px;
-      > p{
-        line-height: 0.6;
-      }
-   }
+.alphabet-table-key-two {
+
+  > div {
+    font-size: 400px;
+    height: 275px;
+
+    > p {
+      line-height: .6;
+    }
+  }
 
 }
 
-.alphabet-table-value-three{
+.alphabet-table-value-three {
   @include span-columns(1 of 3);
 }
 
 
 
 @media screen and (max-width: 1000px){
-  .alphabet-table-value{
-   	> div{
+  .alphabet-table-value {
+
+    > div {
       height: auto;
     }
   }
-}  
-.custom-collapsible{
-	margin: 0 !important;
-	
+}
+
+.custom-collapsible {
+  margin: 0 !important;
 }
 
 //changing jquerymobile css
-.ui-collapsible-themed-content .ui-collapsible-content{
-	border: 0px;
+.ui-collapsible-themed-content .ui-collapsible-content {
+  border: 0;
 }
 
 .ui-body-a,
@@ -62,6 +67,7 @@
 html .ui-bar-a .ui-body-inherit,
 html .ui-body-a .ui-body-inherit,
 html body .ui-group-theme-a .ui-body-inherit,
-html .ui-panel-page-container-a{
-	background-color: transparent;
+html .ui-panel-page-container-a {
+  background-color: transparent;
+  //TODO: @tuksun is html and body required to make this hit its target?
 }

@@ -1,181 +1,190 @@
-article.post.colour{
-.secondary-swatch, .tertiary-swatch  {
+article.post.colour {
+  .secondary-swatch,
+  .tertiary-swatch {
     display: inline-block;
     height: 2em;
     width: 5em;
-}
-
-
-span.colour-letter {
-    font-weight: bold;
-    display: inline-block;
-    width: 1em;
-    text-align: right;
-}
-span.colour-value {
-    display: inline-block;
-    width: 1.7em;
-    text-align: right;
-}
-
-.swatch{
-  display: inline-block;
-
-  &.primary{
-    @include span-columns(6);
-    @include omega(2n);
-    //width: 49.7%;//this is very annoying there is a space between them. TODO make a media query for this
-    .bvn-white{
-        stroke-width: 1px; 
-        stroke: black
-      }
   }
-  &.tint{
-    width: 100%;
-    .tint-wrapper{      
-      display: inline-block;
-      @include span-columns(3);
-      div{
-        height: 2em;
-        &.tint100{background-color:rgba($bvn-black, 1.00)}
-        &.tint070{background-color:rgba($bvn-black, 0.70)}
-        &.tint040{background-color:rgba($bvn-black, 0.40)}
-        &.tint015{background-color:rgba($bvn-black, 0.15)}
-      }
-      .tint-value {
-        text-align: center;
+
+
+  span.colour-letter {
+    display: inline-block;
+    font-weight: bold;
+    text-align: right;
+    width: 1em;
+  }
+
+  span.colour-value {
+    display: inline-block;
+    text-align: right;
+    width: 1.7em;
+  }
+
+  .swatch {
+    display: inline-block;
+
+    &.primary {
+      @include span-columns(6);
+      @include omega(2n);
+      //width: 49.7%;//this is very annoying there is a space between them. TODO make a media query for this
+
+      .bvn-white {
+        stroke: $bvn-black;
+        stroke-width: 1px;
       }
     }
-    
-  }
-  &.secondary, &.tertiary{
-  	
+
+    &.tint {
+      width: 100%;
+
+      .tint-wrapper {
+        @include span-columns(3);
+        display: inline-block;
+
+        div {
+          height: 2em;
+          &.tint100 {background-color: rgba($bvn-black, 1.00);}
+          &.tint070 {background-color: rgba($bvn-black,  .70);}
+          &.tint040 {background-color: rgba($bvn-black,  .40);}
+          &.tint015 {background-color: rgba($bvn-black,  .15);}
+        }
+
+        .tint-value {
+          text-align: center;
+        }
+      }
+    }
+
+    &.secondary, &.tertiary {
       @include span-columns(2);
-  	  height: 2em;
-    
-
-  }
-
-
-}
-
-.swatch-samples{
-  @include outer-container;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  .colour-block.numbers{
-    @include span-columns(2);
-    text-align: right;
-  }
-  .colour-block-sec { 
       height: 2em;
+    }
+  }
+
+  .swatch-samples {
+    @include outer-container;
+    margin-bottom: 2em;
+    margin-top: 2em;
+
+    .colour-block.numbers {
       @include span-columns(2);
-      &.opacity-100{opacity: 1.00;}
-  }
-}
+      text-align: right;
+    }
 
-.colour-block div { 
+    .colour-block-sec {
+      @include span-columns(2);
+      height: 2em;
+      &.opacity-100 {opacity: 1;}
+    }
+  }
+
+  .colour-block div {
     height: 2em;
-    &.opacity-100{opacity: 1.00;}
-    &.opacity-070{opacity: 0.70;}
-    &.opacity-040{opacity: 0.40;}
-    &.opacity-015{opacity: 0.15;}
+    &.opacity-100 {opacity: 1.00;}
+    &.opacity-070 {opacity: 0.70;}
+    &.opacity-040 {opacity: 0.40;}
+    &.opacity-015 {opacity: 0.15;}
+    }
+
+
+
+  .swatch-examples {
+    @include span-columns(10);
+    .colour-block {
+      display: inline-block;
+      float: left;
+      margin: 0;
+      width: 20%;
+    }
+  }
+
+  .swatch-random {
+    clear: both;
+
+    >div {
+      display: inline-block;
+      width: 5%;
+    }
+
+    >:nth-child(1)  {width: 20%; }
+    >:nth-child(2)  {width: 10%; }
+    >:nth-child(3)  {width: 20%; }
+    >:nth-child(4)  {width:  5%; }
+    >:nth-child(5)  {width: 15%; }
+    >:nth-child(6)  {width: 10%; }
+    >:nth-child(7)  {width: 10%; }
+    >:nth-child(8)  {width: 10%; }
+    >:nth-child(9)  {width:  5%; }
+    >:nth-child(10) {width: 10%; }
+    >:nth-child(11) {width: 15%; }
+    >:nth-child(12) {width: 20%; }
+    >:nth-child(13) {width: 10%; }
+    >:nth-child(14) {width: 20%; }
+    >:nth-child(15) {width: 10%; }
+    >:nth-child(16) {width: 10%; }
+    >:nth-child(17) {width: 15%; }
+    >:nth-child(18) {width: 10%; }
+    >:nth-child(19) {width:  5%; }
+    >:nth-child(20) {width: 10%; }
+    >:nth-child(21) {width: 20%; }
+    >:nth-child(22) {width: 10%; }
+    >:nth-child(23) {width: 10%; }
+    >:nth-child(24) {width: 15%; }
+    >:nth-child(25) {width:  5%; }
+  }
+
+  .plan-colouring {
+    @include span-columns(6);
+    @include omega();
+  }
+
+  #colour-option-one {
+    .open-space {        fill: $secondary-yellow;}
+    .crazy-space {       fill: $trans-secondary-yellow;   }
+    .private-space {     fill: $tertiary-teal;      }
+    .meeting-room {      fill: $secondary-green;    }
+    .wc {                fill: $secondary-brown;   }
+  }
+
+  #colour-option-two {
+    .open-space {        fill: $tertiary-green;}
+    .crazy-space {       fill: $trans-tertiary-green;   }
+    .private-space {     fill: $tertiary-pink;      }
+    .meeting-room {      fill: $secondary-beige;    }
+    .wc {                fill: $secondary-blue;   }
+  }
+
+  #colour-option-three {
+    .open-space {        fill: $secondary-blue;}
+    .crazy-space {       fill: $trans-secondary-blue;   }
+    .private-space {     fill: $secondary-green;      }
+    .meeting-room {      fill: $secondary-yellow;    }
+    .wc {                fill: $secondary-brown;   }
+  }
+
+  #colour-option-four {
+    .open-space {        fill: $secondary-brown;}
+    .crazy-space {       fill: $trans-secondary-brown;   }
+    .private-space {     fill: $secondary-blue;      }
+    .meeting-room {      fill: $secondary-green;    }
+    .wc {                fill: $secondary-yellow;   }
   }
 
 
 
-.swatch-examples{
- @include span-columns(10);
-  .colour-block {
-    float: left;
+  // svg#colour-option-two image {
+  //     display: none; //test to see if png looks acceptably good
+  // }
+
+  .primary-wrap {
     display: inline-block;
-    width: 20%;
-    margin: 0;
   }
-}
 
-.swatch-random{
-  clear:both;
-  >div{
-    width: 5%;
+  .rbg-wrap {
     display: inline-block;
   }
-  >:nth-child(1)  {width:20%; }
-  >:nth-child(2)  {width:10%; }
-  >:nth-child(3)  {width:20%; }
-  >:nth-child(4)  {width:5%;  }
-  >:nth-child(5)  {width:15%; }
-  >:nth-child(6)  {width:10%; }
-  >:nth-child(7)  {width:10%; }
-  >:nth-child(8)  {width:10%; }
-  >:nth-child(9)  {width:5%;  }
-  >:nth-child(10) {width:10%; }
-  >:nth-child(11) {width:15%; }
-  >:nth-child(12) {width:20%; }
-  >:nth-child(13) {width:10%; }
-  >:nth-child(14) {width:20%; }
-  >:nth-child(15) {width:10%; }
-  >:nth-child(16) {width:10%; }
-  >:nth-child(17) {width:15%; }
-  >:nth-child(18) {width:10%; }
-  >:nth-child(19) {width:5%;  }
-  >:nth-child(20) {width:10%; }
-  >:nth-child(21) {width:20%; }
-  >:nth-child(22) {width:10%; }
-  >:nth-child(23) {width:10%; }
-  >:nth-child(24) {width:15%; }
-  >:nth-child(25) {width:5%;  }
-}
 
-
-.plan-colouring{
-  @include span-columns(6);
-  @include omega();
-}
-#colour-option-one{
-  .open-space{        fill:$secondary-yellow;}
-  .crazy-space{       fill:$trans-secondary-yellow;   }
-  .private-space{     fill:$tertiary-teal;      }
-  .meeting-room{      fill:$secondary-green;    }
-  .wc{                fill:$secondary-brown;   }
-}
-#colour-option-two{
-  .open-space{        fill:$tertiary-green;}
-  .crazy-space{       fill:$trans-tertiary-green;   }
-  .private-space{     fill:$tertiary-pink;      }
-  .meeting-room{      fill:$secondary-beige;    }
-  .wc{                fill:$secondary-blue;   }
-}
-#colour-option-three{
-  .open-space{        fill:$secondary-blue;}
-  .crazy-space{       fill:$trans-secondary-blue;   }
-  .private-space{     fill:$secondary-green;      }
-  .meeting-room{      fill:$secondary-yellow;    }
-  .wc{                fill:$secondary-brown;   }
-}
-#colour-option-four{
-  .open-space{        fill:$secondary-brown;}
-  .crazy-space{       fill:$trans-secondary-brown;   }
-  .private-space{     fill:$secondary-blue;      }
-  .meeting-room{      fill:$secondary-green;    }
-  .wc{                fill:$secondary-yellow;   }
-}
-
-
-
-// svg#colour-option-two image {
-//     display: none; //test to see if png looks acceptably good
-// }
-
-.primary-wrap{
-  display: inline-block;
-}
-
-.rbg-wrap{
-  display: inline-block;
-}
-
-.cmyk-wrap{
-  display: inline-block;
-}
+  .cmyk-wrap {
+    display: inline-block;
+  }
 }
