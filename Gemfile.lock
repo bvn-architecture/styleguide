@@ -27,6 +27,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     fast-stemmer (1.0.2)
     ffi (1.9.10)
+    ffi (1.9.10-x64-mingw32)
     gemoji (2.1.0)
     github-pages (43)
       RedCloth (= 4.2.9)
@@ -113,6 +114,8 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.6.7.2-x64-mingw32)
+      mini_portile2 (~> 2.0.0.rc2)
     octokit (4.2.0)
       sawyer (~> 0.6.0, >= 0.5.3)
     parslet (1.5.0)
@@ -145,8 +148,12 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   bourbon
   github-pages
   neat
+
+BUNDLED WITH
+   1.11.2

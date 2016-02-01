@@ -70,6 +70,28 @@ To test your Jekyll files on you computer before syncing:
 ```
 bundle exec jekyll serve
 ```
+NOTE: if you receive a message similar to:
+```
+C:/Ruby200-x64/lib/ruby/gems/2.0.0/gems/bundler-1.11.2/lib/bundler/spec_set.rb:94:in `block in materialize': Could not find minitest-5.8.4 in any of the (Bundler::GemNotFound)
+```
+Run again:
+```
+bundle install
+```
+NOTE: Continue if receive similar message:
+```
+Configuration file: D:/BVN/styleguide/_config.yml
+            Source: D:/BVN/styleguide
+       Destination: D:/BVN/styleguide/_site
+      Generating...
+                    done.
+  Please add the following to your Gemfile to avoid polling for changes:
+    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+ Auto-regeneration: enabled for 'D:/BVN/styleguide'
+Configuration file: D:/BVN/styleguide/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+```
 * Navigate in chrome or Firefox to:
 ```
 http://localhost:4000/styleguide/
