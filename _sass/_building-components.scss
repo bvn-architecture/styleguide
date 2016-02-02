@@ -1,14 +1,27 @@
 .building-components-key{
-  @include span-columns(12);
+  @include span-columns(30 of 30);
 }
 
 .building-components-dt-block{
-  //@include span-columns(0.01);
-  width: 5px;
+  @include span-columns(1 of 30);
+  @include omega();
+  line-height: 1.2;
+  margin-bottom: 0;
+  margin-top: 3px;
 }
 
 .building-components-dd-block{
-  //width: auto;97.5
-  width: 90%;
-  margin-left: 15px;
+  @include span-columns(29 of 30);
+  @include omega();
+  margin-left: 0;
+  > div {
+    margin-bottom: $spacing-unit / 2;
+
+    > p {
+      line-height: 1.2;
+      //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
+      margin-bottom: 0;
+      margin-top: 3px;
+    }
+  }
 } 

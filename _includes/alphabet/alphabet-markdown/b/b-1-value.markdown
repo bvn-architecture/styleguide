@@ -8,8 +8,7 @@
 - Partition critical dimensions and setting-out
 - Plan setting-out of the wayfinding signage elements
 - Door numbers
-- Doors horizontal dimensional setting-out - offsets from grid lines and to critical side of the
-door frame only
+- Doors horizontal dimensional setting-out - offsets from grid lines and to critical side of the door frame only
 - Windows and external doors horizontal dimensional setting-out - offsets from grid lines only
     - _(See C and K series for windows description)_
 - Joinery codes 
