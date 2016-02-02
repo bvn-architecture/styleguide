@@ -1,3 +1,14 @@
 .building-components-key{
   @include span-columns(12);
 }
+
+.building-components-dt-block{
+  //@include span-columns(0.01);
+  width: 5px;
+}
+
+.building-components-dd-block{
+  //width: auto;97.5
+  width: 90%;
+  margin-left: 15px;
+} 
