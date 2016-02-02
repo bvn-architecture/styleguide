@@ -238,14 +238,14 @@ dd {
     }
 
     > ul {
-
       > li:before {
-        content: '-';
+        //content: '-';
         padding-right: 8px;
       }
     }
   }
 }
+
 
 
 //Smaller than tabler, do this
@@ -263,5 +263,12 @@ dd {
 
 //List
 ul {
-  list-style: none;
+  list-style-position: outside;
+  > li{
+    > ul{
+      > li{
+        list-style: none;
+      }
+    }
+  }
 }
