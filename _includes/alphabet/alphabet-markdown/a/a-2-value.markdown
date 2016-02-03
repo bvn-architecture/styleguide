@@ -1,0 +1,1 @@
+- ‘Pretty picture’ plans, layout and furniture - linework only, no codes or descriptions

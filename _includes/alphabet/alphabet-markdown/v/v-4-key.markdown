@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Lift shaft external elevations <span class="highlight-red">1:50</span></span>

@@ -1,0 +1,87 @@
+#alphabet{
+
+  //dl tables propeties
+  dt {
+    @include span-columns(3);
+    @include omega();
+    margin-bottom: 10px;
+    //When inside key column on table.
+
+    > div {
+      margin-bottom: $spacing-unit / 2;
+
+    }
+  }
+
+  dd {
+    @include shift(.5);
+    @include span-columns(8.5);
+    margin-bottom: 10px;
+
+    > div {
+      margin-bottom: $spacing-unit / 2;
+    }
+  }
+
+
+
+  //Smaller than tabler, do this
+  @media screen and (max-width: 1000px){
+    dt {
+      @include span-columns(12);
+    }
+
+    dd {
+      @include shift(1);
+      width: auto;
+    }
+  }
+
+
+
+  .alphabet-table-key {
+    height: 250px;
+    > div {
+      > p {
+        //line-height: 0.55;
+        line-height: .6;
+      }
+    }
+  }
+
+
+  .alphabet-table-value {
+
+    > div {
+      height: 250px;
+    }
+  }
+
+  .alphabet-table-key-two {
+
+    > div {
+      font-size: 400px;
+      height: 275px;
+
+      > p {
+        line-height: .6;
+      }
+    }
+
+  }
+
+  .alphabet-table-value-three {
+    @include span-columns(1 of 3);
+  }
+
+
+
+  @media screen and (max-width: 1000px){
+    .alphabet-table-value {
+
+      > div {
+        height: auto;
+      }
+    }
+  }
+}

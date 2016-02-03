@@ -1,7 +1,8 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
+
+@charset 'utf-8';
 
 @font-face{
     font-family: 'Blender-book';
@@ -74,7 +75,7 @@ $on-laptop:        800px;
 * { box-sizing: Border-box }
 
 //vendor imports
-@import "../bourbon/bourbon"; 
+@import "../bourbon/bourbon";
 @import "grid-settings";
 //$visual-grid: true;
 @import "../neat/neat";
@@ -94,5 +95,7 @@ $on-laptop:        800px;
         "intro-message",
         "stationery",
         "templates",
-        "foot-nav"
+        "foot-nav",
+        "alphabet",
+        "building-components"
 ;

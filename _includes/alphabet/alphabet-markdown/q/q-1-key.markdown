@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Wet areas legend sheet</span>

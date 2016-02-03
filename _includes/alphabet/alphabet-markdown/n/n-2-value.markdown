@@ -1,0 +1,5 @@
+- Grid lines
+- Setting-out dimensions - offsets from grids
+- ‘Enlarged area boxes’ referring to <span class="highlight-red">1:5</span> details in N series
+- Section references to <span class="highlight-red">1:5</span> details in N series
+- Description using systems, materials and finishes codes

@@ -1,0 +1,14 @@
+- <span class="highlight-red">Level</span>
+- <span class="highlight-red">Door number</span>
+- <span class="highlight-red">Room number</span>
+- <span class="highlight-red">Room name</span>
+- <span class="highlight-red">Door type</span>
+- <span class="highlight-red">Frame profile</span>
+- <span class="highlight-red">Meeting stile detail</span>
+- <span class="highlight-red">Door seals</span>
+- <span class="highlight-red">Door leaf construction</span>
+- <span class="highlight-red">Door leaf finish</span>
+- <span class="highlight-red">Door leaf width</span>
+- <span class="highlight-red">Door leaf height</span>
+- <span class="highlight-red">Door leaf thickness</span>
+- <span class="highlight-red">Fire rating</span>

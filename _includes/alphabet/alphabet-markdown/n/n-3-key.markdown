@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Architectural metalwork elevations and sections <span class="highlight-red">1:20</span></span>
