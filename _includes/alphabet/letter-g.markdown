@@ -10,7 +10,7 @@ G
 </dt>
 <dd class="alphabet-table-value">
 <div markdown="1">
-###Internal spaces
+### Internal spaces
 </div>
 </dd>
 

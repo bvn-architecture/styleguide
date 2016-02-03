@@ -10,7 +10,7 @@ H
 </dt>
 <dd class="alphabet-table-value">
 <div markdown="1">
-###Cores, stairs and lifts: Back of house stairs
+### Cores, stairs and lifts: Back of house stairs
 </div>
 </dd>
 
@@ -41,7 +41,7 @@ H
 </div>
 </dt>
 <dd markdown="1">
-####_Feature stairs_
+#### _Feature stairs_
 </dd>
 
 <dt>
@@ -82,7 +82,7 @@ H
 </div>
 </dt>
 <dd markdown="1">
-####_Lifts_
+#### _Lifts_
 </dd>
 
 <dt>

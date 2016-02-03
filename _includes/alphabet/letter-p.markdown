@@ -10,7 +10,7 @@ P
 </dt>
 <dd class="alphabet-table-value">
 <div markdown="1">
-###Cleaning and maintenance equipment
+### Cleaning and maintenance equipment
 </div>
 </dd>
 

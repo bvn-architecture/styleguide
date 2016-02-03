@@ -10,7 +10,7 @@ L
 </dt>
 <dd class="alphabet-table-value">
 <div markdown="1">
-###Furniture: Furniture, fixtures, fittings and equipment (FFE)
+### Furniture: Furniture, fixtures, fittings and equipment (FFE)
 </div>
 </dd>
 

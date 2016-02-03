@@ -1,5 +1,3 @@
-###asjkdhasdjlsahdlajsd
-
 <div data-role="collapsible" data-inset="false">
 	<h1>A - Introductory documents</h1>
 
@@ -12,7 +10,7 @@ A
 </dt>
 <dd class="alphabet-table-value">
 <div markdown="1">
-###Introductory documents
+### Introductory documents
 </div>
 </dd>
 

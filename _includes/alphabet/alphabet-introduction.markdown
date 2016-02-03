@@ -1,8 +1,8 @@
 <div markdown="1">
 
-#BVN Alphabet
+# BVN Alphabet
 
-#A guide to where the information belongs within the drawing set
+# A guide to where the information belongs within the drawing set
 
 This chapter is a detailed listing of the items we use to describe a building.
 

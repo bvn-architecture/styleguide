@@ -1,10 +1,10 @@
 <section id="stationery-page-project-record-book">
 </section>
 
-##Project record book
+## Project record book
 
 
-###Paper stock
+### Paper stock
 Covers: Notturno 700gsm, black
 Inside pages: Nordset 120gsm white
 
