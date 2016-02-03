@@ -272,3 +272,63 @@ ul {
     }
   }
 }
+
+//Text span options
+.highlight-red {
+  color: red;
+}
+
+.transform-to-uppercase {
+  text-transform: uppercase;
+}
+
+
+    //dl tables propeties
+  dt {
+    clear: left;
+    float: left;
+    > div {
+      > p {
+        line-height: 1.2;
+        //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
+        margin-bottom: 0;
+        margin-top: 3px;
+      }
+    }
+  }
+
+  dd {
+    > div {
+      > p {
+        line-height: 1.2;
+        //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
+        margin-bottom: 0;
+        margin-top: 3px;
+      }
+      > ul {
+        > li:before {
+          //content: '-';
+          padding-right: 8px;
+        }
+      }
+    }
+  }
+
+//Jquery collapsible box
+  .custom-collapsible {
+    margin: 0 !important;
+  }
+
+  //changing jquerymobile css
+  .ui-collapsible-themed-content .ui-collapsible-content {
+    border: 0;
+  }
+
+  .ui-body-a,
+  .ui-page-theme-a .ui-body-inherit,
+  .ui-bar-a .ui-body-inherit,
+  .ui-body-a .ui-body-inherit,
+  .ui-group-theme-a .ui-body-inherit,
+  .ui-panel-page-container-a {
+    background-color: transparent;
+  }

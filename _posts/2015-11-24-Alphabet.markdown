@@ -8,6 +8,8 @@ categories:
 image:        
 ---
 
+<div id="alphabet">
+
 {% include alphabet/alphabet-introduction.markdown %}
 {% include alphabet/letter-a.markdown %}
 {% include alphabet/letter-b.markdown %}
@@ -30,3 +32,5 @@ image:
 {% include alphabet/letter-u.markdown %}
 {% include alphabet/letter-v.markdown %}
 {% include alphabet/letter-z.markdown %}
+
+</div>

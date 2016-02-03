@@ -4,24 +4,19 @@
 
 .building-components-dt-block{
   @include span-columns(1 of 30);
-  @include omega();
   line-height: 1.2;
   margin-bottom: 0;
-  margin-top: 3px;
-}
+  > div {
+    margin-bottom: 0;
+    }
+  }
 
 .building-components-dd-block{
   @include span-columns(29 of 30);
   @include omega();
   margin-left: 0;
+  margin-bottom: 0;
   > div {
-    margin-bottom: $spacing-unit / 2;
-
-    > p {
-      line-height: 1.2;
-      //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
-      margin-bottom: 0;
-      margin-top: 3px;
-    }
+    margin-bottom: 0;
   }
 } 

@@ -1,73 +1,87 @@
-.highlight-red {
-  color: red;
-}
+#alphabet{
 
-.transform-to-uppercase {
-  text-transform: uppercase;
-}
+  //dl tables propeties
+  dt {
+    @include span-columns(3);
+    @include omega();
+    margin-bottom: 10px;
+    //When inside key column on table.
 
-.alphabet-table-key {
-  height: 250px;
+    > div {
+      margin-bottom: $spacing-unit / 2;
 
-  > div {
-    > p {
-      //line-height: 0.55;
-      line-height: .6;
     }
   }
-}
+
+  dd {
+    @include shift(.5);
+    @include span-columns(8.5);
+    margin-bottom: 10px;
+
+    > div {
+      margin-bottom: $spacing-unit / 2;
+    }
+  }
 
 
-.alphabet-table-value {
 
-  > div {
+  //Smaller than tabler, do this
+  @media screen and (max-width: 1000px){
+    dt {
+      @include span-columns(12);
+    }
+
+    dd {
+      @include shift(1);
+      width: auto;
+    }
+  }
+
+
+
+  .alphabet-table-key {
     height: 250px;
-  }
-}
-
-.alphabet-table-key-two {
-
-  > div {
-    font-size: 400px;
-    height: 275px;
-
-    > p {
-      line-height: .6;
+    > div {
+      > p {
+        //line-height: 0.55;
+        line-height: .6;
+      }
     }
   }
 
-}
 
-.alphabet-table-value-three {
-  @include span-columns(1 of 3);
-}
-
-
-
-@media screen and (max-width: 1000px){
   .alphabet-table-value {
 
     > div {
-      height: auto;
+      height: 250px;
     }
   }
-}
 
-.custom-collapsible {
-  margin: 0 !important;
-}
+  .alphabet-table-key-two {
 
-//changing jquerymobile css
-.ui-collapsible-themed-content .ui-collapsible-content {
-  border: 0;
-}
+    > div {
+      font-size: 400px;
+      height: 275px;
 
-.ui-body-a,
-.ui-page-theme-a .ui-body-inherit,
-html .ui-bar-a .ui-body-inherit,
-html .ui-body-a .ui-body-inherit,
-html body .ui-group-theme-a .ui-body-inherit,
-html .ui-panel-page-container-a {
-  background-color: transparent;
-  //TODO: @tuksun is html and body required to make this hit its target?
+      > p {
+        line-height: .6;
+      }
+    }
+
+  }
+
+  .alphabet-table-value-three {
+    @include span-columns(1 of 3);
+  }
+
+
+
+  @media screen and (max-width: 1000px){
+    .alphabet-table-value {
+
+      > div {
+        height: auto;
+      }
+    }
+  }
 }
