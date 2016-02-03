@@ -1,9 +1,9 @@
 .building-components-key{
-  @include span-columns(30 of 30);
+  
 }
 
 .building-components-dt-block{
-  @include span-columns(1 of 30);
+  width: 15px;
   line-height: 1.2;
   margin-bottom: 0;
   > div {
@@ -11,9 +11,10 @@
     }
   }
 
+.building-components-dt-block-micro{
+}
 .building-components-dd-block{
-  @include span-columns(29 of 30);
-  @include omega();
+  //width: auto;
   margin-left: 0;
   margin-bottom: 0;
   > div {

@@ -201,65 +201,6 @@ hr {
   margin-bottom: 10px;
 }
 
-//dl tables
-// dl {
-// }
-
-dt {
-  @include span-columns(3);
-  @include omega();
-  clear: left;
-  float: left;
-  margin-bottom: 10px;
-  //When inside key column on table.
-
-  > div {
-    margin-bottom: $spacing-unit / 2;
-
-    > p {
-      line-height: 1.2;
-      //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
-      margin-bottom: 0;
-      margin-top: 3px;
-    }
-  }
-}
-
-dd {
-  @include shift(.5);
-  @include span-columns(8.5);
-  margin-bottom: 10px;
-
-  > div {
-    margin-bottom: $spacing-unit / 2;
-
-    > p {
-      margin-bottom: 0;
-    }
-
-    > ul {
-      > li:before {
-        //content: '-';
-        padding-right: 8px;
-      }
-    }
-  }
-}
-
-
-
-//Smaller than tabler, do this
-@media screen and (max-width: 1000px){
-  dt {
-    @include span-columns(12);
-  }
-
-  dd {
-    @include shift(1);
-    width: auto;
-  }
-}
-
 
 //List
 ul {
