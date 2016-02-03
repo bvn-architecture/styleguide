@@ -1,7 +1,7 @@
 <section id="logo-page-logo-with-address-incorrect">
 </section>
 
-##Logo with address
+## Logo with address
 
 The logo and address should only ever appear in the top left-hand side corner of the page.
 
