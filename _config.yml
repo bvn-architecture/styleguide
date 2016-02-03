@@ -21,13 +21,13 @@ publisher:          "BVN"
 publisher_website:  "http://bvn.com.au/"
 
 # Build settings
-markdown:     "kramdown"
+markdown:     kramdown
 redcarpet:
   extensions: ["tables"]
 
 encoding:     "utf-8"
 permalink:    :title
-highlighter:  "pygments"
+highlighter:  "rouge"
 
 sass:
     sass_dir: _sass
