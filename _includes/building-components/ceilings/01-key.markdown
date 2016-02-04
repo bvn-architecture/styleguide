@@ -1,6 +1,5 @@
-<span class="transform-to-uppercase">**Describe** Construction</span>
-
 <dl>
+
 <dt id="building-components-dt-content">
 <div markdown="1">
 A
@@ -22,4 +21,5 @@ A
 - Key - description of systems and materials; reference to specification section
 </div>
 </dd>
+
 </dl>
