@@ -4,12 +4,13 @@ dl{
 }
 
 .building-components-key{
-  
+  padding-bottom: 50px;
 }
 
 .building-components-dt-block{
   @include span-columns(3);
   @include omega();
+  padding-bottom: 15px;
 }
 
 .building-components-dd-block{

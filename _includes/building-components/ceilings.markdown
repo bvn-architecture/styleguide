@@ -77,14 +77,9 @@
 <dd class=".building-components-dd-block">
 </dd>
 
-<dt class="building-components-dt-block">
-<div markdown="1">
-{% include building-components/ceilings/09-key.markdown %}
-</div>
-</dt>
-<dd class=".building-components-dd-block">
-</dd>
+
+{% include building-components/table-layout-block.markdown letter="E" key={% include building-components/09-key.markdown %} value={% include building-components/09-value.markdown %} %}
+
+
+
 </dl>
-
-</div>
-

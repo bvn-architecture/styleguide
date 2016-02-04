@@ -8,12 +8,9 @@ G
 <dd id="building-components-dd-content">
 <div markdown="1">
 <span class="transform-to-uppercase">
-Series internal spaces reflected ceiling plans
-<span class="highlight-red">
-1:50
-</span>
+Series internal spaces reflected ceiling plans <span class="highlight-red">1:50</span>
+
 _(Needed only if graphically too heavy in E series. If required show ‘enlarged area boxes’ referring to an enlarged area in G series. Do not repeat descriptions.)_
-</span>
 </div>
 </dd>
 
