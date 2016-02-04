@@ -11,15 +11,12 @@
 <dd>
 </dd>
 
-<dt>
+<dt class="building-components-dt-block">
 <div markdown="1">
 {% include building-components/ceilings/1-key.markdown %}
 </div>
 </dt>
-<dd>
-<div>
-
-</div>
+<dd class=".building-components-dd-block">
 </dd>
 
 </dl>

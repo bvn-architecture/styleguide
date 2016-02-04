@@ -1,25 +1,16 @@
-<span class="transform-to-uppercase">Identify ceiling types</span>
+<span class="transform-to-uppercase">**Identify ceiling types**</span>
 
 <dl>
-<dt class="building-components-dt-block">
+<dt id="building-components-dt-content">
 <div markdown="1">
 E
 </div>
 </dt>
-<dd class="building-components-dd-block">
+<dd id="building-components-dd-content">
+ 
 <div markdown="1">
-<span class="transform-to-uppercase">Series reflected ceiling plans <span class="highlight-red">1:100</span></span>
+<span class="transform-to-uppercase">Series reflected ceiling plans <span id="highlight-red">1:100</span></span>
 </div>
 </dd>
 
-<dt class="building-components-dt-block">
-<div markdown="1">
-E
-</div>
-</dt>
-<dd class="building-components-dd-block">
-<div markdown="1">
-<span class="transform-to-uppercase">Series reflected ceiling plans <span class="highlight-red">1:100</span></span>
-</div>
-</dd>
 </dl>

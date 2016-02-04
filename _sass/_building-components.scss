@@ -3,6 +3,18 @@
 }
 
 .building-components-dt-block{
+  @include span-columns(3);
+  @include omega();
+}
+
+.building-components-dd-block{
+  @include shift(.5);
+  @include span-columns(8.5);
+}
+
+
+
+#building-components-dt-content{
   width: 15px;
   line-height: 1.2;
   margin-bottom: 0;
@@ -10,13 +22,12 @@
     margin-bottom: 0;
     }
   }
-
-.building-components-dt-block-micro{
-}
-.building-components-dd-block{
-  //width: auto;
+#building-components-dd-content{
+  //subtract 100% by the value of the width in ".building-components-dt-content"
+  width: calc(100% - 15px);
   margin-left: 0;
   margin-bottom: 0;
+  line-height: 1.2;
   > div {
     margin-bottom: 0;
   }
