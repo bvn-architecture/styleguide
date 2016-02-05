@@ -7,8 +7,5 @@ description: "CART - Building Components"
 categories:      
 image:        
 ---
-{% if 2 >= 5 %}
-<span class="transform-to-uppercase" markdown="1">{{ include.title }}</span>
-{% endif %}
 
 {% include building-components/ceilings.markdown %}
