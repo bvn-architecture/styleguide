@@ -18,7 +18,9 @@ dl{
 .building-components-dd-block{
   @include shift(.5);
   @include span-columns(8.5);
-  margin-top: 5px;
+  p{
+    margin-bottom: 5px;
+  }
 }
 
 .building-components-title{

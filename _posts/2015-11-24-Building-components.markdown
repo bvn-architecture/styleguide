@@ -9,3 +9,4 @@ image:
 ---
 
 {% include building-components/ceilings.markdown %}
+{% include building-components/cleaning-and-maintenance-systems.markdown %}
