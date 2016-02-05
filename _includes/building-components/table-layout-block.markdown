@@ -26,9 +26,3 @@
 
 </div>
 </dt>
-
-<dd class="building-components-dd-block">
-<div markdown="1">
-{% include building-components/ceilings/01-image.svg %}
-</div>
-</dd>
