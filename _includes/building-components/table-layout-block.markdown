@@ -1,9 +1,14 @@
-
-
 <dt class="building-components-dt-block">
-<div markdown="1">
-{% title != blank %}
 
+{% if 2 >= 5 %}
+
+<span class="transform-to-uppercase" markdown="1">{{ include.title }}</span>
+
+{% endif %}
+
+<span class="transform-to-uppercase" markdown="1">**Describe** Finishes</span>
+
+<div markdown="1">
 
 <dl>
 <dt id="building-components-dt-content">
@@ -13,7 +18,7 @@
 </dt>
 <dd id="building-components-dd-content">
 <div markdown="1">
-{{ include.key }}
+{% include {{ include.key }} %}
 </div>
 </dd>
 
@@ -24,12 +29,10 @@
 </dt>
 <dd id="building-components-dd-content">
 <div markdown="1">
-{{ include.value }}
+{% include {{ include.value }} %}
 </div>
 </dd>
-
 </dl>
-
 
 </div>
 </dt>

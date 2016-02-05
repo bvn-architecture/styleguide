@@ -4,6 +4,7 @@
 <dl>
 
 <dt class="building-components-key">
+<span class="transform-to-uppercase" markdown="1">**Identify ceiling types**</span>
 <div markdown="1" >
 {% include building-components/ceilings/00-key.markdown %}
 </div>
@@ -52,33 +53,14 @@
 <dd class=".building-components-dd-block">
 </dd>
 
-<dt class="building-components-dt-block">
-<span class="transform-to-uppercase" markdown="1">**Describe** Finishes</span>
-<div markdown="1">
-{% include building-components/ceilings/06-key.markdown %}
-</div>
-</dt>
-<dd class=".building-components-dd-block">
-</dd>
+{% include building-components/table-layout-block.markdown letter="F" key="building-components/ceilings/07-key.markdown" value="building-components/ceilings/07-value.markdown" title="**Describe** Finishes"  %}
 
-<dt class="building-components-dt-block">
-<div markdown="1">
-{% include building-components/ceilings/07-key.markdown %}
-</div>
-</dt>
-<dd class=".building-components-dd-block">
-</dd>
+{% include building-components/table-layout-block.markdown letter="F" key="building-components/ceilings/07-key.markdown" value="building-components/ceilings/07-value.markdown"  %}
 
-<dt class="building-components-dt-block">
-<div markdown="1">
-{% include building-components/ceilings/08-key.markdown %}
-</div>
-</dt>
-<dd class=".building-components-dd-block">
-</dd>
+{% include building-components/table-layout-block.markdown letter="G" key="building-components/ceilings/08-key.markdown" value="building-components/ceilings/08-value.markdown"  %}
 
 
-{% include building-components/table-layout-block.markdown letter="E" key={% include building-components/09-key.markdown %} value={% include building-components/09-value.markdown %} %}
+{% include building-components/table-layout-block.markdown letter="Z" key="building-components/ceilings/09-key.markdown" value="building-components/ceilings/09-value.markdown" title=" "  %}
 
 
 

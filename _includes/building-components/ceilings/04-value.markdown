@@ -1,0 +1,4 @@
+- _(generic)_ ceiling-to-ceiling details
+- _(location specific)_ ceiling interface with external wall <span class="highlight-red">1:5</span>
+- _(location specific)_ ceiling interface with partitions <span class="highlight-red">1:5</span>
+- Make reference to <span class="highlight-red">1:5</span> details in K series

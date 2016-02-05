@@ -1,4 +1,4 @@
-	<span title="{{include.colourname}}" class="{{include.classes}} 100% opacity"></span>
+<span title="{{include.colourname}}" class="{{include.classes}} 100% opacity"></span>
 <span class="cmyk"> <span>
 		<span class="colour-letter cmyk-wrap">C</span><span class="colour-value">{{include.c}}</span>
 		<span class="colour-letter">M</span><span class="colour-value">{{include.m}}</span>
