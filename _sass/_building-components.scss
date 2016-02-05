@@ -11,14 +11,21 @@ dl{
   @include span-columns(3);
   @include omega();
   padding-bottom: 15px;
+  vertical-align: top;
+  text-align: left;
 }
 
 .building-components-dd-block{
   @include shift(.5);
   @include span-columns(8.5);
+  margin-top: 5px;
 }
 
-
+.building-components-title{
+  clear: left;
+  margin-bottom: 0;
+  width: 100%;
+}
 
 #building-components-dt-content{
   width: 15px;
