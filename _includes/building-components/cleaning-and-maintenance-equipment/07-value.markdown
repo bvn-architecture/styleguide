@@ -1,2 +1,0 @@
-- Create columns in room finishes schedule: <span class="transform-to-uppercase"> CEILING | Material | Finish | Bulkhead | Material | Finish </span>
-- Reference complex areas which can not be scheduled to <span class="highlight-red">1:50</span> reflected ceiling plans in G series
