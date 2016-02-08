@@ -1,0 +1,2 @@
+- Describe various areas of different flooring systems, substrates and finishes, using finishes codes
+- Make reference to <span class="highlight-red">1:5</span> details in K series interface details

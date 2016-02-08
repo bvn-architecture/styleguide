@@ -14,3 +14,4 @@ image:
 {% include building-components/demolition.markdown %}
 {% include building-components/doors.markdown %}
 {% include building-components/external-wall-systems.markdown %}
+{% include building-components/floors.markdown %}
