@@ -10,3 +10,5 @@ image:
 
 {% include building-components/ceilings.markdown %}
 {% include building-components/cleaning-and-maintenance-systems.markdown %}
+{% include building-components/concrete-setting-out-and-waterproofing.markdown %}
+{% include building-components/demolition.markdown %}

@@ -23,6 +23,12 @@ dl{
   }
 }
 
+.building-components-dd-text{
+  background-color: rgb(252,251,227);
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
 .building-components-title{
   clear: left;
   margin-bottom: 0;
@@ -47,4 +53,17 @@ dl{
   > div {
     margin-bottom: 0;
   }
+}
+
+@media screen and (max-width: 1000px){
+  .building-components-dt-block{
+    width: 100%;
+  }
+
+  .building-components-dd-block{
+    //@include shift();
+    margin-left:15px;
+    width: calc(100% - 30px);
+  }
+
 }
