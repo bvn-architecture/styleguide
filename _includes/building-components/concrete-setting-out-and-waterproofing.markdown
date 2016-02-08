@@ -7,7 +7,7 @@
 <span class="transform-to-uppercase">**Identity**</span>
 </div>
 
-{% include building-components/table-layout-block.markdown letter="V" key="building-components/concrete-setting-out-and-waterproofing/00-key.markdown" value="building-components/concrete-setting-out-and-waterproofing/00-value.markdown" %}
+{% include building-components/table-layout-initial.markdown letter="V" key="building-components/concrete-setting-out-and-waterproofing/00-key.markdown" value="building-components/concrete-setting-out-and-waterproofing/00-value.markdown" %}
 
 <div markdown="1" class="building-components-title">
 <span class="transform-to-uppercase">**Describe**</span>

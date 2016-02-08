@@ -8,7 +8,7 @@
 <span class="transform-to-uppercase">**Identify ceiling types**</span>
 </div>
 
-{% include building-components/table-layout-block.markdown letter="E" key="building-components/ceilings/00-key.markdown" value="building-components/ceilings/00-value.markdown" %}
+{% include building-components/table-layout-initial.markdown letter="E" key="building-components/ceilings/00-key.markdown" value="building-components/ceilings/00-value.markdown" %}
 
 <div markdown="1" class="building-components-title">
 <span class="transform-to-uppercase">**Describe** Construction</span>

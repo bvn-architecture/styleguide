@@ -7,6 +7,13 @@ dl{
   padding-bottom: 50px;
 }
 
+.building-components-dt-initial{
+  @include span-columns(12);
+  padding-bottom: 15px;
+  vertical-align: top;
+  text-align: left;
+}
+
 .building-components-dt-block{
   @include span-columns(3);
   @include omega();
@@ -18,6 +25,7 @@ dl{
 .building-components-dd-block{
   @include shift(.5);
   @include span-columns(8.5);
+
   p{
     margin-bottom: 5px;
   }

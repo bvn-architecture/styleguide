@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series sections <span class="highlight-red">1:100</span></span>

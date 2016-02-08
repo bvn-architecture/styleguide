@@ -12,3 +12,5 @@ image:
 {% include building-components/cleaning-and-maintenance-systems.markdown %}
 {% include building-components/concrete-setting-out-and-waterproofing.markdown %}
 {% include building-components/demolition.markdown %}
+{% include building-components/doors.markdown %}
+{% include building-components/external-wall-systems.markdown %}

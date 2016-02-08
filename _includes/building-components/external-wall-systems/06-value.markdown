@@ -1,0 +1,1 @@
+- Description of types of external wall systems
