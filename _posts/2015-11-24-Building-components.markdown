@@ -15,3 +15,8 @@ image:
 {% include building-components/doors.markdown %}
 {% include building-components/external-wall-systems.markdown %}
 {% include building-components/floors.markdown %}
+{% include building-components/furniture.markdown %}
+{% include building-components/joinery.markdown %}
+{% include building-components/landscaping-and-external-works.markdown %}
+{% include building-components/lifts.markdown %}
+{% include building-components/metalworks.markdown %}

@@ -1,0 +1,1 @@
+- _(eg lobby, foyer, atrium, banquet room, reception, meeting room, auditorium and similar spaces enlarged to <span class="highlight-red">1:50</span>)_
