@@ -1,2 +1,2 @@
-- Setting-out describing profiles
-- Waterproofing codes
+- Make references to C series <span class="highlight-red">1:100</span> detailed set-out external wall elevations and sections
+- Make section references to K series external wall and roof interface details

@@ -1,0 +1,2 @@
+- General arrangement sections provide an overview only
+- Reference to E series <span class="highlight-red">1:50</span> enlarged sections

@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series interface details <span class="highlight-red">1:5</span></span>
+<span class="transform-to-uppercase">Series floor plans <span class="highlight-red">1:100</span></span>
