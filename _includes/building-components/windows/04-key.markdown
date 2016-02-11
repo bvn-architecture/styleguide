@@ -1,6 +1,1 @@
-<span class="transform-to-uppercase">
-Series slab reflected ceiling plans <span class="highlight-red">1:100</span></span>
-
-Graphic representation of areas with different thermal insulation systems.
-
-_(drawings are only required if written description is insufficient)_
+<span class="transform-to-uppercase">Series detailed set-out elevations with associated plans and sections <span class="highlight-red">1:50</span></span>
