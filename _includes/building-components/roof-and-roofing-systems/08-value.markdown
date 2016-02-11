@@ -1,0 +1,1 @@
+- Identify ceiling hung signage items

@@ -1,1 +1,1 @@
-_(structural engineer specifies concrete, screed, etc, our input into their specification consists of advice about the class of concrete finish when of visual importance.)_
+<span class="transform-to-uppercase">Series reflected ceiling plans <span class="highlight-red">1:100</span></span>

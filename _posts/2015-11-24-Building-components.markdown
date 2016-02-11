@@ -20,3 +20,4 @@ image:
 {% include building-components/landscaping-and-external-works.markdown %}
 {% include building-components/lifts.markdown %}
 {% include building-components/metalworks.markdown %}
+{% include building-components/roof-and-roofing-systems.markdown %}
