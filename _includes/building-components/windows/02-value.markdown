@@ -1,2 +1,1 @@
-- Setting-out describing profiles
-- Waterproofing codes
+- Horizontal setting-out of windows

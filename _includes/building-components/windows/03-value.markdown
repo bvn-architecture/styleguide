@@ -1,0 +1,3 @@
+- Window dimensions horizontal and vertical
+- Windows vertical dimensional setting-out - offsets from finished floor level
+- Glazing types using materials codes

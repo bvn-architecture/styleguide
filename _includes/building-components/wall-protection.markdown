@@ -19,7 +19,7 @@
 {% include building-components/table-layout-block.markdown letter="G" key="building-components/wall-finishes/03-key.markdown" value="building-components/wall-finishes/03-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/wall-finishes/01-image.svg" %}
 
-{% include building-components/table-layout-block.markdown letter="Z" key="building-components/wall-finishes/04-key.markdown" value="building-components/wall-finishes/04-value.markdown"  %}
+{% include building-components/table-layout-block.markdown letter="K" key="building-components/wall-finishes/04-key.markdown" value="building-components/wall-finishes/04-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/wall-finishes/01-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/wall-finishes/05-key.markdown" value="building-components/wall-finishes/05-value.markdown"  %}

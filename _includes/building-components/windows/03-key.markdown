@@ -1,0 +1,2 @@
+<span class="transform-to-uppercase">
+Series external elevations <span class="highlight-red">1:100</span></span>

@@ -25,3 +25,6 @@ image:
 {% include building-components/stairs-feature-stairs.markdown %}
 {% include building-components/wet-areas.markdown %}
 {% include building-components/wall-finishes.markdown %}
+{% include building-components/wall-protection-the-room-schedule-scenario.markdown %}
+{% include building-components/wall-protection-the-graphic-representation-scenario.markdown %}
+{% include building-components/windows.markdown %}

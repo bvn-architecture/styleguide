@@ -1,0 +1,2 @@
+- The wall protection items are identified by pointing coded tags to wall surfaces
+- Reference to G series drawings for complex areas
