@@ -1,1 +1,0 @@
-<span class="transform-to-uppercase">Series thermal insulation</span>

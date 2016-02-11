@@ -21,3 +21,7 @@ image:
 {% include building-components/lifts.markdown %}
 {% include building-components/metalworks.markdown %}
 {% include building-components/roof-and-roofing-systems.markdown %}
+{% include building-components/stairs-escape-stairs-back-of-house-stairs.markdown %}
+{% include building-components/stairs-feature-stairs.markdown %}
+{% include building-components/wet-areas.markdown %}
+{% include building-components/wall-finishes.markdown %}

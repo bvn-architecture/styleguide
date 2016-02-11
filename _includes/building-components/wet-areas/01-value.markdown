@@ -1,2 +1,1 @@
-- Key to waterproofing and thermal insulation codes
-- Description of systems; reference to specification section
+- Key - description of systems, materials and finishes; reference to specification section

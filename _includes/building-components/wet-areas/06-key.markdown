@@ -1,2 +1,0 @@
-<span class="transform-to-uppercase">Series stairs and lifts plans and sections <span class="highlight-red">1:50</span></span>
-<span class="transform-to-uppercase">Details <span class="highlight-red">1:5</span></span>

@@ -1,0 +1,2 @@
+- _(general arrangement sections provide an overview only)_
+- References to H series <span class="highlight-red">1:50</span> enlarged sections

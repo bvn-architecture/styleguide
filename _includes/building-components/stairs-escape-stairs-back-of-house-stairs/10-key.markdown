@@ -1,3 +1,3 @@
 <span class="transform-to-uppercase">Series room schedule</span>
 
-_(Covers most of the areas by allocating FINISHES code)_
+_(floor, wall and ceilings finishes spreadsheet)_

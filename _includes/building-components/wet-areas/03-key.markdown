@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series wet areas plans, sections and elevations <span class="highlight-red">1:20</span></span>
