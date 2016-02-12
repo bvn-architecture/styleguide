@@ -17,6 +17,6 @@
 {% include building-components/table-layout-image.markdown image="building-components/demolition/01-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/demolition/02-key.markdown" value="building-components/demolition/02-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/demolition/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 </dl></div>
