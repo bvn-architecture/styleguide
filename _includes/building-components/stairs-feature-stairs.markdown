@@ -18,19 +18,18 @@
 {% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/01-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="B" key="building-components/stairs-feature-stairs/02-key.markdown" value="building-components/stairs-feature-stairs/02-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/02-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-feature-stairs/03-key.markdown" value="building-components/stairs-feature-stairs/03-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/03-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-feature-stairs/04-key.markdown" value="building-components/stairs-feature-stairs/04-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/01-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-feature-stairs/05-key.markdown" value="building-components/stairs-feature-stairs/05-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/03-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-feature-stairs/06-key.markdown" value="building-components/stairs-feature-stairs/06-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 </dl>
 </div>

@@ -22,16 +22,16 @@
 </div>
 
 {% include building-components/table-layout-block.markdown letter="L" key="building-components/joinery/02-key.markdown" value="building-components/joinery/02-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/joinery/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/joinery/02-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="M" key="building-components/joinery/03-key.markdown" value="building-components/joinery/03-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/joinery/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/joinery/03-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="M" key="building-components/joinery/04-key.markdown" value="building-components/joinery/03-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/joinery/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/joinery/04-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/joinery/05-key.markdown" value="building-components/joinery/03-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/joinery/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 
 </dl></div>

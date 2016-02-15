@@ -16,15 +16,15 @@
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/metalwork/02-key.markdown" value="building-components/metalwork/02-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/metalwork/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/metalwork/02-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="N" key="building-components/metalwork/03-key.markdown" value="building-components/metalwork/03-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/metalwork/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/metalwork/03-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="N" key="building-components/metalwork/04-key.markdown" value="building-components/metalwork/04-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/metalwork/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/metalwork/04-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/metalwork/05-key.markdown" value="building-components/metalwork/05-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/metalwork/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 </dl></div>
