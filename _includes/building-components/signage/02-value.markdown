@@ -1,2 +1,1 @@
-- Setting-out describing profiles
-- Waterproofing codes
+- Key to codes - description of wayfinding signage items; reference to specification section

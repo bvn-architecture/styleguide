@@ -11,16 +11,16 @@
 <rect x="162.541" y="43.963" fill="#C5D9F1" width="156.818" height="4.056"/>
 <rect x="2.562" y="51.97" fill="#C5D9F1" width="156.66" height="4.056"/>
 <rect x="162.541" y="51.97" fill="#C5D9F1" width="156.818" height="4.056"/>
-<text transform="matrix(1 0 0 1 16.4154 6.7204)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">Canopies</text>
-<text transform="matrix(1 0 0 1 118.6075 6.7205)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 146.9471 6.7204)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 176.5528 6.7205)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">Canopies</text>
+<text transform="matrix(1 0 0 1 16.4154 6.7204)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">Canopies</text>
+<text transform="matrix(1 0 0 1 118.6075 6.7205)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 146.9471 6.7204)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 176.5528 6.7205)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">Canopies</text>
 <text transform="matrix(1 0 0 1 118.6085 10.6711)" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">.</text>
 <text transform="matrix(1 0 0 1 278.7458 10.6711)" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 16.416 14.7279)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">Ceilings</text>
-<text transform="matrix(1 0 0 1 118.7127 14.7279)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 147.0534 14.7279)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 176.5543 14.7279)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">Ceilings</text>
+<text transform="matrix(1 0 0 1 16.416 14.7279)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">Ceilings</text>
+<text transform="matrix(1 0 0 1 118.7127 14.7279)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 147.0534 14.7279)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 176.5543 14.7279)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">Ceilings</text>
 <text transform="matrix(1 0 0 1 2.9304 18.678)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">CLG-0</tspan><tspan x="7.913" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="4">1</tspan><tspan x="13.482" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">Suspended plasterboard ceiling</tspan></text>
 <text transform="matrix(1 0 0 1 107.1149 18.678)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">Suspended Ceiling</tspan><tspan x="22.554" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="12">s</tspan><tspan x="36.028" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">05-05</tspan><tspan x="42.899" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="11">0</tspan><tspan x="55.938" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">CLG-0</tspan><tspan x="63.851" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="4">7</tspan><tspan x="69.421" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">External soffit lining</tspan></text>
 <text transform="matrix(1 0 0 1 267.3458 18.678)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">Suspended Ceiling</tspan><tspan x="22.553" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="12">s</tspan><tspan x="35.923" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">05-050</tspan></text>
@@ -48,22 +48,22 @@
 	<text transform="matrix(1 0 0 1 146.9509 42.6955)" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">.</text>
 	<text transform="matrix(1 0 0 1 118.6107 42.6955)" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">.</text>
 </g>
-<text transform="matrix(1 0 0 1 16.4149 46.7551)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">Concrete Finishes</text>
-<text transform="matrix(1 0 0 1 118.6074 46.7551)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 146.9471 46.7551)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 176.5527 46.7551)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">Concrete Finishes</text>
-<text transform="matrix(1 0 0 1 278.7442 46.7551)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 307.0839 46.7551)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 16.4149 46.7551)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">Concrete Finishes</text>
+<text transform="matrix(1 0 0 1 118.6074 46.7551)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 146.9471 46.7551)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 176.5527 46.7551)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">Concrete Finishes</text>
+<text transform="matrix(1 0 0 1 278.7442 46.7551)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 307.0839 46.7551)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
 <g>
 	<text transform="matrix(1 0 0 1 146.9444 50.7062)" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">.</text>
 	<text transform="matrix(1 0 0 1 118.6042 50.7062)" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">.</text>
 </g>
-<text transform="matrix(1 0 0 1 16.4149 54.7619)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">External wall finishes</text>
-<text transform="matrix(1 0 0 1 118.6101 54.7619)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 146.9493 54.762)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 176.5554 54.7619)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">External wall finishes</text>
-<text transform="matrix(1 0 0 1 278.7491 54.762)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
-<text transform="matrix(1 0 0 1 307.0888 54.7619)" fill="#1D1D1B" font-family="'Arial-Bold'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 16.4149 54.7619)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">External wall finishes</text>
+<text transform="matrix(1 0 0 1 118.6101 54.7619)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 146.9493 54.762)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 176.5554 54.7619)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">External wall finishes</text>
+<text transform="matrix(1 0 0 1 278.7491 54.762)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
+<text transform="matrix(1 0 0 1 307.0888 54.7619)" fill="#1D1D1B" font-family="'Arial'" font-weight="bolder" font-size="2.6865">.</text>
 <text transform="matrix(1 0 0 1 2.9315 58.7136)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">CLAD-0</tspan><tspan x="9.555" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="2">1</tspan><tspan x="13.483" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">Metal sheet cladding</tspan></text>
 <text transform="matrix(1 0 0 1 110.7546 58.7136)" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">Metal Roofing</text>
 <text transform="matrix(1 0 0 1 143.1485 58.7137)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">04-20</tspan><tspan x="6.871" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="11">3</tspan><tspan x="19.909" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">CLAD-0</tspan><tspan x="29.465" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865" letter-spacing="2">9</tspan><tspan x="33.393" y="0" fill="#1D1D1B" font-family="'Arial'" font-size="2.6865">Insulated Wall System Cladding</tspan></text>

@@ -714,31 +714,31 @@
 	c0.062,0.026,0.113,0.062,0.153,0.108c0.04,0.046,0.069,0.1,0.088,0.163c0.019,0.063,0.028,0.131,0.028,0.204V8.859z M136.813,8.774
 	c0.002-0.083-0.014-0.148-0.05-0.196c-0.036-0.047-0.091-0.071-0.165-0.071c-0.038,0-0.07,0.007-0.098,0.021
 	c-0.028,0.014-0.051,0.033-0.069,0.057c-0.018,0.024-0.033,0.052-0.042,0.085s-0.015,0.067-0.017,0.104H136.813z"/>
-<text transform="matrix(1 0 0 1 2.3287 15.1871)" font-family="'Arial-BoldMT'" font-size="2.1882">Room numbers</text>
-<text transform="matrix(1 0 0 1 43.6423 15.1424)" font-family="'ArialMT'" font-size="2.1882">Indicates a room number which appear on the general arrangement </text>
-<text transform="matrix(1 0 0 1 43.6423 17.8122)" font-family="'ArialMT'" font-size="2.1882">drawings. These numbers will be the final room numbers in the future </text>
-<text transform="matrix(1 0 0 1 43.6423 20.4823)" font-family="'ArialMT'" font-size="2.1882">unless otherwise stated due to design change.</text>
-<text transform="matrix(1 0 0 1 2.3287 27.0025)" font-family="'Arial-BoldMT'" font-size="2.1882">Room Name/location</text>
-<text transform="matrix(1 0 0 1 43.6423 26.9587)" font-family="'ArialMT'" font-size="2.1882">This column provides the name of the room or location. For </text>
-<text transform="matrix(1 0 0 1 43.6423 29.6285)" font-family="'ArialMT'" font-size="2.1882">information only</text>
-<text transform="matrix(1 0 0 1 2.3287 33.5229)" font-family="'Arial-BoldMT'" font-size="2.1882">Partitions Performance </text>
-<text transform="matrix(1 0 0 1 2.3287 36.2807)" font-family="'Arial-BoldMT'" font-size="2.1882">Requirements.</text>
-<text transform="matrix(1 0 0 1 17.5153 36.2807)" font-family="'ArialMT'" font-size="2.1882"> Refer to the </text>
-<text transform="matrix(1 0 0 1 2.3287 38.9945)" font-family="'ArialMT'" font-size="2.1882">Technical reference Sheet.</text>
-<text transform="matrix(1 0 0 1 43.6423 33.4799)" font-family="'ArialMT'" font-size="2.1882">This column provides the performance requirements of the partition </text>
-<text transform="matrix(1 0 0 1 43.6423 36.149)" font-family="'ArialMT'" font-size="2.1882">wall type where the door is located. E.g.  Fire rated, Acoustic or </text>
-<text transform="matrix(1 0 0 1 43.6423 38.8188)" font-family="'ArialMT'" font-size="2.1882">Smoke wall. It is intended that the corresponding doors match the </text>
-<text transform="matrix(1 0 0 1 43.6423 41.4889)" font-family="'ArialMT'" font-size="2.1882">performance requirements of the wall partitions.</text>
-<text transform="matrix(1 0 0 1 2.3287 47.2658)" font-family="'Arial-BoldMT'" font-size="2.1882">Door Types</text>
-<text transform="matrix(1 0 0 1 43.6423 47.2211)" font-family="'ArialMT'" font-size="2.1882">This column refers to the door types outlined in the Door Elevation </text>
-<text transform="matrix(1 0 0 1 43.6423 49.8919)" font-family="'ArialMT'" font-size="2.1882">Drawings and is intended for the contractor to check and cross </text>
-<text transform="matrix(1 0 0 1 43.6423 52.5609)" font-family="'ArialMT'" font-size="2.1882">reference with the drawings.</text>
-<text transform="matrix(1 0 0 1 2.3287 58.2502)" font-family="'Arial-BoldMT'" font-size="2.1882">Door Number</text>
-<text transform="matrix(1 0 0 1 43.6423 58.2062)" font-family="'ArialMT'" font-size="2.1882">Doors will be identified by a door number consisting of 2 parts i.e. </text>
-<text transform="matrix(1 0 0 1 43.6423 60.8763)" font-family="'ArialMT'" font-size="2.1882">Room number and D1, D2, D3 and etc.  E.g. If the room number is </text>
-<text transform="matrix(1 0 0 1 43.6423 63.5461)" font-family="'ArialMT'" font-size="2.1882">A1006 the door will be labelled A1006.D1 if only one door is </text>
-<text transform="matrix(1 0 0 1 43.6423 66.2151)" font-family="'ArialMT'" font-size="2.1882">applicable to the room. If there is more than one door per room the </text>
-<text transform="matrix(1 0 0 1 43.6423 68.8842)" font-family="'ArialMT'" font-size="2.1882">door number will be A1006.D1, A1006.D2 etc.</text>
+<text transform="matrix(1 0 0 1 2.3287 15.1871)" font-family="'Arial'" font-weight="bolder" font-size="2.1882">Room numbers</text>
+<text transform="matrix(1 0 0 1 43.6423 15.1424)" font-family="'Arial'" font-size="2.1882">Indicates a room number which appear on the general arrangement </text>
+<text transform="matrix(1 0 0 1 43.6423 17.8122)" font-family="'Arial'" font-size="2.1882">drawings. These numbers will be the final room numbers in the future </text>
+<text transform="matrix(1 0 0 1 43.6423 20.4823)" font-family="'Arial'" font-size="2.1882">unless otherwise stated due to design change.</text>
+<text transform="matrix(1 0 0 1 2.3287 27.0025)" font-family="'Arial'" font-weight="bolder" font-size="2.1882">Room Name/location</text>
+<text transform="matrix(1 0 0 1 43.6423 26.9587)" font-family="'Arial'" font-size="2.1882">This column provides the name of the room or location. For </text>
+<text transform="matrix(1 0 0 1 43.6423 29.6285)" font-family="'Arial'" font-size="2.1882">information only</text>
+<text transform="matrix(1 0 0 1 2.3287 33.5229)" font-family="'Arial'" font-weight="bolder" font-size="2.1882">Partitions Performance </text>
+<text transform="matrix(1 0 0 1 2.3287 36.2807)" font-family="'Arial'" font-weight="bolder" font-size="2.1882">Requirements.</text>
+<text transform="matrix(1 0 0 1 17.5153 36.2807)" font-family="'Arial'" font-size="2.1882"> Refer to the </text>
+<text transform="matrix(1 0 0 1 2.3287 38.9945)" font-family="'Arial'" font-size="2.1882">Technical reference Sheet.</text>
+<text transform="matrix(1 0 0 1 43.6423 33.4799)" font-family="'Arial'" font-size="2.1882">This column provides the performance requirements of the partition </text>
+<text transform="matrix(1 0 0 1 43.6423 36.149)" font-family="'Arial'" font-size="2.1882">wall type where the door is located. E.g.  Fire rated, Acoustic or </text>
+<text transform="matrix(1 0 0 1 43.6423 38.8188)" font-family="'Arial'" font-size="2.1882">Smoke wall. It is intended that the corresponding doors match the </text>
+<text transform="matrix(1 0 0 1 43.6423 41.4889)" font-family="'Arial'" font-size="2.1882">performance requirements of the wall partitions.</text>
+<text transform="matrix(1 0 0 1 2.3287 47.2658)" font-family="'Arial'" font-weight="bolder" font-size="2.1882">Door Types</text>
+<text transform="matrix(1 0 0 1 43.6423 47.2211)" font-family="'Arial'" font-size="2.1882">This column refers to the door types outlined in the Door Elevation </text>
+<text transform="matrix(1 0 0 1 43.6423 49.8919)" font-family="'Arial'" font-size="2.1882">Drawings and is intended for the contractor to check and cross </text>
+<text transform="matrix(1 0 0 1 43.6423 52.5609)" font-family="'Arial'" font-size="2.1882">reference with the drawings.</text>
+<text transform="matrix(1 0 0 1 2.3287 58.2502)" font-family="'Arial'" font-weight="bolder" font-size="2.1882">Door Number</text>
+<text transform="matrix(1 0 0 1 43.6423 58.2062)" font-family="'Arial'" font-size="2.1882">Doors will be identified by a door number consisting of 2 parts i.e. </text>
+<text transform="matrix(1 0 0 1 43.6423 60.8763)" font-family="'Arial'" font-size="2.1882">Room number and D1, D2, D3 and etc.  E.g. If the room number is </text>
+<text transform="matrix(1 0 0 1 43.6423 63.5461)" font-family="'Arial'" font-size="2.1882">A1006 the door will be labelled A1006.D1 if only one door is </text>
+<text transform="matrix(1 0 0 1 43.6423 66.2151)" font-family="'Arial'" font-size="2.1882">applicable to the room. If there is more than one door per room the </text>
+<text transform="matrix(1 0 0 1 43.6423 68.8842)" font-family="'Arial'" font-size="2.1882">door number will be A1006.D1, A1006.D2 etc.</text>
 <rect y="0" fill="none" width="160.157" height="70.973"/>
 <rect x="1.934" y="0" fill="#FFFFFF" width="0.088" height="7.09"/>
 <rect x="32.394" y="0.088" fill="#FFFFFF" width="0.088" height="7.002"/>
@@ -1011,11 +1011,11 @@
 	c0.048,0.055,0.083,0.121,0.106,0.196c0.023,0.076,0.034,0.158,0.034,0.246V3.56z M193.227,3.458c0.003-0.1-0.017-0.178-0.06-0.236
 	c-0.043-0.057-0.109-0.086-0.199-0.086c-0.045,0-0.085,0.009-0.118,0.025s-0.061,0.04-0.083,0.069
 	c-0.022,0.029-0.039,0.063-0.051,0.102c-0.012,0.039-0.019,0.081-0.021,0.125H193.227z"/>
-<text transform="matrix(1 0 0 1 163.4977 8.3405)" font-family="'ArialMT'" font-size="2.0497">All hardware selections below are subject to confirmation by Client eg to match existing.</text>
-<text transform="matrix(1 0 0 1 163.4977 10.7791)" font-family="'Arial-BoldMT'" font-size="2.0497">Notes</text>
-<text transform="matrix(1 0 0 1 163.4977 13.2881)" font-family="'ArialMT'" font-size="2.0497">1. This drawing is provided as a consolidated summary of the hardware used, and is for supplementary information only</text>
-<text transform="matrix(1 0 0 1 163.4977 15.7277)" font-family="'ArialMT'" font-size="2.0497">2. For items supplied and installed by Electrical Contractor, provide all necessary fittings and accessories and core holes as </text>
-<text transform="matrix(1 0 0 1 275.9434 15.7277)" font-family="'ArialMT'" font-size="2.0497">necessary.</text>
+<text transform="matrix(1 0 0 1 163.4977 8.3405)" font-family="'Arial'" font-size="2.0497">All hardware selections below are subject to confirmation by Client eg to match existing.</text>
+<text transform="matrix(1 0 0 1 163.4977 10.7791)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">Notes</text>
+<text transform="matrix(1 0 0 1 163.4977 13.2881)" font-family="'Arial'" font-size="2.0497">1. This drawing is provided as a consolidated summary of the hardware used, and is for supplementary information only</text>
+<text transform="matrix(1 0 0 1 163.4977 15.7277)" font-family="'Arial'" font-size="2.0497">2. For items supplied and installed by Electrical Contractor, provide all necessary fittings and accessories and core holes as </text>
+<text transform="matrix(1 0 0 1 275.9434 15.7277)" font-family="'Arial'" font-size="2.0497">necessary.</text>
 <path d="M175.5,20.811c0,0.007-0.002,0.014-0.007,0.02c-0.005,0.006-0.013,0.011-0.024,0.014c-0.011,0.004-0.026,0.007-0.044,0.009
 	c-0.018,0.002-0.042,0.003-0.071,0.003c-0.028,0-0.051-0.001-0.07-0.003c-0.019-0.002-0.034-0.005-0.045-0.009
 	c-0.011-0.004-0.019-0.008-0.024-0.014c-0.005-0.006-0.007-0.013-0.007-0.02v-1.349c0-0.007,0.002-0.014,0.007-0.02
@@ -1300,94 +1300,94 @@
 	s0.107,0.058,0.144,0.101c0.038,0.043,0.065,0.094,0.083,0.153c0.018,0.059,0.026,0.123,0.026,0.192V20.292z M286.217,20.212
 	c0.002-0.078-0.013-0.139-0.047-0.184s-0.085-0.067-0.155-0.067c-0.035,0-0.066,0.007-0.092,0.02
 	c-0.026,0.013-0.048,0.031-0.065,0.054c-0.017,0.022-0.031,0.049-0.04,0.079c-0.009,0.031-0.015,0.063-0.016,0.098H286.217z"/>
-<text transform="matrix(1 0 0 1 163.4977 23.3947)" font-family="'Arial-BoldMT'" font-size="2.0497">Mortise locks </text>
-<text transform="matrix(1 0 0 1 191.5928 23.3947)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3473 23.3947)" font-family="'Arial-BoldMT'" font-size="2.0497">3570</text>
-<text transform="matrix(1 0 0 1 205.8713 23.3947)" font-family="'ArialMT'" font-size="2.0497"> (SC) Series &amp; General locks</text>
-<text transform="matrix(1 0 0 1 191.5928 25.9041)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3473 25.9041)" font-family="'Arial-BoldMT'" font-size="2.0497">3572X</text>
-<text transform="matrix(1 0 0 1 207.8147 25.9041)" font-family="'ArialMT'" font-size="2.0497">Series(SC) - </text>
+<text transform="matrix(1 0 0 1 163.4977 23.3947)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">Mortise locks </text>
+<text transform="matrix(1 0 0 1 191.5928 23.3947)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3473 23.3947)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3570</text>
+<text transform="matrix(1 0 0 1 205.8713 23.3947)" font-family="'Arial'" font-size="2.0497"> (SC) Series &amp; General locks</text>
+<text transform="matrix(1 0 0 1 191.5928 25.9041)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3473 25.9041)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3572X</text>
+<text transform="matrix(1 0 0 1 207.8147 25.9041)" font-family="'Arial'" font-size="2.0497">Series(SC) - </text>
 <text transform="matrix(1 0 0 1 219.6178 25.9041)" font-family="'Arial-ItalicMT'" font-size="2.0497">Storeroom lock</text>
-<text transform="matrix(1 0 0 1 191.5948 28.4122)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3484 28.4123)" font-family="'Arial-BoldMT'" font-size="2.0497">3572MAG</text>
-<text transform="matrix(1 0 0 1 210.6426 28.4122)" font-family="'ArialMT'" font-size="2.0497"> Series (SC) – </text>
+<text transform="matrix(1 0 0 1 191.5948 28.4122)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3484 28.4123)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3572MAG</text>
+<text transform="matrix(1 0 0 1 210.6426 28.4122)" font-family="'Arial'" font-size="2.0497"> Series (SC) – </text>
 <text transform="matrix(1 0 0 1 224.037 28.4123)" font-family="'Arial-ItalicMT'" font-size="2.0497">Storeroom lock. MAG</text>
 <text transform="matrix(1 0 0 1 244.7821 28.4123)" font-family="'Arial-ItalicMT'" font-size="2.0497">refers to Magnet </text>
 <text transform="matrix(1 0 0 1 191.5967 30.8868)" font-family="'Arial-ItalicMT'" font-size="2.0497">face plate.</text>
-<text transform="matrix(1 0 0 1 261.7809 28.4123)" font-family="'ArialMT'" font-size="2.0497">This type is only to be used when an electric </text>
-<text transform="matrix(1 0 0 1 261.7809 30.8869)" font-family="'ArialMT'" font-size="2.0497">strike ES2100 is specified.</text>
-<text transform="matrix(1 0 0 1 191.5968 33.3954)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3513 33.3954)" font-family="'Arial-BoldMT'" font-size="2.0497">3572M</text>
-<text transform="matrix(1 0 0 1 208.1728 33.3954)" font-family="'ArialMT'" font-size="2.0497">Series(SC) - </text>
+<text transform="matrix(1 0 0 1 261.7809 28.4123)" font-family="'Arial'" font-size="2.0497">This type is only to be used when an electric </text>
+<text transform="matrix(1 0 0 1 261.7809 30.8869)" font-family="'Arial'" font-size="2.0497">strike ES2100 is specified.</text>
+<text transform="matrix(1 0 0 1 191.5968 33.3954)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3513 33.3954)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3572M</text>
+<text transform="matrix(1 0 0 1 208.1728 33.3954)" font-family="'Arial'" font-size="2.0497">Series(SC) - </text>
 <text transform="matrix(1 0 0 1 219.9767 33.3954)" font-family="'Arial-ItalicMT'" font-size="2.0497">Classroom lock</text>
-<text transform="matrix(1 0 0 1 191.5988 35.9044)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3534 35.9044)" font-family="'Arial-BoldMT'" font-size="2.0497">3572WA</text>
-<text transform="matrix(1 0 0 1 209.2693 35.9044)" font-family="'ArialMT'" font-size="2.0497"> Series(SC) - Antilock vestibule lock</text>
-<text transform="matrix(1 0 0 1 191.5988 38.4128)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3534 38.4128)" font-family="'Arial-BoldMT'" font-size="2.0497">3574ET</text>
-<text transform="matrix(1 0 0 1 209.0575 38.4128)" font-family="'ArialMT'" font-size="2.0497">Series(SC) - </text>
+<text transform="matrix(1 0 0 1 191.5988 35.9044)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3534 35.9044)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3572WA</text>
+<text transform="matrix(1 0 0 1 209.2693 35.9044)" font-family="'Arial'" font-size="2.0497"> Series(SC) - Antilock vestibule lock</text>
+<text transform="matrix(1 0 0 1 191.5988 38.4128)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3534 38.4128)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3574ET</text>
+<text transform="matrix(1 0 0 1 209.0575 38.4128)" font-family="'Arial'" font-size="2.0497">Series(SC) - </text>
 <text transform="matrix(1 0 0 1 220.8622 38.4128)" font-family="'Arial-ItalicMT'" font-size="2.0497">Privacy lock</text>
-<text transform="matrix(1 0 0 1 191.6008 40.921)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3553 40.921)" font-family="'Arial-BoldMT'" font-size="2.0497">3574Z</text>
-<text transform="matrix(1 0 0 1 207.6807 40.921)" font-family="'ArialMT'" font-size="2.0497">Series(SC) - Glass door locking latch </text>
-<text transform="matrix(1 0 0 1 191.6008 43.4309)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3553 43.4309)" font-family="'Arial-BoldMT'" font-size="2.0497">3574WT</text>
-<text transform="matrix(1 0 0 1 209.6241 43.4309)" font-family="'ArialMT'" font-size="2.0497">Series(SC) - </text>
+<text transform="matrix(1 0 0 1 191.6008 40.921)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3553 40.921)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3574Z</text>
+<text transform="matrix(1 0 0 1 207.6807 40.921)" font-family="'Arial'" font-size="2.0497">Series(SC) - Glass door locking latch </text>
+<text transform="matrix(1 0 0 1 191.6008 43.4309)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3553 43.4309)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3574WT</text>
+<text transform="matrix(1 0 0 1 209.6241 43.4309)" font-family="'Arial'" font-size="2.0497">Series(SC) - </text>
 <text transform="matrix(1 0 0 1 221.4278 43.4309)" font-family="'Arial-ItalicMT'" font-size="2.0497">Combination lock</text>
-<text transform="matrix(1 0 0 1 191.6008 45.9394)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3553 45.9394)" font-family="'Arial-BoldMT'" font-size="2.0497">3574</text>
-<text transform="matrix(1 0 0 1 206.4444 45.9394)" font-family="'ArialMT'" font-size="2.0497">Series(SC) – </text>
+<text transform="matrix(1 0 0 1 191.6008 45.9394)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3553 45.9394)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3574</text>
+<text transform="matrix(1 0 0 1 206.4444 45.9394)" font-family="'Arial'" font-size="2.0497">Series(SC) – </text>
 <text transform="matrix(1 0 0 1 218.7079 45.9394)" font-family="'Arial-ItalicMT'" font-size="2.0497">Passage latch</text>
-<text transform="matrix(1 0 0 1 191.6031 48.4484)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3575 48.4484)" font-family="'Arial-BoldMT'" font-size="2.0497">3582X</text>
-<text transform="matrix(1 0 0 1 207.8241 48.4484)" font-family="'ArialMT'" font-size="2.0497">short backset lock– </text>
+<text transform="matrix(1 0 0 1 191.6031 48.4484)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3575 48.4484)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3582X</text>
+<text transform="matrix(1 0 0 1 207.8241 48.4484)" font-family="'Arial'" font-size="2.0497">short backset lock– </text>
 <text transform="matrix(1 0 0 1 225.919 48.4484)" font-family="'Arial-ItalicMT'" font-size="2.0497">Storeroom lock</text>
-<text transform="matrix(1 0 0 1 261.7888 48.4484)" font-family="'ArialMT'" font-size="2.0497">For use on aluminium framed glass doors </text>
-<text transform="matrix(1 0 0 1 261.7888 50.9225)" font-family="'ArialMT'" font-size="2.0497">requirin</text>
-<text transform="matrix(1 0 0 1 268.611 50.9236)" font-family="'ArialMT'" font-size="2.0497">g</text>
+<text transform="matrix(1 0 0 1 261.7888 48.4484)" font-family="'Arial'" font-size="2.0497">For use on aluminium framed glass doors </text>
+<text transform="matrix(1 0 0 1 261.7888 50.9225)" font-family="'Arial'" font-size="2.0497">requirin</text>
+<text transform="matrix(1 0 0 1 268.611 50.9236)" font-family="'Arial'" font-size="2.0497">g</text>
 <rect x="261.775" y="49.051" fill="none" width="32.089" height="2.298"/>
-<text transform="matrix(1 0 0 1 269.7512 50.9236)" font-family="'ArialMT'" font-size="2.0497"> narrow stile door furniture</text>
-<text transform="matrix(1 0 0 1 293.5605 50.9236)" font-family="'ArialMT'" font-size="2.0497">.</text>
+<text transform="matrix(1 0 0 1 269.7512 50.9236)" font-family="'Arial'" font-size="2.0497"> narrow stile door furniture</text>
+<text transform="matrix(1 0 0 1 293.5605 50.9236)" font-family="'Arial'" font-size="2.0497">.</text>
 <rect x="261.775" y="49.051" fill="none" width="32.089" height="2.298"/>
-<text transform="matrix(1 0 0 1 191.592 53.3624)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3465 53.3624)" font-family="'Arial-BoldMT'" font-size="2.0497">3582XT</text>
-<text transform="matrix(1 0 0 1 209.0517 53.3624)" font-family="'ArialMT'" font-size="2.0497">short backset lock– </text>
+<text transform="matrix(1 0 0 1 191.592 53.3624)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3465 53.3624)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3582XT</text>
+<text transform="matrix(1 0 0 1 209.0517 53.3624)" font-family="'Arial'" font-size="2.0497">short backset lock– </text>
 <text transform="matrix(1 0 0 1 227.1465 53.3624)" font-family="'Arial-ItalicMT'" font-size="2.0497">Vestibule lock</text>
-<text transform="matrix(1 0 0 1 261.7801 53.3624)" font-family="'ArialMT'" font-size="2.0497">For use on aluminium framed glass doors </text>
-<text transform="matrix(1 0 0 1 261.7801 55.8371)" font-family="'ArialMT'" font-size="2.0497">requirin</text>
-<text transform="matrix(1 0 0 1 268.611 55.8366)" font-family="'ArialMT'" font-size="2.0497">g</text>
+<text transform="matrix(1 0 0 1 261.7801 53.3624)" font-family="'Arial'" font-size="2.0497">For use on aluminium framed glass doors </text>
+<text transform="matrix(1 0 0 1 261.7801 55.8371)" font-family="'Arial'" font-size="2.0497">requirin</text>
+<text transform="matrix(1 0 0 1 268.611 55.8366)" font-family="'Arial'" font-size="2.0497">g</text>
 <rect x="261.775" y="53.963" fill="none" width="32.089" height="2.297"/>
-<text transform="matrix(1 0 0 1 269.7512 55.8366)" font-family="'ArialMT'" font-size="2.0497"> narrow stile door furniture</text>
-<text transform="matrix(1 0 0 1 293.5605 55.8366)" font-family="'ArialMT'" font-size="2.0497">.</text>
+<text transform="matrix(1 0 0 1 269.7512 55.8366)" font-family="'Arial'" font-size="2.0497"> narrow stile door furniture</text>
+<text transform="matrix(1 0 0 1 293.5605 55.8366)" font-family="'Arial'" font-size="2.0497">.</text>
 <rect x="261.775" y="53.963" fill="none" width="32.089" height="2.297"/>
-<text transform="matrix(1 0 0 1 191.592 58.2744)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3465 58.2744)" font-family="'Arial-BoldMT'" font-size="2.0497">3582Z</text>
-<text transform="matrix(1 0 0 1 207.1062 58.2744)" font-family="'ArialMT'" font-size="2.0497"> short backset lock</text>
+<text transform="matrix(1 0 0 1 191.592 58.2744)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3465 58.2744)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3582Z</text>
+<text transform="matrix(1 0 0 1 207.1062 58.2744)" font-family="'Arial'" font-size="2.0497"> short backset lock</text>
 <text transform="matrix(1 0 0 1 224.0694 58.2744)" font-family="'Arial-ItalicMT'" font-size="2.0497">- Classroom lock</text>
-<text transform="matrix(1 0 0 1 261.7772 58.2744)" font-family="'ArialMT'" font-size="2.0497">For use on aluminium framed glass doors </text>
-<text transform="matrix(1 0 0 1 261.7772 60.7483)" font-family="'ArialMT'" font-size="2.0497">requirin</text>
-<text transform="matrix(1 0 0 1 268.611 60.7483)" font-family="'ArialMT'" font-size="2.0497">g</text>
+<text transform="matrix(1 0 0 1 261.7772 58.2744)" font-family="'Arial'" font-size="2.0497">For use on aluminium framed glass doors </text>
+<text transform="matrix(1 0 0 1 261.7772 60.7483)" font-family="'Arial'" font-size="2.0497">requirin</text>
+<text transform="matrix(1 0 0 1 268.611 60.7483)" font-family="'Arial'" font-size="2.0497">g</text>
 <rect x="261.775" y="58.875" fill="none" width="32.089" height="2.297"/>
-<text transform="matrix(1 0 0 1 269.7512 60.7483)" font-family="'ArialMT'" font-size="2.0497"> narrow stile door furniture</text>
-<text transform="matrix(1 0 0 1 293.5605 60.7483)" font-family="'ArialMT'" font-size="2.0497">.</text>
+<text transform="matrix(1 0 0 1 269.7512 60.7483)" font-family="'Arial'" font-size="2.0497"> narrow stile door furniture</text>
+<text transform="matrix(1 0 0 1 293.5605 60.7483)" font-family="'Arial'" font-size="2.0497">.</text>
 <rect x="261.775" y="58.875" fill="none" width="32.089" height="2.297"/>
-<text transform="matrix(1 0 0 1 191.592 63.1873)" font-family="'ArialMT'" font-size="2.0497">Lockwood</text>
-<text transform="matrix(1 0 0 1 201.3465 63.1873)" font-family="'Arial-BoldMT'" font-size="2.0497">3584</text>
-<text transform="matrix(1 0 0 1 205.8708 63.1873)" font-family="'ArialMT'" font-size="2.0497"> short backset lock</text>
+<text transform="matrix(1 0 0 1 191.592 63.1873)" font-family="'Arial'" font-size="2.0497">Lockwood</text>
+<text transform="matrix(1 0 0 1 201.3465 63.1873)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">3584</text>
+<text transform="matrix(1 0 0 1 205.8708 63.1873)" font-family="'Arial'" font-size="2.0497"> short backset lock</text>
 <text transform="matrix(1 0 0 1 222.834 63.1873)" font-family="'Arial-ItalicMT'" font-size="2.0497">-</text>
-<text transform="matrix(1 0 0 1 224.4245 63.1873)" font-family="'ArialMT'" font-size="2.0497">Passage</text>
+<text transform="matrix(1 0 0 1 224.4245 63.1873)" font-family="'Arial'" font-size="2.0497">Passage</text>
 <text transform="matrix(1 0 0 1 232.9405 63.1873)" font-family="'Arial-ItalicMT'" font-size="2.0497">latch</text>
-<text transform="matrix(1 0 0 1 261.7772 63.1873)" font-family="'ArialMT'" font-size="2.0497">For use on aluminium framed glass doors </text>
-<text transform="matrix(1 0 0 1 261.7772 65.6612)" font-family="'ArialMT'" font-size="2.0497">requirin</text>
-<text transform="matrix(1 0 0 1 268.611 65.6602)" font-family="'ArialMT'" font-size="2.0497">g</text>
+<text transform="matrix(1 0 0 1 261.7772 63.1873)" font-family="'Arial'" font-size="2.0497">For use on aluminium framed glass doors </text>
+<text transform="matrix(1 0 0 1 261.7772 65.6612)" font-family="'Arial'" font-size="2.0497">requirin</text>
+<text transform="matrix(1 0 0 1 268.611 65.6602)" font-family="'Arial'" font-size="2.0497">g</text>
 <rect x="261.775" y="63.787" fill="none" width="32.089" height="2.297"/>
-<text transform="matrix(1 0 0 1 269.7512 65.6602)" font-family="'ArialMT'" font-size="2.0497"> narrow stile door furniture</text>
-<text transform="matrix(1 0 0 1 293.5606 65.6603)" font-family="'ArialMT'" font-size="2.0497">.</text>
+<text transform="matrix(1 0 0 1 269.7512 65.6602)" font-family="'Arial'" font-size="2.0497"> narrow stile door furniture</text>
+<text transform="matrix(1 0 0 1 293.5606 65.6603)" font-family="'Arial'" font-size="2.0497">.</text>
 <rect x="261.775" y="63.787" fill="none" width="32.089" height="2.297"/>
-<text transform="matrix(1 0 0 1 191.592 68.0993)" font-family="'ArialMT'" font-size="2.0497">Kaba</text>
-<text transform="matrix(1 0 0 1 196.9274 68.0993)" font-family="'Arial-BoldMT'" font-size="2.0497">DL550</text>
-<text transform="matrix(1 0 0 1 203.041 68.0993)" font-family="'ArialMT'" font-size="2.0497"> Rim nightlatch</text>
-<text transform="matrix(1 0 0 1 261.7732 68.0993)" font-family="'ArialMT'" font-size="2.0497">For use on Electrical Cupboards only</text>
+<text transform="matrix(1 0 0 1 191.592 68.0993)" font-family="'Arial'" font-size="2.0497">Kaba</text>
+<text transform="matrix(1 0 0 1 196.9274 68.0993)" font-family="'Arial'" font-weight="bolder" font-size="2.0497">DL550</text>
+<text transform="matrix(1 0 0 1 203.041 68.0993)" font-family="'Arial'" font-size="2.0497"> Rim nightlatch</text>
+<text transform="matrix(1 0 0 1 261.7732 68.0993)" font-family="'Arial'" font-size="2.0497">For use on Electrical Cupboards only</text>
 <rect x="159.658" y="0" fill="none" width="155.551" height="70.973"/>
 <rect x="191.239" y="0.071" fill="#FFFFFF" width="0.07" height="1.449"/>
 <rect x="159.658" y="6.361" fill="#FFFFFF" width="101.835" height="0.071"/>

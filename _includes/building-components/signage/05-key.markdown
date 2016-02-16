@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series concrete setting-out elevations <span class="highlight-red">1:50</span></span>
+<span class="transform-to-uppercase">Series specifications</span>

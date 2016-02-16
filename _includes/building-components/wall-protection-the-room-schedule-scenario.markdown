@@ -7,7 +7,7 @@
 <span class="transform-to-uppercase">**Describe wall protection systems**</span>
 </div>
 
-{% include building-components/table-layout-block.markdown letter="F" key="building-components/wall-protection-the-room-schedule-scenario/00-key.markdown" value="building-components/wall-protection-the-room-schedule-scenario/00-value.markdown" %}
+{% include building-components/table-layout-initial.markdown letter="F" key="building-components/wall-protection-the-room-schedule-scenario/00-key.markdown" value="building-components/wall-protection-the-room-schedule-scenario/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/wall-protection-the-room-schedule-scenario/00-text.markdown" %}
 
 <div markdown="1" class="building-components-title">

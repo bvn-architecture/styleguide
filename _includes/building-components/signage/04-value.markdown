@@ -1,1 +1,1 @@
-- Setting-out describing profiles
+-- Describe signage items using systems, materials and finishes codes

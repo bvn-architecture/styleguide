@@ -30,7 +30,7 @@
 {% include building-components/table-layout-image.markdown image="building-components/doors/05-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/doors/06-key.markdown" value="building-components/doors/06-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/doors/01-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter=" " key="building-components/doors/07-key.markdown" value="building-components/doors/07-value.markdown"  %}
 {% include building-components/table-layout-text.markdown image="building-components/doors/07-text.markdown" %}

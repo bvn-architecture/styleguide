@@ -1,0 +1,1 @@
+- Identify free standing and wall hung signage items

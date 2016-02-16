@@ -1,1 +1,1 @@
-- Setting-out describing concrete wall penetrations and profiles
+- _(only if part of our contract)_

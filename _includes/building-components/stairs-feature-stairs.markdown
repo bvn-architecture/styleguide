@@ -28,7 +28,7 @@
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-feature-stairs/05-key.markdown" value="building-components/stairs-feature-stairs/05-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/stairs-feature-stairs/03-image.svg" %}
 
-{% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-feature-stairs/06-key.markdown" value="building-components/stairs-feature-stairs/06-value.markdown"  %}
+{% include building-components/table-layout-block.markdown letter="Z" key="building-components/stairs-feature-stairs/06-key.markdown" value="building-components/stairs-feature-stairs/06-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 </dl>

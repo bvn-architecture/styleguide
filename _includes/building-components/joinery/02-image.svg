@@ -3,32 +3,32 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 320 72.115" enable-background="new 0 0 320 72.115" xml:space="preserve">
 <rect x="1.097" y="1.724" fill="#B6DDE8" width="158.341" height="16.102"/>
-<text transform="matrix(1.0105 0 0 1 5.9552 5.5684)" font-family="'Arial-BoldMT'" font-size="3.9894">JOINERY</text>
-<text transform="matrix(1.0105 0 0 1 9.0147 10.7109)" font-family="'Arial-BoldMT'" font-size="3.9894">CODE</text>
-<text transform="matrix(1.0105 0 0 1 60.6445 5.5684)" font-family="'Arial-BoldMT'" font-size="3.9894">JOINERY NAME</text>
-<text transform="matrix(1.0105 0 0 1 131.5089 5.5684)" font-family="'Arial-BoldMT'" font-size="3.9894">DRAWING </text>
-<text transform="matrix(1.0105 0 0 1 132.4317 10.7109)" font-family="'Arial-BoldMT'" font-size="3.9894">NUMBER</text>
-<text transform="matrix(1.0105 0 0 1 7.7967 29.5528)" font-family="'Arial-BoldMT'" font-size="3.9894">J01</text>
-<text transform="matrix(1.0105 0 0 1 32.4691 29.505)" font-family="'ArialMT'" font-size="3.9894">WARDROBE</text>
-<text transform="matrix(1.0105 0 0 1 127.0382 29.505)" font-family="'ArialMT'" font-size="3.9894">AR-M-XX-02</text>
-<text transform="matrix(1.0105 0 0 1 7.7967 36.2353)" font-family="'Arial-BoldMT'" font-size="3.9894">J02</text>
-<text transform="matrix(1.0105 0 0 1 32.4691 36.1876)" font-family="'ArialMT'" font-size="3.9894">DAY BED</text>
-<text transform="matrix(1.0105 0 0 1 127.0382 36.1876)" font-family="'ArialMT'" font-size="3.9894">AR-M-XX-02</text>
-<text transform="matrix(1.0105 0 0 1 7.7967 42.9171)" font-family="'Arial-BoldMT'" font-size="3.9894">J05</text>
-<text transform="matrix(1.0105 0 0 1 32.4691 42.8693)" font-family="'ArialMT'" font-size="3.9894">SHELF</text>
-<text transform="matrix(1.0105 0 0 1 127.0382 42.8693)" font-family="'ArialMT'" font-size="3.9894">AR-M-XX-02</text>
-<text transform="matrix(1.0105 0 0 1 7.7967 49.5996)" font-family="'Arial-BoldMT'" font-size="3.9894">J06</text>
-<text transform="matrix(1.0105 0 0 1 32.4691 49.5518)" font-family="'ArialMT'" font-size="3.9894">WRITING BENCH</text>
-<text transform="matrix(1.0105 0 0 1 127.0382 49.5518)" font-family="'ArialMT'" font-size="3.9894">AR-M-XX-02</text>
-<text transform="matrix(1.0105 0 0 1 7.7967 56.2822)" font-family="'Arial-BoldMT'" font-size="3.9894">J10</text>
-<text transform="matrix(1.0105 0 0 1 32.4691 56.2344)" font-family="'ArialMT'" font-size="3.9894">BENCH</text>
-<text transform="matrix(1.0105 0 0 1 127.0338 56.2344)" font-family="'ArialMT'" font-size="3.9894">AR-M-XX-03</text>
-<text transform="matrix(1.0105 0 0 1 7.793 62.9639)" font-family="'Arial-BoldMT'" font-size="3.9894">J11</text>
-<text transform="matrix(1.0105 0 0 1 32.4647 62.9162)" font-family="'ArialMT'" font-size="3.9894">OVERHEAD SHELF</text>
-<text transform="matrix(1.0105 0 0 1 127.0338 62.9162)" font-family="'ArialMT'" font-size="3.9894">AR-M-XX-03</text>
-<text transform="matrix(1.0105 0 0 1 7.793 69.6465)" font-family="'Arial-BoldMT'" font-size="3.9894">J12</text>
-<text transform="matrix(1.0105 0 0 1 32.4647 69.5987)" font-family="'ArialMT'" font-size="3.9894">CUPBOARD DOOR</text>
-<text transform="matrix(1.0105 0 0 1 127.0338 69.5987)" font-family="'ArialMT'" font-size="3.9894">AR-M-XX-04</text>
+<text transform="matrix(1.0105 0 0 1 5.9552 5.5684)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">JOINERY</text>
+<text transform="matrix(1.0105 0 0 1 9.0147 10.7109)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">CODE</text>
+<text transform="matrix(1.0105 0 0 1 60.6445 5.5684)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">JOINERY NAME</text>
+<text transform="matrix(1.0105 0 0 1 131.5089 5.5684)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">DRAWING </text>
+<text transform="matrix(1.0105 0 0 1 132.4317 10.7109)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">NUMBER</text>
+<text transform="matrix(1.0105 0 0 1 7.7967 29.5528)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">J01</text>
+<text transform="matrix(1.0105 0 0 1 32.4691 29.505)" font-family="'Arial'" font-size="3.9894">WARDROBE</text>
+<text transform="matrix(1.0105 0 0 1 127.0382 29.505)" font-family="'Arial'" font-size="3.9894">AR-M-XX-02</text>
+<text transform="matrix(1.0105 0 0 1 7.7967 36.2353)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">J02</text>
+<text transform="matrix(1.0105 0 0 1 32.4691 36.1876)" font-family="'Arial'" font-size="3.9894">DAY BED</text>
+<text transform="matrix(1.0105 0 0 1 127.0382 36.1876)" font-family="'Arial'" font-size="3.9894">AR-M-XX-02</text>
+<text transform="matrix(1.0105 0 0 1 7.7967 42.9171)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">J05</text>
+<text transform="matrix(1.0105 0 0 1 32.4691 42.8693)" font-family="'Arial'" font-size="3.9894">SHELF</text>
+<text transform="matrix(1.0105 0 0 1 127.0382 42.8693)" font-family="'Arial'" font-size="3.9894">AR-M-XX-02</text>
+<text transform="matrix(1.0105 0 0 1 7.7967 49.5996)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">J06</text>
+<text transform="matrix(1.0105 0 0 1 32.4691 49.5518)" font-family="'Arial'" font-size="3.9894">WRITING BENCH</text>
+<text transform="matrix(1.0105 0 0 1 127.0382 49.5518)" font-family="'Arial'" font-size="3.9894">AR-M-XX-02</text>
+<text transform="matrix(1.0105 0 0 1 7.7967 56.2822)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">J10</text>
+<text transform="matrix(1.0105 0 0 1 32.4691 56.2344)" font-family="'Arial'" font-size="3.9894">BENCH</text>
+<text transform="matrix(1.0105 0 0 1 127.0338 56.2344)" font-family="'Arial'" font-size="3.9894">AR-M-XX-03</text>
+<text transform="matrix(1.0105 0 0 1 7.793 62.9639)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">J11</text>
+<text transform="matrix(1.0105 0 0 1 32.4647 62.9162)" font-family="'Arial'" font-size="3.9894">OVERHEAD SHELF</text>
+<text transform="matrix(1.0105 0 0 1 127.0338 62.9162)" font-family="'Arial'" font-size="3.9894">AR-M-XX-03</text>
+<text transform="matrix(1.0105 0 0 1 7.793 69.6465)" font-family="'Arial'" font-weight="bolder" font-size="3.9894">J12</text>
+<text transform="matrix(1.0105 0 0 1 32.4647 69.5987)" font-family="'Arial'" font-size="3.9894">CUPBOARD DOOR</text>
+<text transform="matrix(1.0105 0 0 1 127.0338 69.5987)" font-family="'Arial'" font-size="3.9894">AR-M-XX-04</text>
 <rect x="0.709" y="1.339" fill="#808080" width="0.388" height="70.776"/>
 <rect x="28.443" y="1.724" fill="#808080" width="0.389" height="70.391"/>
 <rect x="123.011" y="1.724" fill="#808080" width="0.389" height="70.391"/>
@@ -44,23 +44,23 @@
 <rect x="1.097" y="64.641" fill="#808080" width="158.487" height="0.385"/>
 <rect x="1.097" y="71.322" fill="#808080" width="158.487" height="0.385"/>
 <rect x="161.712" y="1.912" fill="#B6DDE8" width="157.9" height="15.604"/>
-<text transform="matrix(1.0398 0 0 1 162.6316 5.6384)" font-family="'Arial-BoldMT'" font-size="3.8662">FURNITURE / </text>
-<text transform="matrix(1.0398 0 0 1 162.7281 10.6219)" font-family="'Arial-BoldMT'" font-size="3.8662">ACCESSORY</text>
-<text transform="matrix(1.0398 0 0 1 169.6071 15.6055)" font-family="'Arial-BoldMT'" font-size="3.8662">CODE</text>
-<text transform="matrix(1.0398 0 0 1 222.5976 5.6384)" font-family="'Arial-BoldMT'" font-size="3.8662">DESCRIPTION</text>
-<text transform="matrix(1.0398 0 0 1 193.0047 29.0214)" font-family="'Arial-BoldMT'" font-size="3.8662">CHAIRS</text>
-<text transform="matrix(1.0398 0 0 1 168.4442 35.916)" font-family="'Arial-BoldMT'" font-size="4.2854">C-16</text>
-<text transform="matrix(1.0398 0 0 1 193.0006 34.7514)" font-family="'ArialMT'" font-size="3.8662">BULO EASY RIDER ARMCHAIR</text>
-<text transform="matrix(1.0398 0 0 1 168.4442 42.6704)" font-family="'Arial-BoldMT'" font-size="4.2854">C-17</text>
-<text transform="matrix(1.0398 0 0 1 193.0006 41.5057)" font-family="'ArialMT'" font-size="3.8662">INTERSTUHL SILENCIO ARMCHAIR WITH GLASS SIDES</text>
-<text transform="matrix(1.0398 0 0 1 168.4442 49.4243)" font-family="'Arial-BoldMT'" font-size="4.2854">C-19</text>
-<text transform="matrix(1.0398 0 0 1 193.0006 48.2597)" font-family="'ArialMT'" font-size="3.8662">SAARINEN TULIP CHAIRS</text>
-<text transform="matrix(1.0398 0 0 1 168.4442 56.1787)" font-family="'Arial-BoldMT'" font-size="4.2854">C-20</text>
-<text transform="matrix(1.0398 0 0 1 193.0006 55.0135)" font-family="'ArialMT'" font-size="3.8662">CELESTE ARMCHAIR WITH WRITING TABLET</text>
-<text transform="matrix(1.0398 0 0 1 168.4442 62.9326)" font-family="'Arial-BoldMT'" font-size="4.2854">C-21</text>
-<text transform="matrix(1.0398 0 0 1 193.0006 61.7684)" font-family="'ArialMT'" font-size="3.8662">CALLA CHAIR</text>
-<text transform="matrix(1.0398 0 0 1 168.4442 69.687)" font-family="'Arial-BoldMT'" font-size="4.2854">C-22</text>
-<text transform="matrix(1.0398 0 0 1 193.0006 68.5222)" font-family="'ArialMT'" font-size="3.8662">DIVINA CHAIR WITH TABLET ARM</text>
+<text transform="matrix(1.0398 0 0 1 162.6316 5.6384)" font-family="'Arial'" font-weight="bolder" font-size="3.8662">FURNITURE / </text>
+<text transform="matrix(1.0398 0 0 1 162.7281 10.6219)" font-family="'Arial'" font-weight="bolder" font-size="3.8662">ACCESSORY</text>
+<text transform="matrix(1.0398 0 0 1 169.6071 15.6055)" font-family="'Arial'" font-weight="bolder" font-size="3.8662">CODE</text>
+<text transform="matrix(1.0398 0 0 1 222.5976 5.6384)" font-family="'Arial'" font-weight="bolder" font-size="3.8662">DESCRIPTION</text>
+<text transform="matrix(1.0398 0 0 1 193.0047 29.0214)" font-family="'Arial'" font-weight="bolder" font-size="3.8662">CHAIRS</text>
+<text transform="matrix(1.0398 0 0 1 168.4442 35.916)" font-family="'Arial'" font-weight="bolder" font-size="4.2854">C-16</text>
+<text transform="matrix(1.0398 0 0 1 193.0006 34.7514)" font-family="'Arial'" font-size="3.8662">BULO EASY RIDER ARMCHAIR</text>
+<text transform="matrix(1.0398 0 0 1 168.4442 42.6704)" font-family="'Arial'" font-weight="bolder" font-size="4.2854">C-17</text>
+<text transform="matrix(1.0398 0 0 1 193.0006 41.5057)" font-family="'Arial'" font-size="3.8662">INTERSTUHL SILENCIO ARMCHAIR WITH GLASS SIDES</text>
+<text transform="matrix(1.0398 0 0 1 168.4442 49.4243)" font-family="'Arial'" font-weight="bolder" font-size="4.2854">C-19</text>
+<text transform="matrix(1.0398 0 0 1 193.0006 48.2597)" font-family="'Arial'" font-size="3.8662">SAARINEN TULIP CHAIRS</text>
+<text transform="matrix(1.0398 0 0 1 168.4442 56.1787)" font-family="'Arial'" font-weight="bolder" font-size="4.2854">C-20</text>
+<text transform="matrix(1.0398 0 0 1 193.0006 55.0135)" font-family="'Arial'" font-size="3.8662">CELESTE ARMCHAIR WITH WRITING TABLET</text>
+<text transform="matrix(1.0398 0 0 1 168.4442 62.9326)" font-family="'Arial'" font-weight="bolder" font-size="4.2854">C-21</text>
+<text transform="matrix(1.0398 0 0 1 193.0006 61.7684)" font-family="'Arial'" font-size="3.8662">CALLA CHAIR</text>
+<text transform="matrix(1.0398 0 0 1 168.4442 69.687)" font-family="'Arial'" font-weight="bolder" font-size="4.2854">C-22</text>
+<text transform="matrix(1.0398 0 0 1 193.0006 68.5222)" font-family="'Arial'" font-size="3.8662">DIVINA CHAIR WITH TABLET ARM</text>
 <rect x="319.37" y="1.912" fill="#808080" width="0.387" height="70.203"/>
 <rect x="161.324" y="1.54" fill="#808080" width="0.387" height="70.575"/>
 <rect x="188.981" y="1.912" fill="#808080" width="0.387" height="70.203"/>

@@ -1,3 +1,0 @@
--Floor-to-external wall composite section details <span class="transform-to-uppercase">1:5</span> _(construction of the detail only - do not describe applied finishes eg paint, sealant, etc)_
-- Flooring (floor-to-floor) details <span class="transform-to-uppercase">1:5</span> _(construction of the detail only - do not describe applied finishes eg paint, sealant, etc)_
-- Partitions-to-floors interface composite details <span class="transform-to-uppercase">1:5</span> _(construction of the detail only - do not describe applied finishes eg paint, sealant, etc)_

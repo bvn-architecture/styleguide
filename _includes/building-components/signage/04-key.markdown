@@ -1,6 +1,3 @@
-<span class="transform-to-uppercase">
-Series slab reflected ceiling plans <span class="highlight-red">1:100</span></span>
+<span class="transform-to-uppercase">Series signage details<span class="highlight-red">1:5, 1:2, 1:1</span></span>
 
-Graphic representation of areas with different thermal insulation systems.
-
-_(drawings are only required if written description is insufficient)_
+_(only if part of our contract)_
