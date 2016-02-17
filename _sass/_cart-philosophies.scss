@@ -1,0 +1,26 @@
+
+
+  %cart-philosophies-block{
+    @include span-columns(6);
+    @include omega();
+  }
+
+  .cart-philosophies-normal{
+        @include span-columns(6);
+    @include omega();
+
+  }
+
+  .cart-philosophies-definition{
+        @include span-columns(6);
+    @include omega();
+    background-color: grey;
+
+  }
+
+  .cart-philosophies-guides{
+        @include span-columns(6);
+    @include omega();
+    border: 5px;
+  }
+
