@@ -7,7 +7,8 @@ description: "CART - Philosophies"
 categories:      
 image:        
 ---
-
+<div id="cart-philosophies">
 
 {% include cart-philosophies/introduction.markdown %}
 
+</div>
