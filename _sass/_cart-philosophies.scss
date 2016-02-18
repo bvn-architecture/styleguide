@@ -1,8 +1,13 @@
 #cart-philosophies{
 
+  @media screen and (min-width: 800px){
+    %cart-philosophies-block{
+      @include span-columns(6);
+      @include omega();
+    }
+  }
+
   %cart-philosophies-block{
-    @include span-columns(6);
-    @include omega();
     padding: 10px;
   }
 
