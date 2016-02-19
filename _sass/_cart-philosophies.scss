@@ -1,17 +1,29 @@
 #cart-philosophies{
 
+
+
+
   @media screen and (min-width: 800px){
     %cart-philosophies-block{
       @include span-columns(6);
       @include omega();
+      //position: static;
+      display:inline-block;
+      vertical-align:top;
+      
+      border-style: solid;
+      border-color: red;
+      boarder-width: 1px;
+      
+      //clear: left;
     }
   }
 
   %cart-philosophies-block{
-    padding: 10px;
-    display: inline-block;
+    padding: 30px;
+    //display: inline-block;
     //display: inline;
-    float: none;
+    //float: left;
     //position: static;
   }
 
