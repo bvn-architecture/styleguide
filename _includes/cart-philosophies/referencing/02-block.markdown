@@ -1,8 +1,11 @@
-BENEFITS OF FOLLOWING THE BVN DOCUMENTATION APPROACH
+DO NOT BACK-REFERENCE
 
-- Efficient communication of design intent through a legible, simple, clear document
-- The focus is on design, buildability and scope, rather than the drafting process
-- There is a standardisation of the documentation output of the studio
-- It allows an appropriate allocation of project risk - There is the potential for a reduced number of conflicts and ambiguities, resulting in fewer contractual claims
-- There is flexibility to accommodate design changes throughout the construction documentation stage
-- Better project outcomes 
+Back-referencing is an attempt to advise the user about the drawing number where the detail was referenced from. That piece of information is of a very little use to anyone and very difficult to keep accurate.
+
+The same detail is likely to be referenced from multiple locations in the project which would mean you need to list in every instance the origin of the detail. Backtracking is redundant as it would ultimately take you to the general arrangement plans anyway.
+
+‘Verbal’ back-referencing is allowable, by describing the origin of the detail in the detail title.
+
+
+
+IMAGEASDJLAKFJA:F>

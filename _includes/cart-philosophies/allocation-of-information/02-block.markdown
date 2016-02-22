@@ -1,8 +1,5 @@
-BENEFITS OF FOLLOWING THE BVN DOCUMENTATION APPROACH
+SCHEDULES
 
-- Efficient communication of design intent through a legible, simple, clear document
-- The focus is on design, buildability and scope, rather than the drafting process
-- There is a standardisation of the documentation output of the studio
-- It allows an appropriate allocation of project risk - There is the potential for a reduced number of conflicts and ambiguities, resulting in fewer contractual claims
-- There is flexibility to accommodate design changes throughout the construction documentation stage
-- Better project outcomes 
+The _architectural drawing set_ includes ‘assembly of elements’ schedules, eg door schedule and the room (finishes) schedule.
+
+They are printed on the same size paper as the rest of the set and include the BVN title block, drawing name and revision column.

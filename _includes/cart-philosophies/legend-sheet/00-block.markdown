@@ -1,5 +1,1 @@
-LEGEND FOR CHAPTER 1:
-
-Definition
-
-Guides
+The legend sheet provides the key to reading all graphics, abbreviations, codes and symbols used within the architectural drawing set.

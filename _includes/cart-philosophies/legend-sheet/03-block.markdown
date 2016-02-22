@@ -1,9 +1,9 @@
-DEPARTURE FROM THE BVN DOCUMENTATION APPROACH
+THE LEGEND SHEET INCLUDES:
 
-There are many facets to construction documentation and many aspects which influence the way the construction documentation set will evolve. The project and contract type, builder’s preferences, consultant’s preferences, BVN team leader’s preferences, will all play a part in the sculpting of the document. Adjustments to suit a particular project are inevitable.
-
-The decision to depart from the prescribed BVN Documentation format is at the discretion of the team leader and will depend on the requirements of the project.
-
-That decision is a matter of professional judgment, informed by the full understanding of the BVNCART Documentation Concepts and BVNCART Focus points.
-
-Once  greed, the altered set of rules has to be implemented consistently throughout the set.
+- Drawing list (BVN Alphabet) List of drawing groups contained within the drawing set. This is for quick reference, to enable easier navigation around the set.
+- List of abbreviations
+- List of all systems, materials and finishes codes including reference to the specification section where the systems, materials and finishes are fully specified
+- Key to drawing symbols eg door tags, elevation reference symbols, etc
+- Key to drawing graphics and conventions eg concrete hatching, direction of ramp fall, etc
+- Key to reflected ceiling symbols. This varies from project to project. There is no standard library of ceiling symbols. The symbols have to be developed separately for every project. It is beneficial to base your symbols on equivalent-ones created (and drawn) by the services engineers.
+- General project notes
