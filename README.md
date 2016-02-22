@@ -45,7 +45,7 @@ You need to get the project from GitHub before you can work locally:
 ```
 *Indept guide for troubleshooting: [Windows](http://jekyll-windows.juthilo.com/) [Mac and Linux](http://jekyllrb.com/docs/installation/)
 
-###Known window problems
+###Known Windows problems
 There are some compatibility issues with ruby and jekyll for windows operating systems. If you are running on Linux or Mac OS, ignore this stage.
 * Reference file directories do not need any "../" indicating a move out of folder. It works as a local host in windows but will not work in GitHub.
 * There are occasions where the GitHub gem would not be installed into ruby. Use 'Git Bash' as the command prompt.
