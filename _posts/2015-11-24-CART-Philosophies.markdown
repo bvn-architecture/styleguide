@@ -7,9 +7,15 @@ description: "CART - Philosophies"
 categories:      
 image:        
 ---
+
+
+
 <div id="cart-philosophies">
 
 {% include cart-philosophies/introduction.markdown %}
-{% include cart-philosophies/drawing-and-describing-architectural-entities.markdown %}
+
 
 </div>
+
+
+

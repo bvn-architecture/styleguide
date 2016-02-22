@@ -8,6 +8,7 @@
       @include span-columns(6);
       @include omega();
       //position: static;
+      
       display:inline-block;
       vertical-align:top;
       
@@ -15,12 +16,13 @@
       border-color: red;
       boarder-width: 1px;
       
-      //clear: left;
+      //clear: both;
     }
   }
 
   %cart-philosophies-block{
     padding: 30px;
+    height: auto;
     //display: inline-block;
     //display: inline;
     //float: left;
