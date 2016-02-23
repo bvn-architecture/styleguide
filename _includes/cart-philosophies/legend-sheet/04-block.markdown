@@ -1,5 +1,5 @@
-<p class="cart-philosophies-hover">SYSTEMS, MATERIALS AND FINISHES CODES (applicable to entire project)</p>
+<p>SYSTEMS, MATERIALS AND FINISHES CODES (applicable to entire project) <span class="highlight-red">'A' SERIES Legend sheet</span></p>
 
-<p class="cart-philosophies-hover">WET AREAS FIXTURES AND FITTINGS CODES</p>
+<p>WET AREAS FIXTURES AND FITTINGS CODES <span class="highlight-red">'Q' SERIES Legend sheet</span></p>
 
-<p class="cart-philosophies-hover">FURNITURE AND JOINERY CODES</p>
+<p>FURNITURE AND JOINERY CODES <span class="highlight-red">'L' SERIES Legend sheet</span></p>
