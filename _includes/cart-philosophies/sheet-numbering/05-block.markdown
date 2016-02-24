@@ -1,1 +1,1 @@
-IMAGE
+{% include cart-philosophies/sheet-numbering/05-image.svg %}

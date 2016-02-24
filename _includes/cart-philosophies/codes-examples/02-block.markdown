@@ -1,6 +1,6 @@
-<span  class="cart-philosophies-grid-codes-one-of-three">CODE</span>
-<span  class="cart-philosophies-grid-codes-two-of-three">BUILDING ELEMENT</span>
-<span  class="cart-philosophies-grid-codes-three-of-three">LEGEND SHEET DESCRIPTION POINTER</span>
+<span  class="cart-philosophies-grid-codes-one-of-three">**CODE**</span>
+<span  class="cart-philosophies-grid-codes-two-of-three">**BUILDING ELEMENT**</span>
+<span  class="cart-philosophies-grid-codes-three-of-three">**LEGEND SHEET DESCRIPTION POINTER**</span>
 
 <span  class="cart-philosophies-grid-codes-one-of-three">FR-1<br>FR-2</span>
 <span  class="cart-philosophies-grid-codes-two-of-three">FRIT PATTERNS</span>

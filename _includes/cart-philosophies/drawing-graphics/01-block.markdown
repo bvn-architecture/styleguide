@@ -1,3 +1,1 @@
-CART
-
-Clear and rational thinking
+{% include cart-philosophies/drawing-graphics/01-image.svg %}

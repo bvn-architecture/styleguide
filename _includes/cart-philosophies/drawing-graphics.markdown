@@ -1,11 +1,17 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>Codes</h1>
+	<h1>Drawing graphics</h1>
 
-{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/00-block.markdown" %}
-{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/01-block.markdown" %}
-{% include cart-philosophies/cart-philosophies-block.markdown box-type="guides" value="cart-philosophies/codes/02-block.markdown" %}
-{% include cart-philosophies/cart-philosophies-block.markdown box-type="definition" value="cart-philosophies/codes/03-block.markdown" %}
-{% include cart-philosophies/cart-philosophies-block.markdown box-type="guides" value="cart-philosophies/codes/04-block.markdown" %}
-{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/05-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/00-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/01-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/02-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/03-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/04-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/05-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/06-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/07-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/08-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/09-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/10-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/11-block.markdown" %}
 
 </div>

@@ -6,6 +6,4 @@ The same detail is likely to be referenced from multiple locations in the projec
 
 ‘Verbal’ back-referencing is allowable, by describing the origin of the detail in the detail title.
 
-
-
-IMAGEASDJLAKFJA:F>
+{% include cart-philosophies/referencing/02-image.svg %}

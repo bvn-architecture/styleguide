@@ -1,5 +1,1 @@
-LEGEND FOR CHAPTER 1:
-
-Definition
-
-Guides
+{% include cart-philosophies/drawing-graphics/00-image.svg %}
