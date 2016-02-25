@@ -30,5 +30,5 @@ image:
 
 </div>
 
-
+{% include cart-philosophies/masonry-script.markdown %}
 

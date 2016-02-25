@@ -2,14 +2,16 @@
 
 
 $color-grey-value: #C8C8C8;
-
+.testing-besting{
+  background-color: blue;
+}
 
 .cart-philosophies-background-grey{
   background-color: #f2f2f2;
 }
 
 
-  %cart-philosophies-block{
+  .cart-philosophies-block{
     padding: 5px;
     height: auto;
     margin-bottom: 20px;
@@ -21,39 +23,35 @@ $color-grey-value: #C8C8C8;
   }
 
   @media screen and (min-width: 800px){
-    %cart-philosophies-block{
+    .cart-philosophies-block{
       @include span-columns(6);
       @include omega();
       //position: static;
       padding: 30px;
       
       vertical-align:top;
-      
-      border-style: solid;
-      border-color: red;
       boarder-width: 1px;
       margin-bottom: 0;
       //clear: both;
+
+      //overflow: auto;
     }
   }
 
 
   .cart-philosophies-normal{
-    @extend %cart-philosophies-block;
+  
   }
 
   .cart-philosophies-table{
-    @extend %cart-philosophies-block;
     @include span-columns(12);
   }
 
   .cart-philosophies-definition{
-    @extend %cart-philosophies-block;
     background-color: #e4e4e4;
   }
 
   .cart-philosophies-guides{
-    @extend %cart-philosophies-block;
     border-style: solid;
     border-width: 2px;
   }
@@ -206,8 +204,5 @@ $color-grey-value: #C8C8C8;
     @include span-columns(4);
 
   }
-  .cart-philosophies-grid-graphics-three-of-three:after {
-  content: " --- "
-}
 
 }

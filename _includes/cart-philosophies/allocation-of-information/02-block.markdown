@@ -1,5 +1,5 @@
-SCHEDULES
+SPECIFICATIONS
 
-The _architectural drawing set_ includes ‘assembly of elements’ schedules, eg door schedule and the room (finishes) schedule.
+_“The specifications are that portion of the contract document consisting of the written requirements for materials, equipment, systems, standards and workmanship for the work, and performance of the related services.”_
 
-They are printed on the same size paper as the rest of the set and include the BVN title block, drawing name and revision column.
+_American Institute of Architects (AIA) Document A201-2007 – General Conditions of the Contract for Construction, Paragraph 1.1.6_

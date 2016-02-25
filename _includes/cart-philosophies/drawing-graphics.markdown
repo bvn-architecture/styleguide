@@ -1,6 +1,7 @@
 <div data-role="collapsible" data-inset="false">
 	<h1>Drawing graphics</h1>
 
+<div class="cart-philosophies-wrapper">
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/00-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/01-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-graphics/02-block.markdown" %}
@@ -13,5 +14,6 @@
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/09-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/10-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/11-block.markdown" %}
+</div>
 
 </div>

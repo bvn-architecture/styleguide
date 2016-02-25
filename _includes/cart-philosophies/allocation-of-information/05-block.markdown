@@ -1,7 +1,9 @@
-CONTENT OF SPECIFICATION
-
-A typical architectural specification contains two categories of descriptions: 
-
-_Technical_: eg materials, fabrication, workmanship, preparation, installation, tests, etc
-
-_Non-technical_: eg scope of work, delivery of materials, samples and shop drawings requirements, permits, guarantees, job conditions, cleaning, etc
+SAY IT ONCE
+Provide a piece of
+information as few times
+as possible and only in
+the agreed place. Ideally
+only once within the
+Architectural Drawing
+Set. On a drawing or in a
+schedule.

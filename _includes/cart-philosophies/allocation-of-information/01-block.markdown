@@ -1,5 +1,5 @@
-DRAWINGS
+SCHEDULES
 
-_“The drawings are the graphic and pictorial portions of the contract documents showing the design, location and dimensions of the work, generally including plans, elevations, sections, details, schedules and diagrams.”_
+The _architectural drawing set_ includes ‘assembly of elements’ schedules, eg door schedule and the room (finishes) schedule.
 
-_American Institute of Architects (AIA) Document A201-2007 – General_
+They are printed on the same size paper as the rest of the set and include the BVN title block, drawing name and revision column.
