@@ -8,6 +8,7 @@
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="F" key="building-components/floors-the-graphic-representation-of-finishes-scenario/00-key.markdown" value="building-components/floors-the-graphic-representation-of-finishes-scenario/00-value.markdown" %}
+{% include building-components/table-layout-text.markdown image="building-components/floors-the-graphic-representation-of-finishes-scenario/00-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
 <span class="transform-to-uppercase">**Describe** Construction and finishes</span>
