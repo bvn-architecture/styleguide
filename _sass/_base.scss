@@ -93,6 +93,7 @@ h3 {
 
 //Links
 a {
+
   color: $brand-color;
   text-decoration: none;
 
@@ -274,3 +275,13 @@ ul {
   .ui-panel-page-container-a {
     background-color: transparent;
   }
+
+
+#cart-collapsible-div{
+  a {
+    font-size: 1em;
+    font-style: bold;
+    color: red;
+    padding-left: 10px;}
+
+}

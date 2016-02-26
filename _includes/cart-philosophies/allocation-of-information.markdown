@@ -1,5 +1,5 @@
-<div data-role="collapsible" data-inset="false">
-	<h1>Allocation of information</h1>
+<div data-role="collapsible" data-inset="false" onclick="refreshClick()">
+	<h1 id="cart-collapsible-div">Allocation of information</h1>
 
 <div class="cart-philosophies-wrapper">
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="definition" value="cart-philosophies/allocation-of-information/00-block.markdown" %}
