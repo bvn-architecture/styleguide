@@ -285,3 +285,9 @@ ul {
     padding-left: 10px;}
 
 }
+
+
+//remove Ajax spinner
+.ui-loading .ui-loader {
+    display: none;
+}
