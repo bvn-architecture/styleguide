@@ -27,21 +27,6 @@ $color-grey-value: #C8C8C8;
 
   }
 
-  @media screen and (min-width: 800px){
-    .cart-philosophies-block{
-      @include span-columns(6);
-      @include omega();
-      //position: static;
-      padding: 30px;
-      
-      vertical-align:top;
-      boarder-width: 1px;
-      
-      //clear: both;
-
-      //overflow: auto;
-    }
-  }
 
 
   .cart-philosophies-normal{
@@ -210,4 +195,57 @@ $color-grey-value: #C8C8C8;
 
   }
 
+
+@media screen and (min-width: 800px){
+    .cart-philosophies-block{
+      @include span-columns(6);
+      @include omega();
+      //position: static;
+      padding: 30px;
+      
+      vertical-align:top;
+      boarder-width: 1px;
+      
+      //clear: both;
+
+      //overflow: auto;
+    }
+  
+
+    .cart-philosophies-table{
+    @include span-columns(12);
+    
+
+  }
+
+  .cart-philosophies-grid-wrapper{
+    @include span-columns(12);
+  }
+  .cart-philosophies-grid-wrapper:not(:first-child){
+    border-style: solid;
+    border-top-width: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-color: $color-grey-value;
+  }
+  .cart-philosophies-grid-one-of-four{
+    @include span-columns(4.5);
+    border-style: none;
+  }
+  .cart-philosophies-grid-two-of-four{
+    @include span-columns(2.5);
+    border-style: none;
+  }
+  .cart-philosophies-grid-three-of-four{
+    @include span-columns(2.5);
+    border-style: none;
+  }
+  .cart-philosophies-grid-four-of-four{
+    @include span-columns(2.4);
+    border-style: none;
+
+  }
+
+}
 }

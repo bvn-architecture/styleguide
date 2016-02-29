@@ -1,5 +1,5 @@
 LEGEND FOR CHAPTER 1:
 
-Definition
+<div>{% include cart-philosophies/introduction/definition-icon.svg %}     Definition</div>
 
-Guides
+<div>{% include cart-philosophies/introduction/guides-icon.svg %}     Guides</div>
