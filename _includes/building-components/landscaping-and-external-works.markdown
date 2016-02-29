@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>Landscaping and external works</h1>
+	<h1 class="cart-collapsible-div">Landscaping and external works</h1>
 
 <dl>
 

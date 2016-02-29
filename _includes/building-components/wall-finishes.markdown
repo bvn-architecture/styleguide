@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>Wall finishes</h1>
+	<h1 class="cart-collapsible-div">Wall finishes</h1>
 
 <dl>
 
