@@ -14,6 +14,7 @@
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/09-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/10-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/11-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/drawing-graphics/12-block.markdown" %}
 </div>
 
 </div>

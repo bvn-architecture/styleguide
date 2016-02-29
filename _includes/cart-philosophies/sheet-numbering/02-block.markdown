@@ -1,1 +1,1 @@
-{% include cart-philosophies/sheet-numbering/02-image.svg %}
+The adopted numbering system needs to be consistent throughout the drawing set.

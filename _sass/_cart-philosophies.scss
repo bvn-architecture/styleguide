@@ -173,11 +173,6 @@ $color-grey-value: #C8C8C8;
   %cart-philosophies-grid-graphics-of-three{
     @include omega();
     float: left;
-    height: 200px;
-    border-style: solid;
-    border-left: 0px;
-    border-right: 0px;
-    border-bottom: 0px;
   }
 
   .cart-philosophies-grid-graphics-one-of-three{
@@ -194,6 +189,8 @@ $color-grey-value: #C8C8C8;
     @include span-columns(4);
 
   }
+
+
 
 
 @media screen and (min-width: 800px){
@@ -214,6 +211,9 @@ $color-grey-value: #C8C8C8;
 
     .cart-philosophies-table{
     @include span-columns(12);
+    padding: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     
 
   }
@@ -228,6 +228,9 @@ $color-grey-value: #C8C8C8;
     border-right: 0px;
     border-bottom: 0px;
     border-color: $color-grey-value;
+  }
+  .cart-philosophies-grid-wrapper:nth-child(2){
+    border-color: black;
   }
   .cart-philosophies-grid-one-of-four{
     @include span-columns(4.5);
@@ -244,8 +247,37 @@ $color-grey-value: #C8C8C8;
   .cart-philosophies-grid-four-of-four{
     @include span-columns(2.4);
     border-style: none;
-
   }
+
+
+
+  .cart-philosophies-grid-codes-one-of-three{
+    @include span-columns(1.9);
+    border-style: none;
+  }
+  .cart-philosophies-grid-codes-two-of-three{
+    @include span-columns(3);
+    border-style: none;
+  }
+  .cart-philosophies-grid-codes-three-of-three{
+    @include span-columns(7);
+    border-style: none;
+  }
+
+  .cart-philosophies-grid-one-of-three{
+    @include span-columns(4);
+    border-style: none;
+  }
+  .cart-philosophies-grid-two-of-three{
+    @include span-columns(4);
+    border-style: none;
+  }
+  .cart-philosophies-grid-three-of-three{
+    @include span-columns(3.9);
+    border-style: none;
+  }
+
+
 
 }
 }
