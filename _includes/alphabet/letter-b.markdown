@@ -1,7 +1,6 @@
 <div data-role="collapsible" data-inset="false">
 	<h1 class="cart-collapsible-div">B - Floor and roof plans</h1>
 
-
 <dl>
 
 <dt class="alphabet-table-key-two">
@@ -23,6 +22,17 @@ B
 <dd>
 <div markdown="1">
 {% include alphabet/alphabet-markdown/b/b-1-value.markdown %}
+</div>
+</dd>
+
+<dt>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/b/b-2-key.markdown %}
+</div>
+</dt>
+<dd>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/b/b-2-value.markdown %}
 </div>
 </dd>
 

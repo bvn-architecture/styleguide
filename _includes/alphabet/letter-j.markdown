@@ -67,6 +67,17 @@ J
 </div>
 </dd>
 
+<dt>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/j/j-5-key.markdown %}
+</div>
+</dt>
+<dd>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/j/j-5-value.markdown %}
+</div>
+</dd>
+
 </dl>
 
 </div>
