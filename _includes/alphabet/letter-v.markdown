@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>V - Concrete and waterproof plans</h1>
+	<h1 class="cart-collapsible-div">V - Concrete and waterproof plans</h1>
 
 <dl>
 

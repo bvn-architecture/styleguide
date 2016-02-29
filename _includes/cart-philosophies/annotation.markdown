@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>Annotation, Size of lettering, Orientation of lettering</h1>
+	<h1 class="cart-collapsible-div">Annotation, Size of lettering, Orientation of lettering</h1>
 
 <div class="cart-philosophies-wrapper">
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/annotation/00-block.markdown" %}

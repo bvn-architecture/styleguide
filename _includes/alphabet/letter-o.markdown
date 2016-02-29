@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>P - Cleaning and maintenance equipment</h1>
+	<h1 class="cart-collapsible-div">P - Cleaning and maintenance equipment</h1>
 
 <dl>
 

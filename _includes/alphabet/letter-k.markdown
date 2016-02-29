@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>K - Interface details</h1>
+	<h1 class="cart-collapsible-div">K - Interface details</h1>
 
 <dl>
 
