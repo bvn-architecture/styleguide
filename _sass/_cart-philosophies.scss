@@ -2,8 +2,12 @@
 
 
 $color-grey-value: #C8C8C8;
-.testing-besting{
-  background-color: blue;
+
+
+
+.cart-philosophies-wrapper{
+  // no transitions
+  transitionDuration: 0s;
 }
 
 .cart-philosophies-background-grey{
@@ -14,12 +18,13 @@ $color-grey-value: #C8C8C8;
   .cart-philosophies-block{
     padding: 5px;
     height: auto;
-    margin-bottom: 20px;
+    margin-bottom: 8px;
     display: inline-block;
-    //display: inline-block;
-    //display: inline;
-    //float: left;
-    //position: static;
+
+    > p:last-child{
+      margin-bottom: 0px;
+    }
+
   }
 
   @media screen and (min-width: 800px){
@@ -31,7 +36,7 @@ $color-grey-value: #C8C8C8;
       
       vertical-align:top;
       boarder-width: 1px;
-      margin-bottom: 0;
+      
       //clear: both;
 
       //overflow: auto;
