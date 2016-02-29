@@ -93,6 +93,7 @@ h3 {
 
 //Links
 a {
+
   color: $brand-color;
   text-decoration: none;
 
@@ -239,6 +240,7 @@ ul {
   }
 
   dd {
+    float: left;
     > div {
       > p {
         line-height: 1.2;
@@ -273,3 +275,18 @@ ul {
   .ui-panel-page-container-a {
     background-color: transparent;
   }
+
+
+.cart-collapsible-div{
+  a {
+    font-size: 1em;
+    font-style: bold;
+    color: $grey-color;
+    padding-left: 15px;}
+
+}
+
+//remove Ajax spinner
+.ui-loading .ui-loader {
+    display: none;
+}

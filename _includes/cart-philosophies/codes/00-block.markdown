@@ -1,0 +1,1 @@
+Codes provide a link between a detail, a long description on the legend sheet and the full description in the specification.

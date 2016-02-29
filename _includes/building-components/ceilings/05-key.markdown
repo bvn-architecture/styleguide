@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series ceiling specifications</span>

@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series stairs details <span class="highlight-red">1:5</span></span>

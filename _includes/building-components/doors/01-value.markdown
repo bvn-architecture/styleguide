@@ -1,0 +1,2 @@
+- Door type elevations <span class="highlight-red">1:50</span>
+- Line of heights control diagram <span class="highlight-red">1:20</span>

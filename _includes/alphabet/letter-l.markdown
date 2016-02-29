@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>L - Furniture: Furniture, fixtures, fittings and equipment (FFE)</h1>
+	<h1 class="cart-collapsible-div">L - Furniture: Furniture, fixtures, fittings and equipment (FFE)</h1>
 
 <dl>
 

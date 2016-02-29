@@ -1,0 +1,1 @@
+- Room numbers and room names only

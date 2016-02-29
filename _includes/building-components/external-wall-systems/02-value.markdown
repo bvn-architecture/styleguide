@@ -1,0 +1,1 @@
+- Dimensioned slab edge geometry to accommodate external wall construction

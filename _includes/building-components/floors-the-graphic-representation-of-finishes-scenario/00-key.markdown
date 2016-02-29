@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series floor finishes general arrangement plans <span class="highlight-red">1:100</span></span>

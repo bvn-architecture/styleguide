@@ -1,0 +1,1 @@
+- Complex areas which are graphically too heavy are referenced to <span class="highlight-red">1:50</span> plans in G series

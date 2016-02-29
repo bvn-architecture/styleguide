@@ -1,0 +1,2 @@
+- Internal dimensions of lift shafts _(Guide rails of lifts must be adjusted to extremely tight tolerances, the concrete shaft must be also built to a strict tolerance. Take tolerance into consideration and state ‘MINIMUM PLUMB DIMENSION’)_
+- Horizontal setting-out of lift doors structural opening

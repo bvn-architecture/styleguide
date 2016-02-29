@@ -1,0 +1,1 @@
+- Special door frame/door head conditions

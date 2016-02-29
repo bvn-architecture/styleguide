@@ -1,0 +1,2 @@
+- _(If provided - otherwise refer direct from <span class="highlight-red">1:100</span> plans in B series)_
+- Make reference to <span class="highlight-red">1:5</span> details in K series

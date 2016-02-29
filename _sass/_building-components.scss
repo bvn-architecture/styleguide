@@ -1,23 +1,77 @@
+
+dl{
+  padding-bottom: 20px;
+}
+
 .building-components-key{
-  
+  padding-bottom: 50px;
+}
+
+.building-components-dt-initial{
+  @include span-columns(12);
+  padding-bottom: 15px;
+  vertical-align: top;
+  text-align: left;
 }
 
 .building-components-dt-block{
+  @include span-columns(3);
+  @include omega();
+  padding-bottom: 15px;
+  vertical-align: top;
+  text-align: left;
+}
+
+.building-components-dd-block{
+  @include shift(.5);
+  @include span-columns(8.5);
+
+  p{
+    margin-bottom: 5px;
+  }
+}
+
+.building-components-dd-text{
+  background-color: rgb(252,251,227);
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.building-components-title{
+  clear: left;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+#building-components-dt-content{
   width: 15px;
+  height: 5px;
   line-height: 1.2;
   margin-bottom: 0;
   > div {
     margin-bottom: 0;
     }
   }
-
-.building-components-dt-block-micro{
-}
-.building-components-dd-block{
-  //width: auto;
+#building-components-dd-content{
+  //subtract 100% by the value of the width in ".building-components-dt-content"
+  width: calc(100% - 15px);
   margin-left: 0;
   margin-bottom: 0;
+  line-height: 1.2;
   > div {
     margin-bottom: 0;
   }
+}
+
+@media screen and (max-width: 1000px){
+  .building-components-dt-block{
+    width: 100%;
+  }
+
+  .building-components-dd-block{
+    //@include shift();
+    margin-left:15px;
+    width: calc(100% - 30px);
+  }
+
 }

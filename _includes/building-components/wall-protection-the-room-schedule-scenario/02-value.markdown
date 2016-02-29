@@ -1,0 +1,1 @@
+- Reference complex areas which can not be scheduled to <span class="highlight-red">1:50</span> plans in G series

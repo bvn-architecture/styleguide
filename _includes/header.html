@@ -28,7 +28,7 @@
 
       <div class="trigger">
         {% for postpage in site.posts %}
-          <a class="page-link" {% if postpage.url == postpage.url %} class="active" {% endif %} href="{{ postpage.url | prepend: site.baseurl }}">
+          <a class="page-link" {% if postpage.url == postpage.url %} class="active" {% endif %} href="{{ postpage.url | prepend: site.baseurl }}" >
                {{ postpage.title }}
           </a>
         {% endfor %}

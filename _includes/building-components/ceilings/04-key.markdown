@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series interface details <span class="highlight-red">1:5</span></span>

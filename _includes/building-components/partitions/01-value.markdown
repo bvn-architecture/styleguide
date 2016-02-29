@@ -1,0 +1,1 @@
+- Key - description of the partition construction code

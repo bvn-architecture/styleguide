@@ -1,0 +1,2 @@
+<span class="transform-to-uppercase">
+Series legend sheet</span>

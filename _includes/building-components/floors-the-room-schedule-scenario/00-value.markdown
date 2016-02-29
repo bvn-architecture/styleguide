@@ -1,0 +1,1 @@
+- The substrate and finishes are identified by listing the materials and finishes under the \|FLOOR/SUBSTRATE\| and \|FLOOR/FINISH\| criteria

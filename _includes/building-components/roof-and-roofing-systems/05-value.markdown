@@ -1,0 +1,2 @@
+- Including items associated with external wall and roof eg maintenance walkways, fall arrest systems
+- Describe systems using systems, materials and finishes codes

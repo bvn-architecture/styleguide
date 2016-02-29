@@ -1,0 +1,1 @@
+{% include cart-philosophies/drawing-graphics/04-image.svg %}

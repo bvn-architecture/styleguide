@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-	<h1>N - Metalwork</h1>
+	<h1 class="cart-collapsible-div">N - Metalwork</h1>
 
 <dl>
 
