@@ -27,7 +27,7 @@ image:
 {% include building-components/table-layout-image.markdown image="building-components/roof-and-roofing-systems/02-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="D" key="building-components/roof-and-roofing-systems/03-key.markdown" value="building-components/roof-and-roofing-systems/03-value.markdown"  %}
-{% include building-components/table-layout-image.markdown image="building-components/roof-and-roofing-systems/02-image.svg" %}
+{% include building-components/table-layout-image.markdown image="building-components/roof-and-roofing-systems/03-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="C" key="building-components/roof-and-roofing-systems/04-key.markdown" value="building-components/roof-and-roofing-systems/04-value.markdown"  %}
 
