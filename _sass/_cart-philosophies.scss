@@ -6,8 +6,6 @@ $color-grey-value: #C8C8C8;
 
 
 .cart-philosophies-wrapper{
-  // no transitions
-  transitionDuration: 0s;
 }
 
 .cart-philosophies-background-grey{
@@ -20,7 +18,6 @@ $color-grey-value: #C8C8C8;
     height: auto;
     margin-bottom: 8px;
     display: inline-block;
-
     > p:last-child{
       margin-bottom: 0px;
     }
