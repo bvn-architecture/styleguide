@@ -14,7 +14,7 @@ ol,
 ul,
 dd,
 dt,
-dl,
+dl,x
 figure {
   margin: 0;
   padding: 0;
@@ -210,6 +210,8 @@ hr {
 //List
 ul {
   list-style-position: outside;
+  list-style-type: disc;
+  list-style-type: cjk-ideographic;
   > li{
     > ul{
       > li{

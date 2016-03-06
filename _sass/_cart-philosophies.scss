@@ -32,7 +32,7 @@ $color-grey-value: #C8C8C8;
 
   .cart-philosophies-table{
     @include span-columns(12);
-  }
+  } 
 
   .cart-philosophies-definition{
     background-color: #e4e4e4;
@@ -192,12 +192,12 @@ $color-grey-value: #C8C8C8;
 
 @media screen and (min-width: 800px){
     .cart-philosophies-block{
-      @include span-columns(6);
+      @include span-columns(5.9);
       @include omega();
       //position: static;
       padding: 30px;
       
-      vertical-align:top;
+      //vertical-align:top;
       boarder-width: 1px;
       
       //clear: both;
@@ -207,7 +207,7 @@ $color-grey-value: #C8C8C8;
   
 
     .cart-philosophies-table{
-    @include span-columns(12);
+    @include span-columns(12);  
     padding: 0px;
     padding-top: 30px;
     padding-bottom: 30px;
