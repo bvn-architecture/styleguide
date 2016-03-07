@@ -11,7 +11,7 @@ $('.cart-philosophies-wrapper').masonry({
 	transitionDuration: 0
 });
 
-var delay=100; //1000 = 1 seconds
+var delay=0; //1000 = 1 seconds
 
 
 

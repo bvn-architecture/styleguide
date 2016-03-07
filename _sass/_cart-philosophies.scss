@@ -171,19 +171,16 @@ $color-grey-value: #C8C8C8;
 
   .cart-philosophies-grid-graphics-one-of-three{
     @extend %cart-philosophies-grid-graphics-of-three;
-    @include span-columns(3.9);
+    @include span-columns(12);
   }
   .cart-philosophies-grid-graphics-two-of-three{
     @extend %cart-philosophies-grid-graphics-of-three;
-    @include span-columns(4);
-    padding-left: 15%;
+    @include span-columns(6);
 
   }
   .cart-philosophies-grid-graphics-three-of-three{
     @extend %cart-philosophies-grid-graphics-of-three;
-    @include span-columns(4);
-    padding-left: 10px; 
-    padding-right: 10px;
+    @include span-columns(5.9);
   }
 
 
@@ -218,17 +215,7 @@ $color-grey-value: #C8C8C8;
     @include span-columns(12);
     margin-top: 5px;
   }
-  .cart-philosophies-grid-wrapper:not(:first-child){
-    border-style: solid;
-    border-top-width: 1px;
-    border-left: 0px;
-    border-right: 0px;
-    border-bottom: 0px;
-    border-color: $color-grey-value;
-  }
-  .cart-philosophies-grid-wrapper:nth-child(2){
-    border-color: black;
-  }
+
   .cart-philosophies-grid-one-of-four{
     @include span-columns(4.5);
     border-style: none;
@@ -273,6 +260,20 @@ $color-grey-value: #C8C8C8;
     @include span-columns(3.9);
     border-style: none;
   }
+
+  .cart-philosophies-grid-graphics-one-of-three{
+    @include span-columns(4.9);
+    min-height: 60px;
+  }
+  .cart-philosophies-grid-graphics-two-of-three{
+    @include span-columns(3.5);
+    min-height: 60px;
+  }
+  .cart-philosophies-grid-graphics-three-of-three{
+    @include span-columns(3.5);
+    min-height: 60px;
+  }
+
 
 
 
