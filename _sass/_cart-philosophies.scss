@@ -25,7 +25,6 @@ $color-grey-value: #C8C8C8;
   }
 
 
-
   .cart-philosophies-normal{
   
   }
@@ -42,8 +41,6 @@ $color-grey-value: #C8C8C8;
     border-style: solid;
     border-width: 2px;
   }
-
-
 
 
 
@@ -179,12 +176,14 @@ $color-grey-value: #C8C8C8;
   .cart-philosophies-grid-graphics-two-of-three{
     @extend %cart-philosophies-grid-graphics-of-three;
     @include span-columns(4);
+    padding-left: 15%;
 
   }
   .cart-philosophies-grid-graphics-three-of-three{
     @extend %cart-philosophies-grid-graphics-of-three;
     @include span-columns(4);
-
+    padding-left: 10px; 
+    padding-right: 10px;
   }
 
 
@@ -217,6 +216,7 @@ $color-grey-value: #C8C8C8;
 
   .cart-philosophies-grid-wrapper{
     @include span-columns(12);
+    margin-top: 5px;
   }
   .cart-philosophies-grid-wrapper:not(:first-child){
     border-style: solid;
