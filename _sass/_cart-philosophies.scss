@@ -42,7 +42,12 @@ $color-grey-value: #C8C8C8;
     border-width: 2px;
   }
 
-
+  .cart-philosophies-guides-table{
+    @include span-columns(12);
+    padding-left: 5px;
+    border-style: solid;
+    border-width: 2px;
+  }
 
 //grids
 
@@ -193,7 +198,7 @@ $color-grey-value: #C8C8C8;
       //position: static;
       padding: 30px;
       
-      //vertical-align:top;
+      vertical-align:top;
       boarder-width: 1px;
       
       //clear: both;
@@ -202,13 +207,15 @@ $color-grey-value: #C8C8C8;
     }
   
 
-    .cart-philosophies-table{
+  .cart-philosophies-table{
     @include span-columns(12);  
     padding: 0px;
     padding-top: 30px;
     padding-bottom: 30px;
-    
+  }
 
+  .cart-philosophies-guides-table{
+    @include span-columns(12);
   }
 
   .cart-philosophies-grid-wrapper{
