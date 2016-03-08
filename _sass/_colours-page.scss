@@ -187,4 +187,13 @@ article.post.colour {
   .cmyk-wrap {
     display: inline-block;
   }
+
+  @media screen and (min-width: 1000px){
+    .plan-colouring {
+      @include span-columns(3);
+      @include omega();
+    }
+  }
+
+
 }

@@ -210,8 +210,7 @@ hr {
 //List
 ul {
   list-style-position: outside;
-  list-style-type: disc;
-  list-style-type: cjk-ideographic;
+  list-style-type: none;
   > li{
     > ul{
       > li{
@@ -219,6 +218,10 @@ ul {
       }
     }
   }
+}
+
+ul:first-line{
+  text-indent: -8 px;
 }
 
 //Text span options
