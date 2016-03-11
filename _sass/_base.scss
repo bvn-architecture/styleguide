@@ -14,7 +14,7 @@ ol,
 ul,
 dd,
 dt,
-dl,
+dl,x
 figure {
   margin: 0;
   padding: 0;
@@ -210,13 +210,18 @@ hr {
 //List
 ul {
   list-style-position: outside;
+  //list-style-type: none;
   > li{
     > ul{
       > li{
-        list-style: none;
+        //list-style: none;
       }
     }
   }
+}
+
+ul:first-line{
+  text-indent: -8 px;
 }
 
 //Text span options

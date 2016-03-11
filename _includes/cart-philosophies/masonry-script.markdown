@@ -7,10 +7,11 @@
 $('.cart-philosophies-wrapper').masonry({
 	columnWidth: '.cart-philosophies-block',
 	itemSelector: '.cart-philosophies-block',
-	gutter: 8
+	gutter: 8,
+	transitionDuration: 0
 });
 
-var delay=50; //1000 = 1 seconds
+var delay=0; //1000 = 1 seconds
 
 
 

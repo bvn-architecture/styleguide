@@ -1,0 +1,17 @@
+
+
+
+@media screen and (min-width: 1000px){
+  .style-guide-block-text{
+    @include span-columns(6);
+    @include omega();
+  }
+
+  .style-guide-block-image{
+    @include span-columns(6);
+    margin-bottom: 10px;
+    > svg{
+    	float: right;
+    }
+  }
+}

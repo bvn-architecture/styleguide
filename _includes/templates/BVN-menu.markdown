@@ -1,6 +1,3 @@
-<section id="templates-page-bvn-menu">
-</section>
-
 ## BVN menu
 
 There is a BVN menu located on the right-hand side of the menu bar.
@@ -18,3 +15,4 @@ This button hides the BVN header and footer. Use this when printing on pre-print
 
 ### Apply BVN table format
 Use this button to apply the BVN table style.
+
