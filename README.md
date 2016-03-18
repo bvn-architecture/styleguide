@@ -113,11 +113,14 @@ We use Waffle to prioritise issues, to see what we think needs to be worked on n
 
 -----
 
-#Editing
+#Guide to Editing
 
 ##Overall Editing Tags
 - `<span class="highlight-red">` = changes the text colour to red, rbg(255, 0, 0)
 - `<span class="transform-to-uppercase">` = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
+- '_CONTENT_' = Changes CONTENT into _Italics_
+- '__CONTENT__' = Changes CONTENT into __Bold__
+- `- CONTENT` = Makes content into dot-points
 
 
 
@@ -180,16 +183,19 @@ The page also uses [masony.js](http://masonry.desandro.com/). It allows the page
 
 ###BVN Alphabet
 
-The files are located at `_includes/alphabet`
-There is a markdown file for each letter of the BVN alphabet.
-
-The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
+The files are located at `_includes/alphabet` and the content for the letters are within `_includes/alphabet/alphabet-markdown'. There is a markdown file for each letter of the BVN alphabet and their content. The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
 <IM AGE>
+
+
+####Useful tags
 
 - `<dt class="alphabet-table-key-two">` = Row cell is the capital letter of the designated letter
 - `<dd class="alphabet-table-value">` = Cell right of the capital letter
+- `<dt>` = Left column
+- `<dd>` = right column
 
 Below is the content framework for the collapsible alphabet page. It is important to keep this format for each letter:
+
 ```
   <div data-role="collapsible" data-inset="false">
     <h1 class="cart-collapsible-div">A - Introductory documents</h1>
@@ -199,5 +205,36 @@ Below is the content framework for the collapsible alphabet page. It is importan
   </div>
 ```
 
+Content must be changed in the appropriate file at: `_includes/alphabet/alphabet-markdown`. To add a row, Copy and paste this format:
+
+```
+<dt>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/#LETTER#/#LETTER#-#NUMBER#-key.markdown %}
+</div>
+</dt>
+<dd>
+<div markdown="1">
+{% include alphabet/alphabet-markdown/#LETTER#/#LETTER#-#NUMBER#-value.markdown %}
+</div>
+</dd>
+```
+
+Replace `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate letter.
+
+
+
 ###Building Components
 
+Similarly to Alphabet, the Building Components pages have tables that use the `<dl>` tag to construct the format. It is divided into multiple pages to help reduce pre-loading weight. 
+The pages are constructed at `/building-components-pages` however the content for the pages is located at `includes/building-components`
+
+To add another row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate letter:
+
+```
+{% include building-components/table-layout-block.markdown letter="#LETTER#" key="building-components/#TOPIC#/#NUMBER#-key.markdown" value="building-components/#TOPIC#/#NUMBER#-value.markdown" %}
+{% include building-components/table-layout-image.markdown image="building-components/#TOPIC#/#NUMBER#-image.svg" %}
+```
+
+- The 1st include is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank). The __letter__ is inserted on the top left of the first row.
+- The 2nd outlines the framework size for the images. Images have the maximum width of `__px` 
