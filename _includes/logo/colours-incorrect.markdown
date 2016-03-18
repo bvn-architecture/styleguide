@@ -1,6 +1,3 @@
-<section id="logo-page-colours-incorrect">
-</section>
-
 ## Colours
 
 Incorrectly reversing the mark out of a background colour.

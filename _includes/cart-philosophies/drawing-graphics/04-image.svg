@@ -1,46 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 204.1 94.6" enable-background="new 0 0 204.1 94.6" xml:space="preserve">
-<text transform="matrix(1 0 0 1 0 12.2737)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">SETTING OUT POINT</text>
-<text transform="matrix(1 0 0 1 0 45.6941)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">CENTRE LINE</text>
-<text transform="matrix(1 0 0 1 0 78.2927)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">CHANGE OF LEVEL</text>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="151" y1="7.5" x2="158.5" y2="7.5"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="151" y1="7.5" x2="151" y2="15"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="151" y1="7.5" x2="143.5" y2="7.5"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="151" y1="7.5" x2="151" y2="0"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M148.4,7.5c0,0.6,0.2,1.3,0.7,1.8c0.6,0.6,1.3,0.8,1.9,0.8V7.5H148.4"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M153.6,7.5c0-0.6-0.2-1.3-0.8-1.9c-0.5-0.5-1.2-0.7-1.8-0.7v2.6H153.6"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M152.6,41.8c0,0.4-0.2,0.7-0.4,0.9c-0.2,0.2-0.4,0.3-0.6,0.3
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 270 94.819" enable-background="new 0 0 270 94.819" xml:space="preserve">
+<text transform="matrix(1 0 0 1 0 12.5099)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">SETTING OUT POINT</text>
+<text transform="matrix(1 0 0 1 0 45.9303)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">CENTRE LINE</text>
+<text transform="matrix(1 0 0 1 0 78.5289)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">CHANGE OF LEVEL</text>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.736" x2="158.497" y2="7.736"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.736" x2="150.997" y2="15.236"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.736" x2="143.497" y2="7.736"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.736" x2="150.997" y2="0.236"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M148.397,7.736c0,0.6,0.2,1.3,0.7,1.8c0.6,0.6,1.3,0.8,1.9,0.8v-2.6H148.397"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M153.597,7.736c0-0.6-0.2-1.3-0.8-1.9c-0.5-0.5-1.2-0.7-1.8-0.7v2.6H153.597"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M152.597,42c0,0.4-0.2,0.7-0.4,0.9c-0.2,0.2-0.4,0.3-0.6,0.3
 	c-0.4,0-0.7-0.2-0.9-0.5c-0.2-0.3-0.3-0.7-0.3-1.4c0-0.4,0-0.7,0.1-1c0.1-0.2,0.3-0.4,0.5-0.5c0.1-0.2,0.4-0.2,0.6-0.2
 	c0.5,0,0.8,0.3,1,0.9l0.4-0.1c-0.1-0.5-0.2-0.8-0.5-1c-0.2-0.2-0.5-0.3-0.9-0.3c-0.3,0-0.6,0.1-0.9,0.2c-0.2,0.2-0.4,0.5-0.6,0.8
 	c-0.1,0.3-0.2,0.8-0.2,1.2c0,0.5,0.1,1,0.2,1.3c0.2,0.4,0.4,0.7,0.6,0.8c0.2,0.2,0.5,0.3,0.9,0.3c0.4,0,0.7-0.1,0.9-0.4
-	c0.3-0.2,0.5-0.6,0.6-1.1L152.6,41.8"/>
-<polygon fill-rule="evenodd" clip-rule="evenodd" points="151.6,45.9 153.8,45.9 153.8,45.4 152,45.4 152,41.5 151.6,41.5 "/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="204.1" y1="84.8" x2="202.2" y2="86.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="203.1" y1="82.3" x2="198.8" y2="86.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="199.7" y1="82.3" x2="195.3" y2="86.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="196.2" y1="82.3" x2="191.9" y2="86.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="192.8" y1="82.3" x2="188.5" y2="86.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="191.8" y1="79.9" x2="185" y2="86.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="191.7" y1="76.5" x2="181.6" y2="86.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="188.3" y1="76.5" x2="179.6" y2="85.2"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="184.9" y1="76.5" x2="179.6" y2="81.8"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="181.4" y1="76.5" x2="179.6" y2="78.3"/>
-<polyline fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" points="191.8,82.3 
-	191.8,76.5 179.6,76.5 "/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="204.1" y1="82.3" x2="191.8" y2="82.3"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="4.92,3" x1="191.8" y1="70.9" x2="191.8" y2="92.1"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="156.8" y1="70.1" x2="158.6" y2="71.9"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="153.3" y1="70.1" x2="158.6" y2="75.4"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="149.9" y1="70.1" x2="158.6" y2="78.8"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.5" y1="72.1" x2="158.6" y2="82.3"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.5" y1="75.5" x2="158.6" y2="85.7"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.5" y1="79" x2="151.8" y2="82.3"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="154.3" y1="88.3" x2="158.6" y2="92.6"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="154.3" y1="91.7" x2="157.2" y2="94.6"/>
-<polyline fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" points="148.5,82.3 
-	154.3,82.3 154.3,94.6 "/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.5" y1="70.1" x2="148.5" y2="82.3"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="4.92,3" x1="142.8" y1="82.3" x2="164.1" y2="82.3"/>
-<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="154.3" y1="84.8" x2="158.6" y2="89.2"/>
+	c0.3-0.2,0.5-0.6,0.6-1.1L152.597,42"/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" points="151.597,46.1 153.797,46.1 153.797,45.6 151.997,45.6 151.997,41.7 
+	151.597,41.7 "/>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.5" x2="158.497" y2="7.5"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.5" x2="150.997" y2="15"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.5" x2="143.497" y2="7.5"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="150.997" y1="7.5" x2="150.997" y2="0"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M148.397,7.5c0,0.6,0.2,1.3,0.7,1.8c0.6,0.6,1.3,0.8,1.9,0.8V7.5H148.397"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M153.597,7.5c0-0.6-0.2-1.3-0.8-1.9c-0.5-0.5-1.2-0.7-1.8-0.7v2.6H153.597"/>
+</g>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="204.125" y1="85.019" x2="202.225" y2="86.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="203.125" y1="82.519" x2="198.825" y2="86.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="199.725" y1="82.519" x2="195.325" y2="86.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="196.225" y1="82.519" x2="191.925" y2="86.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="192.825" y1="82.519" x2="188.525" y2="86.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="191.825" y1="80.119" x2="185.025" y2="86.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="191.725" y1="76.719" x2="181.625" y2="86.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="188.325" y1="76.719" x2="179.625" y2="85.419"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="184.925" y1="76.719" x2="179.625" y2="82.019"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="181.425" y1="76.719" x2="179.625" y2="78.519"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" points="
+	191.825,82.519 191.825,76.719 179.625,76.719 "/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="204.125" y1="82.519" x2="191.825" y2="82.519"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="4.92,3" x1="191.825" y1="71.119" x2="191.825" y2="92.319"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="156.825" y1="70.319" x2="158.625" y2="72.119"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="153.325" y1="70.319" x2="158.625" y2="75.619"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="149.925" y1="70.319" x2="158.625" y2="79.019"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.525" y1="72.319" x2="158.625" y2="82.519"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.525" y1="75.719" x2="158.625" y2="85.919"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.525" y1="79.219" x2="151.825" y2="82.519"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="154.325" y1="88.519" x2="158.625" y2="92.819"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="154.325" y1="91.919" x2="157.225" y2="94.819"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" points="
+	148.525,82.519 154.325,82.519 154.325,94.819 "/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="148.525" y1="70.319" x2="148.525" y2="82.519"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="4.92,3" x1="142.825" y1="82.519" x2="164.125" y2="82.519"/>
+<line fill="none" stroke="#000000" stroke-width="0.24" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="154.325" y1="85.019" x2="158.625" y2="89.419"/>
 </svg>
