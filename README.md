@@ -116,8 +116,8 @@ We use Waffle to prioritise issues, to see what we think needs to be worked on n
 #Editing
 
 ##Overall Editing Tags
-- <span class="highlight-red"> = changes the text colour to red (255, 0, 0)
-- <span class="transform-to-uppercase"> = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
+- '<span class="highlight-red">' = changes the text colour to red (255, 0, 0)
+- '<span class="transform-to-uppercase">' = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
 
 
 
