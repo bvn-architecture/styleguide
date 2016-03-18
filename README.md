@@ -109,3 +109,95 @@ We use Waffle to prioritise issues, to see what we think needs to be worked on n
 
 [![Throughput Graph](https://graphs.waffle.io/bvn-architecture/styleguide/throughput.svg)](https://waffle.io/bvn-architecture/styleguide/metrics)
 
+
+
+-----
+
+#Editing
+
+##Overall Editing Tags
+- <span class="highlight-red"> = changes the text colour to red (255, 0, 0)
+- <span class="transform-to-uppercase"> = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
+
+
+
+##Editing the StyleGuide
+The style guide is easily edited by changing the content files within the page folder which needs reviewing. The _includes folder on the main directory is sorted into pages, find the folder relating to the page in which you want to adjust. Inside the folder are markdown files, use the _posts folder to find the page to change and open the file. This will show the order of arrangement. Opening a markdown file will be based of text to edit. Save changes and check to see if your changes are appropriate via localhost.
+
+
+
+###Div tags
+- "style-guide-block-image" = block width 50% (See Logo page)
+- 
+
+###Images
+Images are stored within each respective file. Use the include function to place an image eg.
+
+  {% include logo/images/text-bot.svg %}
+
+
+
+##Editing the CART guide
+
+The CART guide is overall more difficult when compared against the Styleguide. Just like the Styleguide, each pages content is divided into its own content. However each section is differently designed to match the identical style in the printed version.
+
+
+
+###CART Philosophies
+
+The CART Philosophies page is made up of several markdown file, each individually representing a topic. All the files are hidden within collapsible divs.  The style must be kept to be used, for example:
+
+  <div data-role="collapsible" data-inset="false">
+    <h1 class="cart-collapsible-div">TITLE</h1>
+
+    <div class="cart-philosophies-wrapper">
+    ... 
+    </div>
+  </div>
+
+Within the "cart-philosophies-wrapper", there are directions to each respective folder containing the content of the page. The directory looks identical to this:
+
+  {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/00-block.markdown" %}
+
+There are different box types each with different variables:
+- normal: Plain box with no boarder or shading
+- definition: Shaded grey box with no border
+- guides: Clear box with a black border
+- table: maximum width
+- guides-table: combination of both guides (border) and table (width)
+
+Tables are made up of different column properties. They can be changed within _sass/_cart-philosophies.scss. Each table has different properties and can be identified by the classes. Table format looks identical to this:
+
+  <div class="cart-philosophies-grid-wrapper" markdown="1">
+    <span class="cart-philosophies-grid-codes-one-of-three">**CODE**</span>
+    <span class="cart-philosophies-grid-codes-two-of-three">**BUILDING ELEMENT**</span>
+    <span class="cart-philosophies-grid-codes-three-of-three">**LEGEND SHEET DESCRIPTION POINTER**</span>
+  </div>
+
+The page also uses [![masony.js](http://masonry.desandro.com/)]. It allows the page to stack blocks automatically to remove white space. The Javascript is found at: _includes/cart-philosophies/masonry-script.markdown.
+
+
+
+###BVN Alphabet
+
+The files are located at _includes/alphabet.
+There is a markdown file for each letter of the BVN alphabet.
+
+The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
+<IM AGE>
+
+- <dt class="alphabet-table-key-two"> = Row cell is the capital letter of the designated letter
+- <dd class="alphabet-table-value"> = Cell right of the capital letter
+
+Below is the content framwork for the collapsible alphabet page. It is important to keep this format for each letter:
+
+  <div data-role="collapsible" data-inset="false">
+    <h1 class="cart-collapsible-div">A - Introductory documents</h1>
+    <dl>
+      ...
+    </dl>
+  </div>
+
+
+###Building Components
+
