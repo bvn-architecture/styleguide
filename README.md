@@ -116,8 +116,8 @@ We use Waffle to prioritise issues, to see what we think needs to be worked on n
 #Editing
 
 ##Overall Editing Tags
-- '<span class="highlight-red">' = changes the text colour to red (255, 0, 0)
-- '<span class="transform-to-uppercase">' = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
+- `<span class="highlight-red">` = changes the text colour to red (255, 0, 0)
+- `<span class="transform-to-uppercase">` = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
 
 
 
@@ -127,7 +127,7 @@ The style guide is easily edited by changing the content files within the page f
 
 
 ###Div tags
-- "style-guide-block-image" = block width 50% (See Logo page)
+- `"style-guide-block-image"` = block width 50% (See Logo page)
 - 
 
 ###Images
@@ -146,7 +146,7 @@ The CART guide is overall more difficult when compared against the Styleguide. J
 ###CART Philosophies
 
 The CART Philosophies page is made up of several markdown file, each individually representing a topic. All the files are hidden within collapsible divs.  The style must be kept to be used, for example:
-
+```
   <div data-role="collapsible" data-inset="false">
     <h1 class="cart-collapsible-div">TITLE</h1>
 
@@ -154,7 +154,7 @@ The CART Philosophies page is made up of several markdown file, each individuall
     ... 
     </div>
   </div>
-
+```
 Within the "cart-philosophies-wrapper", there are directions to each respective folder containing the content of the page. The directory looks identical to this:
 
   {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/00-block.markdown" %}
@@ -167,13 +167,13 @@ There are different box types each with different variables:
 - guides-table: combination of both guides (border) and table (width)
 
 Tables are made up of different column properties. They can be changed within _sass/_cart-philosophies.scss. Each table has different properties and can be identified by the classes. Table format looks identical to this:
-
+```
   <div class="cart-philosophies-grid-wrapper" markdown="1">
     <span class="cart-philosophies-grid-codes-one-of-three">**CODE**</span>
     <span class="cart-philosophies-grid-codes-two-of-three">**BUILDING ELEMENT**</span>
     <span class="cart-philosophies-grid-codes-three-of-three">**LEGEND SHEET DESCRIPTION POINTER**</span>
   </div>
-
+```
 The page also uses [![masony.js](http://masonry.desandro.com/)]. It allows the page to stack blocks automatically to remove white space. The Javascript is found at: _includes/cart-philosophies/masonry-script.markdown.
 
 
