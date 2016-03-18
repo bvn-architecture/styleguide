@@ -116,7 +116,7 @@ We use Waffle to prioritise issues, to see what we think needs to be worked on n
 #Editing
 
 ##Overall Editing Tags
-- `<span class="highlight-red">` = changes the text colour to red (255, 0, 0)
+- `<span class="highlight-red">` = changes the text colour to red, rbg(255, 0, 0)
 - `<span class="transform-to-uppercase">` = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
 
 
@@ -128,8 +128,7 @@ The style guide is easily edited by changing the content files within the page f
 
 ###Div tags
 
-- `"style-guide-block-image"` = block width 50% (See Logo page)
-- 
+`"style-guide-block-image"` = block width 50% (See Logo page)
 
 ###Images
 Images are stored within each respective file. Use the include function to place an image eg.
@@ -160,7 +159,7 @@ Within the `"cart-philosophies-wrapper"`, there are directions to each respectiv
 ```
   {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/00-block.markdown" %}
 ```
-There are different box types each with different variables:
+There are different `box-type` each with different variables:
 - `normal` =  Plain box with no boarder or shading
 - `definition` =  Shaded grey box with no border
 - `guides` = Clear box with a black border
@@ -175,7 +174,7 @@ Tables are made up of different column properties. They can be changed within `_
     <span class="cart-philosophies-grid-codes-three-of-three">**LEGEND SHEET DESCRIPTION POINTER**</span>
   </div>
 ```
-The page also uses [![masony.js](http://masonry.desandro.com/)]. It allows the page to stack blocks automatically to remove white space. The Javascript is found at: `_includes/cart-philosophies/masonry-script.markdown`
+The page also uses [masony.js](http://masonry.desandro.com/). It allows the page to stack blocks automatically to remove white space. The Javascript is found at: `_includes/cart-philosophies/masonry-script.markdown`
 
 
 
