@@ -120,7 +120,6 @@ Synchronising your files with GitHub will allow you to work on a project with mu
 ##Editing the StyleGuide
 The style guide is easily edited by changing the content files within the page folder which needs reviewing. The `_includes` folder on the main directory is sorted into pages, find the folder relating to the page in which you want to adjust. Inside the folder are markdown files, use the `_posts` folder to find the page to change and open the file. This will show the order of arrangement. Opening a markdown file will be based of text to edit. Save changes and check to see if your changes are appropriate via `localhost:4000`.
 
-
 ###Div tags
 
 `"style-guide-block-image"` = block width 50% (See Logo page)
@@ -131,7 +130,8 @@ Images are stored within each respective file. Use the include function to place
 {% include logo/images/text-bot.svg %}
 ```
 
-![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_logo.jpg)
+Each page layout is similar to the image below:
+[Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_logo.jpg)
 
 
 ##Editing the CART guide
@@ -180,7 +180,6 @@ The page also uses [masony.js](http://masonry.desandro.com/). It allows the page
 The files are located at `_includes/alphabet` and the content for the letters are within `_includes/alphabet/alphabet-markdown`. There is a markdown file for each letter of the BVN alphabet and their content. The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
 <IM AGE>
 
-
 ####Useful tags
 
 - `<dt class="alphabet-table-key-two">` = Row cell is the capital letter of the designated letter
@@ -217,20 +216,21 @@ Content must be changed in the appropriate file at: `_includes/alphabet/alphabet
 Replace `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate letter.
 
 
+
 ###Building Components
 
 Similarly to Alphabet, the Building Components pages have tables that use the `<dl>` tag to construct the format. It is divided into multiple pages to help reduce pre-loading weight. 
 The pages are constructed at `/building-components-pages` however the content for the pages is located at `includes/building-components`
 
-To add another row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate letter:
+To add another row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate fields:
 
 ```
 {% include building-components/table-layout-block.markdown letter="#LETTER#" key="building-components/#TOPIC#/#NUMBER#-key.markdown" value="building-components/#TOPIC#/#NUMBER#-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/#TOPIC#/#NUMBER#-image.svg" %}
 ```
 
-- The 1st `{% include %}` is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank). The __letter__ is inserted on the top left of the first row.
-- The 2nd `{% include %}` outlines the framework size for the images. Images have the maximum width of `__px` to make all images the same size. For text,
+- The 1st `{% include %}` is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank, however must exist). The __letter__ is inserted on the top left of the first row.
+- The 2nd `{% include %}` outlines the framework size for the images. Images have the maximum width of `__px` to make all images the same size. For text, replace `table-layout-image.markdown` with `table-layout-text.markdown` and reference the markdown file.
 
 NOTE: If there is no image or text needed to match the text, you can remove the second statement.
 
