@@ -104,13 +104,6 @@ Synchronising your files with GitHub will allow you to work on a project with mu
 * Commit a change to officially note the changes to Github: Insert a summary and press "Commit to ___"
 * Press "Sync" in the top right to upload and receive files.
 
-##Waffle.io
-We use Waffle to prioritise issues, to see what we think needs to be worked on next [go to the board](https://waffle.io/bvn-architecture/styleguide)
-
-[![Throughput Graph](https://graphs.waffle.io/bvn-architecture/styleguide/throughput.svg)](https://waffle.io/bvn-architecture/styleguide/metrics)
-
-
-
 -----
 
 #Guide to Editing
@@ -118,15 +111,14 @@ We use Waffle to prioritise issues, to see what we think needs to be worked on n
 ##Overall Editing Tags
 - `<span class="highlight-red">` = changes the text colour to red, rbg(255, 0, 0)
 - `<span class="transform-to-uppercase">` = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
-- '_CONTENT_' = Changes CONTENT into _Italics_
-- '__CONTENT__' = Changes CONTENT into __Bold__
+- `_CONTENT_` = Changes CONTENT into _Italics_
+- `__CONTENT__` = Changes CONTENT into __Bold__
 - `- CONTENT` = Makes content into dot-points
 
 
 
 ##Editing the StyleGuide
 The style guide is easily edited by changing the content files within the page folder which needs reviewing. The `_includes` folder on the main directory is sorted into pages, find the folder relating to the page in which you want to adjust. Inside the folder are markdown files, use the `_posts` folder to find the page to change and open the file. This will show the order of arrangement. Opening a markdown file will be based of text to edit. Save changes and check to see if your changes are appropriate via `localhost:4000`.
-
 
 
 ###Div tags
@@ -138,6 +130,8 @@ Images are stored within each respective file. Use the include function to place
 ```
 {% include logo/images/text-bot.svg %}
 ```
+
+![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets\how-to-images\example_logo.jpg)
 
 
 ##Editing the CART guide
@@ -183,7 +177,7 @@ The page also uses [masony.js](http://masonry.desandro.com/). It allows the page
 
 ###BVN Alphabet
 
-The files are located at `_includes/alphabet` and the content for the letters are within `_includes/alphabet/alphabet-markdown'. There is a markdown file for each letter of the BVN alphabet and their content. The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
+The files are located at `_includes/alphabet` and the content for the letters are within `_includes/alphabet/alphabet-markdown`. There is a markdown file for each letter of the BVN alphabet and their content. The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
 <IM AGE>
 
 
@@ -223,7 +217,6 @@ Content must be changed in the appropriate file at: `_includes/alphabet/alphabet
 Replace `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate letter.
 
 
-
 ###Building Components
 
 Similarly to Alphabet, the Building Components pages have tables that use the `<dl>` tag to construct the format. It is divided into multiple pages to help reduce pre-loading weight. 
@@ -236,5 +229,29 @@ To add another row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER
 {% include building-components/table-layout-image.markdown image="building-components/#TOPIC#/#NUMBER#-image.svg" %}
 ```
 
-- The 1st include is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank). The __letter__ is inserted on the top left of the first row.
-- The 2nd outlines the framework size for the images. Images have the maximum width of `__px` 
+- The 1st `{% include %}` is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank). The __letter__ is inserted on the top left of the first row.
+- The 2nd `{% include %}` outlines the framework size for the images. Images have the maximum width of `__px` to make all images the same size. For text,
+
+NOTE: If there is no image or text needed to match the text, you can remove the second statement.
+
+To make the any block extend width, use the following instead:
+
+```
+{% include building-components/table-layout-initial.markdown letter="E" letter="#LETTER#" key="building-components/#TOPIC#/#NUMBER#-key.markdown" value="building-components/#TOPIC#/#NUMBER#-value.markdown" %}
+```
+
+Using a the second image include will place the image below text.
+
+
+
+
+
+
+
+
+-----
+
+##Waffle.io
+We use Waffle to prioritise issues, to see what we think needs to be worked on next [go to the board](https://waffle.io/bvn-architecture/styleguide)
+
+[![Throughput Graph](https://graphs.waffle.io/bvn-architecture/styleguide/throughput.svg)](https://waffle.io/bvn-architecture/styleguide/metrics)
