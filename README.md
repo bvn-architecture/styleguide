@@ -131,7 +131,7 @@ Images are stored within each respective file. Use the include function to place
 {% include logo/images/text-bot.svg %}
 ```
 
-![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets\how-to-images\example_logo.jpg)
+![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_logo.jpg)
 
 
 ##Editing the CART guide
