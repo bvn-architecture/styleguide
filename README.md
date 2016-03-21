@@ -229,7 +229,7 @@ The pages are constructed at `/building-components-pages` however the content fo
 
 ![Layout of CART Building Components](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_buildingcomponents.jpg)
 
-Use the following to insert a title block:
+Use the following to insert a title block, demonstrated by the black box above:
 
 ```
 <div markdown="1" class="building-components-title">
@@ -237,17 +237,18 @@ Use the following to insert a title block:
 </div>
 ```
 
-To add another row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate fields:
+To add another content row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate fields:
 
 ```
 {% include building-components/table-layout-block.markdown letter="#LETTER#" key="building-components/#TOPIC#/#NUMBER#-key.markdown" value="building-components/#TOPIC#/#NUMBER#-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/#TOPIC#/#NUMBER#-image.svg" %}
 ```
+A row consist of three parts with two columns: Left column contains both the Key and Value, Right column contains the image or text.
 
 - The 1st `{% include %}` is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank, however must exist). The __letter__ is inserted on the top left of the first row, it can be left blank " ".
 - The 2nd `{% include %}` outlines the framework size for the images. Images have the maximum width of `320px` to make all images the same size. For text, replace `table-layout-image.markdown` with `table-layout-text.markdown` and reference the markdown file.
 
-NOTE: If there is no image or text needed to match the text, you can remove the second statement.
+NOTE: If there is no image or text needed to match the text, you can remove the second statement. The sequence of ascending numbers also continues.
 
 To make the any block extend width, use the following instead:
 
