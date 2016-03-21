@@ -142,7 +142,7 @@ The CART guide is overall more difficult when compared against the Styleguide. J
 
 ###CART Philosophies
 
-![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_philosophies.jpg)
+![Layout of CART Philosophies](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_philosophies.jpg)
 
 The CART Philosophies page is made up of several markdown file, each individually representing a topic. All the files are hidden within collapsible divs.  The style must be kept to be used, for example:
 ```
@@ -183,7 +183,7 @@ The page also uses [masony.js](http://masonry.desandro.com/). It allows the page
 
 The files are located at `_includes/alphabet` and the content for the letters are within `_includes/alphabet/alphabet-markdown`. There is a markdown file for each letter of the BVN alphabet and their content. The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
 
-![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_alphabet.jpg)
+![Layout of CART Alphabet](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_alphabet.jpg)
 
 ####Useful tags
 
@@ -226,6 +226,8 @@ Replace `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new m
 
 Similarly to Alphabet, the Building Components pages have tables that use the `<dl>` tag to construct the format. It is divided into multiple pages to help reduce pre-loading weight. 
 The pages are constructed at `/building-components-pages` however the content for the pages is located at `includes/building-components`
+
+![Layout of CART Building Components](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_buildingcomponents.jpg)
 
 Use the following to insert a title block:
 
