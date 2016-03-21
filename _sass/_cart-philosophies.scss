@@ -223,6 +223,11 @@ $color-grey-value: #C8C8C8;
     margin-top: 5px;
   }
 
+  .cart-philosophies-grid-wrapper:not(:first-child){
+    border-top: solid;
+    border-width: 1px;
+  }
+
   .cart-philosophies-grid-one-of-four{
     @include span-columns(4.5);
     border-style: none;

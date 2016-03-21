@@ -214,10 +214,15 @@ ul {
   > li{
     > ul{
       > li{
-        //list-style: none;
+        list-style: none;
+        margin-left: 0;
       }
     }
   }
+}
+
+li{
+  margin-left: 25px;
 }
 
 ul:first-line{
