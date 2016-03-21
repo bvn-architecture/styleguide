@@ -144,7 +144,7 @@ The CART guide is overall more difficult when compared against the Styleguide. J
 
 ![Layout of CART Philosophies](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_philosophies.jpg)
 
-The CART Philosophies page is made up of several markdown file, each individually representing a topic. All the files are hidden within collapsible divs.  The style must be kept to be used, for example:
+The CART Philosophies page is made up of several markdown file, each individually representing a topic. CART Philosophies also uses masonry.js to automatically stack all the blocks. All the files are hidden within collapsible divs. The style must be kept to be used, for example:
 ```
   <div data-role="collapsible" data-inset="false">
     <h1 class="cart-collapsible-div">TITLE</h1>
@@ -175,8 +175,7 @@ Tables are made up of different column properties. They can be changed within `_
     <span class="cart-philosophies-grid-codes-three-of-three">**LEGEND SHEET DESCRIPTION POINTER**</span>
   </div>
 ```
-The page also uses [masony.js](http://masonry.desandro.com/). It allows the page to stack blocks automatically to remove white space. The Javascript is found at: `_includes/cart-philosophies/masonry-script.markdown`
-
+This page uses [masony.js](http://masonry.desandro.com/). It allows the page to stack blocks automatically to remove white space by stacking all boxes automatically. The Javascript is found at: `_includes/cart-philosophies/masonry-script.markdown`
 
 
 ###BVN Alphabet

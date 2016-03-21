@@ -12,20 +12,21 @@ Ceiling-to-internal partitions section details</span>
 
 <br>
 
-<span class="transform-to-uppercase">
-External Wall-to-Internal partition plan details<br>
-Roof-to-external wall section details<br>
-Roofing details<br>
-Internal partition-to-internal partition plan details
+<span>
+EXTERNAL WALL-TO-INTERNAL PARTITION PLAN DETAILS<br>
+ROOF-TO-EXTERNAL WALL SECTION DETAILS<br>
+ROOFING DETAILS<br>
+INTERNAL PARTITION-TO-INTERNAL PARTITION PLAN DETAILS<br>
+(If required - not needed if it’s common construction)
 </span>
 
 <br>
 
-(If required - not needed if it’s common construction)
-
+<div markdown="1">
 - Grid lines where location specific
 - Finished floor level benchmarks where location specific
 - Dimensions
 - Description of the construction using systems and materials codes
-    - (Do not include description of applied finishes eg sealants, paints, etc. They are described in F series drawings.
-    -Do not redraw common details. Make reference to proprietary system in the specification instead.)
+    - _(Do not include description of applied finishes eg sealants, paints, etc. They are described in F series drawings._
+    - _Do not redraw common details. Make reference to proprietary system in the specification instead.)_
+</div>
