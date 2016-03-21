@@ -131,7 +131,7 @@ Images are stored within each respective file. Use the include function to place
 ```
 
 Each page layout is similar to the image below:
-[Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_logo.jpg)
+![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_logo.jpg)
 
 
 ##Editing the CART guide
@@ -141,6 +141,8 @@ The CART guide is overall more difficult when compared against the Styleguide. J
 
 
 ###CART Philosophies
+
+![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_philosophies.jpg)
 
 The CART Philosophies page is made up of several markdown file, each individually representing a topic. All the files are hidden within collapsible divs.  The style must be kept to be used, for example:
 ```
@@ -152,10 +154,12 @@ The CART Philosophies page is made up of several markdown file, each individuall
     </div>
   </div>
 ```
+
 Within the `"cart-philosophies-wrapper"`, there are directions to each respective folder containing the content of the page. The directory looks identical to this:
 ```
   {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/00-block.markdown" %}
 ```
+
 There are different `box-type` each with different variables:
 - `normal` =  Plain box with no boarder or shading
 - `definition` =  Shaded grey box with no border
@@ -178,11 +182,12 @@ The page also uses [masony.js](http://masonry.desandro.com/). It allows the page
 ###BVN Alphabet
 
 The files are located at `_includes/alphabet` and the content for the letters are within `_includes/alphabet/alphabet-markdown`. There is a markdown file for each letter of the BVN alphabet and their content. The content is formatted into a grid, content is inserted into the grid by cell. The image below explains:
-<IM AGE>
+
+![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_alphabet.jpg)
 
 ####Useful tags
 
-- `<dt class="alphabet-table-key-two">` = Row cell is the capital letter of the designated letter
+- `<dt class="alphabet-table-key-letter">` = Row cell is the capital letter of the designated letter
 - `<dd class="alphabet-table-value">` = Cell right of the capital letter
 - `<dt>` = Left column
 - `<dd>` = right column
@@ -222,6 +227,14 @@ Replace `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new m
 Similarly to Alphabet, the Building Components pages have tables that use the `<dl>` tag to construct the format. It is divided into multiple pages to help reduce pre-loading weight. 
 The pages are constructed at `/building-components-pages` however the content for the pages is located at `includes/building-components`
 
+Use the following to insert a title block:
+
+```
+<div markdown="1" class="building-components-title">
+<span class="transform-to-uppercase">CONTENT</span>
+</div>
+```
+
 To add another row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER#` with the appropriate figure, then insert new markdown files into the appropriate fields:
 
 ```
@@ -229,22 +242,18 @@ To add another row copy the format and replace `#TOPIC#` `#LETTER#` and `#NUMBER
 {% include building-components/table-layout-image.markdown image="building-components/#TOPIC#/#NUMBER#-image.svg" %}
 ```
 
-- The 1st `{% include %}` is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank, however must exist). The __letter__ is inserted on the top left of the first row.
-- The 2nd `{% include %}` outlines the framework size for the images. Images have the maximum width of `__px` to make all images the same size. For text, replace `table-layout-image.markdown` with `table-layout-text.markdown` and reference the markdown file.
+- The 1st `{% include %}` is the building components text for the left hand column, consisting of two rows. The top row is the `key` and the bottom row is the `value` (2nd can be left blank, however must exist). The __letter__ is inserted on the top left of the first row, it can be left blank " ".
+- The 2nd `{% include %}` outlines the framework size for the images. Images have the maximum width of `320px` to make all images the same size. For text, replace `table-layout-image.markdown` with `table-layout-text.markdown` and reference the markdown file.
 
 NOTE: If there is no image or text needed to match the text, you can remove the second statement.
 
 To make the any block extend width, use the following instead:
 
 ```
-{% include building-components/table-layout-initial.markdown letter="E" letter="#LETTER#" key="building-components/#TOPIC#/#NUMBER#-key.markdown" value="building-components/#TOPIC#/#NUMBER#-value.markdown" %}
+{% include building-components/table-layout-initial.markdown letter="#LETTER#" key="building-components/#TOPIC#/#NUMBER#-key.markdown" value="building-components/#TOPIC#/#NUMBER#-value.markdown" %}
 ```
 
-Using a the second image include will place the image below text.
-
-
-
-
+NOTE: Using a the second image include will place the image below text.
 
 
 

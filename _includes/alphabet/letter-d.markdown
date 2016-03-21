@@ -4,7 +4,7 @@
 
 <dl>
 
-<dt class="alphabet-table-key-two">
+<dt class="alphabet-table-key-letter">
 <div markdown="1" >
 D
 </div>
