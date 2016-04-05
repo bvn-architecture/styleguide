@@ -7,6 +7,7 @@ description: "Building Components: External wall systems"
 categories:      
 image:        
 ---
+<div id="building-components">
 <dl>
 
 <div markdown="1" class="building-components-title">
@@ -51,3 +52,4 @@ image:
 
 
 </dl>
+</div>
