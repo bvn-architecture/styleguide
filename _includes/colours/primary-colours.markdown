@@ -10,7 +10,7 @@ Our primary colours are black and white. Our logo should never appear in any oth
 		<svg width="100%" height="50%" alt="colour-primary-black-swatch">
 			<rect width="100%" height="100%" class="bvn-black" />
 		</svg>
-		<div class="values">Pureblack<br>
+		<div class="values">PUREBLACK<br>
 			<span class="cmyk-wrap">
 				<span class="primary-wrap">
 					<span class="colour-letter">C</span><span class="colour-value">0</span>
@@ -38,7 +38,7 @@ Our primary colours are black and white. Our logo should never appear in any oth
 		<svg width="100%" height="50%" alt="colour-primary-white-swatch">
 			<rect width="100%" height="100%" class="bvn-white" />
 		</svg>
-		<div class="values">Purewhite<br>
+		<div class="values">PUREWHITE<br>
 			<span class="cmyk-wrap"> 
 				<span class="primary-wrap">
 					<span class="colour-letter">C</span><span class="colour-value">0</span>

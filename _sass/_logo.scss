@@ -34,12 +34,13 @@ article.post.logo {
   }
 
   $freaky-pink: #e9abc8;
+  $freaky-blue: #afdee4;
   #pink-background {
     @include span-columns(6);
     @include omega();
     .background {      fill: $freaky-pink; }
     .foreground {      fill: $freaky-pink; }
-    .bvn-text-colour { fill: $freaky-pink; }
+    .bvn-text-colour { fill: $freaky-blue; }
   }
 
   #logo-size-width {
