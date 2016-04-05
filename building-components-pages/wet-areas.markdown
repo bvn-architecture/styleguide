@@ -19,7 +19,7 @@ image:
 {% include building-components/table-layout-text.markdown image="building-components/wet-areas/00-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Construction and finishes</span>
+<span class="transform-to-uppercase">**Describe**</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/wet-areas/01-key.markdown" value="building-components/wet-areas/01-value.markdown" %}
@@ -34,7 +34,7 @@ image:
 {% include building-components/table-layout-block.markdown letter="Q" key="building-components/wet-areas/04-key.markdown" value="building-components/wet-areas/04-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/wet-areas/04-image.svg" %}
 
-{% include building-components/table-layout-block.markdown letter="H" key="building-components/wet-areas/05-key.markdown" value="building-components/wet-areas/05-value.markdown"  %}
+{% include building-components/table-layout-block.markdown letter="Z" key="building-components/wet-areas/05-key.markdown" value="building-components/wet-areas/05-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 </dl>
