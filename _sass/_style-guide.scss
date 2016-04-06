@@ -1,7 +1,7 @@
 
 
 
-@media screen and (min-width: 1000px){
+@media screen and (min-width: 750px){
   .style-guide-block-text{
     @include span-columns(6);
     @include omega();

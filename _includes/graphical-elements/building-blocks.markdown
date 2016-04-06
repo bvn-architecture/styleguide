@@ -2,6 +2,7 @@
 
 <div class="style-guide-block-text" markdown="1">
 The BVN logo is based on basic geometrical shapes which are the foundation of our graphic identity and language.
+
 Do not change the proportion, design or positioning of these design elements in any application.
 </div>
 
