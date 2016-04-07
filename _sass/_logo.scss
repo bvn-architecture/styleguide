@@ -3,12 +3,12 @@ article.post.logo {
   #stretch {
     @include span-columns(3);
     @include omega(2n);
-    height: 20em;
+    height: 10em;
   }
 
   #squash {
     @include span-columns(9);
-    height: 6em;
+    height: 4em;
   }
 
   #logo-white-on-black {

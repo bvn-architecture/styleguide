@@ -3,7 +3,7 @@
 
 ## Proportions
 
-<div class="style-guide-block-text" markdown="1">
+<div class="style-guide-block-text">
 The logo should never be altered in any way. Do not stretch the logo either horizontally or vertically.
 
 <div class="red-cross-spacing">
