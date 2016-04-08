@@ -138,46 +138,37 @@ article.post.colour {
     @include omega();
   }
 
+
   #colour-option-one {
-    .legend-01 { fill: $tertiary-teal;  }
-    .legend-02 { fill: $trans-tertiary-teal;   }
-    .legend-03 { fill: $secondary-green; }
-    .legend-04 { fill: $secondary-yellow; }
+    .legend-01 { fill: $secondary-yellow;  }
+    .legend-02 { fill: $trans-secondary-yellow;  }
+    .legend-03 { fill: $secondary-blue; }
+    .legend-04 { fill: $tertiary-green; }
     .legend-05 { fill: $secondary-brown; }
   }
 
-//line data
-  .st3{fill:none;stroke:#000000;stroke-width:0.312;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
-  .st10{fill:none;stroke:#000000;stroke-width:0.104;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
-  .st11{fill:none;stroke:#000000;stroke-width:0.312;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-  .st12{fill:none;stroke:#000000;stroke-width:0.104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-
-
-
-
-
   #colour-option-two {
-    .open-space {        fill: $tertiary-green;}
-    .crazy-space {       fill: $trans-tertiary-green;   }
-    .private-space {     fill: $tertiary-pink;      }
-    .meeting-room {      fill: $secondary-beige;    }
-    .wc {                fill: $secondary-blue;   }
+    .legend-01 { fill: $tertiary-green;  }
+    .legend-02 { fill: $trans-tertiary-green;   }
+    .legend-03 { fill: $tertiary-pink;  }
+    .legend-04 { fill: $secondary-beige; }
+    .legend-05 { fill: $secondary-blue; }
   }
 
   #colour-option-three {
-    .open-space {        fill: $secondary-blue;}
-    .crazy-space {       fill: $trans-secondary-blue;   }
-    .private-space {     fill: $secondary-green;      }
-    .meeting-room {      fill: $secondary-yellow;    }
-    .wc {                fill: $secondary-brown;   }
+    .legend-01 { fill: $secondary-blue;}
+    .legend-02 { fill: $trans-secondary-blue;   }
+    .legend-03 { fill: $secondary-green;      }
+    .legend-04 { fill: $secondary-yellow;    }
+    .legend-05 { fill: $secondary-brown;   }
   }
 
   #colour-option-four {
-    .open-space {        fill: $secondary-brown;}
-    .crazy-space {       fill: $trans-secondary-brown;   }
-    .private-space {     fill: $secondary-blue;      }
-    .meeting-room {      fill: $secondary-green;    }
-    .wc {                fill: $secondary-yellow;   }
+    .legend-01 { fill: $secondary-brown;}
+    .legend-02 { fill: $trans-secondary-brown;   }
+    .legend-03 { fill: $secondary-blue;      }
+    .legend-04 { fill: $secondary-green;    }
+    .legend-05 { fill: $secondary-yellow;   }
   }
 
 
