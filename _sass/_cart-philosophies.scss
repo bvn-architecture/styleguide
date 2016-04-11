@@ -191,7 +191,7 @@ $color-grey-value: #C8C8C8;
 
 
 
-@media screen and (min-width: 800px){
+@media screen and (min-width: $media-query-width){
     .cart-philosophies-block{
       @include span-columns(5.9);
       @include omega();

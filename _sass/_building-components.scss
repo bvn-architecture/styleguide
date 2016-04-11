@@ -68,7 +68,7 @@
     }
   }
 
-  @media screen and (max-width: 1000px){
+  @media screen and (max-width: $media-query-width){
     .building-components-dt-block{
       width: 100%;
     }

@@ -200,7 +200,7 @@ article.post.colour {
 
 
 
-  @media screen and (min-width: 1000px){
+  @media screen and (min-width: $media-query-width){
     .plan-colouring {
       @include span-columns(3);
       @include omega();

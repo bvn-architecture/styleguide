@@ -1,5 +1,5 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	  viewBox="0 0 10 4.475" enable-background="new 0 0 10 4.475" xml:space="preserve">
+	 viewBox="0 0 10 4.475" enable-background="new 0 0 10 4.475" xml:space="preserve">
 <g>
 	<rect x="6.095" y="0.231" fill="none" width="0" height="0.019"/>
 	<polygon fill="none" points="4.498,4.297 4.498,4.269 4.498,4.26 4.498,4.25 4.498,4.24 4.498,4.213 4.498,4.203 4.498,4.185 
@@ -22,7 +22,7 @@
 	<rect x="6.116" y="0.231" fill="none" width="0" height="0.019"/>
 	<rect x="7.991" y="0.116" fill="none" width="0" height="0.25"/>
 	<rect x="6.901" fill="none" width="0" height="0.484"/>
-	<polygon fill="none" points="9.989,0.241 9.735,0.241 9.735,0.241 9.989,0.241 9.989,4.463 14.498,4.463 14.498,0.241 	"/>
+	<polygon fill="none" points="0.254,0.241 0,0.241 0,0.241 0.254,0.241 0.254,4.463 4.763,4.463 4.763,0.241 	"/>
 	<rect x="8.639" y="0.231" fill="none" width="0" height="0.019"/>
 	<rect x="9.192" y="0.231" fill="none" width="0" height="0.019"/>
 	<rect x="8.13" y="0.231" fill="none" width="0" height="0.019"/>
