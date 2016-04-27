@@ -150,15 +150,15 @@ Images are stored within each respective file. Use the include function to place
 
 ##Editing the CART guide
 
-The CART guide is overall more difficult when compared against the Styleguide. Just like the Styleguide, each pages content is divided into its own content. However each section is differently designed to match the identical style in the printed version.
+The CART guide is overall more difficult when compared against the Styleguide. Just like the Styleguide, each pages content is divided into its own content. **However** each section is differently designed to match the identical style in the printed version.
 
-
+Each CART page is different and required their unique format.
 
 ###CART Philosophies
 
 ![Layout of CART Philosophies](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_philosophies.jpg)
 
-The CART Philosophies page is made up of several markdown file, each individually representing a topic. CART Philosophies also uses masonry.js to automatically stack all the blocks. All the files are hidden within collapsible divs. The style must be kept to be used, for example:
+The CART Philosophies page is made up of several markdown file, each individually representing a topic. CART Philosophies also uses `masonry.js` to automatically stack all the blocks. All the files are hidden within collapsible divs and they expand the content when opened. THe JavaScript automatically stacks the box layouts so they are automatically handled, adding more boxes will be sorted automatically! The style must be kept to be used, for example:
 ```
   <div data-role="collapsible" data-inset="false">
     <h1 class="cart-collapsible-div">TITLE</h1>
@@ -166,22 +166,23 @@ The CART Philosophies page is made up of several markdown file, each individuall
     <div class="cart-philosophies-wrapper">
     ... 
     </div>
+
   </div>
 ```
-
-Within the `"cart-philosophies-wrapper"`, there are directions to each respective folder containing the content of the page. The directory looks identical to this:
+`<div class="cart-philosophies-wrapper">` is used to hold **all** boxes within a collapsiable div, it is necessary for the Javascript to run. Within the `"cart-philosophies-wrapper"`, there are directions to each respective folder containing the content of the page. The directory looks identical to this:
 ```
   {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/codes/00-block.markdown" %}
-```
 
-There are different `box-type` each with different variables:
+  {% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/codes/01-block.markdown" %}
+```
+The `value` should be changed to suit the folder and block number.There are different `box-type` each with different variables:
 - `normal` =  Plain box with no boarder or shading
 - `definition` =  Shaded grey box with no border
-- `guides` = Clear box with a black border
-- `table` = maximum width
-- `guides-table` = combination of both guides (border) and table (width)
+- `guides` = Plain box with a black border
+- `table` = Maximum width, best for table formats
+- `guides-table` = Combination of both guides (border) and table (width)
 
-Tables are made up of different column properties. They can be changed within `_sass/_cart-philosophies.scss`. Each table has different properties and can be identified by the classes. Table format looks identical to this:
+Tables are made up of different column properties, editing the content is easy however editing the format is hard. They can be changed within `_sass/_cart-philosophies.scss`. Each table has different properties and can be identified by the classes. Table format looks identical to this:
 ```
   <div class="cart-philosophies-grid-wrapper" markdown="1">
     <span class="cart-philosophies-grid-codes-one-of-three">**CODE**</span>
