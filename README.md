@@ -120,6 +120,24 @@ Synchronising your files with GitHub will allow you to work on a project with mu
 ##Editing the StyleGuide
 The style guide is easily edited by changing the content files within the page folder which needs reviewing. The `_includes` folder on the main directory is sorted into pages, find the folder relating to the page in which you want to adjust. Inside the folder are markdown files, use the `_posts` folder to find the page to change and open the file. This will show the order of arrangement. Opening a markdown file will be based of text to edit. Save changes and check to see if your changes are appropriate via `localhost:4000`.
 
+###Formating
+
+The format of the style guide is simplistic, each page of the style guide has a markdown file in the `_posts` folder. Below is an example of the `2015-11-30-logo.markdown` file:
+
+```
+{% include logo/geometrical-form.markdown %}
+
+{% include logo/clear-space.markdown %}
+
+{% include logo/size.markdown %}
+```
+
+The page will search for the following file and insert the information, which will contain the information to fill out the page. For example, the logo page will gather the information in the `logo/geometrical-form.markdown` file and THEN the `logo/clear-space.markdown` etc. The page will fill from the top-down.
+
+Each page layout is similar to the image below:
+![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_logo.jpg)
+
+
 ###Div tags
 
 `"style-guide-block-image"` = block width 50% (See Logo page)
@@ -129,10 +147,6 @@ Images are stored within each respective file. Use the include function to place
 ```
 {% include logo/images/text-bot.svg %}
 ```
-
-Each page layout is similar to the image below:
-![Layout of styleguide](https://raw.githubusercontent.com/bvn-architecture/styleguide/gh-pages/assets/how-to-images/example_logo.jpg)
-
 
 ##Editing the CART guide
 
