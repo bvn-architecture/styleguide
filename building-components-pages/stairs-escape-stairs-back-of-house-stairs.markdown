@@ -7,6 +7,7 @@ description: "Building Components: Stairs (escape stairs, back of house stairs)"
 categories:      
 image:        
 ---
+<div id="building-components">
 <dl>
 
 
@@ -27,16 +28,19 @@ image:
 {% include building-components/table-layout-image.markdown image="building-components/stairs-escape-stairs-back-of-house-stairs/02-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="D" key="building-components/stairs-escape-stairs-back-of-house-stairs/03-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/03-value.markdown"  %}
+{% include building-components/table-layout-image.markdown image="building-components/stairs-escape-stairs-back-of-house-stairs/03-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-escape-stairs-back-of-house-stairs/04-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/04-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/stairs-escape-stairs-back-of-house-stairs/04-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-escape-stairs-back-of-house-stairs/05-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/05-value.markdown"  %}
+{% include building-components/table-layout-image.markdown image="building-components/stairs-escape-stairs-back-of-house-stairs/05-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-escape-stairs-back-of-house-stairs/06-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/06-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/stairs-escape-stairs-back-of-house-stairs/06-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="H" key="building-components/stairs-escape-stairs-back-of-house-stairs/07-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/07-value.markdown"  %}
+{% include building-components/table-layout-image.markdown image="building-components/stairs-escape-stairs-back-of-house-stairs/07-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/stairs-escape-stairs-back-of-house-stairs/08-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/08-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
@@ -55,3 +59,4 @@ image:
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 </dl>
+</div>

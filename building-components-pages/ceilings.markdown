@@ -8,6 +8,8 @@ categories:
 image:        
 ---
 
+<div id="building-components">
+
 <dl>
 
 <div markdown="1" class="building-components-title">
@@ -20,7 +22,7 @@ image:
 <span class="transform-to-uppercase">**Describe** Construction</span>
 </div>
 
-{% include building-components/table-layout-block.markdown letter="F" key="building-components/ceilings/01-key.markdown" value="building-components/ceilings/01-value.markdown" %}
+{% include building-components/table-layout-block.markdown letter="A" key="building-components/ceilings/01-key.markdown" value="building-components/ceilings/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/ceilings/01-image.svg" %}
 
 {% include building-components/table-layout-block.markdown letter="E" key="building-components/ceilings/02-key.markdown" value="building-components/ceilings/02-value.markdown"  %}
@@ -53,3 +55,5 @@ image:
 
 
 </dl>
+
+</div>

@@ -40,7 +40,7 @@ image:
 
 [Signage _(wayfinding)_](/building-components-pages/signage.html)
 
-[Stairs _(escape stairs back of house stairs)_](/building-components-pages/stairs-escape-stairs-back-of-house-stairs.html)
+[Stairs _(escape stairs, back of house stairs)_](/building-components-pages/stairs-escape-stairs-back-of-house-stairs.html)
 
 [Stairs _(feature stairs)_](/building-components-pages/stairs-feature-stairs.html)
 

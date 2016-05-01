@@ -24,7 +24,7 @@
 <polygon class="meeting-room" points="247.5,523 247.5,462.3 248.3,460.4 249.6,459.3 251.4,458.6 266.3,458.6 267,459 270.2,455.3 284.8,468.2 281.6,471.6 285.6,475.6 285.9,476.6 286.1,477.5 285.9,519.6 251.1,519.6 251.1,523 "/>
 <!-- there was a whole load of stuff in here. Use gh history to check what it was. -->
 
-<g class="legend">
+<g>
  <text transform="matrix(1 0 0 1 26.4676 626.7647)" font-size="7">LEGEND 01</text>
  <text transform="matrix(1 0 0 1 26.4676 638.1046)" font-size="7">LEGEND 02</text>
  <text transform="matrix(1 0 0 1 26.4676 660.7852)" font-size="7">LEGEND 04</text>

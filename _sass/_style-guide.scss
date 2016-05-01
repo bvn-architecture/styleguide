@@ -1,7 +1,18 @@
+//Wrong Cross Icon
+.cross-options {
+  //@include span-columns(1);
+  width: 35px;
+}
 
+.red-cross-spacing {
+  //@include span-columns(12);
+}
 
+.style-guide-block-width{
+  @include span-columns(12);
+}
 
-@media screen and (min-width: 1000px){
+@media screen and (min-width: $media-query-width){
   .style-guide-block-text{
     @include span-columns(6);
     @include omega();
@@ -14,4 +25,11 @@
     	float: right;
     }
   }
+
+  .cross-options {
+    //@include span-columns(2);
+    width: 75px;
+  }
+
+
 }

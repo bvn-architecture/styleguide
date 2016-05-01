@@ -2,91 +2,78 @@
 <div class="cart-philosophies-grid-graphics-one-of-three"> HATCHING NAME </div>
 <div class="cart-philosophies-grid-graphics-two-of-three"><span class="highlight-red">1:100<br>1:50</span></div>
 <div class="cart-philosophies-grid-graphics-three-of-three"><span class="highlight-red">1:20<br>1:10<br>1:5<br>1:2<br>1:1</span></div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">BRICKWORK</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{% include cart-philosophies/drawing-graphics/a-brickwork.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-brickwork.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">CEMENT RENDER</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{%include cart-philosophies/drawing-graphics/a-blank.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-cement-render.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">CONCRETE</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{% include cart-philosophies/drawing-graphics/a-concrete.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-concrete.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">CONCRETE BLOCK</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{% include cart-philosophies/drawing-graphics/a-concrete-block.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-concrete-block.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">CUT STONE AND MASONRY</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{% include cart-philosophies/drawing-graphics/a-cut-stone-and-masonry.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-cut-stone-and-masonry.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">EARTH</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{% include cart-philosophies/drawing-graphics/a-earth.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-earth.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">FILL</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{% include cart-philosophies/drawing-graphics/a-fill.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-fill.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">INSULATION</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{%include cart-philosophies/drawing-graphics/a-blank.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-insulation.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">MEDIUM DENSITY FIBRE (MDF) BOARD<br>PARTICLE BOARD</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{%include cart-philosophies/drawing-graphics/a-blank.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-medium-density-fiber.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
 <span class="cart-philosophies-grid-graphics-one-of-three">PLYWOOD</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{%include cart-philosophies/drawing-graphics/a-blank.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-plywood.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
-<span class="cart-philosophies-grid-graphics-one-of-three">TIMBER<br>SAWN</span>
+<span class="cart-philosophies-grid-graphics-one-of-three">TIMBER SAWN</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{%include cart-philosophies/drawing-graphics/a-blank.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-timber-sawn.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">
-<span class="cart-philosophies-grid-graphics-one-of-three">TIMBER<br>DRESSED</span>
+<span class="cart-philosophies-grid-graphics-one-of-three">TIMBER DRESSED</span>
 <div class="cart-philosophies-grid-graphics-two-of-three">{%include cart-philosophies/drawing-graphics/a-blank.svg %}</div>
 <div class="cart-philosophies-grid-graphics-three-of-three">{% include cart-philosophies/drawing-graphics/b-timber-dressed.svg %}</div>
-<hr>
 </div>
 
 <div class="cart-philosophies-grid-wrapper">

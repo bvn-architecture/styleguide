@@ -7,6 +7,7 @@ description: "Building Components: Partitions"
 categories:      
 image:        
 ---
+<div id="building-components">
 <dl>
 
 <div markdown="1" class="building-components-title">
@@ -33,3 +34,4 @@ image:
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 </dl>
+</div>

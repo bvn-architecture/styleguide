@@ -39,6 +39,10 @@ p {
   hyphens: auto;
 }
 
+h1 {
+  text-transform: uppercase;
+}
+
 //Set `margin-bottom` to maintain vertical rhythm
 h1,
 h3,
@@ -191,14 +195,6 @@ pre {
 }
 
 
-//Wrong Cross Icon
-.cross-options {
-  @include span-columns(1);
-}
-
-.red-cross-spacing {
-  @include span-columns(12);
-}
 
 
 //breakline
@@ -214,10 +210,15 @@ ul {
   > li{
     > ul{
       > li{
-        //list-style: none;
+        list-style: none;
+        margin-left: 0;
       }
     }
   }
+}
+
+li{
+  margin-left: 25px;
 }
 
 ul:first-line{

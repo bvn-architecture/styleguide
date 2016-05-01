@@ -2,6 +2,6 @@ TRACKING OF REVISIONS
 
 - Cloud the changes
 - Show a revision triangle with revision number
-- Write brief description of changes in the description column avoid meaningless
+- Write brief description of changes in the description column 
 
-descriptions like ‘GENERAL REVISIONS’
+avoid meaningless descriptions like ‘GENERAL REVISIONS’

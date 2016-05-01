@@ -1,1 +1,1 @@
--- Describe signage items using systems, materials and finishes codes
+- Describe signage items using systems, materials and finishes codes

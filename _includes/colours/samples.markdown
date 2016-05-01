@@ -22,7 +22,7 @@
 
 The following pages provide examples of how to use colour in drawings and plans.
 
-{% include colours/drawing_coloured.svg meta="id='colour-option-one' class='plan-colouring'"%}
-{% include colours/drawing_coloured.svg meta="id='colour-option-two' class='plan-colouring'"%}
-{% include colours/drawing_coloured.svg meta="id='colour-option-three' class='plan-colouring'"%}
-{% include colours/drawing_coloured.svg meta="id='colour-option-four' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="id='colour-option-one' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="id='colour-option-two' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="id='colour-option-three' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="id='colour-option-four' class='plan-colouring'"%}
