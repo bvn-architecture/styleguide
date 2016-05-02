@@ -1,68 +1,5 @@
 #alphabet{
 
-  //dl tables propeties
-  dt {
-    @include span-columns(3);
-    @include omega();
-    margin-bottom: 10px;
-    //When inside key column on table.
-
-    > div {
-      margin-bottom: $spacing-unit / 2;
-
-    }
-  }
-
-  dd {
-    @include shift(.5);
-    @include span-columns(8.5);
-    margin-bottom: 10px;
-
-    > div {
-      margin-bottom: $spacing-unit / 2;
-    }
-  }
-
-
-
-  .alphabet-table-key {
-    height: 250px;
-    > div {
-      > p {
-        //line-height: 0.55;
-        line-height: .6;
-      }
-    }
-  }
-
-
-  .alphabet-table-value {
-
-    > div {
-      height: 250px;
-    }
-  }
-
-  .alphabet-table-key-letter {
-
-    > div {
-      font-size: 400px;
-      height: 275px;
-
-      > p {
-        line-height: .6;
-      }
-    }
-
-  }
-
-  .alphabet-table-value-three {
-    @include span-columns(1 of 3);
-  }
-
-
-
-  @media screen and (max-width: $media-query-width){
     dt {
       @include span-columns(12);
     }
@@ -76,6 +13,68 @@
       > div {
         height: auto;
       }
+    }
+
+    .alphabet-table-key-letter {
+
+      > div {
+        font-size: 400px;
+        height: 275px;
+
+        > p {
+          line-height: .6;
+        }
+      }
+
+    }
+
+
+  @media screen and (min-width: $media-query-width){
+
+    //dl tables propeties
+    dt {
+      @include span-columns(3);
+      @include omega();
+      margin-bottom: 10px;
+      //When inside key column on table.
+
+      > div {
+        margin-bottom: $spacing-unit / 2;
+
+      }
+    }
+
+    dd {
+      @include shift(.5);
+      @include span-columns(8.5);
+      margin-bottom: 10px;
+
+      > div {
+        margin-bottom: $spacing-unit / 2;
+      }
+    }
+
+
+
+    .alphabet-table-key {
+      height: 250px;
+      > div {
+        > p {
+          line-height: .6;
+        }
+      }
+    }
+
+
+    .alphabet-table-value {
+
+      > div {
+        height: 250px;
+      }
+    }
+
+    .alphabet-table-value-three {
+      @include span-columns(1 of 3);
     }
   }
 }
