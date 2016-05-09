@@ -1,9 +1,9 @@
 ---
 layout:       post
 title:        Templates
-class:        STYLE
+class:       "templates"
 date:         2015-11-25T17:52:48+11:00
-description:  "BVN designed templates."
+description: "BVN designed templates."
 categories:      
 image:        
 ---

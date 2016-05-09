@@ -1,7 +1,7 @@
 ---
 layout:      post
-title:       Colour
-class:       STYLE
+title:       "Colour"
+class:       "colour"
 date:        2015-11-29T17:52:48+11:00
 description: "BVN designated colours."
 categories: 

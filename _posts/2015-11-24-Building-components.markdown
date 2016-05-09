@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        Building Components
-class:        CART
+class:       "test"
 date:         2015-11-24T17:52:48+11:00
 description: "CART - Building Components"
 categories:      
