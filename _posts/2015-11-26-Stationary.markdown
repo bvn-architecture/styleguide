@@ -1,7 +1,7 @@
 ---
 layout:      post     
-title:       "Stationery"     
-class:       "stationery"     
+title:       Stationery
+class:       STYLE     
 date:        2015-11-26T17:52:48+11:00     
 description: "BVN stationery guidelines."
 categories:  

@@ -28,6 +28,12 @@
 
       <div class="trigger">
         {% for postpage in site.posts %}
+          {% if postpage.class == "CART" %}
+            {% if postpage.title == "BVN Alphabet" %}
+              <br>
+            {% endif %}  
+          {% endif %}
+        
           <a class="page-link" {% if postpage.url == postpage.url %} class="active" {% endif %} href="{{ postpage.url | prepend: site.baseurl }}" >
                {{ postpage.title }}
           </a>

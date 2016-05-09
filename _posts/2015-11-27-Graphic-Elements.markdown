@@ -1,7 +1,7 @@
 ---
 layout:      post
-title:       "Graphic Elements"
-class:       "graphic-elements"
+title:       Graphic Elements
+class:       STYLE
 date:        2015-11-28T17:52:48+11:00
 description: "BVN designated graphic elements guidelines."
 categories: 

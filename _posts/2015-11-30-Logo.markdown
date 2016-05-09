@@ -1,7 +1,7 @@
 ---
 layout:      post
-title:       "Logo"
-class:       "logo"
+title:       Logo
+class:       STYLE
 date:        2015-11-30T17:52:48+11:00
 description: "BVN logo guidelines."
 categories:
