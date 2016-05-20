@@ -24,3 +24,18 @@
     <div class="cc-attributution">Icons made by <a href="http://www.flaticon.com/authors/google" title="Google">Google</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
     x`
 </footer>
+
+<script src="{{ '/js/fontfaceobserver.standalone.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+  console.log("start observing");
+  var font = new FontFaceObserver('Blender-book');
+
+  font.load().then(function () {
+    console.log('Font is available');
+    document.body.classList.remove("still-loading")
+  }, function () {
+    console.log('Font is not available');
+  });
+});
+</script>
