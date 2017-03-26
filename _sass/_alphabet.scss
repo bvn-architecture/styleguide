@@ -17,16 +17,23 @@
   }
 
   .alphabet-table-key-letter {
+    font-size: 400px;
+    height: 275px;
+    line-height: .6;
+  }
 
-    > div {
+  .alphabet-table-key {
+
+    dt {
       font-size: 400px;
       height: 275px;
-
-      > p {
-        line-height: .6;
-      }
+      line-height: .6;
     }
 
+    dd {
+      font-size: 22px;
+      height: 275px;
+    }
   }
 
 
