@@ -7,7 +7,7 @@ description: "Building Components: Windows"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 
 <dl>
 

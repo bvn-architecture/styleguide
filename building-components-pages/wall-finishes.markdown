@@ -7,7 +7,7 @@ description: "Building Components: Wall finishes"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 <dl>
 
 

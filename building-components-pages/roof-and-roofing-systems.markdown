@@ -7,7 +7,7 @@ description: "Building Components: Roof and roofing systems"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 <dl>
 
 

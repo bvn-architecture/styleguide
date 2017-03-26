@@ -7,7 +7,7 @@ description: "Building Components: Wall protection 'the graphic representation' 
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 
 <dl>
 

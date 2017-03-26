@@ -1,28 +1,12 @@
-
-<dt class="building-components-dt-block">
-
 <dl>
 
-<dt id="building-components-dt-content">
-<div markdown="1">
-{{ include.letter }}
-</div>
-</dt>
-<dd id="building-components-dd-content">
-<div markdown="1">
-{% include {{ include.key }} %}
-</div>
-</dd>
 
-<dt id="building-components-dt-content">
+<dt markdown="block">
+{{ include.letter }} {% include {{ include.key }} %}[∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.key }}){:.edit-link title="Edit this section" target="_blank"}
 </dt>
-<dd id="building-components-dd-content">
-<div markdown="1">
-{% include {{ include.value }} %}
-</div>
+
+<dd markdown="1">
+{% include {{ include.value }} %}[∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.value }}){:.edit-link title="Edit this section" target="_blank"}
 </dd>
 
 </dl>
-
-</div>
-</dt>

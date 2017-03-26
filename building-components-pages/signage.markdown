@@ -7,7 +7,7 @@ description: "Building Components: Signage (wayfinding)"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 
 <dl>
 

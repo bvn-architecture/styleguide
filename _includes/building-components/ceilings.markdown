@@ -3,16 +3,13 @@
 
 <dl>
 
-
-<div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identify ceiling types**</span>
-</div>
+## <span class="transform-to-uppercase">**Identify ceiling types**</span>
 
 {% include building-components/table-layout-initial.markdown letter="A" key="building-components/ceilings/00-key.markdown" value="building-components/ceilings/00-value.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Construction</span>
-</div>
+
+## <span class="transform-to-uppercase">**Describe** Construction</span>
+
 
 {% include building-components/table-layout-block.markdown letter="F" key="building-components/ceilings/01-key.markdown" value="building-components/ceilings/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/ceilings/01-image.svg" %}

@@ -7,7 +7,7 @@ description: "Building Components: Wet areas"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 <dl>
 
 

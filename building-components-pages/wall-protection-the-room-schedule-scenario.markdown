@@ -7,7 +7,7 @@ description: "Building Components: Wall protection 'The room schedule' scenario"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 <dl>
 
 <div markdown="1" class="building-components-title">

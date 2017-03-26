@@ -7,7 +7,7 @@ description: "Building Components: Floors 'the graphic representation of finishe
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 
 <dl>
 

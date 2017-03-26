@@ -7,7 +7,7 @@ description: "Building Components: Stairs (escape stairs, back of house stairs)"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 <dl>
 
 

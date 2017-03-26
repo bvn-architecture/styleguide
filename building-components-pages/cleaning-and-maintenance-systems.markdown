@@ -4,10 +4,10 @@ title:        Cleaning and maintenance systems
 class:       "cart"
 date:         2015-11-24T17:52:48+11:00
 description: "Building Components: Cleaning and maintenance systems"
-categories:      
-image:        
+categories:
+image:
 ---
-<div id="building-components">
+<div class="building-components">
 
 <dl>
 

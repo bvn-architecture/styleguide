@@ -7,7 +7,7 @@ description: "Building Components: Floors 'the room schedule' scenario"
 categories:      
 image:        
 ---
-<div id="building-components">
+<div class="building-components">
 
 <dl>
 
