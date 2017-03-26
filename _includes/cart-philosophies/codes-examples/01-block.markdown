@@ -80,7 +80,7 @@
 <div class="cart-philosophies-grid-wrapper" markdown="1">
 <span class="cart-philosophies-grid-codes-one-of-three">COV-1<br>COV-2</span>
 <span class="cart-philosophies-grid-codes-two-of-three">WALL COVERINGS</span>
-<span class="cart-philosophies-grid-codes-three-of-three">Colour, material and texture of wood veneer, vinyl sheeting, wall paper, textile, etc wall coverings<br>eg 900W X 1200H DECORATIVE FABRIC ACOUSTIC WALL PANELS</span>
+<span class="cart-philosophies-grid-codes-three-of-three">Colour, material and texture of wood veneer, vinyl sheeting, wall paper, textile, etc. wall coverings<br>eg 900W X 1200H DECORATIVE FABRIC ACOUSTIC WALL PANELS</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">

@@ -37,7 +37,7 @@
 <div class="cart-philosophies-grid-wrapper" markdown="1">
 <span  class="cart-philosophies-grid-codes-one-of-three">P1<br>P2</span>
 <span  class="cart-philosophies-grid-codes-two-of-three">PARTITIONS</span>
-<span  class="cart-philosophies-grid-codes-three-of-three">To make the best use of limited space within the partition symbol, break codes into groups:<br>P1, P2 = common plasterboard partitions; A1, A2 = acoustically rated partitions; S1, S2 smoke rated partitions; F1, F2 = fire rated partitions; G1, G2 = internal windows and glazed partitions; L1, L2 = partitions lined from one side only, etc</span>
+<span  class="cart-philosophies-grid-codes-three-of-three">To make the best use of limited space within the partition symbol, break codes into groups:<br>P1, P2 = common plasterboard partitions; A1, A2 = acoustically rated partitions; S1, S2 smoke rated partitions; F1, F2 = fire rated partitions; G1, G2 = internal windows and glazed partitions; L1, L2 = partitions lined from one side only, etc.</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
@@ -49,7 +49,7 @@
 <div class="cart-philosophies-grid-wrapper" markdown="1">
 <span  class="cart-philosophies-grid-codes-one-of-three">PB-1<br>PB-2</span>
 <span  class="cart-philosophies-grid-codes-two-of-three">PLASTERBOARD</span>
-<span  class="cart-philosophies-grid-codes-three-of-three">Thickness and type of the drylining sheet materials, i.e. internal or external grade, acoustic, moisture resistance, fire resistance, etc<br>eg 13MM IMPACT RESISTANT HIGH DENSITY PLASTERBOARD</span>
+<span  class="cart-philosophies-grid-codes-three-of-three">Thickness and type of the drylining sheet materials, i.e. internal or external grade, acoustic, moisture resistance, fire resistance, etc.<br>eg 13MM IMPACT RESISTANT HIGH DENSITY PLASTERBOARD</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
@@ -61,7 +61,7 @@
 <div class="cart-philosophies-grid-wrapper" markdown="1">
 <span  class="cart-philosophies-grid-codes-one-of-three">PT-1<br>PT-2</span>
 <span  class="cart-philosophies-grid-codes-two-of-three">PAINTS</span>
-<span  class="cart-philosophies-grid-codes-three-of-three">Description of applied coatings - paints, sealants, lacquers, etc<br>eg EXTERIOR MASONRY ACRYLIC PAINT, COLOUR OFF-WHITE EQUIVALENT TO PANTONE HEX #D8DDCE</span>
+<span  class="cart-philosophies-grid-codes-three-of-three">Description of applied coatings - paints, sealants, lacquers, etc.<br>eg EXTERIOR MASONRY ACRYLIC PAINT, COLOUR OFF-WHITE EQUIVALENT TO PANTONE HEX #D8DDCE</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
