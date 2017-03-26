@@ -1,5 +1,5 @@
-<p>SYSTEMS, MATERIALS AND FINISHES CODES (applicable to entire project) **'A' SERIES Legend sheet**</p>
+SYSTEMS, MATERIALS AND FINISHES CODES (applicable to entire project) **'A' SERIES Legend sheet**
 
-<p>WET AREAS FIXTURES AND FITTINGS CODES **'Q' SERIES Legend sheet**</p>
+WET AREAS FIXTURES AND FITTINGS CODES **'Q' SERIES Legend sheet**
 
-<p>FURNITURE AND JOINERY CODES **'L' SERIES Legend sheet**</p>
+FURNITURE AND JOINERY CODES **'L' SERIES Legend sheet**
