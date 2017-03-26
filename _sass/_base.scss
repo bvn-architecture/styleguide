@@ -115,6 +115,10 @@ a {
   }
 }
 
+strong {
+  color: $tertiary-red;
+  font-weight: normal;
+}
 
 //Blockquotes
 blockquote {
@@ -134,7 +138,7 @@ blockquote {
 //Code formatting
 pre,
 code {
-  background-color: #eef;
+  background-color: $grey-color-light;
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   font-size: 15px;
@@ -309,4 +313,15 @@ dd {
 //remove Ajax spinner
 .ui-loading .ui-loader {
   display: none;
+}
+
+.edit-link {
+  left: 0;
+  opacity: .1;
+  position: absolute;
+  top: 0;
+
+  a {
+    color: $grey-color-dark;
+  }
 }

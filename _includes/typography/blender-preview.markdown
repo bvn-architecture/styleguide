@@ -14,7 +14,7 @@
 
 <span class="typo-bold">
 <span class="title">Bold</span>
-<span class="typo-example">	{% include typography/characters.markdown %}</span>
+<span class="typo-example">  {% include typography/characters.markdown %}</span>
 </span>
 
 </div>

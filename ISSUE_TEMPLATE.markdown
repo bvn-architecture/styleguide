@@ -7,7 +7,7 @@
 ### Location (Where on which page)
 
 
-### Browser (Best viewed in Chrome) and Device (Phone, computer, etc)
+### Browser (Best viewed in Chrome) and Device (Phone, computer, etc.)
 
 
 ### Recommended steps/sequence to resolve (if known)

@@ -1,1 +1,1 @@
-- Key to codes - eg nosings, tactile indicators, handrails etc; reference to specification sections
+- Key to codes - e.g.nosings, tactile indicators, handrails etc.; reference to specification sections

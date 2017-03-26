@@ -5,4 +5,4 @@
 - ‘Enlarged area boxes’ referring to K series interface details
 - Internal elevation references
 - Setting-out points
-- Dimensions and setting-out other than already done in <span class="highlight-red">1:100</span> E series
+- Dimensions and setting-out other than already done in **1:100** E series

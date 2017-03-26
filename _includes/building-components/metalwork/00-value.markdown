@@ -1,1 +1,1 @@
-- _(If showing metalwork at <span class="highlight-red">1:100</span> makes drawing graphically heavy, create a <span class="highlight-red">1:100</span> subset of general arrangement Metalwork drawings in N series)_
+- _(If showing metalwork at **1:100** makes drawing graphically heavy, create a **1:100** subset of general arrangement Metalwork drawings in N series)_

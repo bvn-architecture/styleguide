@@ -1,83 +1,38 @@
-<div data-role="collapsible" data-inset="false">
-	<h1 class="cart-collapsible-div">J - Doors</h1>
+ <div data-role="collapsible" data-inset="false" markdown="1">
+ <h1 class="cart-collapsible-div">J - Doors</h1>
 
-<dl>
-
-<dt class="alphabet-table-key-letter">
-<div markdown="1">
+{:refdef: .alphabet-table-key}
 J
-</div>
-</dt>
-<dd class="alphabet-table-value">
-<div markdown="1">
-### Doors
-</div>
-</dd>
+: Doors
+{: refdef}
 
-<dt>
-<div markdown="1">
+
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-1-key.markdown %}
-</div>
 </dt>
-<dd>
-<div markdown="1">
+<dd markdown='1'>
 {% include alphabet/alphabet-markdown/j/j-1-value.markdown %}
-</div>
 </dd>
 
-<dt>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/j/j-2-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/j/j-2-0-value.markdown %}
-</div>
-<div class="alphabet-table-value-three" markdown="1">
-{% include alphabet/alphabet-markdown/j/j-2-1-value.markdown %}
-</div>
-<div class="alphabet-table-value-three" markdown="1">
-{% include alphabet/alphabet-markdown/j/j-2-2-value.markdown %}
-</div>
-<div class="alphabet-table-value-three" markdown="1">
-{% include alphabet/alphabet-markdown/j/j-2-3-value.markdown %}
-</div>
-</dd>
-
-<dt>
-<div markdown="1">
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-3-key.markdown %}
-</div>
 </dt>
-<dd>
-<div markdown="1">
+<dd markdown='1'>
 {% include alphabet/alphabet-markdown/j/j-3-value.markdown %}
-</div>
 </dd>
 
-<dt>
-<div markdown="1">
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-4-key.markdown %}
-</div>
 </dt>
-<dd>
-<div markdown="1">
+<dd markdown='1'>
 {% include alphabet/alphabet-markdown/j/j-4-value.markdown %}
-</div>
 </dd>
 
-<dt>
-<div markdown="1">
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-5-key.markdown %}
-</div>
 </dt>
-<dd>
-<div markdown="1">
+<dd markdown='1'>
 {% include alphabet/alphabet-markdown/j/j-5-value.markdown %}
-</div>
 </dd>
 
-</dl>
-
-</div>
+ </div>

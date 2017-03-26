@@ -3,9 +3,9 @@
 - Change of level indicators
 - Ramps and falls
 - Setting-out points
-- ‘Enlarged area boxes’ referring to T series <span class="highlight-red">1:20</span> or <span class="highlight-red">1:10</span> details
-- Section references to <span class="highlight-red">1:20</span> or <span class="highlight-red">1:10</span> details
-- Elevation references to <span class="highlight-red">1:20</span> or <span class="highlight-red">1:10</span> details
+- ‘Enlarged area boxes’ referring to T series **1:20** or **1:10** details
+- Section references to **1:20** or **1:10** details
+- Elevation references to **1:20** or **1:10** details
 - Critical dimensions and setting-out
 - Description of finishes using materials, systems and finishes codes
 - Change/delineation between finishes

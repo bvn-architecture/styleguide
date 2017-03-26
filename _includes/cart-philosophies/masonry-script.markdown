@@ -5,10 +5,10 @@
 
 
 $('.cart-philosophies-wrapper').masonry({
-	columnWidth: '.cart-philosophies-block',
-	itemSelector: '.cart-philosophies-block',
-	gutter: 8,
-	transitionDuration: 0
+  columnWidth: '.cart-philosophies-block',
+  itemSelector: '.cart-philosophies-block',
+  gutter: 8,
+  transitionDuration: 0
 });
 
 var delay=0; //1000 = 1 seconds
@@ -18,10 +18,10 @@ var delay=0; //1000 = 1 seconds
 
 
         $('h1.cart-collapsible-div').click(function(){
-        	//alert("It's loaded!") 
+          //alert("It's loaded!") 
             setTimeout(function(){
-			$('.cart-philosophies-wrapper').masonry();
-			}, delay); 
+      $('.cart-philosophies-wrapper').masonry();
+      }, delay); 
         })
 
 //$('.cart-philosophies-wrapper').masonry('reloadItems');

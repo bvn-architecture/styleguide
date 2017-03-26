@@ -1,41 +1,15 @@
-<div data-role="collapsible" data-inset="false">
-	<h1 class="cart-collapsible-div">B - Floor and roof plans</h1>
+<div data-role="collapsible" data-inset="false" markdown="1">
+<h1 class="cart-collapsible-div">B - Floor and roof plans</h1>
 
-<dl>
-
-<dt class="alphabet-table-key-letter">
-<div markdown="1" >
+{:refdef: .alphabet-table-key}
 B
-</div>
-</dt>
-<dd class="alphabet-table-value">
-<div markdown="1">
-### Floor and roof plans
-</div>
-</dd>
+: Floor and roof plans
+{: refdef}
 
-<dt>
-<div markdown="1">
 {% include alphabet/alphabet-markdown/b/b-1-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/b/b-1-value.markdown %}
-</div>
-</dd>
+: {% include alphabet/alphabet-markdown/b/b-1-value.markdown %}
 
-<dt>
-<div markdown="1">
 {% include alphabet/alphabet-markdown/b/b-2-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/b/b-2-value.markdown %}
-</div>
-</dd>
-
-</dl>
+: {% include alphabet/alphabet-markdown/b/b-2-value.markdown %}
 
 </div>

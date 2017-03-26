@@ -1,1 +1,1 @@
-- Typical door frame details <span class="highlight-red">1:5</span>
+- Typical door frame details **1:5**

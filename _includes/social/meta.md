@@ -5,7 +5,7 @@
 <meta name="twitter:title"       content="{% if page.title %}{{site.title}} - {{page.title}}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 <meta name="twitter:image"       content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
-<meta name="twitter:creator" 	 content="{% if page.twitter_username %}{{ page.twitter_username }}{% else %}{{ site.twitter_username }}{% endif %}">
+<meta name="twitter:creator"    content="{% if page.twitter_username %}{{ page.twitter_username }}{% else %}{{ site.twitter_username }}{% endif %}">
 {% endif %}
 
 <!-- Schema.org markup for Google+ -->

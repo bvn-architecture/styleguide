@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series demolition <span class="highlight-red">1:100</span></span>
+<span class="transform-to-uppercase">Series demolition **1:100**</span>

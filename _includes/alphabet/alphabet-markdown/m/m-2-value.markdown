@@ -1,3 +1,3 @@
 - Dimensions
 - Description of joinery items using materials, systems and finishes codes
-- ‘Enlarged area boxes’ referring to <span class="highlight-red">1:2</span> and <span class="highlight-red">1:1</span> scale details in L series
+- ‘Enlarged area boxes’ referring to **1:2** and **1:1** scale details in L series

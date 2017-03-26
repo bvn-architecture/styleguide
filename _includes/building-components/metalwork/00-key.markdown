@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series floor and roof plans <span class="highlight-red">1:100</span></span>
+<span class="transform-to-uppercase">Series floor and roof plans **1:100**</span>

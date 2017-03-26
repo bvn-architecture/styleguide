@@ -1,2 +1,2 @@
 - Describe various areas of different ceiling finishes using finishes codes
-- Indicate finish to vertical surfaces eg bulkheads
+- Indicate finish to vertical surfaces e.g.bulkheads

@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series external works and landscaping <span class="highlight-red">1:100</span></span>
+<span class="transform-to-uppercase">Series external works and landscaping **1:100**</span>

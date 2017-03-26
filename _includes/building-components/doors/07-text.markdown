@@ -1,1 +1,1 @@
-If you decide to show door handles, thresholds and the like at <span class="highlight-red">1:100</span> scale, make sure you can switch them off when the door is referenced to reflected ceiling plan plot file.
+If you decide to show door handles, thresholds and the like at **1:100** scale, make sure you can switch them off when the door is referenced to reflected ceiling plan plot file.

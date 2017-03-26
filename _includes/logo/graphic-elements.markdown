@@ -3,10 +3,10 @@
 
 ## Graphic elements
 
-Do not add graphic elements or text to the mark.	
+Do not add graphic elements or text to the mark.  
 
 <div class="red-cross-spacing style-guide-block-text">
-	{% include cross-icon.svg %}
+  {% include cross-icon.svg %}
 </div>
 
 

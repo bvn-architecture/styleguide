@@ -7,6 +7,10 @@
   dd {
     @include shift(1);
     width: auto;
+
+    .columns {
+      column-width: 10em;
+    }
   }
 
   .alphabet-table-value {
@@ -17,16 +21,29 @@
   }
 
   .alphabet-table-key-letter {
+    font-size: 400px;
+    height: 275px;
+    line-height: .6;
+  }
 
-    > div {
+  .alphabet-table-key {
+
+    dt {
       font-size: 400px;
       height: 275px;
+      line-height: .6;
 
-      > p {
-        line-height: .6;
+      br {
+        content: ' ';
+        display: block;
+        height: .3em;
       }
     }
 
+    dd {
+      font-size: 22px;
+      height: 275px;
+    }
   }
 
 
