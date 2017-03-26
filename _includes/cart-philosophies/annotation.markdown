@@ -9,7 +9,7 @@
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/annotation/04-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="guides" value="cart-philosophies/annotation/05-block.markdown" %}
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/annotation/06-block.markdown" %}
-{% include cart-philosophies/cart-philosophies-block.markdown box-type="table" value="cart-philosophies/annotation/07-block.markdown" %}
+{% include cart-philosophies/cart-philosophies-block.markdown box-type="table"  value="cart-philosophies/annotation/07-block.markdown" %}
 </div>
 
 </div>
