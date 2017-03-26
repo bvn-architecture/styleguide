@@ -206,28 +206,27 @@ hr {
 //List
 ul {
   list-style-position: outside;
-  //list-style-type: none;
-  > li {
-    > ul {
-      > li {
-        list-style: none;
-        margin-left: 0;
-      }
-    }
+
+  li {
+    list-style: none;
+    margin-left: 25px;
   }
+
+  li::before {
+    content: '-';
+    display: inline-block;
+    float: left;
+  }
+
 }
 
-li {
-  margin-left: 25px;
-}
-
-ul:first-line {
+ul::first-line {
   text-indent: -8 px;
 }
 
 //Text span options
 .highlight-red {
-  color: red;
+  color: $tertiary-red;
 }
 
 .transform-to-uppercase {
