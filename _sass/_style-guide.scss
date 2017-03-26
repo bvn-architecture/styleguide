@@ -8,21 +8,22 @@
   //@include span-columns(12);
 }
 
-.style-guide-block-width{
+.style-guide-block-width {
   @include span-columns(12);
 }
 
 @media screen and (min-width: $media-query-width){
-  .style-guide-block-text{
+  .style-guide-block-text {
     @include span-columns(6);
     @include omega();
   }
 
-  .style-guide-block-image{
+  .style-guide-block-image {
     @include span-columns(6);
     margin-bottom: 10px;
-    > svg{
-    	float: right;
+
+    > svg {
+      float: right;
     }
   }
 

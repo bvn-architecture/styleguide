@@ -1,0 +1,16 @@
+<script src="{{ '/js/fontfaceobserver.standalone.js' | prepend: site.baseurl }}"></script>
+
+<script type="text/javascript">
+//this waits for blender book to be loaded, then swaps it with the base font.
+//this prevents a flash of invisible text (FOIT), which in the case of this site is a lot more than a flash!
+// it uses this polyfill https://github.com/bramstein/fontfaceobserver
+document.addEventListener('DOMContentLoaded', function() {
+  var font = new FontFaceObserver('Blender-book');
+
+  font.load().then(function () {
+    document.body.classList.remove("still-loading")
+  }, function () {
+    console.log("Blender-book is not available, but you'll be ok with Arial for now." );
+  });
+});
+</script>

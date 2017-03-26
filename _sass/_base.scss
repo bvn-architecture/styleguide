@@ -14,7 +14,7 @@ ol,
 ul,
 dd,
 dt,
-dl,x
+dl,
 figure {
   margin: 0;
   padding: 0;
@@ -26,15 +26,14 @@ body {
   background-color: $background-color;
   color: $text-color;
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
+  text-size-adjust: 100%;
 }
 
-//Paragraph 
+.still-loading { font-family: $unstyled-font-family;}
+
+//Paragraph
 p {
   hyphens: auto;
 }
@@ -86,6 +85,7 @@ h6 {
   clear: both;
   font-weight: $base-font-weight;
 }
+
 h2 {
   border-bottom: 1px solid rgba($bvn-black, .33);
   display: block;
@@ -207,9 +207,9 @@ hr {
 ul {
   list-style-position: outside;
   //list-style-type: none;
-  > li{
-    > ul{
-      > li{
+  > li {
+    > ul {
+      > li {
         list-style: none;
         margin-left: 0;
       }
@@ -217,11 +217,11 @@ ul {
   }
 }
 
-li{
+li {
   margin-left: 25px;
 }
 
-ul:first-line{
+ul:first-line {
   text-indent: -8 px;
 }
 
@@ -235,68 +235,72 @@ ul:first-line{
 }
 
 
-    //dl tables propeties
-  dt {
-    clear: left;
-    float: left;
-    > div {
-      > p {
-        line-height: 1.2;
-        //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
-        margin-bottom: 0;
-        margin-top: 3px;
-      }
-    }
-  }
+//dl tables propeties
+dt {
+  clear: left;
+  float: left;
 
-  dd {
-    float: left;
-    > div {
-      > p {
-        line-height: 1.2;
-        //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
-        margin-bottom: 0;
-        margin-top: 3px;
-      }
-      > ul {
-        > li:before {
-          //content: '-';
-          padding-right: 8px;
-        }
+  > div {
+    > p {
+      line-height: 1.2;
+      //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
+      margin-bottom: 0;
+      margin-top: 3px;
+    }
+  }
+}
+
+dd {
+  float: left;
+
+  > div {
+    > p {
+      line-height: 1.2;
+      //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
+      margin-bottom: 0;
+      margin-top: 3px;
+    }
+
+    > ul {
+      > li::before {
+        //content: '-';
+        padding-right: 8px;
       }
     }
   }
+}
 
 //Jquery collapsible box
-  .custom-collapsible {
-    margin: 0 !important;
-  }
+.custom-collapsible {
+  margin: 0 !important;
+}
 
-  //changing jquerymobile css
-  .ui-collapsible-themed-content .ui-collapsible-content {
-    border: 0;
-  }
+//changing jquerymobile css
+.ui-collapsible-themed-content .ui-collapsible-content {
+  border: 0;
+}
 
-  .ui-body-a,
-  .ui-page-theme-a .ui-body-inherit,
-  .ui-bar-a .ui-body-inherit,
-  .ui-body-a .ui-body-inherit,
-  .ui-group-theme-a .ui-body-inherit,
-  .ui-panel-page-container-a {
-    background-color: transparent;
-  }
+.ui-body-a,
+.ui-page-theme-a .ui-body-inherit,
+.ui-bar-a .ui-body-inherit,
+.ui-body-a .ui-body-inherit,
+.ui-group-theme-a .ui-body-inherit,
+.ui-panel-page-container-a {
+  background-color: transparent;
+}
 
 
-.cart-collapsible-div{
+.cart-collapsible-div {
   a {
+    color: $grey-color;
     font-size: 1em;
     font-style: bold;
-    color: $grey-color;
-    padding-left: 15px;}
+    padding-left: 15px;
+  }
 
 }
 
 //remove Ajax spinner
 .ui-loading .ui-loader {
-    display: none;
+  display: none;
 }
