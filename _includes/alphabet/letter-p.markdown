@@ -6,8 +6,12 @@ P
 : Cleaning and maintenance equipment
 {: refdef}
 
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/p/p-1-key.markdown %}
-: {% include alphabet/alphabet-markdown/p/p-1-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/p/p-1-value.markdown %}
+</dd>
 
 
 

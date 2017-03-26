@@ -6,8 +6,12 @@ K
 : Interface details
 {: refdef}
 
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/k/k-1-key.markdown %}
-: {% include alphabet/alphabet-markdown/k/k-1-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/k/k-1-value.markdown %}
+</dd>
 
 
  </div>

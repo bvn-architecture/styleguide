@@ -6,13 +6,25 @@ M
 : Joinery
 {: refdef}
 
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/m/m-1-key.markdown %}
-: {% include alphabet/alphabet-markdown/m/m-1-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/m/m-1-value.markdown %}
+</dd>
 
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/m/m-2-key.markdown %}
-: {% include alphabet/alphabet-markdown/m/m-2-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/m/m-2-value.markdown %}
+</dd>
 
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/m/m-3-key.markdown %}
-: {% include alphabet/alphabet-markdown/m/m-3-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/m/m-3-value.markdown %}
+</dd>
 
  </div>

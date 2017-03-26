@@ -6,23 +6,33 @@ J
 : Doors
 {: refdef}
 
+
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-1-key.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-1-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/j/j-1-value.markdown %}
+</dd>
 
-{% include alphabet/alphabet-markdown/j/j-2-key.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-2-0-value.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-2-1-value.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-2-2-value.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-2-3-value.markdown %}
-
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-3-key.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-3-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/j/j-3-value.markdown %}
+</dd>
 
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-4-key.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-4-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/j/j-4-value.markdown %}
+</dd>
 
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/j/j-5-key.markdown %}
-: {% include alphabet/alphabet-markdown/j/j-5-value.markdown %}
-
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/j/j-5-value.markdown %}
+</dd>
 
  </div>

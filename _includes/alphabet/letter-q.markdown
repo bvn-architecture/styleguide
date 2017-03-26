@@ -6,11 +6,20 @@ Q
 : Wet areas
 {: refdef}
 
-{% include alphabet/alphabet-markdown/q/q-1-key.markdown %}
-: {% include alphabet/alphabet-markdown/q/q-1-value.markdown %}
 
+<dt markdown='block' >
+{% include alphabet/alphabet-markdown/q/q-1-key.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/q/q-1-value.markdown %}
+</dd>
+
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/q/q-2-key.markdown %}
-: {% include alphabet/alphabet-markdown/q/q-2-value.markdown %}
+</dt>
+<dd markdown='1'>
+{% include alphabet/alphabet-markdown/q/q-2-value.markdown %}
+</dd>
 
 
 

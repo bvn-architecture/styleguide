@@ -7,6 +7,10 @@
   dd {
     @include shift(1);
     width: auto;
+
+    .columns {
+      column-width: 10em;
+    }
   }
 
   .alphabet-table-value {
