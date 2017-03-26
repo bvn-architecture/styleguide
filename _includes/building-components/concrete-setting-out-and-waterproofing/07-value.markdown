@@ -1,1 +1,0 @@
-- Intricate edge conditions
