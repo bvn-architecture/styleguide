@@ -64,7 +64,7 @@
   .cart-philosophies-grid-one-of-three {
     @extend %cart-philosophies-grid-of-three;
     @include span-columns(12);
-    border-bottom-color: $color-grey-value;
+    border-bottom-color: $grey-color;
     border-bottom-width: 1px;
     border-left: 0;
     border-right: 0;
@@ -78,7 +78,7 @@
     @include span-columns(6);
     border-bottom: 0;
     border-left: 0;
-    border-right-color: $color-grey-value;
+    border-right-color: $grey-color;
     border-right-width: 1px;
     border-style: solid;
     border-top: 0;
@@ -101,7 +101,7 @@
     @include span-columns(3);
     border-bottom: 0;
     border-left: 0;
-    border-right-color: $color-grey-value;
+    border-right-color: $grey-color;
     border-right-width: 1px;
     border-style: solid;
     border-top: 0;
@@ -110,7 +110,7 @@
   .cart-philosophies-grid-codes-two-of-three {
     @extend %cart-philosophies-grid-codes-of-three;
     @include span-columns(8.8);
-    border-right-color: $color-grey-value;
+    border-right-color: $grey-color;
     border-right-width: 1px;
   }
 
@@ -121,7 +121,7 @@
     border-left: 0;
     border-right: 0;
     border-style: solid;
-    border-top-color: $color-grey-value;
+    border-top-color: $grey-color;
     border-top-width: 1px;
   }
 
@@ -137,7 +137,7 @@
   .cart-philosophies-grid-one-of-four {
     @extend %cart-philosophies-grid-of-four;
     @include span-columns(12);
-    border-bottom-color: $color-grey-value;
+    border-bottom-color: $grey-color;
     border-bottom-width: 1px;
     border-left: 0;
     border-right: 0;
@@ -154,9 +154,9 @@
     @extend %cart-philosophies-grid-of-four;
     @include span-columns(3);
     border-bottom: 0;
-    border-left-color: $color-grey-value;
+    border-left-color: $grey-color;
     border-left-width: 1px;
-    border-right-color: $color-grey-value;
+    border-right-color: $grey-color;
     border-right-width: 1px;
     border-style: solid;
     border-top: 0;
