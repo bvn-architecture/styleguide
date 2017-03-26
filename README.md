@@ -43,7 +43,7 @@ You need to get the project from GitHub before you can work locally:
     cd C:\Python27
     python -m pip install Pygments
 ```
-*Indept guide for troubleshooting: [Windows](http://jekyll-windows.juthilo.com/) [Mac and Linux](http://jekyllrb.com/docs/installation/)
+* In depth guide for troubleshooting: [Windows](http://jekyll-windows.juthilo.com/) [Mac and Linux](http://jekyllrb.com/docs/installation/)
 
 ### Known Windows problems
 There are some compatibility issues with ruby and jekyll for windows operating systems. If you are running on Linux or Mac OS, ignore this stage.
@@ -63,7 +63,7 @@ There are some compatibility issues with ruby and jekyll for windows operating s
 7. Press “Merge pull request,” Press “Confirm merge.”
 8. Clean up branch if necessary.
 
-### Testing server on local
+### Testing locally
 To test your Jekyll files on you computer before syncing:
 * Navigate to your folder file in GitBash. (NOTE: You can press 'shift + right click' to open GitBash and cmd.exe with the folder, skipping the 'cd C:/...' line)
 * Run line in GitBash:
@@ -71,13 +71,9 @@ To test your Jekyll files on you computer before syncing:
 bundle exec jekyll serve
 ```
 NOTE: if you receive a message similar to:
-```
-C:/Ruby200-x64/lib/ruby/gems/2.0.0/gems/bundler-1.11.2/lib/bundler/spec_set.rb:94:in `block in materialize': Could not find minitest-5.8.4 in any of the (Bundler::GemNotFound)
-```
-Run again:
-```
-bundle install
-```
+`C:/Ruby200-x64/lib/ruby/gems/2.0.0/gems/bundler-1.11.2/lib/bundler/spec_set.rb:94:in 'block in materialize': Could not find minitest-5.8.4 in any of the (Bundler::GemNotFound)`
+Run `bundle install` again.
+
 NOTE: Continue if receive similar message:
 ```
 Configuration file: D:/BVN/styleguide/_config.yml
