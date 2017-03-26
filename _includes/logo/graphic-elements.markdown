@@ -1,7 +1,4 @@
-<section id="logo-page-graphic-elements">
-</section>
-
-## Graphic elements
+## Graphic elements [∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
 
 Do not add graphic elements or text to the mark.  
 

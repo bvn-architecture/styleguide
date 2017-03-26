@@ -1,7 +1,4 @@
-<section id="logo-page-proportions">
-</section>
-
-## Proportions
+## Proportions [∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
 
 <div class="style-guide-block-text">
 The logo should never be altered in any way. Do not stretch the logo either horizontally or vertically.
@@ -17,4 +14,3 @@ The logo should never be altered in any way. Do not stretch the logo either hori
 {% include logo/images/base-logo.svg meta="id='squash' preserveAspectRatio='none'"%}
 </div>
 </div>
-

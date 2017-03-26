@@ -1,7 +1,4 @@
-<section id="logo-page-logo-with-address-incorrect">
-</section>
-
-## Logo with address
+## Logo with address [∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
 
 <div class="style-guide-block-text">
 The logo and address should only ever appear in the top left-hand side corner of the page.

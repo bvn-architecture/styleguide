@@ -1,4 +1,4 @@
-## Size
+## Size [∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
 
 The logo must be kept in its original proportion.
 

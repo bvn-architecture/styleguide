@@ -321,6 +321,10 @@ dd {
   position: absolute;
   top: 0;
 
+  &.inline{
+    position: inherit;
+  }
+
   a {
     color: $grey-color-dark;
   }
