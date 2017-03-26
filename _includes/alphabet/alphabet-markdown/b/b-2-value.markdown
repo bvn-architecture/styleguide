@@ -1,0 +1,15 @@
+- Grid lines
+- Ridge/parapet levels
+- Roofing systems, material and finishes codes
+- Rain water outlets and similar hydraulic systems codes
+- Roof mounted mechanical exhaust systems codes
+- Ratio or percentage of roof falls
+- Steps/change of level indicators
+- Catwalks/access systems/roof maintenance tracks/ladders/metalwork/
+abseiling anchor rails and similar items codes
+- Architectural metalwork systems codes
+- Fall arrest systems codes
+- Main section references to **1:100** sections in D series drawings
+- External elevation references to **1:100** elevations in C series drawings
+- Critical dimensions and setting-out
+- Graphical differentiation between the existing structure and the new build

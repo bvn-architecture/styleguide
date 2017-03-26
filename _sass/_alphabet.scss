@@ -1,0 +1,99 @@
+#alphabet {
+
+  dt {
+    @include span-columns(12);
+  }
+
+  dd {
+    @include shift(1);
+    width: auto;
+
+    .columns {
+      column-width: 10em;
+    }
+  }
+
+  .alphabet-table-value {
+
+    > div {
+      height: auto;
+    }
+  }
+
+  .alphabet-table-key-letter {
+    font-size: 400px;
+    height: 275px;
+    line-height: .6;
+  }
+
+  .alphabet-table-key {
+
+    dt {
+      font-size: 400px;
+      height: 275px;
+      line-height: .6;
+
+      br {
+        content: ' ';
+        display: block;
+        height: .3em;
+      }
+    }
+
+    dd {
+      font-size: 22px;
+      height: 275px;
+    }
+  }
+
+
+  @media screen and (min-width: $media-query-width){
+
+    //dl tables propeties
+    dt {
+      @include span-columns(3);
+      @include omega();
+      margin-bottom: 10px;
+      //When inside key column on table.
+
+      > div {
+        margin-bottom: $spacing-unit / 2;
+
+      }
+    }
+
+    dd {
+      @include shift(.5);
+      @include span-columns(8.5);
+      margin-bottom: 10px;
+
+      > div {
+        margin-bottom: $spacing-unit / 2;
+      }
+    }
+
+
+
+    .alphabet-table-key {
+      height: 250px;
+
+      > div {
+        > p {
+          line-height: .6;
+        }
+      }
+    }
+
+
+    .alphabet-table-value {
+
+      > div {
+        height: 250px;
+      }
+    }
+
+    .alphabet-table-value-three {
+      @include span-columns(1 of 3);
+    }
+  }
+}

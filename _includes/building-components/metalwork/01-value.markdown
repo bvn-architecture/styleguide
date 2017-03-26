@@ -1,0 +1,1 @@
+- _(e.g.lobby, foyer, atrium, banquet room, reception, meeting room, auditorium and similar spaces enlarged to **1:50**)_

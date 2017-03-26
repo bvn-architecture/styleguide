@@ -7,6 +7,6 @@ description: "BVN fonts"
 categories: 
 image:      
 ---
-##THE BVN FONT IS BLENDER
+## THE BVN FONT IS BLENDER
 
 {% include typography/blender-preview.markdown %}

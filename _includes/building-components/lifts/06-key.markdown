@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series lift car - details **1:5**</span>

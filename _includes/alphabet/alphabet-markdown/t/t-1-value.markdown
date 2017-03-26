@@ -1,0 +1,12 @@
+- Grid lines
+- Finished levels (RL=)
+- Change of level indicators
+- Ramps and falls
+- Setting-out points
+- ‘Enlarged area boxes’ referring to T series **1:20** or **1:10** details
+- Section references to **1:20** or **1:10** details
+- Elevation references to **1:20** or **1:10** details
+- Critical dimensions and setting-out
+- Description of finishes using materials, systems and finishes codes
+- Change/delineation between finishes
+- Graphically differentiate between the existing structure and the new build elements

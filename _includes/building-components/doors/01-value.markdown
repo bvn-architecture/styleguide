@@ -1,0 +1,2 @@
+- Door type elevations **1:50**
+- Line of heights control diagram **1:20**

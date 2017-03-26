@@ -1,0 +1,4 @@
+- Grid lines
+- Setting-out dimensions/offsets from grid lines
+- Detail description using materials, systems and finishes codes
+- Handrail/balustrade details

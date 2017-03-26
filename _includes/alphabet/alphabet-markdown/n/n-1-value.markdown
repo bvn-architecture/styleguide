@@ -1,0 +1,3 @@
+- Grid lines
+- Room names, room numbers
+- Furniture and fixtures, fittings and equipment (FFE) codes

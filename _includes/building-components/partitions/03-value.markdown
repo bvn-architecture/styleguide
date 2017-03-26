@@ -1,0 +1,6 @@
+- Construction of the detail only - do not describe applied finishes e.g.paint, sealant, etc
+- (Generic) internal partitions-tointernal partitions plan details _(if required - not needed if it’s common construction)_
+- (Location specific) internal partitions-to-external wall plan details
+- (Location specific) internal partitions-to-ceiling section details
+- (Location specific) internal partitions-to-floor section details
+- Do not redraw common details. Make reference to proprietary system in the specification instead.

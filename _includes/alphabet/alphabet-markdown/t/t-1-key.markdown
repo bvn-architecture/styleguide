@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">General arrangement plan **1:100**</span>

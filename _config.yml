@@ -1,6 +1,7 @@
 title:              "BVN Styleguide"
 email:              "someone@bvn.com.au"
 description:        "BVN's graphical guidelines."
+description_body:   "We've open sourced our style guide as a step towards making the industry less opaque. Please fork the repository and make your own version, or even better, contribute back to this one!"
 image:              "http://bvn-architecture.github.io/styleguide/assets/bvn-logo-meta.jpeg"
 date:               2015-11-30T17:52:48+11:00
 
@@ -21,13 +22,17 @@ publisher:          "BVN"
 publisher_website:  "http://bvn.com.au/"
 
 # Build settings
-markdown:     "kramdown"
+markdown:     kramdown
 redcarpet:
   extensions: ["tables"]
 
 encoding:     "utf-8"
 permalink:    :title
-highlighter:  "pygments"
+highlighter:  "rouge"
 
 sass:
     sass_dir: _sass
+
+gems:
+  - jekyll-sitemap
+  - jemoji

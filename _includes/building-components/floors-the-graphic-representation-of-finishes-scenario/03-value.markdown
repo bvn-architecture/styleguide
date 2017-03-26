@@ -1,0 +1,2 @@
+- Describe various areas of different flooring systems, substrates and finishes, using finishes codes
+- Make reference to **1:5** details in K series interface details

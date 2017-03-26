@@ -1,0 +1,2 @@
+- Vertical setting-out of lift doors structural opening
+- Setting-out of services penetrations

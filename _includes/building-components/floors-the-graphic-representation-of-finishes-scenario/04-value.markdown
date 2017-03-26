@@ -1,0 +1,3 @@
+- Floor-to-external wall composite section details **1:5** _(construction of the detail only - do not describe applied finishes e.g.paint, sealant, etc.)_
+- Flooring (floor-to-floor) details **1:5** _(construction of the detail only - do not describe applied finishes e.g.paint, sealant, etc.)_
+- Partitions-to-floors interface composite details **1:5** _(construction of the detail only - do not describe applied finishes e.g.paint, sealant, etc.)_

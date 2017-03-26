@@ -1,0 +1,1 @@
+Do not repeat other consultant’s design information on our drawings.

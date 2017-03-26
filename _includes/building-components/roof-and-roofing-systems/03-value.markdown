@@ -1,0 +1,2 @@
+- General arrangement sections provide an overview only
+- Reference to E series **1:50** enlarged sections

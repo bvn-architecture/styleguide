@@ -1,0 +1,1 @@
+- Standalone A4 document, providing full description of the furniture items

@@ -1,0 +1,4 @@
+- Grid lines
+- Reflected ceiling plan showing beams and slab thickening
+- Movement/building joints
+- Thermal insulation codes showing areas to be insulated

@@ -1,7 +1,7 @@
 <section id="graphical-elements-graphics">
 </section>
 
-##BVN graphic elements
+## BVN graphic elements
 
 <div class="graphic-elements-container">
 {% include graphical-elements/images/shape_01.svg %}

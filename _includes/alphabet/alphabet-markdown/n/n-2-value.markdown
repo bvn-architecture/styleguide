@@ -1,0 +1,5 @@
+- Grid lines
+- Setting-out dimensions - offsets from grids
+- ‘Enlarged area boxes’ referring to **1:5** details in N series
+- Section references to **1:5** details in N series
+- Description using systems, materials and finishes codes

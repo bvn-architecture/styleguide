@@ -24,3 +24,37 @@
 <!-- <meta property="article:modified_time"  content="2013-09-16T19:08:47+01:00"    />
 <meta property="article:section"        content="Article Section" />
 <meta property="article:tag"            content="Article Tag"     /> -->
+
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage":{
+  "@type":"WebPage",
+  "@id":"https://google.com/article"
+},
+"headline": "{{page.description}}",
+"image": {
+  "@type": "ImageObject",
+  "url": "{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}",
+  "height": 800,
+  "width": 800
+},
+"datePublished": "{{page.date}}",
+"author": {
+  "@type": "Person",
+  "name": "{{page.author}}"
+},
+ "publisher": {
+  "@type": "Organization",
+  "name": "{{site.publisher}}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ site.image }}",
+    "width": 600,
+    "height": 600
+  }
+},
+"description": "{{page.description}}"
+}
+</script>

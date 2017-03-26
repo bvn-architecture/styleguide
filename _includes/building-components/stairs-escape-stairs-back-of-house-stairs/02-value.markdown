@@ -1,0 +1,1 @@
+- Reference to **1:50** enlarged plan in H series

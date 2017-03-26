@@ -1,0 +1,1 @@
+- External doors dimensions - horizontal and vertical

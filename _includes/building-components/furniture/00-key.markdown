@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series furniture general arrangement plans **1:100**</span>

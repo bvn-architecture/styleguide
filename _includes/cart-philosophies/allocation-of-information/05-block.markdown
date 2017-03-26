@@ -1,0 +1,1 @@
+Do not repeat specifications in the drawing set.

@@ -1,0 +1,9 @@
+- Grid lines
+- Room names, room numbers and finished floor levels (FFL)
+- Description using systems, materials and finishes codes
+- Joinery nomination and setting-out
+- Section references referring to K series interface details
+- ‘Enlarged area boxes’ referring to K series interface details
+- Internal elevation references
+- Setting-out points
+- Dimensions and setting-out other than already done in **1:100** B and in **1:100** E series

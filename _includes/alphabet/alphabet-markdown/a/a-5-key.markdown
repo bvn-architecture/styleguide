@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Building location **1:200**</span>

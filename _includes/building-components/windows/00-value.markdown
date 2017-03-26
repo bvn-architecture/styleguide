@@ -1,0 +1,1 @@
+- Graphic and dimensional representation of all glazed areas

@@ -8,6 +8,7 @@ categories:
 image:      
  
 ---
+<section id="graphical-elements-building-blocks" markdown="1">
 
 {% include graphical-elements/building-blocks.markdown %}
 
@@ -16,3 +17,5 @@ image:
 {% include graphical-elements/good-examples.markdown %}
 
 {% include graphical-elements/incorrect-examples.markdown %}
+
+</section>

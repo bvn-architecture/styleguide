@@ -1,0 +1,1 @@
+- _(If showing metalwork at **1:100** makes drawing graphically heavy, create a **1:100** subset of general arrangement Metalwork drawings in N series)_

@@ -1,0 +1,1 @@
+- Typical door frame details **1:5**

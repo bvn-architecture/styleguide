@@ -1,0 +1,2 @@
+- Make references to C series **1:50** detailed set-out external wall elevations and sections
+- Make section references to K series external wall and roof interface details

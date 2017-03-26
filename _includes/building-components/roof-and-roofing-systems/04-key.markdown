@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series external wall detailed set-out elevations, plans and sections **1:50**</span>

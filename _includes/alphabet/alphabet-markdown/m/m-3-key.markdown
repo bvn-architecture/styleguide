@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Joinery details **1:2 1:1**</span>

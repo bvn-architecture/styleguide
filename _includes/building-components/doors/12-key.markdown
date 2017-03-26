@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series detailed set-out elevations with associated plans and sections **1:50**</span>

@@ -1,0 +1,5 @@
+- Grid lines
+- Setting-out dimensions/offsets from grid lines
+- Detail description using materials, systems and finishes codes
+- Detail reference boxes to **1:5** K series interface details
+- Section references to **1:5** K series interface details

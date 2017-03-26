@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series concrete setting-out elevations **1:50**</span>

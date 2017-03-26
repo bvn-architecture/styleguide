@@ -1,0 +1,2 @@
+- _Door schedule is used to describe door hardware_
+- _Door geometry - leaf sizes, etc., make reference to C series drawings by writing a note in schedule ‘FOR DETAILS REFER' TO DRAWING AR-C-\*\*-\*\*’_

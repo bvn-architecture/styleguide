@@ -1,0 +1,1 @@
+<span class="transform-to-uppercase">Series handrail/balustrade details **1:5**</span>

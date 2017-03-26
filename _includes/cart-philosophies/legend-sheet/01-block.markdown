@@ -1,0 +1,1 @@
+{% include cart-philosophies/legend-sheet/01-image.svg %}

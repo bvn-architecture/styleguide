@@ -1,0 +1,2 @@
+- Unique identification tag for each drylining partition type and unique number for every blockwork wall (see NOTE)
+- Concrete walls are already documented in V series drawings

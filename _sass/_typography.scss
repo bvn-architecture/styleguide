@@ -1,27 +1,25 @@
-article.post.typography{
-  .blender-samples{
-    .title{
+article.post.typography {
+  .blender-samples {
+    .title {
       @include span-columns(3);
     }
-    .typo-example{
+
+    .typo-example {
       @include span-columns(9);
-      @include omega(2n); 
-      margin-bottom: 1em;   
+      @include omega(2n);
+      margin-bottom: 1em;
     }
   }
 
-  .typo-book-italic{
+  .typo-book-italic {
     font-family: $italic-font-family;
   }
 
-  .typo-bold{
+  .typo-bold {
     font-family: $bold-font-family;
   }
 
-  .typo-medium{
+  .typo-medium {
     font-family: $medium-font-family;
   }
 }
-
-  
-

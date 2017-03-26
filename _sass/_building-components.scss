@@ -1,0 +1,83 @@
+#building-components {
+  $building-components-dd-letter-width: 15px;
+  $building-components-dd-calculation: calc(100% - #{$building-components-dd-letter-width});
+
+  dl {
+    //padding-bottom: 20px;
+  }
+
+  li {
+    margin-left: 0;
+  }
+
+  .building-components-dt-initial,
+  .building-components-dt-block,
+  .building-components-dd-text {
+    padding-bottom: 15px;
+    vertical-align: top;
+  }
+
+  #building-components-dt-content,
+  #building-components-dd-content {
+    line-height: 1.2;
+    margin-bottom: 0;
+    > div {
+      margin-bottom: 0;
+    }
+  }
+
+  .building-components-key {
+    padding-bottom: 50px;
+  }
+
+  .building-components-dt-initial,
+  .building-components-dt-block,
+  .building-components-title {
+    @include span-columns(12);
+  }
+
+  .building-components-dd-block {
+    //@include shift();
+    margin-left: $building-components-dd-letter-width;
+    width: $building-components-dd-calculation;
+  }
+
+  .building-components-dd-text {
+    background-color: rgb(252,251,227);
+    padding: 20px;
+  }
+
+  .building-components-title {
+    clear: left;
+    margin-bottom: 0;
+  }
+
+  //Small letter inside column
+  #building-components-dt-content {
+    width: $building-components-dd-letter-width;
+    //Need height to stack
+    height: 5px;
+  }
+
+  #building-components-dd-content {
+    //subtract 100% by the value of the width in ".building-components-dt-content"
+    width: $building-components-dd-calculation;
+    margin-left: 0;
+  }
+
+  @media screen and (min-width: $media-query-width){
+  .building-components-dt-block {
+    @include span-columns(3);
+    @include omega();
+  }
+
+  .building-components-dd-block {
+    @include shift(.5);
+    @include span-columns(8.5);
+
+    p {
+      //margin-bottom: 5px;
+    }
+  }
+  }
+}

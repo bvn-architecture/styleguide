@@ -1,29 +1,41 @@
-<section id="graphical-elements-examples-of-incorrect-usage-of-graphic-elements">
-</section>
+## Examples of incorrect usage of graphic elements
 
-##Examples of incorrect usage of graphic elements
-
-
-###Cropping
+<div class="style-guide-block-text" markdown="1">
+### Cropping
 Do not crop graphic elements
-
 {% include cross-icon.svg %}
+</div>
+
+<div class="style-guide-block-image" markdown="1">
 {% include graphical-elements/images/cropping.svg %}
+</div>
 
-###Incorrect addition of elements
+<div class="style-guide-block-text" markdown="1">
+### Incorrect addition of elements
 Do not add graphic elements over photography in layouts.
-
 {% include cross-icon.svg %}
+</div>
+
+<div class="style-guide-block-image" markdown="1">
 {% include graphical-elements/images/incorrect-addition-of-elements.svg %}
+</div>
 
-###Fill in
+<div class="style-guide-block-text" markdown="1">
+### Fill in
 Do not use photography inside graphic elements.
-
 {% include cross-icon.svg %}
+</div>
+
+<div class="style-guide-block-image" markdown="1">
 {% include graphical-elements/images/fill-in.svg %}
+</div>
 
-###Proportions
+<div class="style-guide-block-text" markdown="1">
+### Proportions
 Do not combine elements or change proportions.
-
 {% include cross-icon.svg %}
+</div>
+
+<div class="style-guide-block-image" markdown="1">
 {% include graphical-elements/images/proportions.svg %}
+</div>

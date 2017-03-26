@@ -1,0 +1,2 @@
+- _(If provided - otherwise refer direct from **1:100** plans in B series)_
+- Make reference to **1:5** details in K series

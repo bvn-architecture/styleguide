@@ -1,0 +1,5 @@
+- Grid lines
+- Room names and room numbers
+- Wall protection systems codes
+- Stair numbers, lift numbers, escalator numbers
+- Section reference symbols referring to K series interface details

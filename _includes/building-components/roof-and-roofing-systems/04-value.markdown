@@ -1,0 +1,2 @@
+- Description of types of external wall systems
+- Reference to L series roofing and interface details

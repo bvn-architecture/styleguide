@@ -10,10 +10,11 @@ p,
 blockquote,
 pre,
 hr,
-dl,
-dd,
 ol,
 ul,
+dd,
+dt,
+dl,
 figure {
   margin: 0;
   padding: 0;
@@ -22,17 +23,24 @@ figure {
 
 //Basic styling
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
   background-color: $background-color;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
+  color: $text-color;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
+  text-size-adjust: 100%;
 }
 
+.still-loading { font-family: $unstyled-font-family;}
+
+//Paragraph
+p {
+  hyphens: auto;
+}
+
+h1 {
+  text-transform: uppercase;
+}
 
 //Set `margin-bottom` to maintain vertical rhythm
 h1,
@@ -43,9 +51,7 @@ h6,
 p,
 blockquote,
 pre,
-ul,
 ol,
-dl,
 figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
@@ -69,20 +75,6 @@ figcaption {
 }
 
 
-//Lists
-ul,
-ol {
-  margin-left: $spacing-unit;
-}
-
-li {
-  > ul,
-  > ol {
-     margin-bottom: 0;
-  }
-}
-
-
 //Headings
 h1,
 h2,
@@ -90,28 +82,29 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: $base-font-weight;
   clear: both;
+  font-weight: $base-font-weight;
 }
-h2{
+
+h2 {
+  border-bottom: 1px solid rgba($bvn-black, .33);
   display: block;
-  padding-top: 20px;
-  padding-bottom: 0px;
   margin-bottom: 1em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.33);
+  padding-bottom: 0;
+  padding-top: 20px;
 }
-h3{
+
+h3 {
   font-size: 25px;
   font-weight: bold;
 }
 
-
-
 //Links
 a {
+
   color: $brand-color;
   text-decoration: none;
-  
+
   &:visited {
     color: darken($brand-color, 15%);
   }
@@ -122,15 +115,19 @@ a {
   }
 }
 
+strong {
+  color: $tertiary-red;
+  font-weight: normal;
+}
 
 //Blockquotes
 blockquote {
-  color: $grey-color;
   border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  color: $grey-color;
   font-size: 18px;
-  letter-spacing: -1px;
   font-style: italic;
+  letter-spacing: -1px;
+  padding-left: $spacing-unit / 2;
 
   > :last-child {
     margin-bottom: 0;
@@ -141,10 +138,10 @@ blockquote {
 //Code formatting
 pre,
 code {
-  font-size: 15px;
+  background-color: $grey-color-light;
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  font-size: 15px;
 }
 
 code {
@@ -152,19 +149,20 @@ code {
 }
 
 pre {
-  padding: 8px 12px;
   overflow-x: auto;
+  padding: 8px 12px;
+
   > code {
     border: 0;
-    padding-right: 0;
     padding-left: 0;
+    padding-right: 0;
   }
 }
 
 
 .page-content {
   @include outer-container;
-  @include media(max-width 850px) {
+  @include media(max-width 1000px) {
     @include outer-container(95%);
   }
 }
@@ -179,9 +177,9 @@ pre {
 //Clearfix
 %clearfix {
   &:after {
-    content: "";
-    display: table;
     clear: both;
+    content: '';
+    display: table;
   }
 }
 
@@ -190,25 +188,140 @@ pre {
 .icon {
   > svg {
     display: inline-block;
-    width: 16px;
     height: 16px;
     vertical-align: middle;
+    width: 16px;
+
     path {
       fill: $grey-color;
     }
   }
 }
 
-//Wrong Cross Icon
-.cross-options {
-  @include span-columns(1);
-}
-.red-cross-spacing {
-  @include span-columns(12);
-}
+
 
 
 //breakline
-hr{
+hr {
   margin-bottom: 10px;
+}
+
+
+//List
+ul {
+  list-style-position: outside;
+
+  li {
+    list-style: none;
+    margin-left: 25px;
+  }
+
+  li::before {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='10'><line x1='20' y1='0' x2='400' y2='0' stroke-width='2' stroke='black'/></svg>");
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    content: '';
+    display: block;
+    float: left;
+    height: 1em;
+    margin-left: -1.5em;
+    width: 1em;
+  }
+
+}
+
+ul::first-line {
+  text-indent: -8 px;
+}
+
+//Text span options
+.highlight-red {
+  color: $tertiary-red;
+}
+
+.transform-to-uppercase {
+  text-transform: uppercase;
+}
+
+
+//dl tables propeties
+dt {
+  clear: left;
+  float: left;
+
+  > div {
+    > p {
+      line-height: 1.2;
+      //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
+      margin-bottom: 0;
+      margin-top: 3px;
+    }
+  }
+}
+
+dd {
+  float: left;
+
+  > div {
+    > p {
+      line-height: 1.2;
+      //original height is "1.5px". Add both "line-height" and "Margin-top" to get 1.5
+      margin-bottom: 0;
+      margin-top: 3px;
+    }
+
+    > ul {
+      > li::before {
+        //content: '-';
+        padding-right: 8px;
+      }
+    }
+  }
+}
+
+//Jquery collapsible box
+.custom-collapsible {
+  margin: 0 !important;
+}
+
+//changing jquerymobile css
+.ui-collapsible-themed-content .ui-collapsible-content {
+  border: 0;
+}
+
+.ui-body-a,
+.ui-page-theme-a .ui-body-inherit,
+.ui-bar-a .ui-body-inherit,
+.ui-body-a .ui-body-inherit,
+.ui-group-theme-a .ui-body-inherit,
+.ui-panel-page-container-a {
+  background-color: transparent;
+}
+
+
+.cart-collapsible-div {
+  a {
+    color: $grey-color;
+    font-size: 1em;
+    font-style: bold;
+    padding-left: 15px;
+  }
+
+}
+
+//remove Ajax spinner
+.ui-loading .ui-loader {
+  display: none;
+}
+
+.edit-link {
+  left: 0;
+  opacity: .1;
+  position: absolute;
+  top: 0;
+
+  a {
+    color: $grey-color-dark;
+  }
 }
