@@ -1,32 +1,15 @@
-<div data-role="collapsible" data-inset="false">
-	<h1 class="cart-collapsible-div">P - Cleaning and maintenance equipment</h1>
+ <div data-role="collapsible" data-inset="false" markdown="1">
+ <h1 class="cart-collapsible-div">P - Cleaning and maintenance equipment</h1>
 
-<dl>
-
-<dt class="alphabet-table-key-letter">
-<div markdown="1">
+{:refdef: .alphabet-table-key}
 P
-</div>
-</dt>
-<dd class="alphabet-table-value">
-<div markdown="1">
-### Cleaning and maintenance equipment
-</div>
-</dd>
+: Cleaning and maintenance equipment
+{: refdef}
 
-<dt>	
-<div markdown="1">
 {% include alphabet/alphabet-markdown/p/p-1-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/p/p-1-value.markdown %}
-</div>
-</dd>
+: {% include alphabet/alphabet-markdown/p/p-1-value.markdown %}
 
 
 
-</dl>
 
-</div>
+ </div>

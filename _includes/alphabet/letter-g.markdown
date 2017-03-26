@@ -1,30 +1,13 @@
-<div data-role="collapsible" data-inset="false">
-	<h1 class="cart-collapsible-div">G - Internal spaces</h1>
+ <div data-role="collapsible" data-inset="false" markdown="1">
+ <h1 class="cart-collapsible-div">G - Internal spaces</h1>
 
-<dl>
-
-<dt class="alphabet-table-key-letter">
-<div markdown="1">
+{:refdef: .alphabet-table-key}
 G
-</div>
-</dt>
-<dd class="alphabet-table-value">
-<div markdown="1">
-### Internal spaces
-</div>
-</dd>
+: Internal spaces
+{: refdef}
 
-<dt>
-<div markdown="1">
 {% include alphabet/alphabet-markdown/g/g-1-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/g/g-1-value.markdown %}
-</div>
-</dd>
+: {% include alphabet/alphabet-markdown/g/g-1-value.markdown %}
 
-</dl>
 
-</div>
+ </div>

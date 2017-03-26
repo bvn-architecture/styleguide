@@ -1,42 +1,17 @@
-<div data-role="collapsible" data-inset="false">
-	<h1 class="cart-collapsible-div">U - Demolition</h1>
+ <div data-role="collapsible" data-inset="false" markdown="1">
+ <h1 class="cart-collapsible-div">U - Demolition</h1>
 
-<dl>
-
-<dt class="alphabet-table-key-letter">
-<div markdown="1">
+{:refdef: .alphabet-table-key}
 U
-</div>
-</dt>
-<dd class="alphabet-table-value">
-<div markdown="1">
-### Demolition
-</div>
-</dd>
+: Demolition
+{: refdef}
 
-<dt>	
-<div markdown="1">
 {% include alphabet/alphabet-markdown/u/u-1-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/u/u-1-value.markdown %}
-</div>
-</dd>
+: {% include alphabet/alphabet-markdown/u/u-1-value.markdown %}
 
-<dt>	
-<div markdown="1">
 {% include alphabet/alphabet-markdown/u/u-2-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/u/u-2-value.markdown %}
-</div>
-</dd>
+: {% include alphabet/alphabet-markdown/u/u-2-value.markdown %}
 
 
-</dl>
 
 </div>

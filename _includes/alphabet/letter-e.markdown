@@ -1,31 +1,23 @@
-<div data-role="collapsible" data-inset="false">
-	<h1 class="cart-collapsible-div">E - Reflected ceiling plans</h1>
+<div data-role="collapsible" data-inset="false" markdown="1">
+<h1 class="cart-collapsible-div">E - Reflected ceiling plans</h1>
 
-
-<dl>
-
-<dt class="alphabet-table-key-letter">
-<div markdown="1" >
+{:refdef: .alphabet-table-key}
 E
-</div>
-</dt>
-<dd class="alphabet-table-value">
-<div markdown="1">
-### Reflected ceiling plans
-</div>
-</dd>
+: Reflected ceiling plans
+{: refdef}
 
-<dt>
-<div markdown="1">
+
+
+
+<dt markdown='block' >
 {% include alphabet/alphabet-markdown/e/e-1-key.markdown %}
-</div>
 </dt>
-<dd>
-<div markdown="1">
+
+
+<dd markdown='1'>
 {% include alphabet/alphabet-markdown/e/e-1-value.markdown %}
-</div>
 </dd>
 
-</dl>
+
 
 </div>

@@ -1,5 +1,7 @@
-<span class="transform-to-uppercase">Room schedule spreadsheet list every space, identified by the name and number.<br>
-The information is identical with the room names and room numbers shown in the plans.<br>
+<span class="transform-to-uppercase">Room schedule spreadsheet list every space, identified by the name and number.
+
+The information is identical with the room names and room numbers shown in the plans.
+
 The room schedule presents a comprehensive list of spaces which constitute the project.</span>
 
 - Make reference to G series

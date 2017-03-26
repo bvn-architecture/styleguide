@@ -28,6 +28,12 @@
       font-size: 400px;
       height: 275px;
       line-height: .6;
+
+      br {
+        content: ' ';
+        display: block;
+        height: .3em;
+      }
     }
 
     dd {

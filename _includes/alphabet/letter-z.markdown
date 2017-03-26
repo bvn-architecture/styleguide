@@ -1,30 +1,13 @@
-<div data-role="collapsible" data-inset="false">
-	<h1 class="cart-collapsible-div">Z - Specifications</h1>
+ <div data-role="collapsible" data-inset="false" markdown="1">
+ <h1 class="cart-collapsible-div">Z - Specifications</h1>
 
-<dl>
-
-<dt class="alphabet-table-key-letter">
-<div markdown="1">
+{:refdef: .alphabet-table-key}
 Z
-</div>	
-</dt>
-<dd class="alphabet-table-value">
-<div markdown="1">
-### Specifications
-</div>
-</dd>
+: Specifications
+{: refdef}
 
-<dt>	
-<div markdown="1">
 {% include alphabet/alphabet-markdown/z/z-1-key.markdown %}
-</div>
-</dt>
-<dd>
-<div markdown="1">
-{% include alphabet/alphabet-markdown/z/z-1-value.markdown %}
-</div>
-</dd>
+: {% include alphabet/alphabet-markdown/z/z-1-value.markdown %}
 
-</dl>
 
 </div>
