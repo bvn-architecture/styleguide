@@ -1,1 +1,1 @@
-- Key - description of the construction/substrate code the finish is applied to - eg code for cement screed, raised floor, etc
+- Key - description of the construction/substrate code the finish is applied to - e.g.code for cement screed, raised floor, etc
