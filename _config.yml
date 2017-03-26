@@ -34,5 +34,5 @@ sass:
     sass_dir: _sass
 
 gems:
-  - jemoji
   - jekyll-sitemap
+  - jemoji
