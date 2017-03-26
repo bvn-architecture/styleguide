@@ -1,3 +1,3 @@
 <figure class="quote">
-	<blockquote>{{include.quote}}</blockquote>
+  <blockquote>{{include.quote}}</blockquote>
 </figure>

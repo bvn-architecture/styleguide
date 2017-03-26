@@ -6,7 +6,7 @@
 - Movement/building joints
 - Indicate falls and gradients of slab/screed
 - General note about levelling screed stating finished screed level (FSL=) if applied uniformly on entire slab or,
-	- Graphically differentiate areas with levelling screed and indicate finished screed levels (FSL=)
+  - Graphically differentiate areas with levelling screed and indicate finished screed levels (FSL=)
 - Graphic representation and waterproofing codes - to slab on ground areas and to wet areas
 - Services penetrations - mechanical, electrical, hydraulic
 - Horizontal dimensions of slab edges, penetrations, door openings and similar, from grid lines
