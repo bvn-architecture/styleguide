@@ -8,13 +8,13 @@ categories:
 image:
 ---
 
-{% include logo/geometrical-form.markdown source="logo/geometrical-form.markdown" %}
-{% include logo/clear-space.markdown source="logo/clear-space.markdown" %}
-{% include logo/size.markdown source="logo/size.markdown" %}
-{% include logo/colour.markdown source="logo/colour.markdown" %}
-{% include logo/logo-with-address.markdown source="logo/logo-with-address.markdown" %}
-{% include logo/proportions.markdown source="logo/proportions.markdown" %}
-{% include logo/graphic-elements.markdown source="logo/graphic-elements.markdown" %}
-{% include logo/colours-incorrect.markdown source="logo/colours-incorrect.markdown" %}
+{% include logo/geometrical-form.markdown            source="logo/geometrical-form.markdown" %}
+{% include logo/clear-space.markdown                 source="logo/clear-space.markdown" %}
+{% include logo/size.markdown                        source="logo/size.markdown" %}
+{% include logo/colour.markdown                      source="logo/colour.markdown" %}
+{% include logo/logo-with-address.markdown           source="logo/logo-with-address.markdown" %}
+{% include logo/proportions.markdown                 source="logo/proportions.markdown" %}
+{% include logo/graphic-elements.markdown            source="logo/graphic-elements.markdown" %}
+{% include logo/colours-incorrect.markdown           source="logo/colours-incorrect.markdown" %}
 {% include logo/logo-with-address-incorrect.markdown source="logo/logo-with-address-incorrect.markdown" %}
-{% include logo/assets.md source="logo/assets.md" %}
+{% include logo/assets.md                            source="logo/assets.md" %}

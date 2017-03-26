@@ -1,4 +1,4 @@
-## Proportions [∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
+## Proportions [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
 
 <div class="style-guide-block-text">
 The logo should never be altered in any way. Do not stretch the logo either horizontally or vertically.

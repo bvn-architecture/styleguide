@@ -21,6 +21,8 @@ linkedin_username:  "bvn-architecture"
 publisher:          "BVN"
 publisher_website:  "http://bvn.com.au/"
 
+edit_symbol: ∞×
+
 # Build settings
 markdown:     kramdown
 redcarpet:

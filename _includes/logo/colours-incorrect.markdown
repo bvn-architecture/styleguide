@@ -1,4 +1,4 @@
-## Colours [∞](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
+## Colours [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
 
 Incorrectly reversing the mark out of a background colour.
 
