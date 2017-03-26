@@ -97,7 +97,7 @@ http://localhost:4000/styleguide/
 ### Pushing and pulling changes on GitHub
 Synchronising your files with GitHub will allow you to work on a project with multiple people and keep track of every change. Sync at regular intervals to keep local and server files up to date.
 * Press "Sync" in the top right to receive changes to files
-* Commit a change to officially note the changes to Github: Insert a summary and press "Commit to ___"
+* Commit a change to officially note the changes to Github: Insert a summary and press "Commit to ..."
 * Press "Sync" in the top right to upload and receive files.
 
 -----
@@ -106,7 +106,7 @@ Synchronising your files with GitHub will allow you to work on a project with mu
 
 ## Overall Editing Tags
 - `<span class="highlight-red">` = changes the text colour to red, rbg(255, 0, 0)
-- `<span class="transform-to-uppercase">` = Transforms the text to all capital letters (eg. Finnish -> FINNISH)
+- `<span class="transform-to-uppercase">` = Transforms the text to all capital letters (e.g. Finnish -> FINNISH)
 - `_CONTENT_` = Changes CONTENT into _Italics_
 - `__CONTENT__` = Changes CONTENT into __Bold__
 - `- CONTENT` = Makes content into dot-points
@@ -139,7 +139,7 @@ Each page layout is similar to the image below:
 `"style-guide-block-image"` = block width 50% (See Logo page)
 
 ### Images
-Images are stored within each respective file. Use the include function to place an image eg.
+Images are stored within each respective file. Use the include function to place an image e.g.
 ```
 {% include logo/images/text-bot.svg %}
 ```
