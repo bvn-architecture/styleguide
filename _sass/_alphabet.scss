@@ -1,32 +1,33 @@
-#alphabet{
+#alphabet {
 
-    dt {
-      @include span-columns(12);
+  dt {
+    @include span-columns(12);
+  }
+
+  dd {
+    @include shift(1);
+    width: auto;
+  }
+
+  .alphabet-table-value {
+
+    > div {
+      height: auto;
     }
+  }
 
-    dd {
-      @include shift(1);
-      width: auto;
-    }
-    .alphabet-table-value {
+  .alphabet-table-key-letter {
 
-      > div {
-        height: auto;
+    > div {
+      font-size: 400px;
+      height: 275px;
+
+      > p {
+        line-height: .6;
       }
     }
 
-    .alphabet-table-key-letter {
-
-      > div {
-        font-size: 400px;
-        height: 275px;
-
-        > p {
-          line-height: .6;
-        }
-      }
-
-    }
+  }
 
 
   @media screen and (min-width: $media-query-width){
@@ -58,6 +59,7 @@
 
     .alphabet-table-key {
       height: 250px;
+
       > div {
         > p {
           line-height: .6;

@@ -1,11 +1,9 @@
 #cart-philosophies {
 
-  $color-grey-value: #C8C8C8;
-
   .cart-philosophies-wrapper {}
 
   .cart-philosophies-background-grey {
-    background-color: #f2f2f2;
+    background-color: $grey-color-light;
   }
 
 
@@ -21,16 +19,14 @@
   }
 
 
-  .cart-philosophies-normal {
-
-  }
+  .cart-philosophies-normal {}
 
   .cart-philosophies-table {
     @include span-columns(12);
   }
 
   .cart-philosophies-definition {
-    background-color: #e4e4e4;
+    background-color: $grey-color-light;
   }
 
   .cart-philosophies-guides {
@@ -73,31 +69,31 @@
     border-left: 0;
     border-right: 0;
     border-style: solid;
-    font-style: bolder;
     font-style: italic;
+    font-weight: bolder;
   }
 
   .cart-philosophies-grid-two-of-three {
     @extend %cart-philosophies-grid-of-three;
     @include span-columns(6);
-    border-style: solid;
-    border-top: 0;
     border-bottom: 0;
     border-left: 0;
-    border-right-width: 1px;
     border-right-color: $color-grey-value;
-    color: #e62e00;
+    border-right-width: 1px;
+    border-style: solid;
+    border-top: 0;
+    color: $tertiary-red;
   }
+
   .cart-philosophies-grid-three-of-three {
     @extend %cart-philosophies-grid-of-three;
     @include span-columns(5.9);
-    color: #2eb82e;
+    color: $secondary-green;
   }
 
   %cart-philosophies-grid-codes-of-three {
     @include omega();
     float: left;
-
   }
 
   .cart-philosophies-grid-codes-one-of-three {
@@ -170,7 +166,7 @@
   .cart-philosophies-grid-four-of-four {
     @extend %cart-philosophies-grid-of-four;
     @include span-columns(2.9);
-    color: red;
+    color: $tertiary-red;
   }
 
 
@@ -258,10 +254,12 @@
       @include span-columns(4);
       border-style: none;
     }
+
     .cart-philosophies-grid-two-of-three {
       @include span-columns(4);
       border-style: none;
     }
+
     .cart-philosophies-grid-three-of-three {
       @include span-columns(3.9);
       border-style: none;

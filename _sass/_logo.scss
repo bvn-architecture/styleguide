@@ -26,6 +26,7 @@ article.post.logo {
 
   $gross-green: #1e8260;
   $gross-yellow: #f0d100;
+
   #stripped-background {
     @include span-columns(6);
     .background {      fill: $gross-green; }
@@ -63,7 +64,6 @@ article.post.logo {
 
   #logo-logo-with-address-one {
     @include span-columns(6);
-    
   }
 
   #logo-logo-with-address-two {
@@ -90,139 +90,137 @@ article.post.logo {
 
 
 
-  /* Annimation
-  #logo-structure-surrounding-box {
-    animation-duration: 15s;
-    animation-name: surrounding-box-keys;
-    animation-iteration-count: infinite;
-  }
-  #logo-structure-black-box {
-    animation-duration: 15s;
-    animation-name: black-box-keys;
-    animation-iteration-count: infinite;
-  }
-  #logo-structure-white-box {
-    animation-duration: 15s;
-    animation-name: white-box-keys;
-    animation-iteration-count: infinite;
-  }
-  #logo-structure-bvn-text {
-    animation-duration: 15s;
-    animation-name: bnv-text-keys;
-    animation-iteration-count: infinite;
-  }
-  #logo-structure-frame {
-    animation-duration: 15s;
-    animation-name: structure-frame-keys;
-    animation-iteration-count: infinite;
-  }
-  #logo-structure-circle-top {
-    animation-duration: 15s;
-    animation-name: circle-top-keys;
-    animation-iteration-count: infinite;
-  }
-  #logo-structure-circle-bot {
-    animation-duration: 15s;
-    animation-name: circle-bot-keys;
-    animation-iteration-count: infinite;
-  }
-  #logo-structure-grid-lines  {
-    animation-duration: 15s;
-    animation-name: grid-lines-keys;
-    animation-iteration-count: infinite;
-  }
+  // //Animation
+  // #logo-structure-surrounding-box {
+  //   animation-duration: 15s;
+  //   animation-name: surrounding-box-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  // #logo-structure-black-box {
+  //   animation-duration: 15s;
+  //   animation-name: black-box-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  // #logo-structure-white-box {
+  //   animation-duration: 15s;
+  //   animation-name: white-box-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  // #logo-structure-bvn-text {
+  //   animation-duration: 15s;
+  //   animation-name: bnv-text-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  // #logo-structure-frame {
+  //   animation-duration: 15s;
+  //   animation-name: structure-frame-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  // #logo-structure-circle-top {
+  //   animation-duration: 15s;
+  //   animation-name: circle-top-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  // #logo-structure-circle-bot {
+  //   animation-duration: 15s;
+  //   animation-name: circle-bot-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  // #logo-structure-grid-lines  {
+  //   animation-duration: 15s;
+  //   animation-name: grid-lines-keys;
+  //   animation-iteration-count: infinite;
+  // }
+  //
+  // @keyframes surrounding-box-keys {
+  //       0% { opacity: 0; }
+  //      12% { opacity: 0; }
+  //      25% { opacity: 1; }
+  //      37% { opacity: 1; }
+  //      50% { opacity: 1; }
+  //      62% { opacity: 1; }
+  //      75% { opacity: 1; }
+  //      87% { opacity: 1; }
+  //     100% { opacity: 0; }
+  // }
+  // @keyframes black-box-keys {
+  //       0% { opacity: 1; }
+  //      12% { opacity: 1; }
+  //      25% { opacity: 1; }
+  //      37% { opacity: 1; }
+  //      50% { opacity: 1; }
+  //      62% { opacity: 1; }
+  //      75% { opacity: 0; }
+  //      87% { opacity: 0; }
+  //     100% { opacity: 1; }
+  // }
+  // @keyframes white-box-keys {
+  //       0% { opacity: 1; }
+  //      12% { opacity: 1; }
+  //      25% { opacity: 1; }
+  //      37% { opacity: 1; }
+  //      50% { opacity: 0; }
+  //      62% { opacity: 0; }
+  //      75% { opacity: 1; }
+  //      87% { opacity: 1; }
+  //     100% { opacity: 1; }
+  // }
+  // @keyframes bnv-text-keys {
+  //       0% { opacity: 1; }
+  //      12% { opacity: 1; }
+  //      25% { opacity: 0.3; }
+  //      37% { opacity: 0.3; }
+  //      50% { opacity: 0; }
+  //      62% { opacity: 0; }
+  //      75% { opacity: 0.3; }
+  //      87% { opacity: 0.3; }
+  //     100% { opacity: 1; }
+  // }
+  // @keyframes structure-frame-keys {
+  //       0% { opacity: 0; }
+  //      12% { opacity: 1; }
+  //      25% { opacity: 0; }
+  //      37% { opacity: 1; }
+  //      50% { opacity: 0; }
+  //      62% { opacity: 0; }
+  //      75% { opacity: 0; }
+  //      87% { opacity: 0; }
+  //     100% { opacity: 0; }
+  // }
+  // @keyframes circle-top-keys {
+  //       0% { opacity: 0; }
+  //      12% { opacity: 1; }
+  //      25% { opacity: 1; }
+  //      37% { opacity: 1; }
+  //      50% { opacity: 0; }
+  //      62% { opacity: 1; }
+  //      75% { opacity: 1; }
+  //      87% { opacity: 1; }
+  //     100% { opacity: 0; }
+  // }
+  // @keyframes circle-bot-keys {
+  //       0% { opacity: 0; fill: none; }
+  //      12% { opacity: 1; fill: none; }
+  //      25% { opacity: 1; fill: none; }
+  //      37% { opacity: 1; fill: none; }
+  //      50% { opacity: 0; fill: none; }
+  //      62% { opacity: 1; fill: black; }
+  //      75% { opacity: 1; fill: black; }
+  //      87% { opacity: 1; fill: black; }
+  //     100% { opacity: 0; fill: none; }
+  // }
+  // @keyframes grid-lines-keys {
+  //       0% { opacity: 0; }
+  //      12% { opacity: 0; }
+  //      25% { opacity: 1; }
+  //      37% { opacity: 1; }
+  //      50% { opacity: 1; }
+  //      62% { opacity: 1; }
+  //      75% { opacity: 1; }
+  //      87% { opacity: 1; }
+  //     100% { opacity: 0; }
+  // }
 
-  @keyframes surrounding-box-keys {
-        0% { opacity: 0; }
-       12% { opacity: 0; }
-       25% { opacity: 1; }
-       37% { opacity: 1; }
-       50% { opacity: 1; }
-       62% { opacity: 1; }
-       75% { opacity: 1; }
-       87% { opacity: 1; }
-      100% { opacity: 0; }
-  }
-  @keyframes black-box-keys {
-        0% { opacity: 1; }
-       12% { opacity: 1; }
-       25% { opacity: 1; }
-       37% { opacity: 1; }
-       50% { opacity: 1; }
-       62% { opacity: 1; }
-       75% { opacity: 0; }
-       87% { opacity: 0; }
-      100% { opacity: 1; }
-  }
-  @keyframes white-box-keys {
-        0% { opacity: 1; }
-       12% { opacity: 1; }
-       25% { opacity: 1; }
-       37% { opacity: 1; }
-       50% { opacity: 0; }
-       62% { opacity: 0; }
-       75% { opacity: 1; }
-       87% { opacity: 1; }
-      100% { opacity: 1; }
-  }
-  @keyframes bnv-text-keys {
-        0% { opacity: 1; }
-       12% { opacity: 1; }
-       25% { opacity: 0.3; }
-       37% { opacity: 0.3; }
-       50% { opacity: 0; }
-       62% { opacity: 0; }
-       75% { opacity: 0.3; }
-       87% { opacity: 0.3; }
-      100% { opacity: 1; }
-  }
-  @keyframes structure-frame-keys {
-        0% { opacity: 0; }
-       12% { opacity: 1; }
-       25% { opacity: 0; }
-       37% { opacity: 1; }
-       50% { opacity: 0; }
-       62% { opacity: 0; }
-       75% { opacity: 0; }
-       87% { opacity: 0; }
-      100% { opacity: 0; }
-  }
-  @keyframes circle-top-keys {
-        0% { opacity: 0; }
-       12% { opacity: 1; }
-       25% { opacity: 1; }
-       37% { opacity: 1; }
-       50% { opacity: 0; }
-       62% { opacity: 1; }
-       75% { opacity: 1; }
-       87% { opacity: 1; }
-      100% { opacity: 0; }
-  }
-  @keyframes circle-bot-keys {
-        0% { opacity: 0; fill: none; }
-       12% { opacity: 1; fill: none; }
-       25% { opacity: 1; fill: none; }
-       37% { opacity: 1; fill: none; }
-       50% { opacity: 0; fill: none; }
-       62% { opacity: 1; fill: black; }
-       75% { opacity: 1; fill: black; }
-       87% { opacity: 1; fill: black; }
-      100% { opacity: 0; fill: none; }
-  }
-  @keyframes grid-lines-keys {
-        0% { opacity: 0; }
-       12% { opacity: 0; }
-       25% { opacity: 1; }
-       37% { opacity: 1; }
-       50% { opacity: 1; }
-       62% { opacity: 1; }
-       75% { opacity: 1; }
-       87% { opacity: 1; }
-      100% { opacity: 0; }
-  }
 
-  */
 
 }
-
-
