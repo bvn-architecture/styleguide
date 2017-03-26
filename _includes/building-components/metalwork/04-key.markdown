@@ -1,2 +1,2 @@
 <span class="transform-to-uppercase">
-Series architectural metalwork details <span class="highlight-red">1:5</span></span>
+Series architectural metalwork details **1:5**</span>

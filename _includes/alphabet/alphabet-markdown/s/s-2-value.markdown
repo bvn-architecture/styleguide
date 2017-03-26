@@ -1,5 +1,5 @@
 - Plan, section, elevation in ‘nested’ arrangement
-- ‘Enlarged area boxes’ referring to S series <span class="highlight-red">1:5</span> details
+- ‘Enlarged area boxes’ referring to S series **1:5** details
 - Section references
 - Elevation references
 - Dimensions

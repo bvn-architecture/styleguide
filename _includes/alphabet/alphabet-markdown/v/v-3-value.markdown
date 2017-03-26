@@ -2,4 +2,4 @@
 - Floor and Structural Slab Level (SSL=) benchmark indicators
 - Finished Screed Level (FSL=) benchmark indicators
 - Horizontal and vertical dimensions from grid lines and above SSL
-- Internal elevation symbols referring to other <span class="highlight-red">1:50</span> concrete elevations within V series
+- Internal elevation symbols referring to other **1:50** concrete elevations within V series

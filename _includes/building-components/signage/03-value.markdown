@@ -1,3 +1,3 @@
-- <span class="highlight-red">1:20</span> scale drawings with ‘line of height control diagram’ is commonly sufficient for documentation of the wayfinding signage items.
+- **1:20** scale drawings with ‘line of height control diagram’ is commonly sufficient for documentation of the wayfinding signage items.
 - Describe signage items using systems, materials and finishes codes
-- Make reference to S series <span class="highlight-red">1:5, 1:2 or 1:1</span> signage details
+- Make reference to S series **1:5, 1:2 or 1:1** signage details

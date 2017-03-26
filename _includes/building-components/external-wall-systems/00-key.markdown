@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series general arrangement elevations <span class="highlight-red">1:100</span></span>
+<span class="transform-to-uppercase">Series general arrangement elevations **1:100**</span>

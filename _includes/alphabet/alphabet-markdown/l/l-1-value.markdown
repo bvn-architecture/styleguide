@@ -1,2 +1,2 @@
 - Legend sheet - joinery and furniture only
-    - _(Loose furniture is identified and described in M series, the L series legend sheet is shared. Lists all joinery items and gives reference to drawing sheet where the <span class="highlight-red">1:20</span> detail is provided. Lists all loose furniture items and provides brief description. Full description is given in Z series furniture schedule.)_
+    - _(Loose furniture is identified and described in M series, the L series legend sheet is shared. Lists all joinery items and gives reference to drawing sheet where the **1:20** detail is provided. Lists all loose furniture items and provides brief description. Full description is given in Z series furniture schedule.)_

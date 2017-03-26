@@ -10,7 +10,7 @@
 - Graphic representation and waterproofing codes - to slab on ground areas and to wet areas
 - Services penetrations - mechanical, electrical, hydraulic
 - Horizontal dimensions of slab edges, penetrations, door openings and similar, from grid lines
-- ‘Enlarged area boxes’ referring to V series <span class="highlight-red">1:50</span> plans (if required)
-- ‘Enlarged area boxes’ referring to H series <span class="highlight-red">1:50</span> plans for stairs setting-out and details
-- Section symbols referring to K series <span class="highlight-red">1:10</span> or <span class="highlight-red">1:5</span> details of intricate edge conditions
-- Internal elevation symbols referring to V series <span class="highlight-red">1:50</span> concrete elevations (if applicable)
+- ‘Enlarged area boxes’ referring to V series **1:50** plans (if required)
+- ‘Enlarged area boxes’ referring to H series **1:50** plans for stairs setting-out and details
+- Section symbols referring to K series **1:10** or **1:5** details of intricate edge conditions
+- Internal elevation symbols referring to V series **1:50** concrete elevations (if applicable)

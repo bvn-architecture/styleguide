@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Architectural metalwork details <span class="highlight-red">1:5</span></span>
+<span class="transform-to-uppercase">Architectural metalwork details **1:5**</span>

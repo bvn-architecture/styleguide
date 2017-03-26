@@ -115,6 +115,10 @@ a {
   }
 }
 
+strong {
+  color: $tertiary-red;
+  font-weight: normal;
+}
 
 //Blockquotes
 blockquote {
@@ -134,7 +138,7 @@ blockquote {
 //Code formatting
 pre,
 code {
-  background-color: #eef;
+  background-color: $grey-color-light;
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   font-size: 15px;

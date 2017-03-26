@@ -1,1 +1,1 @@
-- Make reference to K series <span class="highlight-red">1:5</span> interface details
+- Make reference to K series **1:5** interface details

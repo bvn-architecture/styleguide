@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">Door details <span class="highlight-red">1:5</span></span>
+<span class="transform-to-uppercase">Door details **1:5**</span>
 
 _Generic details applicable to most doors in the schedule._
 

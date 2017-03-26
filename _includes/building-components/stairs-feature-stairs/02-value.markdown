@@ -1,1 +1,1 @@
-- Reference to <span class="highlight-red">1:20</span> enlarged plan in H series
+- Reference to **1:20** enlarged plan in H series

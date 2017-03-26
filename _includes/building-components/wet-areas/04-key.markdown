@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series wet areas details <span class="highlight-red">1:5</span></span>
+<span class="transform-to-uppercase">Series wet areas details **1:5**</span>

@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">General arrangements roof plans <span class="highlight-red">1:100</span></span>
+<span class="transform-to-uppercase">General arrangements roof plans **1:100**</span>

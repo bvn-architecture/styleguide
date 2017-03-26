@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series lift car - plans, reflected ceiling plans and internal elevations <span class="highlight-red">1:20</span></span>
+<span class="transform-to-uppercase">Series lift car - plans, reflected ceiling plans and internal elevations **1:20**</span>

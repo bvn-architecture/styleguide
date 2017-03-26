@@ -6,18 +6,11 @@ E
 : Reflected ceiling plans
 {: refdef}
 
-
-
-
 <dt markdown='block' >
 {% include alphabet/alphabet-markdown/e/e-1-key.markdown %}
 </dt>
-
-
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/e/e-1-value.markdown %}
 </dd>
-
-
 
 </div>

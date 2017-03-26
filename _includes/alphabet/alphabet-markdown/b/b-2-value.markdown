@@ -9,7 +9,7 @@
 abseiling anchor rails and similar items codes
 - Architectural metalwork systems codes
 - Fall arrest systems codes
-- Main section references to <span class="highlight-red">1:100</span> sections in D series drawings
-- External elevation references to <span class="highlight-red">1:100</span> elevations in C series drawings
+- Main section references to **1:100** sections in D series drawings
+- External elevation references to **1:100** elevations in C series drawings
 - Critical dimensions and setting-out
 - Graphical differentiation between the existing structure and the new build
