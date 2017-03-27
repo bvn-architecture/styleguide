@@ -4,8 +4,8 @@ title:        Templates
 class:       "templates"
 date:         2015-11-25T17:52:48+11:00
 description: "BVN designed templates."
-categories:      
-image:        
+categories:
+image:
 ---
 
 {% include templates/dialogue-box.markdown key="templates/dialogue-box.markdown" %}

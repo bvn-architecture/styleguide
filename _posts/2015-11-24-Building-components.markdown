@@ -4,8 +4,8 @@ title:        Building Components
 class:       "test"
 date:         2015-11-24T17:52:48+11:00
 description: "CART - Building Components"
-categories:      
-image:        
+categories:
+image:
 ---
 
 [Ceilings](/building-components-pages/ceilings.html)

@@ -4,8 +4,8 @@ title:        BVN Alphabet
 class:       "test"
 date:         2015-11-25T17:52:48+11:00
 description: "CART - BVN alphabet"
-categories:      
-image:        
+categories:
+image:
 ---
 
 <div class="alphabet">
