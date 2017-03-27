@@ -8,12 +8,12 @@ categories:
 image:        
 ---
 
-{% include templates/dialogue-box.markdown %}
+{% include templates/dialogue-box.markdown key="templates/dialogue-box.markdown" %}
 
-{% include templates/font-styles.markdown %}
+{% include templates/font-styles.markdown key="templates/font-styles.markdown" %}
 
-{% include templates/BVN-menu.markdown %}
+{% include templates/BVN-menu.markdown key="templates/BVN-menu.markdown" %}
 
-{% include templates/print.markdown %}
+{% include templates/print.markdown key="templates/print.markdown" %}
 
-{% include templates/letterhead-sample.markdown %}
+{% include templates/letterhead-sample.markdown key="templates/letterhead-sample.markdown" %}

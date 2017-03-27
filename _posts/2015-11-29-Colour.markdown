@@ -9,10 +9,10 @@ image:
  
 ---
 
-{% include colours/primary-colours.markdown %}
+{% include colours/primary-colours.markdown key="colours/primary-colours.markdown" %}
 
-{% include colours/secondary-colours.markdown %}
+{% include colours/secondary-colours.markdown key="colours/secondary-colours.markdown" %}
 
-{% include colours/tertiary-colours.markdown %}
+{% include colours/tertiary-colours.markdown key="colours/tertiary-colours.markdown" %}
 
-{% include colours/samples.markdown %}
+{% include colours/samples.markdown key="colours/samples.markdown" %}

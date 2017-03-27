@@ -9,10 +9,10 @@ image:
 
 ---
 
-{% include graphical-elements/building-blocks.markdown %}
+{% include graphical-elements/building-blocks.markdown key="graphical-elements/building-blocks.markdown" %}
 
-{% include graphical-elements/graphics.markdown %}
+{% include graphical-elements/graphics.markdown key="graphical-elements/graphics.markdown" %}
 
-{% include graphical-elements/good-examples.markdown %}
+{% include graphical-elements/good-examples.markdown key="graphical-elements/good-examples.markdown" %}
 
-{% include graphical-elements/incorrect-examples.markdown %}
+{% include graphical-elements/incorrect-examples.markdown key="graphical-elements/incorrect-examples.markdown" %}

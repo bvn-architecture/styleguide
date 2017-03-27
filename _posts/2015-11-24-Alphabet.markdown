@@ -10,27 +10,27 @@ image:
 
 <div class="alphabet">
 
-{% include alphabet/alphabet-introduction.markdown %}
-{% include alphabet/letter-a.markdown %}
-{% include alphabet/letter-b.markdown %}
-{% include alphabet/letter-c.markdown %}
-{% include alphabet/letter-d.markdown %}
-{% include alphabet/letter-e.markdown %}
-{% include alphabet/letter-f.markdown %}
-{% include alphabet/letter-g.markdown %}
-{% include alphabet/letter-h.markdown %}
-{% include alphabet/letter-j.markdown %}
-{% include alphabet/letter-k.markdown %}
-{% include alphabet/letter-l.markdown %}
-{% include alphabet/letter-m.markdown %}
-{% include alphabet/letter-n.markdown %}
-{% include alphabet/letter-p.markdown %}
-{% include alphabet/letter-q.markdown %}
-{% include alphabet/letter-r.markdown %}
-{% include alphabet/letter-s.markdown %}
-{% include alphabet/letter-t.markdown %}
-{% include alphabet/letter-u.markdown %}
-{% include alphabet/letter-v.markdown %}
-{% include alphabet/letter-z.markdown %}
+{% include alphabet/alphabet-introduction.markdown key="alphabet/alphabet-introduction.markdown" %}
+{% include alphabet/letter-a.markdown key="alphabet/letter-a.markdown" %}
+{% include alphabet/letter-b.markdown key="alphabet/letter-b.markdown" %}
+{% include alphabet/letter-c.markdown key="alphabet/letter-c.markdown" %}
+{% include alphabet/letter-d.markdown key="alphabet/letter-d.markdown" %}
+{% include alphabet/letter-e.markdown key="alphabet/letter-e.markdown" %}
+{% include alphabet/letter-f.markdown key="alphabet/letter-f.markdown" %}
+{% include alphabet/letter-g.markdown key="alphabet/letter-g.markdown" %}
+{% include alphabet/letter-h.markdown key="alphabet/letter-h.markdown" %}
+{% include alphabet/letter-j.markdown key="alphabet/letter-j.markdown" %}
+{% include alphabet/letter-k.markdown key="alphabet/letter-k.markdown" %}
+{% include alphabet/letter-l.markdown key="alphabet/letter-l.markdown" %}
+{% include alphabet/letter-m.markdown key="alphabet/letter-m.markdown" %}
+{% include alphabet/letter-n.markdown key="alphabet/letter-n.markdown" %}
+{% include alphabet/letter-p.markdown key="alphabet/letter-p.markdown" %}
+{% include alphabet/letter-q.markdown key="alphabet/letter-q.markdown" %}
+{% include alphabet/letter-r.markdown key="alphabet/letter-r.markdown" %}
+{% include alphabet/letter-s.markdown key="alphabet/letter-s.markdown" %}
+{% include alphabet/letter-t.markdown key="alphabet/letter-t.markdown" %}
+{% include alphabet/letter-u.markdown key="alphabet/letter-u.markdown" %}
+{% include alphabet/letter-v.markdown key="alphabet/letter-v.markdown" %}
+{% include alphabet/letter-z.markdown key="alphabet/letter-z.markdown" %}
 
 </div>

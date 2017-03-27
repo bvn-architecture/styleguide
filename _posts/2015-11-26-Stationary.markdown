@@ -9,14 +9,14 @@ image:
 
 ---
 
-{% include stationery/business-card.markdown %}
+{% include stationery/business-card.markdown key="stationery/business-card.markdown" %}
 
-{% include stationery/letter-head.markdown %}
+{% include stationery/letter-head.markdown key="stationery/letter-head.markdown" %}
 
-{% include stationery/envelopes.markdown %}
+{% include stationery/envelopes.markdown key="stationery/envelopes.markdown" %}
 
-{% include stationery/mailing-labels.markdown %}
+{% include stationery/mailing-labels.markdown key="stationery/mailing-labels.markdown" %}
 
-{% include stationery/project-record-book.markdown %}
+{% include stationery/project-record-book.markdown key="stationery/project-record-book.markdown" %}
 
-{% include stationery/with-compliments.markdown %}
+{% include stationery/with-compliments.markdown key="stationery/with-compliments.markdown" %}
