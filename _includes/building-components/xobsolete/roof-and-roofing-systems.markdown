@@ -1,14 +1,15 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Roof and roofing systems</h1>
+  <h1 class="cart-collapsible-div">Roof and roofing systems</h1>
+  <dl>
 
-<dl>
 
-
-## <span class="caps">**Identify architectural metalwork items**</span>
+## <span class="caps">
+  <strong>Identify architectural metalwork items</strong>
+</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/roof-and-roofing-systems/00-key.markdown" value="building-components/roof-and-roofing-systems/00-value.markdown" %}
 
-## <span class="caps">**Describe** Systems</span>
+## <span class="caps"><strong>Describe</strong> Systems</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/roof-and-roofing-systems/01-key.markdown" value="building-components/roof-and-roofing-systems/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/roof-and-roofing-systems/01-image.svg" %}

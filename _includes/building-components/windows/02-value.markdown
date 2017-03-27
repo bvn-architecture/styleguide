@@ -1,1 +1,0 @@
-- Horizontal setting-out of windows

@@ -1,4 +1,4 @@
-## Geometrical form [ {{ site.edit_symbol }} ](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
+## Geometrical form [ {{ site.edit_symbol }} ](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section"}
 
 <div class="style-guide-block-text" markdown="1">
 The BVN logo is based on basic geometrical shapes which are the foundation of our graphic identity and language.
