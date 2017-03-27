@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series stairs section **1:20**</span>
+<span class="caps">Series stairs section **1:20**</span>

@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series partitions and linings specifications</span>
+<span class="caps">Series partitions and linings specifications</span>

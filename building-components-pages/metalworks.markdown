@@ -12,7 +12,7 @@ image:
 <dl>
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identity architectural metalwork items**</span>
+<span class="caps">**Identity architectural metalwork items**</span>
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/metalwork/00-key.markdown" value="building-components/metalwork/00-value.markdown" %}
@@ -20,7 +20,7 @@ image:
 {% include building-components/table-layout-initial.markdown letter="G" key="building-components/metalwork/01-key.markdown" value="building-components/metalwork/01-value.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** construction and finishes</span>
+<span class="caps">**Describe** construction and finishes</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/metalwork/02-key.markdown" value="building-components/metalwork/02-value.markdown"  %}

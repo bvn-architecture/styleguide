@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">Note</span>
+<span class="caps">Note</span>
 
 As a second preference, in the case where the quantity and variation of wall protection systems (e.g.in health care project) would make F series room schedule too complex, we resort to documenting it through graphic representation.
 

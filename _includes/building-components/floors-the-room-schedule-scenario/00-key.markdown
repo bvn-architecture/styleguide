@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series room schedule</span>
+<span class="caps">Series room schedule</span>

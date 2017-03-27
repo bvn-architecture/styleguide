@@ -4,14 +4,14 @@
 <dl>
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identity**</span>
+<span class="caps">**Identity**</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="B" key="building-components/doors/00-key.markdown" value="building-components/doors/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/doors/00-image.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Door assemblies and finishes</span>
+<span class="caps">**Describe** Door assemblies and finishes</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="J" key="building-components/doors/01-key.markdown" value="building-components/doors/01-value.markdown" %}
@@ -36,7 +36,7 @@
 {% include building-components/table-layout-text.markdown image="building-components/doors/07-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** External doors</span>
+<span class="caps">**Describe** External doors</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/doors/08-key.markdown" value="building-components/doors/08-value.markdown"  %}

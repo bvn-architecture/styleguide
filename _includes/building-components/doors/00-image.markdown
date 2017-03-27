@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">Door tag</span>
+<span class="caps">Door tag</span>
 
 Door number = room number the door is opening into + a suffix.
 

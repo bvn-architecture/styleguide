@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Joinery and furniture legend sheet</span>
+<span class="caps">Joinery and furniture legend sheet</span>

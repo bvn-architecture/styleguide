@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">
+<span class="caps">
 Series slab reflected ceiling plans **1:100**</span>
 
 Graphic representation of areas with different thermal insulation systems.

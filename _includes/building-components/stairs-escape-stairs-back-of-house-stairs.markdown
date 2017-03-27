@@ -5,13 +5,13 @@
 
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identify**</span>
+<span class="caps">**Identify**</span>
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/stairs-escape-stairs-back-of-house-stairs/00-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/00-value.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Construction</span>
+<span class="caps">**Describe** Construction</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/stairs-escape-stairs-back-of-house-stairs/01-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/01-value.markdown" %}
@@ -39,7 +39,7 @@
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Finishes</span>
+<span class="caps">**Describe** Finishes</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/stairs-escape-stairs-back-of-house-stairs/09-key.markdown" value="building-components/stairs-escape-stairs-back-of-house-stairs/09-value.markdown"  %}

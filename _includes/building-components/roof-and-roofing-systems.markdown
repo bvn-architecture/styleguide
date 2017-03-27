@@ -5,13 +5,13 @@
 
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identify architectural metalwork items**</span>
+<span class="caps">**Identify architectural metalwork items**</span>
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/roof-and-roofing-systems/00-key.markdown" value="building-components/roof-and-roofing-systems/00-value.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Systems</span>
+<span class="caps">**Describe** Systems</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/roof-and-roofing-systems/01-key.markdown" value="building-components/roof-and-roofing-systems/01-value.markdown" %}

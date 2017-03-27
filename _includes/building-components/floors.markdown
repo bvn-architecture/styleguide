@@ -4,13 +4,13 @@
 <dl>
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identify flooring systems and finishes**</span>
+<span class="caps">**Identify flooring systems and finishes**</span>
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="F" key="building-components/floors/00-key.markdown" value="building-components/floors/00-value.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Construction and finishes</span>
+<span class="caps">**Describe** Construction and finishes</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/floors/01-key.markdown" value="building-components/floors/01-value.markdown" %}
@@ -32,14 +32,14 @@
 {% include building-components/table-layout-text.markdown image="building-components/floors/06-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identify flooring systems and finishes**</span>
+<span class="caps">**Identify flooring systems and finishes**</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/floors/07-key.markdown" value="building-components/floors/07-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/floors/01-image.svg" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** construction/substrate and finish</span>
+<span class="caps">**Describe** construction/substrate and finish</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="F" key="building-components/floors/08-key.markdown" value="building-components/floors/08-value.markdown"  %}

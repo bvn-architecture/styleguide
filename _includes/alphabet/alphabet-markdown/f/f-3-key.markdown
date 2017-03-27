@@ -1,6 +1,6 @@
-<span class="transform-to-uppercase">Wall protection plans</span>
+<span class="caps">Wall protection plans</span>
 
-<span class="transform-to-uppercase">**(Graphic representation scenario) 1:100**</span>
+<span class="caps">**(Graphic representation scenario) 1:100**</span>
 
 _As a second preference, in the case where the quantity and variation of wall protection systems (e.g.in a health care project) would make F series room schedule too complex to schedule, we resort to documenting it through graphic representation._
 

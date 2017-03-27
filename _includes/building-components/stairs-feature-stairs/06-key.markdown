@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series specifications</span>
+<span class="caps">Series specifications</span>

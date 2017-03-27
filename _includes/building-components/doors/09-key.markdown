@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series doors</span>
+<span class="caps">Series doors</span>

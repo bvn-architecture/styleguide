@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Building location **1:200**</span>
+<span class="caps">Building location **1:200**</span>

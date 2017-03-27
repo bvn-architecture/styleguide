@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">Reflected ceiling plans **1:100**</span>
+<span class="caps">Reflected ceiling plans **1:100**</span>
 
 _Show:_
 

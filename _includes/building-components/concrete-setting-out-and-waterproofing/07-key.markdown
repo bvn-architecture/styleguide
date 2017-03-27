@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">Series interface details **1:5**</span>
+<span class="caps">Series interface details **1:5**</span>
 
 - Intricate edge conditions
 - 

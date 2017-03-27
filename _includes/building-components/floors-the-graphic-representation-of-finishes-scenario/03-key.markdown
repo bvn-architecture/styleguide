@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series internal spaces floor plans **1:50**</span>
+<span class="caps">Series internal spaces floor plans **1:50**</span>

@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series interface details</span>
+<span class="caps">Series interface details</span>

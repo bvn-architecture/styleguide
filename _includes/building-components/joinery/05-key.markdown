@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series joinery specifications</span>
+<span class="caps">Series joinery specifications</span>

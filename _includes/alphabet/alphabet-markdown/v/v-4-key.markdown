@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Lift shaft external elevations **1:50**</span>
+<span class="caps">Lift shaft external elevations **1:50**</span>

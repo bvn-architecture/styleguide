@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series interface details - external wall and roof details - plans and sections **1:5**</span>
+<span class="caps">Series interface details - external wall and roof details - plans and sections **1:5**</span>

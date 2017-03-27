@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Architectural metalwork elevations and sections **1:20**</span>
+<span class="caps">Architectural metalwork elevations and sections **1:20**</span>

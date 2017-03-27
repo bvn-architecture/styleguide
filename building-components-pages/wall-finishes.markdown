@@ -14,7 +14,7 @@ image:
 {% include building-components/table-layout-text.markdown image="building-components/wall-finishes/00-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** Finishes</span>
+<span class="caps">**Describe** Finishes</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/wall-finishes/01-key.markdown" value="building-components/wall-finishes/01-value.markdown" %}

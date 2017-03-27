@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series floor finishes general arrangement plans **1:100**</span>
+<span class="caps">Series floor finishes general arrangement plans **1:100**</span>

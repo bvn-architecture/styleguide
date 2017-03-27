@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series reflected ceiling plans **1:100**</span>
+<span class="caps">Series reflected ceiling plans **1:100**</span>

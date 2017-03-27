@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Wet areas legend sheet</span>
+<span class="caps">Wet areas legend sheet</span>

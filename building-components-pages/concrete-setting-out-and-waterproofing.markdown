@@ -10,14 +10,14 @@ image:
 
 <div class="building-components" markdown="1">
 
-## <span class="transform-to-uppercase">**Identity**</span>
+## <span class="caps">**Identity**</span>
 <dl>
 
 
 {% include building-components/table-layout-initial.markdown letter="V" key="building-components/concrete-setting-out-and-waterproofing/00-key.markdown" value="building-components/concrete-setting-out-and-waterproofing/00-value.markdown" %}
 
 </dl>
-## <span class="transform-to-uppercase">**Describe**</span>
+## <span class="caps">**Describe**</span>
 <dl>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/concrete-setting-out-and-waterproofing/01-key.markdown" value="building-components/concrete-setting-out-and-waterproofing/01-image.svg" %}

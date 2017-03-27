@@ -11,21 +11,21 @@ image:
 <dl>
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identity joinery items**</span>
+<span class="caps">**Identity joinery items**</span>
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/joinery/00-key.markdown" value="building-components/joinery/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/joinery/00-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe joinery items**</span>
+<span class="caps">**Describe joinery items**</span>
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="L" key="building-components/joinery/01-key.markdown" value="building-components/joinery/01-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/joinery/01-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe** construction</span>
+<span class="caps">**Describe** construction</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="L" key="building-components/joinery/02-key.markdown" value="building-components/joinery/02-value.markdown"  %}

@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series wet areas plans, sections and elevations **1:20**</span>
+<span class="caps">Series wet areas plans, sections and elevations **1:20**</span>

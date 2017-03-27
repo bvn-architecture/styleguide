@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series ceiling specifications</span>
+<span class="caps">Series ceiling specifications</span>

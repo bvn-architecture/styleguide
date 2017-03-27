@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series wall protection specifications </span>
+<span class="caps">Series wall protection specifications </span>

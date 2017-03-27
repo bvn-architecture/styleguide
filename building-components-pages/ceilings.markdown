@@ -13,11 +13,11 @@ image:
 <dl markdown="1">
 
 
-## <span class="transform-to-uppercase">**Identify ceiling types**</span>
+## <span class="caps">**Identify ceiling types**</span>
 
 {% include building-components/table-layout-initial.markdown letter="E" key="building-components/ceilings/00-key.markdown" value="building-components/ceilings/00-value.markdown" %}
 
-## <span class="transform-to-uppercase">**Describe** Construction</span>
+## <span class="caps">**Describe** Construction</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/ceilings/01-key.markdown" value="building-components/ceilings/01-image.svg" %}
 
@@ -29,7 +29,7 @@ image:
 
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/ceilings/05-key.markdown" value="building-components/specifications-image.svg"  %}
 
-## <span class="transform-to-uppercase">**Describe** Finishes</span>
+## <span class="caps">**Describe** Finishes</span>
 
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/ceilings/06-key.markdown" value="building-components/ceilings/06-image.svg"  %}

@@ -5,7 +5,7 @@
 - Graphically indicate parts of slab to be removed<br>
 (Slab penetrations are dimensioned in V series drawings)
 - Differentiate between the following demolition categories:
-    - <span class="transform-to-uppercase">Items to be demolished and removed from site</span>
-    - <span class="transform-to-uppercase">items to be demolished and re-used as part of the project</span>
-    - <span class="transform-to-uppercase">items to be removed and handed back to the building owner</span>
-    - <span class="transform-to-uppercase">items to be retained to form part of the project</span>
+    - <span class="caps">Items to be demolished and removed from site</span>
+    - <span class="caps">items to be demolished and re-used as part of the project</span>
+    - <span class="caps">items to be removed and handed back to the building owner</span>
+    - <span class="caps">items to be retained to form part of the project</span>

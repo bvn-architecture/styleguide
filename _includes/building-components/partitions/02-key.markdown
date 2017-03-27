@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series internal spaces plans **1:40**</span>
+<span class="caps">Series internal spaces plans **1:40**</span>

@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series details **1:5**</span>
+<span class="caps">Series details **1:5**</span>

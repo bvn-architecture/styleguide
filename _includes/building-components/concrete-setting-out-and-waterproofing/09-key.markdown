@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series waterproofing systems specification</span>
+<span class="caps">Series waterproofing systems specification</span>

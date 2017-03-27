@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series painting specifications</span>
+<span class="caps">Series painting specifications</span>

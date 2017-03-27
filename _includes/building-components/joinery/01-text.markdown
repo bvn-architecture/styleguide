@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">Note</span>
+<span class="caps">Note</span>
 
 As a second preference, in the case where coding of joinery items is not practical in B series, use a separate set of general arrangement drawings
 

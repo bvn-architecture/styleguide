@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">
+<span class="caps">
 Floor-to-floor section details<br>
 Floor-to-external wall section details<br>
 Floor-to-internal partitions section details
@@ -6,7 +6,7 @@ Floor-to-internal partitions section details
 
 <br>
 
-<span class="transform-to-uppercase">Ceiling-to-ceiling section details<br>
+<span class="caps">Ceiling-to-ceiling section details<br>
 Ceiling-to-external wall section details<br>
 Ceiling-to-internal partitions section details</span>
 

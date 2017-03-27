@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Concrete and waterproofing plans **1:100**</span>
+<span class="caps">Concrete and waterproofing plans **1:100**</span>

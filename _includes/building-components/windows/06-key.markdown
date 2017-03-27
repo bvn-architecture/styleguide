@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series glazing and window assembly specifications</span>
+<span class="caps">Series glazing and window assembly specifications</span>

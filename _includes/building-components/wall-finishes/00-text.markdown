@@ -1,4 +1,4 @@
-<span class="transform-to-uppercase">Note</span>
+<span class="caps">Note</span>
 
 There is a strong preference for documenting the wall finishes in the room schedule.
 

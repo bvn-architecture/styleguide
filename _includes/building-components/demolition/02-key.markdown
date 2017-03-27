@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series demolition specifications</span>
+<span class="caps">Series demolition specifications</span>

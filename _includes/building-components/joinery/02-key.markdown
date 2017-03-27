@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series legend sheet - joinery and furniture only</span>
+<span class="caps">Series legend sheet - joinery and furniture only</span>

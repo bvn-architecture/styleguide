@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series wall protection general arrangement plans **1:100**</span>
+<span class="caps">Series wall protection general arrangement plans **1:100**</span>

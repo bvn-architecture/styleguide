@@ -13,7 +13,7 @@ image:
 
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Identify signs**</span>
+<span class="caps">**Identify signs**</span>
 </div>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/signage/00-key.markdown" value="building-components/signage/00-value.markdown" %}
@@ -22,7 +22,7 @@ image:
 {% include building-components/table-layout-text.markdown image="building-components/signage/01-text.markdown" %}
 
 <div markdown="1" class="building-components-title">
-<span class="transform-to-uppercase">**Describe**</span>
+<span class="caps">**Describe**</span>
 </div>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/signage/02-key.markdown" value="building-components/signage/02-value.markdown"  %}

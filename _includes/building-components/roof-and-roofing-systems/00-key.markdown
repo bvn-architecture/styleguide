@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series roof plan **1:100**</span>
+<span class="caps">Series roof plan **1:100**</span>

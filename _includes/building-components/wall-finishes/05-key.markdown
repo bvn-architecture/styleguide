@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series tiling specifications</span>
+<span class="caps">Series tiling specifications</span>

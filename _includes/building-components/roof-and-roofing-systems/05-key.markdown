@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series interface details roofing details **1:10 1:5**</span>
+<span class="caps">Series interface details roofing details **1:10 1:5**</span>

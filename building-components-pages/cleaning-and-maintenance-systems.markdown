@@ -9,14 +9,14 @@ image:
 ---
 <div class="building-components" markdown="1">
 
-## <span class="transform-to-uppercase">**Identity cleaning and maintenance systems**</span>
+## <span class="caps">**Identity cleaning and maintenance systems**</span>
 
 <dl>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/cleaning-and-maintenance-equipment/00-key.markdown" value="building-components/cleaning-and-maintenance-equipment/00-value.markdown" %}
 
 </dl>
-## <span class="transform-to-uppercase">**Describe** Systems</span>
+## <span class="caps">**Describe** Systems</span>
 <dl>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/cleaning-and-maintenance-equipment/01-key.markdown" value="building-components/cleaning-and-maintenance-equipment/01-image.svg" %}

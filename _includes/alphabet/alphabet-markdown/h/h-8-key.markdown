@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Lift car details **1:5**</span>
+<span class="caps">Lift car details **1:5**</span>

@@ -1,3 +1,3 @@
-<span class="transform-to-uppercase">Note</span>
+<span class="caps">Note</span>
 
 Blockwork walls are often constructed as full height for the purpose of acoustic or fire protection. If services, e.g.mechanical ducts are going through them, blockwork walls need to be drawn in elevation to set-out the penetrations. For that reason the walls need to be given a unique tag for every straight run of the wall. If there are no penetrations through blockwork walls, a blockwork type code (with corresponding detail) will suffice

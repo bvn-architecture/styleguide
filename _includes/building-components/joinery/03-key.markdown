@@ -1,1 +1,1 @@
-<span class="transform-to-uppercase">Series joinery plans sections and elevations **1:20**</span>
+<span class="caps">Series joinery plans sections and elevations **1:20**</span>

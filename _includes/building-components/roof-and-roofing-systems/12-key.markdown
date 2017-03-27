@@ -1,3 +1,3 @@
-<span class="transform-to-uppercase">Series specifications</span>
+<span class="caps">Series specifications</span>
 
 _(only if part of our contract)_
