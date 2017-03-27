@@ -26,9 +26,7 @@
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/ceilings/05-key.markdown" value="building-components/ceilings/05-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** Finishes</span>
-</div>
+## <span class="caps">**Describe** Finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/ceilings/06-key.markdown" value="building-components/ceilings/06-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/ceilings/06-image.svg" %}

@@ -6,9 +6,7 @@
 
 {% include building-components/table-layout-text.markdown image="building-components/wall-finishes/00-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** Finishes</span>
-</div>
+## <span class="caps">**Describe** Finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/wall-finishes/01-key.markdown" value="building-components/wall-finishes/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/wall-finishes/01-image.svg" %}

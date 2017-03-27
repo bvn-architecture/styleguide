@@ -3,17 +3,13 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identity architectural metalwork items**</span>
-</div>
+## <span class="caps">**Identity architectural metalwork items**</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/metalwork/00-key.markdown" value="building-components/metalwork/00-value.markdown" %}
 
 {% include building-components/table-layout-initial.markdown letter="G" key="building-components/metalwork/01-key.markdown" value="building-components/metalwork/01-value.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** construction and finishes</span>
-</div>
+## <span class="caps">**Describe** construction and finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/metalwork/02-key.markdown" value="building-components/metalwork/02-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/metalwork/02-image.svg" %}

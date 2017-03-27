@@ -3,16 +3,13 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identify**</span>
-</div>
+
+## <span class="caps">**Identify**</span>
 
 {% include building-components/table-layout-initial.markdown letter="C" key="building-components/windows/00-key.markdown" value="building-components/windows/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/windows/00-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** finishes</span>
-</div>
+## <span class="caps">**Describe** finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/windows/01-key.markdown" value="building-components/windows/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/windows/01-image.svg" %}
@@ -32,4 +29,5 @@
 {% include building-components/table-layout-block.markdown letter="Z" key="building-components/windows/04-key.markdown" value="building-components/windows/04-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/specifications-image.svg" %}
 
-</dl></div>
+</dl>
+</div>

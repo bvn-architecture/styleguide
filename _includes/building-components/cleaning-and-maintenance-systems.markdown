@@ -3,15 +3,11 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identity cleaning and maintenance systems**</span>
-</div>
+## <span class="caps">**Identity cleaning and maintenance systems**</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/cleaning-and-maintenance-equipment/00-key.markdown" value="building-components/cleaning-and-maintenance-equipment/00-value.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** Systems</span>
-</div>
+## <span class="caps">**Describe** Systems</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/cleaning-and-maintenance-equipment/01-key.markdown" value="building-components/cleaning-and-maintenance-equipment/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/cleaning-and-maintenance-equipment/01-image.svg" %}

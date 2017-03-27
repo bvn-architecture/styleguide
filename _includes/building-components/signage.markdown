@@ -4,18 +4,14 @@
 <dl>
 
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identify signs**</span>
-</div>
+## <span class="caps">**Identify signs**</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/signage/00-key.markdown" value="building-components/signage/00-value.markdown" %}
 
 {% include building-components/table-layout-initial.markdown letter="E" key="building-components/signage/01-key.markdown" value="building-components/signage/01-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/signage/01-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe**</span>
-</div>
+## <span class="caps">**Describe**</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/signage/02-key.markdown" value="building-components/signage/02-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/signage/02-image.svg" %}

@@ -3,16 +3,12 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identify Partitions**</span>
-</div>
+## <span class="caps">**Identify Partitions**</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/partitions/00-key.markdown" value="building-components/partitions/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/partitions/00-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** construction only</span>
-</div>
+## <span class="caps">**Describe** construction only</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/partitions/01-key.markdown" value="building-components/partitions/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/partitions/01-image.svg" %}

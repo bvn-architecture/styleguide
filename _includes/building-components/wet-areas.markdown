@@ -4,16 +4,12 @@
 <dl>
 
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identify**</span>
-</div>
+## <span class="caps">**Identify**</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/wet-areas/00-key.markdown" value="building-components/wet-areas/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/wet-areas/00-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** Construction and finishes</span>
-</div>
+## <span class="caps">**Describe** Construction and finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/wet-areas/01-key.markdown" value="building-components/wet-areas/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/wet-areas/01-image.svg" %}

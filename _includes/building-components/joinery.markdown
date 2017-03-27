@@ -3,23 +3,17 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identity joinery items**</span>
-</div>
+## <span class="caps">**Identity joinery items**</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/joinery/00-key.markdown" value="building-components/joinery/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/joinery/00-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe joinery items**</span>
-</div>
+## <span class="caps">**Describe joinery items**</span>
 
 {% include building-components/table-layout-initial.markdown letter="L" key="building-components/joinery/01-key.markdown" value="building-components/joinery/01-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/joinery/01-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** construction</span>
-</div>
+## <span class="caps">**Describe** construction</span>
 
 {% include building-components/table-layout-block.markdown letter="L" key="building-components/joinery/02-key.markdown" value="building-components/joinery/02-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/joinery/02-image.svg" %}

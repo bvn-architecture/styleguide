@@ -3,16 +3,12 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identity**</span>
-</div>
+## <span class="caps">**Identity**</span>
 
 {% include building-components/table-layout-block.markdown letter="B" key="building-components/doors/00-key.markdown" value="building-components/doors/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/doors/00-image.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** Door assemblies and finishes</span>
-</div>
+## <span class="caps">**Describe** Door assemblies and finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="J" key="building-components/doors/01-key.markdown" value="building-components/doors/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/doors/01-image.svg" %}
@@ -35,9 +31,7 @@
 {% include building-components/table-layout-block.markdown letter=" " key="building-components/doors/07-key.markdown" value="building-components/doors/07-value.markdown"  %}
 {% include building-components/table-layout-text.markdown image="building-components/doors/07-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** External doors</span>
-</div>
+## <span class="caps">**Describe** External doors</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/doors/08-key.markdown" value="building-components/doors/08-value.markdown"  %}
 {% include building-components/table-layout-image.markdown image="building-components/doors/08-image.svg" %}

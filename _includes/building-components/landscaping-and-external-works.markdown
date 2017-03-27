@@ -3,15 +3,11 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identity external works items and areas**</span>
-</div>
+## <span class="caps">**Identity external works items and areas**</span>
 
 {% include building-components/table-layout-initial.markdown letter="T" key="building-components/landscaping-and-external-works/00-key.markdown" value="building-components/landscaping-and-external-works/00-value.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** construction and finishes</span>
-</div>
+## <span class="caps">**Describe** construction and finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/landscaping-and-external-works/01-key.markdown" value="building-components/landscaping-and-external-works/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/landscaping-and-external-works/01-image.svg" %}

@@ -4,15 +4,11 @@
 <dl>
 
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identify architectural metalwork items**</span>
-</div>
+## <span class="caps">**Identify architectural metalwork items**</span>
 
 {% include building-components/table-layout-initial.markdown letter="B" key="building-components/roof-and-roofing-systems/00-key.markdown" value="building-components/roof-and-roofing-systems/00-value.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** Systems</span>
-</div>
+## <span class="caps">**Describe** Systems</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/roof-and-roofing-systems/01-key.markdown" value="building-components/roof-and-roofing-systems/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/roof-and-roofing-systems/01-image.svg" %}

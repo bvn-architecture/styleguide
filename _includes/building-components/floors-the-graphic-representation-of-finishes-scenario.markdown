@@ -3,16 +3,12 @@
 
 <dl>
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Identify flooring systems and finishes**</span>
-</div>
+## <span class="caps">**Identify flooring systems and finishes**</span>
 
 {% include building-components/table-layout-initial.markdown letter="F" key="building-components/floors-the-graphic-representation-of-finishes-scenario/00-key.markdown" value="building-components/floors-the-graphic-representation-of-finishes-scenario/00-value.markdown" %}
 {% include building-components/table-layout-text.markdown image="building-components/floors-the-graphic-representation-of-finishes-scenario/00-text.markdown" %}
 
-<div markdown="1" class="building-components-title">
-<span class="caps">**Describe** Construction and finishes</span>
-</div>
+## <span class="caps">**Describe** Construction and finishes</span>
 
 {% include building-components/table-layout-block.markdown letter="A" key="building-components/floors-the-graphic-representation-of-finishes-scenario/01-key.markdown" value="building-components/floors-the-graphic-representation-of-finishes-scenario/01-value.markdown" %}
 {% include building-components/table-layout-image.markdown image="building-components/floors-the-graphic-representation-of-finishes-scenario/01-image.svg" %}
