@@ -5,7 +5,7 @@
 	c0-2.6-1.1-5.2-3-7.1c-1.9-1.9-4.4-2.9-7.1-2.9h-26.6c-2.7,0-5.2,1-7.1,2.9C114.829,49.629,113.729,52.229,113.729,54.829"/>
 <polyline fill="none" stroke="#000000" stroke-width="0.48" stroke-linejoin="round" stroke-miterlimit="1.414" points="
 	157.529,47.729 169.629,35.729 176.129,35.729 "/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M203.629,35.729c0-3.7-1.5-7.2-4.1-9.7c-2.5-2.6-6-4.1-9.7-4.1
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M203.629,35.729c0-3.7-1.5-7.2-4.1-9.7c-2.5-2.6-6-4.1-9.7-4.1
 	c-3.6,0-7.1,1.5-9.7,4.1c-2.6,2.5-4,6-4,9.7c0,3.6,1.4,7.1,4,9.7c2.6,2.6,6.1,4,9.7,4c3.7,0,7.2-1.4,9.7-4
 	C202.129,42.829,203.629,39.329,203.629,35.729"/>
 <path fill="none" stroke="#000000" stroke-width="0.48" stroke-linejoin="round" stroke-miterlimit="1.414" d="M203.629,35.729
@@ -47,15 +47,15 @@
 	c0.7-0.7,1.1-1.2,1.4-1.7c0.2-0.4,0.3-0.8,0.3-1.3s-0.1-1-0.4-1.4s-0.8-0.6-1.4-0.6c-0.6,0-1,0.2-1.3,0.6c-0.4,0.3-0.6,0.8-0.6,1.5
 	l0.7,0.1c0-0.5,0.1-0.8,0.3-1.1c0.3-0.2,0.5-0.3,0.9-0.3c0.3,0,0.6,0.1,0.8,0.3c0.2,0.2,0.3,0.5,0.3,0.9c0,0.3-0.1,0.7-0.3,1
 	c-0.2,0.4-0.7,0.9-1.4,1.6c-0.5,0.6-0.9,1.1-1.2,1.5c-0.2,0.4-0.3,0.8-0.3,1.2h3.9V33.029"/>
-<text transform="matrix(1 0 0 1 0 6.8564)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">ENLARGED AREA BOX</text>
-<text transform="matrix(1 0 0 1 18.4253 33.082)" fill="#CD1719" font-family="'Helvetica'" font-size="9">C</text>
-<text transform="matrix(1 0 0 1 24.7612 33.082)" fill="#CD1719" font-family="'Helvetica'" font-size="9">ranked lead line,</text>
-<text transform="matrix(1 0 0 1 87.9497 33.082)" fill="#CD1719" font-family="'Helvetica'" font-size="9"> </text>
-<text transform="matrix(1 0 0 1 18.4253 43.6826)"><tspan x="0" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">f</tspan><tspan x="2.331" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="5.013" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">om the </tspan><tspan x="34.686" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="37.359" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">ounded</tspan></text>
-<text transform="matrix(1 0 0 1 85.4478 43.6826)" fill="#CD1719" font-family="'Helvetica'" font-size="9"> </text>
-<text transform="matrix(1 0 0 1 18.4253 54.2822)"><tspan x="0" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">co</tspan><tspan x="9.675" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="12.672" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">ner</tspan></text>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.262" x1="92.399" y1="30.079" x2="152.33" y2="30.079"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.1" x1="154.808" y1="31.69" x2="160.871" y2="38.939"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M161.544,39.744
+<text transform="matrix(1 0 0 1 0 6.8564)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">ENLARGED AREA BOX</text>
+<text transform="matrix(1 0 0 1 18.4253 33.082)" fill="#cd1719" font-family="'Helvetica'" font-size="9">C</text>
+<text transform="matrix(1 0 0 1 24.7612 33.082)" fill="#cd1719" font-family="'Helvetica'" font-size="9">ranked lead line,</text>
+<text transform="matrix(1 0 0 1 87.9497 33.082)" fill="#cd1719" font-family="'Helvetica'" font-size="9"> </text>
+<text transform="matrix(1 0 0 1 18.4253 43.6826)"><tspan x="0" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">f</tspan><tspan x="2.331" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="5.013" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">om the </tspan><tspan x="34.686" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="37.359" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">ounded</tspan></text>
+<text transform="matrix(1 0 0 1 85.4478 43.6826)" fill="#cd1719" font-family="'Helvetica'" font-size="9"> </text>
+<text transform="matrix(1 0 0 1 18.4253 54.2822)"><tspan x="0" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">co</tspan><tspan x="9.675" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="12.672" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">ner</tspan></text>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.262" x1="92.399" y1="30.079" x2="152.33" y2="30.079"/>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.1" x1="154.808" y1="31.69" x2="160.871" y2="38.939"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M161.544,39.744
 	L161.544,39.744 M153.46,30.079L153.46,30.079 M90.137,30.079L90.137,30.079"/>
 </svg>

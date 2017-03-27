@@ -1,6 +1,6 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 270 99.569" enable-background="new 0 0 270 99.569" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M159.306,24.469c0-3.7-1.5-7.2-4-9.7c-2.6-2.6-6.1-4.1-9.8-4.1
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M159.306,24.469c0-3.7-1.5-7.2-4-9.7c-2.6-2.6-6.1-4.1-9.8-4.1
 	c-3.6,0-7.1,1.5-9.7,4.1c-2.5,2.5-4,6-4,9.7c0,3.6,1.5,7.1,4,9.7c2.6,2.5,6.1,4,9.7,4c3.7,0,7.2-1.5,9.8-4
 	C157.806,31.569,159.306,28.069,159.306,24.469"/>
 <path fill="none" stroke="#000000" stroke-width="0.48" stroke-linejoin="round" stroke-miterlimit="1.414" d="M159.306,24.469
@@ -38,14 +38,14 @@
 	C142.307,16.969,142.207,17.869,142.207,19.069"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M149.507,22.669v-7.3h-0.5c-0.1,0.3-0.3,0.7-0.6,1s-0.7,0.6-1.1,0.8v0.9
 	c0.2-0.1,0.5-0.3,0.8-0.5s0.5-0.4,0.7-0.6v5.7H149.507"/>
-<text transform="matrix(1 0 0 1 0 6.856)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">SECTION</text>
-<text transform="matrix(1 0 0 1 15.603 22.2109)" fill="#CD1719" font-family="'Helvetica'" font-size="9">Detail number</text>
-<text transform="matrix(1 0 0 1 15.603 45.9512)" fill="#CD1719" font-family="'Helvetica'" font-size="9">Drawing number</text>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.232" x1="88.367" y1="43.505" x2="140.816" y2="43.505"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.303" x1="141.932" y1="41.202" x2="141.932" y2="35.444"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M141.932,34.292
+<text transform="matrix(1 0 0 1 0 6.856)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">SECTION</text>
+<text transform="matrix(1 0 0 1 15.603 22.2109)" fill="#cd1719" font-family="'Helvetica'" font-size="9">Detail number</text>
+<text transform="matrix(1 0 0 1 15.603 45.9512)" fill="#cd1719" font-family="'Helvetica'" font-size="9">Drawing number</text>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.232" x1="88.367" y1="43.505" x2="140.816" y2="43.505"/>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.303" x1="141.932" y1="41.202" x2="141.932" y2="35.444"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M141.932,34.292
 	L141.932,34.292 M141.932,43.505L141.932,43.505 M86.135,43.505L86.135,43.505"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.218" x1="77.723" y1="19.198" x2="136.489" y2="19.198"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M137.597,19.198
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.218" x1="77.723" y1="19.198" x2="136.489" y2="19.198"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M137.597,19.198
 	L137.597,19.198 M75.505,19.198L75.505,19.198"/>
 </svg>

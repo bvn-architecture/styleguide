@@ -1,11 +1,4 @@
-#cart-philosophies {
-
-  .cart-philosophies-wrapper {}
-
-  .cart-philosophies-background-grey {
-    background-color: $grey-color-light;
-  }
-
+.cart-philosophies {
 
   .cart-philosophies-block {
     display: inline-block;
@@ -18,9 +11,6 @@
       margin-bottom: 0;
     }
   }
-
-
-  .cart-philosophies-normal {}
 
   .cart-philosophies-table {
     @include span-columns(12);

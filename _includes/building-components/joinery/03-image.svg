@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 320 120.921" enable-background="new 0 0 320 120.921" xml:space="preserve">
 <g>
-	<rect x="214.64" y="0" fill="#FFFFFF" width="40.025" height="47.32"/>
+	<rect x="214.64" y="0" fill="#ffffff" width="40.025" height="47.32"/>
 	
 		<rect x="214.64" y="-24.229" fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" width="40.025" height="71.55"/>
 	<path fill="none" d="M172.79,50.171c0-0.025-0.025-0.05-0.025-0.05c-0.025,0-0.025,0.025-0.025,0.05c0,0,0,0.025,0.025,0.025
@@ -15,7 +15,7 @@
 	
 		<line fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="67.29" y1="34.221" x2="77.915" y2="34.221"/>
 	
-		<line fill="none" stroke="#AAAAAA" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="69.065" y1="46.271" x2="76.165" y2="46.271"/>
+		<line fill="none" stroke="#aaaaaa" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="69.065" y1="46.271" x2="76.165" y2="46.271"/>
 	
 		<line fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="76.165" y1="46.271" x2="77.915" y2="34.221"/>
 	
@@ -23,7 +23,7 @@
 	
 		<line fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="73.59" y1="34.221" x2="84.215" y2="34.221"/>
 	
-		<line fill="none" stroke="#AAAAAA" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="75.365" y1="46.271" x2="82.44" y2="46.271"/>
+		<line fill="none" stroke="#aaaaaa" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="75.365" y1="46.271" x2="82.44" y2="46.271"/>
 	
 		<line fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="82.44" y1="46.271" x2="84.215" y2="34.221"/>
 	
@@ -31,7 +31,7 @@
 	
 		<line fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="73.59" y1="34.221" x2="84.215" y2="34.221"/>
 	
-		<line fill="none" stroke="#AAAAAA" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="75.365" y1="46.271" x2="82.44" y2="46.271"/>
+		<line fill="none" stroke="#aaaaaa" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="75.365" y1="46.271" x2="82.44" y2="46.271"/>
 	
 		<line fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" x1="82.44" y1="46.271" x2="84.215" y2="34.221"/>
 	
@@ -614,19 +614,19 @@
 		c0,0.025,0.025,0.025,0.025,0.05c0,0.05,0.025,0.075,0.025,0.1c-0.025,0.75-0.025,1.5-0.1,2.225c-0.075,0.775-0.15,1.525-0.225,2.3
 		c-0.075,0.775-0.15,1.575-0.225,2.35s-0.1,1.55-0.1,2.325c0,1.825,0.025,3.675,0,5.525c0,1.85,0,3.7-0.025,5.525
 		c0,3.7-0.025,7.375-0.025,11.075c0,3.675,0.075,7.375,0.175,11.05c0.125,3.7,0.3,7.375,0.575,11.05"/>
-	<rect x="203.065" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="8.85" height="1.775"/>
+	<rect x="203.065" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" width="8.85" height="1.775"/>
 	
 		<rect x="203.065" y="-14.729" fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" width="8.85" height="1.775"/>
-	<rect x="193.015" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="8.875" height="1.775"/>
+	<rect x="193.015" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" width="8.875" height="1.775"/>
 	
 		<rect x="193.015" y="-14.729" fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" width="8.875" height="1.775"/>
-	<rect x="182.99" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="8.85" height="1.775"/>
+	<rect x="182.99" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" width="8.85" height="1.775"/>
 	
 		<rect x="182.99" y="-14.729" fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" width="8.85" height="1.775"/>
-	<rect x="161.14" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="8.85" height="1.775"/>
+	<rect x="161.14" y="-14.729" fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" width="8.85" height="1.775"/>
 	
 		<rect x="161.14" y="-14.729" fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" width="8.85" height="1.775"/>
-	<rect x="161.14" y="-16.504" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="8.85" height="1.775"/>
+	<rect x="161.14" y="-16.504" fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" width="8.85" height="1.775"/>
 	
 		<rect x="161.14" y="-16.504" fill="none" stroke="#828282" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" stroke-dasharray="1.23,0.75" width="8.85" height="1.775"/>
 	
@@ -3004,7 +3004,7 @@
 		c0-0.925-0.375-1.825-1.025-2.5c-0.675-0.675-1.575-1.05-2.525-1.05c-0.925,0-1.825,0.375-2.5,1.05
 		c-0.65,0.675-1.025,1.575-1.025,2.5c0,0.95,0.375,1.85,1.025,2.5c0.675,0.675,1.575,1.05,2.5,1.05c0.95,0,1.85-0.375,2.525-1.05
 		C230.265,98.646,230.64,97.746,230.64,96.796"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="228.165,98.521 228.215,98.646 228.29,98.796 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="228.165,98.521 228.215,98.646 228.29,98.796 
 		228.34,98.921 228.415,99.046 228.465,99.196 228.54,99.321 228.59,99.446 228.665,99.596 228.74,99.721 228.79,99.846 
 		228.865,99.971 228.94,100.071 229.015,100.196 229.09,100.296 229.19,100.371 229.265,100.446 229.34,100.521 229.415,100.571 
 		229.465,100.621 229.515,100.671 229.565,100.696 229.615,100.721 229.64,100.721 229.665,100.721 229.69,100.696 229.665,100.696 
@@ -5399,7 +5399,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="228.215" y1="98.646" x2="228.29" y2="98.796"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="228.165" y1="98.521" x2="228.215" y2="98.646"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="235.815,98.521 235.89,98.646 235.94,98.796 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="235.815,98.521 235.89,98.646 235.94,98.796 
 		236.015,98.921 236.065,99.046 236.14,99.196 236.19,99.321 236.265,99.446 236.34,99.596 236.39,99.721 236.465,99.846 
 		236.54,99.971 236.615,100.071 236.69,100.196 236.765,100.296 236.84,100.371 236.915,100.446 236.99,100.521 237.065,100.571 
 		237.14,100.621 237.19,100.671 237.24,100.696 237.29,100.721 237.315,100.721 237.34,100.721 237.34,100.696 237.34,100.671 
@@ -7794,7 +7794,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="235.89" y1="98.646" x2="235.94" y2="98.796"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="235.815" y1="98.521" x2="235.89" y2="98.646"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="243.49,98.521 243.565,98.646 243.615,98.796 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="243.49,98.521 243.565,98.646 243.615,98.796 
 		243.69,98.921 243.74,99.046 243.79,99.196 243.865,99.321 243.94,99.446 243.99,99.596 244.065,99.721 244.14,99.846 
 		244.215,99.971 244.29,100.071 244.365,100.196 244.44,100.296 244.515,100.371 244.59,100.446 244.665,100.521 244.74,100.571 
 		244.79,100.621 244.865,100.671 244.915,100.696 244.94,100.721 244.965,100.721 244.99,100.721 245.015,100.721 245.015,100.696 
@@ -10189,7 +10189,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="243.565" y1="98.646" x2="243.615" y2="98.796"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="243.49" y1="98.521" x2="243.565" y2="98.646"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="228.165,89.071 228.215,89.196 228.29,89.321 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="228.165,89.071 228.215,89.196 228.29,89.321 
 		228.34,89.446 228.415,89.571 228.465,89.721 228.54,89.846 228.59,89.996 228.665,90.121 228.74,90.246 228.79,90.371 
 		228.865,90.496 228.94,90.621 229.015,90.721 229.09,90.821 229.19,90.896 229.265,90.971 229.34,91.046 229.415,91.096 
 		229.465,91.146 229.515,91.196 229.565,91.221 229.615,91.246 229.64,91.246 229.665,91.246 229.69,91.221 229.665,91.221 
@@ -12584,7 +12584,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="228.215" y1="89.196" x2="228.29" y2="89.321"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="228.165" y1="89.071" x2="228.215" y2="89.196"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="235.815,89.071 235.89,89.196 235.94,89.321 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="235.815,89.071 235.89,89.196 235.94,89.321 
 		236.015,89.446 236.065,89.571 236.14,89.721 236.19,89.846 236.265,89.996 236.34,90.121 236.39,90.246 236.465,90.371 
 		236.54,90.496 236.615,90.621 236.69,90.721 236.765,90.821 236.84,90.896 236.915,90.971 236.99,91.046 237.065,91.096 
 		237.14,91.146 237.19,91.196 237.24,91.221 237.29,91.246 237.315,91.246 237.34,91.246 237.34,91.221 237.34,91.196 
@@ -14979,7 +14979,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="235.89" y1="89.196" x2="235.94" y2="89.321"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="235.815" y1="89.071" x2="235.89" y2="89.196"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="243.49,89.071 243.565,89.196 243.615,89.321 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="243.49,89.071 243.565,89.196 243.615,89.321 
 		243.69,89.446 243.74,89.571 243.79,89.721 243.865,89.846 243.94,89.996 243.99,90.121 244.065,90.246 244.14,90.371 
 		244.215,90.496 244.29,90.621 244.365,90.721 244.44,90.821 244.515,90.896 244.59,90.971 244.665,91.046 244.74,91.096 
 		244.79,91.146 244.865,91.196 244.915,91.221 244.94,91.246 244.965,91.246 244.99,91.246 245.015,91.246 245.015,91.221 
@@ -17374,7 +17374,7 @@
 		c0-0.925-0.35-1.825-1.025-2.5c-0.675-0.65-1.575-1.025-2.5-1.025c-0.95,0-1.85,0.375-2.5,1.025c-0.675,0.675-1.05,1.575-1.05,2.5
 		c0,0.95,0.375,1.85,1.05,2.525c0.65,0.65,1.55,1.025,2.5,1.025c0.925,0,1.825-0.375,2.5-1.025
 		C222.615,89.171,222.965,88.271,222.965,87.321"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="220.49,89.071 220.565,89.196 220.615,89.321 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="220.49,89.071 220.565,89.196 220.615,89.321 
 		220.69,89.446 220.74,89.571 220.79,89.721 220.865,89.846 220.94,89.996 220.99,90.121 221.065,90.246 221.14,90.371 
 		221.215,90.496 221.29,90.621 221.365,90.721 221.44,90.821 221.515,90.896 221.59,90.971 221.665,91.046 221.74,91.096 
 		221.815,91.146 221.865,91.196 221.915,91.221 221.94,91.246 221.965,91.246 221.99,91.246 222.015,91.246 222.015,91.221 
@@ -19769,7 +19769,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="220.565" y1="89.196" x2="220.615" y2="89.321"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="220.49" y1="89.071" x2="220.565" y2="89.196"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="220.49,98.521 220.565,98.646 220.615,98.796 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="220.49,98.521 220.565,98.646 220.615,98.796 
 		220.69,98.921 220.74,99.046 220.79,99.196 220.865,99.321 220.94,99.446 220.99,99.596 221.065,99.721 221.14,99.846 
 		221.215,99.971 221.29,100.071 221.365,100.196 221.44,100.296 221.515,100.371 221.59,100.446 221.665,100.521 221.74,100.571 
 		221.815,100.621 221.865,100.671 221.915,100.696 221.94,100.721 221.965,100.721 221.99,100.721 222.015,100.721 222.015,100.696 
@@ -22164,7 +22164,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="220.565" y1="98.646" x2="220.615" y2="98.796"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="220.49" y1="98.521" x2="220.565" y2="98.646"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="251.165,89.071 251.215,89.196 251.29,89.321 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="251.165,89.071 251.215,89.196 251.29,89.321 
 		251.34,89.446 251.415,89.571 251.465,89.721 251.54,89.846 251.59,89.996 251.665,90.121 251.74,90.246 251.79,90.371 
 		251.865,90.496 251.94,90.621 252.015,90.721 252.09,90.821 252.19,90.896 252.265,90.971 252.34,91.046 252.415,91.096 
 		252.465,91.146 252.515,91.196 252.565,91.221 252.615,91.246 252.64,91.246 252.665,91.246 252.69,91.221 252.665,91.221 
@@ -24560,7 +24560,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="251.215" y1="89.196" x2="251.29" y2="89.321"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.06" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="251.165" y1="89.071" x2="251.215" y2="89.196"/>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="251.165,98.521 251.215,98.646 251.29,98.796 
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" points="251.165,98.521 251.215,98.646 251.29,98.796 
 		251.34,98.921 251.415,99.046 251.465,99.196 251.54,99.321 251.59,99.446 251.665,99.596 251.74,99.721 251.79,99.846 
 		251.865,99.971 251.94,100.071 252.015,100.196 252.09,100.296 252.19,100.371 252.265,100.446 252.34,100.521 252.415,100.571 
 		252.465,100.621 252.515,100.671 252.565,100.696 252.615,100.721 252.64,100.721 252.665,100.721 252.69,100.696 252.665,100.696 
@@ -27015,7 +27015,7 @@
 		<line fill="none" stroke="#000000" stroke-width="0.12" stroke-linejoin="round" stroke-miterlimit="1.414" x1="143.24" y1="61.821" x2="174.465" y2="61.821"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="0.12" stroke-linejoin="round" stroke-miterlimit="1.414" x1="143.24" y1="115.271" x2="174.465" y2="115.271"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M198.765,110.446c0-0.9-0.35-1.775-1-2.425
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M198.765,110.446c0-0.9-0.35-1.775-1-2.425
 		c-0.65-0.625-1.525-1-2.425-1c-0.925,0-1.775,0.375-2.425,1c-0.65,0.65-1,1.525-1,2.425c0,0.925,0.35,1.8,1,2.45
 		c0.65,0.625,1.5,1,2.425,1c0.9,0,1.775-0.375,2.425-1C198.415,112.246,198.765,111.371,198.765,110.446L198.765,110.446z"/>
 	<path fill="none" stroke="#000000" stroke-width="0.12" stroke-linejoin="round" stroke-miterlimit="1.414" d="M198.765,110.446
@@ -27028,7 +27028,7 @@
 		c-0.65,0-1.3,0.25-1.775,0.725C82.715,30.546,82.44,31.196,82.44,31.871"/>
 	<polyline fill="none" stroke="#000000" stroke-width="0.12" stroke-linejoin="round" stroke-miterlimit="1.414" points="
 		89.715,30.071 92.04,27.071 93.665,27.071 	"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M100.54,27.071c0-0.9-0.375-1.775-1-2.425
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M100.54,27.071c0-0.9-0.375-1.775-1-2.425
 		c-0.65-0.65-1.525-1-2.45-1c-0.9,0-1.775,0.35-2.425,1c-0.65,0.65-1,1.525-1,2.425c0,0.9,0.35,1.775,1,2.425
 		c0.65,0.65,1.525,1,2.425,1c0.925,0,1.8-0.35,2.45-1C100.165,28.846,100.54,27.971,100.54,27.071L100.54,27.071z"/>
 	<path fill="none" stroke="#000000" stroke-width="0.12" stroke-linejoin="round" stroke-miterlimit="1.414" d="M100.54,27.071

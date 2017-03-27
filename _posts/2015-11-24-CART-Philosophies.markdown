@@ -10,7 +10,7 @@ image:
 
 
 
-<div id="cart-philosophies">
+<div class="cart-philosophies">
 
 {% include cart-philosophies/introduction.markdown %}
 {% include cart-philosophies/drawing-and-describing-architectural-entities.markdown %}
@@ -31,4 +31,3 @@ image:
 </div>
 
 {% include cart-philosophies/masonry-script.markdown %}
-

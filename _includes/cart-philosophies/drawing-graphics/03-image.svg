@@ -91,27 +91,27 @@
 	c0.5-0.5,0.8-0.8,0.9-1.1c0.2-0.3,0.3-0.6,0.3-0.9s-0.1-0.6-0.3-0.9c-0.2-0.3-0.5-0.4-0.9-0.4c-0.4,0-0.7,0.1-0.9,0.4
 	c-0.2,0.2-0.4,0.5-0.4,1h0.5c0-0.3,0.1-0.5,0.2-0.7c0.2-0.1,0.3-0.2,0.6-0.2c0.2,0,0.3,0.1,0.5,0.2c0.1,0.2,0.2,0.4,0.2,0.6
 	s-0.1,0.4-0.2,0.7c-0.1,0.2-0.4,0.6-0.9,1c-0.4,0.4-0.6,0.7-0.8,1c-0.1,0.3-0.2,0.6-0.2,0.8h2.6V55.57"/>
-<text transform="matrix(1 0 0 1 0 6.8564)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">INTERNAL ELE</tspan><tspan x="52.912" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">V</tspan><tspan x="57.216" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">A</tspan><tspan x="61.72" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">TIONS</tspan></text>
-<text transform="matrix(1 0 0 1 18.4253 129.3184)" fill="#CD1719" font-family="'Helvetica'" font-size="9">S</text>
-<text transform="matrix(1 0 0 1 24.0952 129.3184)" fill="#CD1719" font-family="'Helvetica'" font-size="9">ame sheet</text>
-<text transform="matrix(1 0 0 1 18.4253 38.4678)" fill="#CD1719" font-family="'Helvetica'" font-size="9">D</text>
-<text transform="matrix(1 0 0 1 24.5903 38.4678)" fill="#CD1719" font-family="'Helvetica'" font-size="9">etail number</text>
-<text transform="matrix(1 0 0 1 18.4253 106.6406)" fill="#CD1719" font-family="'Helvetica'" font-size="9">D</text>
-<text transform="matrix(1 0 0 1 24.5903 106.6406)" fill="#CD1719" font-family="'Helvetica'" font-size="9">etail number</text>
-<text transform="matrix(1 0 0 1 18.4253 56.6094)" fill="#CD1719" font-family="'Helvetica'" font-size="9">D</text>
-<text transform="matrix(1 0 0 1 24.5903 56.6094)" fill="#CD1719" font-family="'Helvetica'" font-size="9">rawing number</text>
-<text transform="matrix(1 0 0 1 82.6035 56.6094)" fill="#CD1719" font-family="'Helvetica'" font-size="9"> </text>
-<text transform="matrix(1 0 0 1 18.4253 67.209)"><tspan x="0" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">di</tspan><tspan x="6.831" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">f</tspan><tspan x="9.009" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">fe</tspan><tspan x="16.011" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="18.693" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">ent sheet</tspan></text>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.272" x1="72.462" y1="125.526" x2="153.114" y2="125.526"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M154.251,125.526
+<text transform="matrix(1 0 0 1 0 6.8564)"><tspan x="0" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">INTERNAL ELE</tspan><tspan x="52.912" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">V</tspan><tspan x="57.216" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">A</tspan><tspan x="61.72" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">TIONS</tspan></text>
+<text transform="matrix(1 0 0 1 18.4253 129.3184)" fill="#cd1719" font-family="'Helvetica'" font-size="9">S</text>
+<text transform="matrix(1 0 0 1 24.0952 129.3184)" fill="#cd1719" font-family="'Helvetica'" font-size="9">ame sheet</text>
+<text transform="matrix(1 0 0 1 18.4253 38.4678)" fill="#cd1719" font-family="'Helvetica'" font-size="9">D</text>
+<text transform="matrix(1 0 0 1 24.5903 38.4678)" fill="#cd1719" font-family="'Helvetica'" font-size="9">etail number</text>
+<text transform="matrix(1 0 0 1 18.4253 106.6406)" fill="#cd1719" font-family="'Helvetica'" font-size="9">D</text>
+<text transform="matrix(1 0 0 1 24.5903 106.6406)" fill="#cd1719" font-family="'Helvetica'" font-size="9">etail number</text>
+<text transform="matrix(1 0 0 1 18.4253 56.6094)" fill="#cd1719" font-family="'Helvetica'" font-size="9">D</text>
+<text transform="matrix(1 0 0 1 24.5903 56.6094)" fill="#cd1719" font-family="'Helvetica'" font-size="9">rawing number</text>
+<text transform="matrix(1 0 0 1 82.6035 56.6094)" fill="#cd1719" font-family="'Helvetica'" font-size="9"> </text>
+<text transform="matrix(1 0 0 1 18.4253 67.209)"><tspan x="0" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">di</tspan><tspan x="6.831" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">f</tspan><tspan x="9.009" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">fe</tspan><tspan x="16.011" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="18.693" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">ent sheet</tspan></text>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.272" x1="72.462" y1="125.526" x2="153.114" y2="125.526"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M154.251,125.526
 	L154.251,125.526 M70.19,125.526L70.19,125.526"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.228" x1="79.505" y1="103.817" x2="147.467" y2="103.817"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M148.582,103.817
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.228" x1="79.505" y1="103.817" x2="147.467" y2="103.817"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M148.582,103.817
 	L148.582,103.817 M77.277,103.817L77.277,103.817"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.262" x1="91.586" y1="53.526" x2="142.489" y2="53.526"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M143.621,53.526
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.262" x1="91.586" y1="53.526" x2="142.489" y2="53.526"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M143.621,53.526
 	L143.621,53.526 M89.324,53.526L89.324,53.526"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.277" x1="80.263" y1="35.951" x2="147.443" y2="35.951"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M148.582,35.951
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.277" x1="80.263" y1="35.951" x2="147.443" y2="35.951"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M148.582,35.951
 	L148.582,35.951 M77.986,35.951L77.986,35.951"/>
 </svg>

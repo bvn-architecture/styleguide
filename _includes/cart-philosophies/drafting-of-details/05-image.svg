@@ -141,24 +141,24 @@
 	 M6.251,2.393h0.044L6.33,2.277h0.131l0.037,0.116h0.043L6.418,2.016H6.374L6.251,2.393"/>
 <polygon points="6.577,2.393 6.613,2.393 6.613,2.096 6.773,2.393 6.816,2.393 6.816,2.016 6.78,2.016 6.78,2.314 6.613,2.016 
 	6.577,2.016 "/>
-<line fill="none" stroke="#231F20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="0.566" x2="0.326" y2="0.566"/>
-<line fill="none" stroke="#231F20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="0.566" x2="0.326" y2="0.566"/>
-<line fill="none" stroke="#231F20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="0" y1="0.566" x2="1.131" y2="0.566"/>
-<path fill="none" stroke="#231F20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" d="M1.131,0.566
+<line fill="none" stroke="#231f20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="0.566" x2="0.326" y2="0.566"/>
+<line fill="none" stroke="#231f20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="0.566" x2="0.326" y2="0.566"/>
+<line fill="none" stroke="#231f20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="0" y1="0.566" x2="1.131" y2="0.566"/>
+<path fill="none" stroke="#231f20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" d="M1.131,0.566
 	c0-0.073-0.015-0.145-0.043-0.218c-0.029-0.072-0.073-0.13-0.124-0.181S0.849,0.073,0.783,0.043C0.718,0.015,0.638,0,0.565,0
 	C0.493,0,0.42,0.015,0.348,0.043C0.275,0.073,0.217,0.116,0.167,0.167C0.116,0.218,0.073,0.283,0.043,0.348
 	C0.015,0.414,0,0.493,0,0.566c0,0.072,0.015,0.152,0.043,0.217c0.029,0.073,0.073,0.131,0.124,0.182
 	c0.05,0.051,0.116,0.094,0.181,0.123s0.145,0.043,0.217,0.043c0.073,0,0.152-0.015,0.218-0.043c0.072-0.029,0.13-0.072,0.181-0.123
 	s0.094-0.116,0.124-0.182C1.117,0.711,1.131,0.638,1.131,0.566"/>
-<line fill="none" stroke="#231F20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="2.48" x2="0.326" y2="2.48"/>
-<line fill="none" stroke="#231F20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="2.48" x2="0.326" y2="2.48"/>
-<line fill="none" stroke="#231F20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="0" y1="2.48" x2="1.131" y2="2.48"/>
-<path fill="none" stroke="#231F20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" d="M1.131,2.48
+<line fill="none" stroke="#231f20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="2.48" x2="0.326" y2="2.48"/>
+<line fill="none" stroke="#231f20" stroke-width="0.046" stroke-linejoin="bevel" stroke-miterlimit="1.414" x1="0.326" y1="2.48" x2="0.326" y2="2.48"/>
+<line fill="none" stroke="#231f20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="0" y1="2.48" x2="1.131" y2="2.48"/>
+<path fill="none" stroke="#231f20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" d="M1.131,2.48
 	c0-0.072-0.015-0.145-0.043-0.217C1.059,2.19,1.015,2.132,0.964,2.082S0.849,1.987,0.783,1.958C0.718,1.929,0.638,1.915,0.565,1.915
 	c-0.072,0-0.145,0.015-0.217,0.043C0.275,1.987,0.217,2.031,0.167,2.082C0.116,2.132,0.073,2.197,0.043,2.263
 	C0.015,2.328,0,2.408,0,2.48s0.015,0.152,0.043,0.218c0.029,0.065,0.073,0.13,0.124,0.181c0.05,0.051,0.116,0.095,0.181,0.124
 	c0.065,0.028,0.145,0.044,0.217,0.044c0.073,0,0.152-0.016,0.218-0.044c0.072-0.029,0.13-0.073,0.181-0.124s0.094-0.115,0.124-0.181
 	C1.117,2.625,1.131,2.552,1.131,2.48"/>
-<line fill="none" stroke="#231F20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="1.131" y1="0.566" x2="7.52" y2="0.566"/>
-<line fill="none" stroke="#231F20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="1.131" y1="2.48" x2="7.52" y2="2.48"/>
+<line fill="none" stroke="#231f20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="1.131" y1="0.566" x2="7.52" y2="0.566"/>
+<line fill="none" stroke="#231f20" stroke-width="0.091" stroke-linejoin="round" stroke-miterlimit="1.414" x1="1.131" y1="2.48" x2="7.52" y2="2.48"/>
 </svg>

@@ -90,12 +90,12 @@
 	c0.6-0.7,1-1.2,1.3-1.6c0.2-0.4,0.3-0.9,0.3-1.3c0-0.5-0.1-0.9-0.4-1.3c-0.3-0.4-0.8-0.6-1.3-0.6c-0.6,0-1,0.2-1.3,0.5
 	c-0.3,0.3-0.5,0.8-0.6,1.5l0.7,0.1c0-0.5,0.1-0.8,0.4-1c0.2-0.3,0.4-0.4,0.7-0.4s0.6,0.1,0.8,0.3c0.2,0.2,0.3,0.5,0.3,0.9
 	c0,0.3-0.1,0.6-0.3,1c-0.2,0.3-0.6,0.8-1.3,1.5c-0.5,0.5-0.9,1-1.1,1.4c-0.2,0.4-0.3,0.8-0.3,1.1h3.7V57.457"/>
-<text transform="matrix(1 0 0 1 16.5723 41.396)" fill="#CD1719" font-family="'Helvetica'" font-size="9">N</text>
-<text transform="matrix(1 0 0 1 22.9082 41.396)" fill="#CD1719" font-family="'Helvetica'" font-size="9">umber with </text>
-<text transform="matrix(1 0 0 1 68.7446 41.396)" fill="#CD1719" font-family="'Helvetica'" font-size="9"> </text>
-<text transform="matrix(1 0 0 1 16.5723 51.9956)"><tspan x="0" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">leading ze</tspan><tspan x="39.015" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="41.696" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">o</tspan></text>
-<text transform="matrix(1 0 0 1 16.5723 82.7817)" fill="#CD1719" font-family="'Helvetica'" font-size="9">F</text>
-<path fill="#CD1719" d="M21.954,76.365h0.567v0.9h-0.567V76.365z M21.954,78.138h0.567v4.644h-0.567V78.138z M23.601,78.138h0.567
+<text transform="matrix(1 0 0 1 16.5723 41.396)" fill="#cd1719" font-family="'Helvetica'" font-size="9">N</text>
+<text transform="matrix(1 0 0 1 22.9082 41.396)" fill="#cd1719" font-family="'Helvetica'" font-size="9">umber with </text>
+<text transform="matrix(1 0 0 1 68.7446 41.396)" fill="#cd1719" font-family="'Helvetica'" font-size="9"> </text>
+<text transform="matrix(1 0 0 1 16.5723 51.9956)"><tspan x="0" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">leading ze</tspan><tspan x="39.015" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="41.696" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">o</tspan></text>
+<text transform="matrix(1 0 0 1 16.5723 82.7817)" fill="#cd1719" font-family="'Helvetica'" font-size="9">F</text>
+<path fill="#cd1719" d="M21.954,76.365h0.567v0.9h-0.567V76.365z M21.954,78.138h0.567v4.644h-0.567V78.138z M23.601,78.138h0.567
 	v0.801h0.018c0.054-0.138,0.131-0.266,0.229-0.383c0.099-0.117,0.214-0.216,0.347-0.297c0.132-0.081,0.276-0.144,0.432-0.189
 	c0.156-0.045,0.315-0.068,0.477-0.068c0.324,0,0.595,0.042,0.814,0.126c0.219,0.084,0.394,0.203,0.527,0.356
 	c0.132,0.153,0.225,0.341,0.279,0.563c0.054,0.222,0.081,0.471,0.081,0.747v2.988h-0.567v-2.898c0-0.198-0.018-0.383-0.054-0.553
@@ -173,27 +173,27 @@
 	 M65.613,78.138h0.522v1.089h0.018c0.144-0.378,0.367-0.669,0.671-0.873c0.303-0.204,0.664-0.297,1.085-0.279v0.567
 	c-0.258-0.012-0.492,0.023-0.702,0.104c-0.21,0.081-0.391,0.197-0.544,0.346c-0.153,0.15-0.272,0.33-0.355,0.54
 	c-0.084,0.21-0.126,0.435-0.126,0.675v2.475h-0.567V78.138z"/>
-<text transform="matrix(1 0 0 1 70.4097 82.7817)" fill="#CD1719" font-family="'Helvetica'" font-size="9"> </text>
-<text transform="matrix(1 0 0 1 16.5723 93.3818)"><tspan x="0" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">level in met</tspan><tspan x="43.172" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="45.854" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">es</tspan></text>
-<text transform="matrix(1 0 0 1 0.0562 6.856)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">ELE</tspan><tspan x="13.784" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">V</tspan><tspan x="18.096" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">A</tspan><tspan x="22.6" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">TION AND</tspan></text>
-<text transform="matrix(1 0 0 1 58.7993 6.856)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8"> </text>
-<text transform="matrix(1 0 0 1 0.0562 15.856)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">SECTION LEVEL</text>
-<text transform="matrix(1 0 0 1 58.3032 15.856)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8"> </text>
-<text transform="matrix(1 0 0 1 0.0562 24.856)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">BENCHMARK</text>
-<text transform="matrix(1 0 0 1 0.0562 118.2944)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">ALIGN </text>
-<text transform="matrix(1 0 0 1 24.9517 118.2944)" fill="#1D1D1B" font-family="'Helvetica'" font-size="8"> </text>
-<text transform="matrix(1 0 0 1 0.0562 127.2944)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">SUR</tspan><tspan x="15.856" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">F</tspan><tspan x="19.72" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">ACES</tspan></text>
-<text transform="matrix(1 0 0 1 0.0562 204.3398)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">NO</tspan><tspan x="11.56" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">R</tspan><tspan x="16.944" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">TH SYMBOL</tspan></text>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.234" x1="74.164" y1="39.171" x2="142.313" y2="39.171"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.77" x1="143.43" y1="41.942" x2="143.43" y2="43.327"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M143.43,44.712
+<text transform="matrix(1 0 0 1 70.4097 82.7817)" fill="#cd1719" font-family="'Helvetica'" font-size="9"> </text>
+<text transform="matrix(1 0 0 1 16.5723 93.3818)"><tspan x="0" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">level in met</tspan><tspan x="43.172" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="45.854" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">es</tspan></text>
+<text transform="matrix(1 0 0 1 0.0562 6.856)"><tspan x="0" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">ELE</tspan><tspan x="13.784" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">V</tspan><tspan x="18.096" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">A</tspan><tspan x="22.6" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">TION AND</tspan></text>
+<text transform="matrix(1 0 0 1 58.7993 6.856)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8"> </text>
+<text transform="matrix(1 0 0 1 0.0562 15.856)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">SECTION LEVEL</text>
+<text transform="matrix(1 0 0 1 58.3032 15.856)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8"> </text>
+<text transform="matrix(1 0 0 1 0.0562 24.856)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">BENCHMARK</text>
+<text transform="matrix(1 0 0 1 0.0562 118.2944)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">ALIGN </text>
+<text transform="matrix(1 0 0 1 24.9517 118.2944)" fill="#1d1d1b" font-family="'Helvetica'" font-size="8"> </text>
+<text transform="matrix(1 0 0 1 0.0562 127.2944)"><tspan x="0" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">SUR</tspan><tspan x="15.856" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">F</tspan><tspan x="19.72" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">ACES</tspan></text>
+<text transform="matrix(1 0 0 1 0.0562 204.3398)"><tspan x="0" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">NO</tspan><tspan x="11.56" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">R</tspan><tspan x="16.944" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">TH SYMBOL</tspan></text>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.234" x1="74.164" y1="39.171" x2="142.313" y2="39.171"/>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.77" x1="143.43" y1="41.942" x2="143.43" y2="43.327"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M143.43,44.712
 	L143.43,44.712 M143.43,39.171L143.43,39.171 M71.93,39.171L71.93,39.171"/>
-<path fill="#CD1719" d="M143.43,43.212c-0.828,0-1.5,0.671-1.5,1.5c0,0.828,0.672,1.5,1.5,1.5c0.828,0,1.5-0.672,1.5-1.5
+<path fill="#cd1719" d="M143.43,43.212c-0.828,0-1.5,0.671-1.5,1.5c0,0.828,0.672,1.5,1.5,1.5c0.828,0,1.5-0.672,1.5-1.5
 	C144.93,43.883,144.258,43.212,143.43,43.212"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.234" x1="73.513" y1="80.822" x2="141.662" y2="80.822"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.319" x1="142.778" y1="78.502" x2="142.778" y2="75.023"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M142.778,73.864
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.234" x1="73.513" y1="80.822" x2="141.662" y2="80.822"/>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.319" x1="142.778" y1="78.502" x2="142.778" y2="75.023"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M142.778,73.864
 	L142.778,73.864 M142.778,80.822L142.778,80.822 M71.278,80.822L71.278,80.822"/>
-<path fill="#CD1719" d="M142.778,75.364c-0.828,0-1.5-0.672-1.5-1.5c0-0.828,0.672-1.5,1.5-1.5c0.828,0,1.5,0.672,1.5,1.5
+<path fill="#cd1719" d="M142.778,75.364c-0.828,0-1.5-0.672-1.5-1.5c0-0.828,0.672-1.5,1.5-1.5c0.828,0,1.5,0.672,1.5,1.5
 	C144.278,74.692,143.606,75.364,142.778,75.364"/>
 </svg>

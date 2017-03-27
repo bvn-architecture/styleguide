@@ -7,7 +7,7 @@
 <rect id="logo-structure-black-box" x="171.562" y="1022.362" width="929.399" height="506.498"/>
 
 <!-- White box -->
-<rect id="logo-structure-white-box" x="252.426" y="1103.028" fill="#FFFFFF" width="770.469" height="345.515"/>
+<rect id="logo-structure-white-box" x="252.426" y="1103.028" fill="#ffffff" width="770.469" height="345.515"/>
 
 <!-- BVN text -->
 <path id="logo-structure-bvn-text" fill="black" d="M171.562,1022.362v506.498h929.399v-506.498H171.562z M319.086,1448.543h-66.66v-0.546v-131.679h66.112

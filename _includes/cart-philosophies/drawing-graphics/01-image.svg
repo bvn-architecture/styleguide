@@ -1,12 +1,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 270 114.671" enable-background="new 0 0 270 114.671" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M162.129,95.071c0-3.7-1.5-7.2-4-9.7c-2.6-2.6-6.1-4.1-9.8-4.1
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M162.129,95.071c0-3.7-1.5-7.2-4-9.7c-2.6-2.6-6.1-4.1-9.8-4.1
 	c-3.6,0-7.1,1.5-9.7,4.1c-2.5,2.5-4,6-4,9.7c0,3.6,1.5,7.1,4,9.7c2.6,2.5,6.1,4,9.7,4c3.7,0,7.2-1.5,9.8-4
 	C160.629,102.171,162.129,98.671,162.129,95.071"/>
 <path fill="none" stroke="#000000" stroke-width="0.48" stroke-linejoin="round" stroke-miterlimit="1.414" d="M162.129,95.071
 	c0-3.7-1.5-7.2-4-9.7c-2.6-2.6-6.1-4.1-9.8-4.1c-3.6,0-7.1,1.5-9.7,4.1c-2.5,2.5-4,6-4,9.7c0,3.6,1.5,7.1,4,9.7c2.6,2.5,6.1,4,9.7,4
 	c3.7,0,7.2-1.5,9.8-4C160.629,102.171,162.129,98.671,162.129,95.071"/>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M162.129,30.471c0-3.6-1.5-7.1-4-9.7c-2.6-2.6-6.1-4-9.8-4
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M162.129,30.471c0-3.6-1.5-7.1-4-9.7c-2.6-2.6-6.1-4-9.8-4
 	c-3.6,0-7.1,1.4-9.7,4c-2.5,2.6-4,6.1-4,9.7c0,3.6,1.5,7.1,4,9.7c2.6,2.6,6.1,4,9.7,4c3.7,0,7.2-1.4,9.8-4
 	C160.629,37.571,162.129,34.071,162.129,30.471"/>
 <path fill="none" stroke="#000000" stroke-width="0.48" stroke-linejoin="round" stroke-miterlimit="1.414" d="M162.129,30.471
@@ -54,24 +54,24 @@
 	C145.029,22.971,144.829,23.871,144.829,25.071"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M152.129,28.671v-7.2h-0.5c-0.1,0.3-0.3,0.6-0.6,0.9c-0.3,0.4-0.7,0.6-1.1,0.9v0.8
 	c0.3-0.1,0.5-0.2,0.8-0.4s0.5-0.4,0.7-0.6v5.6H152.129"/>
-<text transform="matrix(1 0 0 1 0 6.856)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">ELE</tspan><tspan x="13.784" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">V</tspan><tspan x="18.096" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">A</tspan><tspan x="22.6" y="0" fill="#1D1D1B" font-family="'Helvetica'" font-size="8">TION</tspan></text>
-<text transform="matrix(1 0 0 1 18.4253 27.5259)" fill="#CD1719" font-family="'Helvetica'" font-size="9">Detail number</text>
-<text transform="matrix(1 0 0 1 18.4253 93.0063)" fill="#CD1719" font-family="'Helvetica'" font-size="9">Detail number</text>
-<text transform="matrix(1 0 0 1 18.4253 103.7778)" fill="#CD1719" font-family="'Helvetica'" font-size="9">Same sheet</text>
-<text transform="matrix(1 0 0 1 18.4253 51.6206)" fill="#CD1719" font-family="'Helvetica'" font-size="9">Drawing number</text>
-<text transform="matrix(1 0 0 1 82.6035 51.6206)" fill="#CD1719" font-family="'Helvetica'" font-size="9"> </text>
-<text transform="matrix(1 0 0 1 18.4253 62.2207)"><tspan x="0" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">di</tspan><tspan x="6.831" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">f</tspan><tspan x="9.009" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">fe</tspan><tspan x="16.011" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="18.693" y="0" fill="#CD1719" font-family="'Helvetica'" font-size="9">ent sheet</tspan></text>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.232" x1="73.131" y1="99.703" x2="138.962" y2="99.703"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M140.078,99.703
+<text transform="matrix(1 0 0 1 0 6.856)"><tspan x="0" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">ELE</tspan><tspan x="13.784" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">V</tspan><tspan x="18.096" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">A</tspan><tspan x="22.6" y="0" fill="#1d1d1b" font-family="'Helvetica'" font-size="8">TION</tspan></text>
+<text transform="matrix(1 0 0 1 18.4253 27.5259)" fill="#cd1719" font-family="'Helvetica'" font-size="9">Detail number</text>
+<text transform="matrix(1 0 0 1 18.4253 93.0063)" fill="#cd1719" font-family="'Helvetica'" font-size="9">Detail number</text>
+<text transform="matrix(1 0 0 1 18.4253 103.7778)" fill="#cd1719" font-family="'Helvetica'" font-size="9">Same sheet</text>
+<text transform="matrix(1 0 0 1 18.4253 51.6206)" fill="#cd1719" font-family="'Helvetica'" font-size="9">Drawing number</text>
+<text transform="matrix(1 0 0 1 82.6035 51.6206)" fill="#cd1719" font-family="'Helvetica'" font-size="9"> </text>
+<text transform="matrix(1 0 0 1 18.4253 62.2207)"><tspan x="0" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">di</tspan><tspan x="6.831" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">f</tspan><tspan x="9.009" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">fe</tspan><tspan x="16.011" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">r</tspan><tspan x="18.693" y="0" fill="#cd1719" font-family="'Helvetica'" font-size="9">ent sheet</tspan></text>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.232" x1="73.131" y1="99.703" x2="138.962" y2="99.703"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M140.078,99.703
 	L140.078,99.703 M70.899,99.703L70.899,99.703"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.218" x1="80.204" y1="90.466" x2="138.97" y2="90.466"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M140.078,90.466
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.218" x1="80.204" y1="90.466" x2="138.97" y2="90.466"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M140.078,90.466
 	L140.078,90.466 M77.986,90.466L77.986,90.466"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.232" x1="91.662" y1="49.955" x2="144.111" y2="49.955"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.303" x1="145.226" y1="47.651" x2="145.226" y2="41.893"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M145.226,40.742
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.232" x1="91.662" y1="49.955" x2="144.111" y2="49.955"/>
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.303" x1="145.226" y1="47.651" x2="145.226" y2="41.893"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M145.226,40.742
 	L145.226,40.742 M145.226,49.955L145.226,49.955 M89.43,49.955L89.43,49.955"/>
-<line fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.218" x1="81.207" y1="24.726" x2="139.973" y2="24.726"/>
-<path fill="none" stroke="#CD1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M141.081,24.726
+<line fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,2.218" x1="81.207" y1="24.726" x2="139.973" y2="24.726"/>
+<path fill="none" stroke="#cd1719" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" d="M141.081,24.726
 	L141.081,24.726 M78.989,24.726L78.989,24.726"/>
 </svg>

@@ -1,7 +1,7 @@
 <svg version="1.1" id="examples-of-usage-of-the-graphic-elements" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1700.79 850.391" enable-background="new 0 0 1700.79 850.391"
 	 xml:space="preserve" alt="Examples of graphic element uses.">
-<rect x="1211.901" y="247.368" fill="#FFFFFF" width="413.584" height="584.924"/>
+<rect x="1211.901" y="247.368" fill="#ffffff" width="413.584" height="584.924"/>
 <rect x="10.501" y="18.443" fill="white" stroke="#000000" stroke-width="0.25" width="827.166" height="584.924"/>
 <path d="M25.705,308.886h-1.771l1.771-2.794V308.886z M27.143,309.642v-0.756h-0.641v-3.813h-1.03l-2.501,3.898v0.671h2.735v1.264
 	h0.796v-1.264H27.143z"/>
@@ -10,11 +10,11 @@
 		S243.557,70.764,243.557,98.863 M243.557,200.637V98.863V47.987H40.049v373.189h101.752v152.651h203.512v-373.19H243.557z"/>
 </g>
 <line fill="none" stroke="#000000" stroke-width="0.25" x1="424.088" y1="18.095" x2="424.088" y2="603.716"/>
-<rect x="92.681" y="665.664" fill="#FFFFFF" width="288.39" height="166.628"/>
+<rect x="92.681" y="665.664" fill="#ffffff" width="288.39" height="166.628"/>
 <rect x="92.681" y="665.664" fill="none" stroke="#000000" stroke-width="0.25" width="288.39" height="166.628"/>
 <path d="M173.257,797.509v-32.96h-49.672v32.96H173.257z M184.929,809.18h-73.02V675.283h0.003h73.017h90.676v22.314h61.385v33.476
 	v33.476h-61.385h-90.676V809.18z"/>
-<rect x="403.003" y="665.549" fill="#FFFFFF" width="288.39" height="166.628"/>
+<rect x="403.003" y="665.549" fill="#ffffff" width="288.39" height="166.628"/>
 <rect x="403.003" y="665.549" fill="none" stroke="#000000" stroke-width="0.25" width="288.39" height="166.628"/>
 <g>
 	<path d="M452.765,779.599v16.342h-4.202L452.765,779.599z M436.616,795.941c0.519-1.026,0.812-2.187,0.812-3.413
@@ -24,14 +24,14 @@
 		l-3.979-15.411H448.818z M464.484,795.941h-7.533v-12.429L464.484,795.941z M466.107,790.535l-7.529-12.425h7.529V790.535z
 		 M422.231,773.92v26.208h48.063V773.92H422.231z"/>
 </g>
-<rect x="776.378" y="247.368" fill="#FFFFFF" width="413.583" height="584.924"/>
+<rect x="776.378" y="247.368" fill="#ffffff" width="413.583" height="584.924"/>
 <rect x="776.378" y="247.368" fill="none" stroke="#000000" stroke-width="0.25" width="413.583" height="584.924"/>
 <path d="M805.922,802.748h152.629V575.276V504.38V276.908H805.922V504.38v70.9V802.748z M1085.749,475.821V276.908H983.993v198.913
 	H1085.749z"/>
 <path fill="none" stroke="#000000" stroke-width="0.375" stroke-miterlimit="10" d="M805.922,802.748h152.629V575.276V504.38
 	V276.908H805.922V504.38v70.9V802.748z M1085.749,475.821V276.908H983.993v198.913H1085.749z"/>
 <rect x="1211.901" y="247.368" fill="none" stroke="#000000" stroke-width="0.25" width="413.584" height="584.924"/>
-<rect x="923.901" y="18.443" fill="#FFFFFF" width="372.229" height="175.477"/>
+<rect x="923.901" y="18.443" fill="#ffffff" width="372.229" height="175.477"/>
 <rect x="923.901" y="18.443" fill="none" stroke="#000000" stroke-width="0.25" width="372.229" height="175.477"/>
 <g>
 	<path d="M965.44,46.271v10.847h-2.787L965.44,46.271z M954.719,57.121c0.344-0.682,0.541-1.452,0.541-2.264
@@ -41,7 +41,7 @@
 		l-2.643-10.231H962.819z M973.221,57.121h-5.004v-8.248L973.221,57.121z M974.299,53.531l-5.004-8.249h5.004V53.531z M945.174,42.5
 		v17.396h31.9V42.5H945.174z"/>
 </g>
-<rect x="1318.063" y="18.443" fill="#FFFFFF" width="372.223" height="175.477"/>
+<rect x="1318.063" y="18.443" fill="#ffffff" width="372.223" height="175.477"/>
 <rect x="1318.063" y="18.443" fill="none" stroke="#000000" stroke-width="0.25" width="372.223" height="175.477"/>
 <g>
 	<path d="M1507.323,133.402h-142.797h-25.193V32.624h184.799v50.392h75.588v50.387h-75.588H1507.323z M1364.526,183.789
