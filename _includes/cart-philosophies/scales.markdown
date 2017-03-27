@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-  <h1 class="cart-collapsible-div">Scales</h1>
+<h1 class="cart-collapsible-div">Scales</h1>
 
 <div class="cart-philosophies-wrapper">
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="guides" value="cart-philosophies/scales/00-block.markdown" %}

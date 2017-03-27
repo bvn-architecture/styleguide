@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-  <h1 class="cart-collapsible-div">Windows</h1>
+<h1 class="cart-collapsible-div">Windows</h1>
 
 <dl>
 
