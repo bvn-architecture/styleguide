@@ -1,6 +1,3 @@
-<section id="colours-page-tertiary-colours">
-</section>
-
 ## Tertiary colours
 
 Our extended colour palette includes 15 colours with an allowance of 3 tints for each colour. This means you have 60 colours to work with – which can be used in any colour combination.

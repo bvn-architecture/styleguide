@@ -1,6 +1,3 @@
-<section id="graphical-elements-graphics">
-</section>
-
 ## BVN graphic elements
 
 <div class="graphic-elements-container">

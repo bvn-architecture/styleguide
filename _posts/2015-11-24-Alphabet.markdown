@@ -8,7 +8,7 @@ categories:
 image:        
 ---
 
-<div id="alphabet">
+<div class="alphabet">
 
 {% include alphabet/alphabet-introduction.markdown %}
 {% include alphabet/letter-a.markdown %}

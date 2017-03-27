@@ -1,4 +1,4 @@
-<section id="colours-page-primary-colours">
+<section class="colours-page-primary-colours">
 </section>
 
 ## Primary colours
@@ -39,7 +39,7 @@ Our primary colours are black and white. Our logo should never appear in any oth
       <rect width="100%" height="100%" class="bvn-white" />
     </svg>
     <div class="values">Purewhite<br>
-      <span class="cmyk-wrap"> 
+      <span class="cmyk-wrap">
         <span class="primary-wrap">
           <span class="colour-letter">C</span><span class="colour-value">0</span>
           <span class="colour-letter">Y</span><span class="colour-value">0</span>

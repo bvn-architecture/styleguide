@@ -1,4 +1,4 @@
-article.post.colour {
+.post.colour {
   .secondary-swatch,
   .tertiary-swatch {
     display: inline-block;
@@ -7,14 +7,14 @@ article.post.colour {
   }
 
 
-  span.colour-letter {
+  .colour-letter {
     display: inline-block;
     font-weight: bold;
     text-align: right;
     width: 1em;
   }
 
-  span.colour-value {
+  .colour-value {
     display: inline-block;
     text-align: right;
     width: 1.7em;
@@ -43,7 +43,7 @@ article.post.colour {
 
         div {
           height: 2em;
-          &.tint100 {background-color: rgba($bvn-black, 1.00);}
+          &.tint100 {background-color: rgba($bvn-black, 1   );}
           &.tint070 {background-color: rgba($bvn-black,  .70);}
           &.tint040 {background-color: rgba($bvn-black,  .40);}
           &.tint015 {background-color: rgba($bvn-black,  .15);}
@@ -55,7 +55,8 @@ article.post.colour {
       }
     }
 
-    &.secondary, &.tertiary {
+    &.secondary,
+    &.tertiary {
       @include span-columns(2);
       height: 2em;
     }
@@ -80,7 +81,7 @@ article.post.colour {
 
   .colour-block div {
     height: 2em;
-    &.opacity-100 {opacity: 1.00;}
+    &.opacity-100 {opacity: 1   ;}
     &.opacity-070 {opacity:  .70;}
     &.opacity-040 {opacity:  .40;}
     &.opacity-015 {opacity:  .15;}
@@ -139,7 +140,7 @@ article.post.colour {
   }
 
 
-  #colour-option-one {
+  .colour-option-one {
     .legend-01 { fill: $secondary-yellow;  }
     .legend-02 { fill: $trans-secondary-yellow;  }
     .legend-03 { fill: $secondary-blue; }
@@ -147,7 +148,7 @@ article.post.colour {
     .legend-05 { fill: $secondary-brown; }
   }
 
-  #colour-option-two {
+  .colour-option-two {
     .legend-01 { fill: $tertiary-green;  }
     .legend-02 { fill: $trans-tertiary-green;   }
     .legend-03 { fill: $tertiary-pink;  }
@@ -155,7 +156,7 @@ article.post.colour {
     .legend-05 { fill: $secondary-blue; }
   }
 
-  #colour-option-three {
+  .colour-option-three {
     .legend-01 { fill: $secondary-blue;}
     .legend-02 { fill: $trans-secondary-blue;   }
     .legend-03 { fill: $secondary-green;      }
@@ -163,19 +164,13 @@ article.post.colour {
     .legend-05 { fill: $secondary-brown;   }
   }
 
-  #colour-option-four {
+  .colour-option-four {
     .legend-01 { fill: $secondary-brown;}
     .legend-02 { fill: $trans-secondary-brown;   }
     .legend-03 { fill: $secondary-blue;      }
     .legend-04 { fill: $secondary-green;    }
     .legend-05 { fill: $secondary-yellow;   }
   }
-
-
-
-  // svg#colour-option-two image {
-  //     display: none; //test to see if png looks acceptably good
-  // }
 
   .primary-wrap {
     display: inline-block;

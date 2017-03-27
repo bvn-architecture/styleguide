@@ -1,6 +1,3 @@
-<section id="colours-page-swatches">
-</section>
-
 <div class="swatch-samples">
 <div class="colour-block numbers">
     <div>100%</div>
@@ -14,15 +11,11 @@
 
 {% include colours/sample-swatch-random.md %}
 
-<section id="colours-page-samples">
-</section>
-
 ## Samples
 
+The following pages provclasse examples of how to use colour in drawings and plans.
 
-The following pages provide examples of how to use colour in drawings and plans.
-
-{% include colours/asb-plan.svg meta="id='colour-option-one' class='plan-colouring'"%}
-{% include colours/asb-plan.svg meta="id='colour-option-two' class='plan-colouring'"%}
-{% include colours/asb-plan.svg meta="id='colour-option-three' class='plan-colouring'"%}
-{% include colours/asb-plan.svg meta="id='colour-option-four' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="class='colour-option-one' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="class='colour-option-two' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="class='colour-option-three' class='plan-colouring'"%}
+{% include colours/asb-plan.svg meta="class='colour-option-four' class='plan-colouring'"%}
