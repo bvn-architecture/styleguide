@@ -31,4 +31,10 @@
     @include omega();
   }
 
+  text,
+  tspan {
+    fill: $bvn-black;
+    font-size: 1.1px;
+  }
+
 }
