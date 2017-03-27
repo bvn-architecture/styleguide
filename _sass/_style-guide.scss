@@ -1,13 +1,3 @@
-//Wrong Cross Icon
-.cross-options {
-  //@include span-columns(1);
-  width: 35px;
-}
-
-.red-cross-spacing {
-  //@include span-columns(12);
-}
-
 .style-guide-block-width {
   @include span-columns(12);
 }
@@ -28,7 +18,8 @@
   }
 
   .cross-options {
-    //@include span-columns(2);
+    fill: none;
+    stroke: $tertiary-red;
     width: 75px;
   }
 
