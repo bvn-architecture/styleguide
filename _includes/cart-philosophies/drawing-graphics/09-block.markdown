@@ -1,1 +1,2 @@
-HATCHING OR SYMBOLIC REPRESENTATION OF MATERIALS MAY NOT ALWAYS BE NECESSARY AND AT SMALLER SCALES MAY BE IMPOSSIBLE TO READ. HATCHING NEEDS TO BE USED ONLY WHERE CONFUSION COULD OTHERWISE EXIST.
+##### Hatching or Symbolic Representation of Materials May Not Always Be Necessary and at Smaller Scales May Be Impossible to Read. Hatching Needs to Be Used only Where Confusion Could Otherwise Exist.
+{: .caps}

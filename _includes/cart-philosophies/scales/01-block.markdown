@@ -1,3 +1,4 @@
-JUSTIFICATION OF SCALE
+##### Justification of Scale
+{: .caps}
 
 Justify an increase of scale by providing additional information. A bigger scale is justified when general arrangement drawings get graphically too heavy.

@@ -1,4 +1,5 @@
-3D DRAWINGS
+##### 3D Drawings
+{: .caps}
 
 Three-dimensional drawings are not generally used in construction documentation.
 

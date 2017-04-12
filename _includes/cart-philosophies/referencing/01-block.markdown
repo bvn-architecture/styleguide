@@ -1,4 +1,5 @@
-ONE WAY REFERENCING
+##### One Way Referencing
+{: .caps}
 
 Always reference from a larger scale drawing to a more detailed-one, e.g.from **1:100** floor plan in ‘B’ series to corresponding **1:50** plan in ‘G’ series.
 

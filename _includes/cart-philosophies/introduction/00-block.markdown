@@ -1,4 +1,5 @@
-LEGEND FOR CHAPTER 1:
+##### Legend for Chapter 1:
+{: .caps}
 
 <div>{% include cart-philosophies/introduction/definition-icon.svg %}     Definition</div>
 

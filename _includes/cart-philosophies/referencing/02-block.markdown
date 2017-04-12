@@ -1,4 +1,5 @@
-DO NOT BACK-REFERENCE
+##### Do Not Back-reference
+{: .caps}
 
 Back-referencing is an attempt to advise the user about the drawing number where the detail was referenced from. That piece of information is of a very little use to anyone and very difficult to keep accurate.
 

@@ -1,4 +1,5 @@
-DEPARTURE FROM THE BVN DOCUMENTATION APPROACH
+##### Departure from the Bvn Documentation Approach
+{: .caps}
 
 There are many facets to construction documentation and many aspects which influence the way the construction documentation set will evolve. The project and contract type, builder’s preferences, consultant’s preferences, BVN team leader’s preferences, will all play a part in the sculpting of the document. Adjustments to suit a particular project are inevitable.
 

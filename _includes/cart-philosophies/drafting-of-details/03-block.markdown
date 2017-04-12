@@ -1,4 +1,5 @@
-DRAW THE ‘SPECIAL’ ITEMS
+##### Draw the ‘special’ Items
+{: .caps}
 
 Don’t replicate standard construction details or information provided as part of a proprietary system
 

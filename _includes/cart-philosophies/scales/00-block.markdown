@@ -1,4 +1,5 @@
-SCALES
+##### Scales
+{: .caps}
 
 The drawing scales listed in Chapter TWO (BVN Alphabet) and Chapter THREE (Building Components) are prescriptive
 

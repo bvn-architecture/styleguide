@@ -1,4 +1,5 @@
-CONCENTRATE ON ARCHITECTURE
+##### Concentrate on Architecture
+{: .caps}
 
 The design intent is expressed through providing:
 

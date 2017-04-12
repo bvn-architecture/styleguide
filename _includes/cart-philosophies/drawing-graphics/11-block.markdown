@@ -1,3 +1,5 @@
-TEXT WITHIN A SYMBOL SHOULD ALWAYS BE HORIZONTAL, REGARDLESS OF THE DIRECTION THE ARROW IS POINTING
+##### Text Within a Symbol Should Always Be Horizontal, Regardless of the Direction the Arrow Is Pointing
+{: .caps}
 
-DETAIL NUMBER MUST ALWAYS BE AT THE TOP, DRAWING NUMBER AT THE BOTTOM
+##### Detail Number Must Always Be at the Top, Drawing Number at the Bottom
+{: .caps}

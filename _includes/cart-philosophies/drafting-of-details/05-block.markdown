@@ -1,4 +1,5 @@
-IDENTIFY ORIENTATION OF DETAIL
+##### Identify Orientation of Detail
+{: .caps}
 
 Every detail needs to be explicit whether it is a plan or section
 

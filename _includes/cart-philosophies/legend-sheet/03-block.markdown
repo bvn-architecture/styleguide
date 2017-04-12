@@ -1,4 +1,5 @@
-THE LEGEND SHEET INCLUDES:
+##### The Legend Sheet Includes:
+{: .caps}
 
 - Drawing list (BVN Alphabet) List of drawing groups contained within the drawing set. This is for quick reference, to enable easier navigation around the set.
 - List of abbreviations
