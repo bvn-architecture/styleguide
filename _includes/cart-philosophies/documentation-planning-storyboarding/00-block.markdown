@@ -1,4 +1,5 @@
-THE BENEFITS OF PRODUCING A STORYBOARD:
+##### the Benefits of Producing a Storyboard:
+{: .caps}
 
 The purpose of storyboarding is to provide the team with
 the following information:

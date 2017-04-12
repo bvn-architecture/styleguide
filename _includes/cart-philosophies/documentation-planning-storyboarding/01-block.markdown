@@ -1,4 +1,5 @@
-PLANNING
+##### Planning
+{: .caps}
 
 Plan the documentation process
 
