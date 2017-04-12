@@ -1,5 +1,6 @@
 <dd class="building-components-dd-block">
 <div markdown="1">
-{% include {{ include.image }} %}
+<!-- cb% -->
+  include cbcb include.image }} %}
 </div>
 </dd>

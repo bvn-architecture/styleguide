@@ -10,7 +10,11 @@
 </dt>
 <dd class="building-components-dd-content">
 <div markdown="1">
-{% include {{ include.key }} %}
+
+
+<!-- cb pc -->
+
+<!-- include cbcb include.key ccbccb pcccp -->
 </div>
 </dd>
 
@@ -18,7 +22,11 @@
 </dt>
 <dd class="building-components-dd-content">
 <div markdown="1">
-{% include {{ include.value }} %}
+
+
+<!-- cb pc -->
+
+<!-- include cbcb include.value ccbccb pcccp -->
 </div>
 </dd>
 

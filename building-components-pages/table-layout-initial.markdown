@@ -5,12 +5,12 @@
 
 <dt class="building-components-dt-content">
 <div markdown="1">
-{{ include.letter }}
+cbcb include.letter }}
 </div>
 </dt>
 <dd class="building-components-dd-content">
 <div markdown="1">
-{% include {{ include.key }} %}
+cb% include cbcb include.key }} %}
 </div>
 </dd>
 
@@ -18,7 +18,7 @@
 </dt>
 <dd class="building-components-dd-content">
 <div markdown="1">
-{% include {{ include.value }} %}
+cb% include cbcb include.value }} %}
 </div>
 </dd>
 
