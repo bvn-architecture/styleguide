@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Floors: <i>'the room schedule'</i> scenario</h1>
+<h1 class="cart-collapsible-div">Floors: <em>'the room schedule'</em> scenario</h1>
 
 <dl>
 
