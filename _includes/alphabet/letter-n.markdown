@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # N - Metalwork
+# N - Metalwork
 
 {:refdef: .alphabet-table-key}
 N
@@ -33,5 +32,3 @@ N
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/n/n-4-value.markdown key="alphabet/alphabet-markdown/n/n-4-value.markdown" %}
 </dd>
-
- </div>

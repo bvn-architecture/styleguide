@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # L - Furniture: Furniture, fixtures, fittings and equipment (FFE)
+# L - Furniture: Furniture, fixtures, fittings and equipment (FFE)
 
 {:refdef: .alphabet-table-key}
 L
@@ -20,5 +19,3 @@ L
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/l/l-2-value.markdown key="alphabet/alphabet-markdown/l/l-2-value.markdown" %}
 </dd>
-
- </div>

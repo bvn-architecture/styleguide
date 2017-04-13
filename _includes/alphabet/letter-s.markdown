@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # S - Signage
+# S - Signage
 
 {:refdef: .alphabet-table-key}
 S
@@ -33,7 +32,3 @@ S
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/s/s-4-value.markdown key="alphabet/alphabet-markdown/s/s-4-value.markdown" %}
 </dd>
-
-
-
-</div>

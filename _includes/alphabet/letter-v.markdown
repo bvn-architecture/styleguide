@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # V - Concrete and waterproof plans
+# V - Concrete and waterproof plans
 
 {:refdef: .alphabet-table-key}
 V
@@ -33,6 +32,3 @@ V
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/v/v-4-value.markdown key="alphabet/alphabet-markdown/v/v-4-value.markdown" %}
 </dd>
-
-
-</div>

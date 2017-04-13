@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # H - Cores, stairs and lifts: Back of house stairs
+# H - Cores, stairs and lifts: Back of house stairs
 
 {:refdef: .alphabet-table-key}
 H
@@ -42,8 +41,3 @@ H
 
 {% include alphabet/alphabet-markdown/h/h-8-key.markdown key="alphabet/alphabet-markdown/h/h-8-key.markdown" %}
 : {% include alphabet/alphabet-markdown/h/h-8-value.markdown key="alphabet/alphabet-markdown/h/h-8-value.markdown" %}
-
-
-
-
- </div>

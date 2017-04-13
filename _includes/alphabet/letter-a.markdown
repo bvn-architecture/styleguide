@@ -1,4 +1,3 @@
-<div data-role="collapsible" data-inset="false" markdown="1">
 # A - Introductory documents
 
 {:refdef: .alphabet-table-key}
@@ -20,5 +19,3 @@ A
 
 {% include alphabet/alphabet-markdown/a/a-5-key.markdown key="alphabet/alphabet-markdown/a/a-5-key.markdown" %}
 : {% include alphabet/alphabet-markdown/a/a-5-value.markdown key="alphabet/alphabet-markdown/a/a-5-value.markdown" %}
-
-</div>

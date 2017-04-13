@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # T - Landscape
+# T - Landscape
 
 {:refdef: .alphabet-table-key}
 T
@@ -11,7 +10,3 @@ T
 
 {% include alphabet/alphabet-markdown/t/t-2-key.markdown key="alphabet/alphabet-markdown/t/t-2-key.markdown" %}
 : {% include alphabet/alphabet-markdown/t/t-2-value.markdown key="alphabet/alphabet-markdown/t/t-2-value.markdown" %}
-
-
-
-</div>

@@ -1,6 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # D - Sections
-
+# D - Sections
 
 {:refdef: .alphabet-table-key}
 D
@@ -9,6 +7,3 @@ D
 
 {% include alphabet/alphabet-markdown/d/d-1-key.markdown key="alphabet/alphabet-markdown/d/d-1-key.markdown" %}
 : {% include alphabet/alphabet-markdown/d/d-1-value.markdown key="alphabet/alphabet-markdown/d/d-1-value.markdown" %}
-
-
- </div>

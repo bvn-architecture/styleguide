@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # K - Interface details
+# K - Interface details
 
 {:refdef: .alphabet-table-key}
 K
@@ -12,6 +11,3 @@ K
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/k/k-1-value.markdown key="alphabet/alphabet-markdown/k/k-1-value.markdown" %}
 </dd>
-
-
- </div>

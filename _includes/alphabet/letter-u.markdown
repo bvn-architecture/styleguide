@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # U - Demolition
+# U - Demolition
 
 {:refdef: .alphabet-table-key}
 U
@@ -19,7 +18,3 @@ U
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/u/u-2-value.markdown key="alphabet/alphabet-markdown/u/u-2-value.markdown" %}
 </dd>
-
-
-
-</div>

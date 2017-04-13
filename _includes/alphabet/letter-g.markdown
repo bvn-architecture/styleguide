@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # G - Internal spaces
+# G - Internal spaces
 
 {:refdef: .alphabet-table-key}
 G
@@ -13,6 +12,3 @@ G
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/g/g-1-value.markdown key="alphabet/alphabet-markdown/g/g-1-value.markdown" %}
 </dd>
-
-
- </div>

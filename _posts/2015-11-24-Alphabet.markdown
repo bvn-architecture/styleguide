@@ -1,18 +1,18 @@
 ---
 layout:       post
 title:        BVN Alphabet
-class:       "test"
+class:       "alphabet"
 date:         2015-11-25T17:52:48+11:00
 description: "CART - BVN alphabet"
 categories:
 image:
 ---
 
-<div class="alphabet">
-
 {% include alphabet/alphabet-introduction.markdown key="alphabet/alphabet-introduction.markdown" %}
+
+
 {% include alphabet/letter-a.markdown key="alphabet/letter-a.markdown" %}
-{% include alphabet/letter-b.markdown key="alphabet/letter-b.markdown" %}
+% include alphabet/letter-b.markdown key="alphabet/letter-b.markdown" %}
 {% include alphabet/letter-c.markdown key="alphabet/letter-c.markdown" %}
 {% include alphabet/letter-d.markdown key="alphabet/letter-d.markdown" %}
 {% include alphabet/letter-e.markdown key="alphabet/letter-e.markdown" %}
@@ -32,5 +32,3 @@ image:
 {% include alphabet/letter-u.markdown key="alphabet/letter-u.markdown" %}
 {% include alphabet/letter-v.markdown key="alphabet/letter-v.markdown" %}
 {% include alphabet/letter-z.markdown key="alphabet/letter-z.markdown" %}
-
-</div>

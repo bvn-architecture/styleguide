@@ -1,4 +1,3 @@
-<div data-role="collapsible" data-inset="false" markdown="1">
 # B - Floor and roof plans
 
 {:refdef: .alphabet-table-key}
@@ -11,5 +10,3 @@ B
 
 {% include alphabet/alphabet-markdown/b/b-2-key.markdown key="alphabet/alphabet-markdown/b/b-2-key.markdown" %}
 : {% include alphabet/alphabet-markdown/b/b-2-value.markdown key="alphabet/alphabet-markdown/b/b-2-value.markdown" %}
-
-</div>

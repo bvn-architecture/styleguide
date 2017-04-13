@@ -1,5 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # Q - Wet areas
+# Q - Wet areas
 
 {:refdef: .alphabet-table-key}
 Q
@@ -20,7 +19,3 @@ Q
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/q/q-2-value.markdown key="alphabet/alphabet-markdown/q/q-2-value.markdown" %}
 </dd>
-
-
-
- </div>

@@ -1,6 +1,4 @@
- <div data-role="collapsible" data-inset="false" markdown="1">
- # F - Floor, wall and ceiling finishes
-
+# F - Floor, wall and ceiling finishes
 
 {:refdef: .alphabet-table-key}
 F
@@ -27,5 +25,3 @@ F
 <dd markdown='1'>
 {% include alphabet/alphabet-markdown/f/f-3-value.markdown key="alphabet/alphabet-markdown/f/f-3-value.markdown" %}
 </dd>
-
- </div>

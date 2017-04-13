@@ -1,6 +1,4 @@
-<div data-role="collapsible" data-inset="false" markdown="1">
 # C - External elevations
-
 
 {:refdef: .alphabet-table-key}
 C
@@ -16,5 +14,3 @@ C
 {::comment}
 This is a horrible hack with the br tags, but it simplifies things elsewhere enough to justify its use.
 {:/comment}
-
-</div>
