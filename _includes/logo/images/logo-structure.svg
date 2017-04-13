@@ -1,4 +1,4 @@
-<svg version="1.1" {{include.meta}} xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-0.105 850.695 1272.728 848.977" enable-background="new -0.105 850.695 1272.728 848.977" xml:space="preserve" alt="Logo created with geometrical shapes used to form the BVN graphic elements.">
+<svg {{include.meta}} xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-0.105 850.695 1272.728 848.977" enable-background="new -0.105 850.695 1272.728 848.977" xml:space="preserve" alt="Logo created with geometrical shapes used to form the BVN graphic elements.">
 
 <!-- Surrounding box -->
 <rect id="logo-structure-surrounding-box" x="2.729" y="853.53" fill="none" stroke="#000000" stroke-miterlimit="10" width="1267.058" height="843.301"/>
