@@ -8,4 +8,10 @@ categories:
 image:
 ---
 
+{% include 3dprinting/siteplan.md source="3dprinting/siteplan.md" %}
+
+---
+
+# Samples of how different markdown will be rendered
+
 {% include markdown_sampler.markdown source="markdown_sampler.markdown" %}

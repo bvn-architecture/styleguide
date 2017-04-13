@@ -271,6 +271,34 @@ dd {
   }
 }
 
+// .full-width{
+//
+// }
+
+.half-width {
+  @include span-columns(6);
+  @include omega();
+  padding-top: 1em;
+
+  &.small-pop {
+    @include media-query($on-palm) {
+      float: none;
+      width: initial;
+    }
+  }
+}
+
+.right {
+  float: right;
+  margin-left: 1em;
+}
+
+.left {
+  float: left;
+  margin-right: 1em;
+}
+
+
 //changing jquerymobile css
 .ui-collapsible-themed-content .ui-collapsible-content {
   border: 0;
