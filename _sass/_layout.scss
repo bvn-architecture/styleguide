@@ -208,8 +208,19 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
+  h1 {
+    font-size: 200%;
+  }
+
+
   h2 {
-    font-size: 32px;
+    border-bottom: 1px solid rgba($bvn-black, .33);
+    display: block;
+    font-size: 150%;
+    margin-bottom: 1em;
+    padding-bottom: 0;
+    padding-top: 20px;
+    text-transform: uppercase;
 
     @include media-query($on-laptop) {
       font-size: 28px;
@@ -217,7 +228,8 @@
   }
 
   h3 {
-    font-size: 22px;
+    font-family: $medium-font-family;
+    font-size: 135%;
 
     @include media-query($on-laptop) {
       font-size: 20px;
@@ -225,10 +237,15 @@
   }
 
   h4 {
-    font-size: 18px;
+    font-size: 120%;
 
     @include media-query($on-laptop) {
       font-size: 16px;
     }
+  }
+
+  h5 {
+    font-family: $medium-font-family;
+    font-size: 110%;
   }
 }
