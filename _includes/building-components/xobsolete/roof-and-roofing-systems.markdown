@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-  <h1 class="cart-collapsible-div">Roof and roofing systems</h1>
+  # Roof and roofing systems
   <dl>
 
 

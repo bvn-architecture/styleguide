@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Sheet numbering</h1>
+# Sheet numbering
 
 <div class="cart-philosophies-wrapper">
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/sheet-numbering/00-block.markdown" %}

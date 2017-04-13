@@ -1,5 +1,5 @@
  <div data-role="collapsible" data-inset="false" markdown="1">
- <h1 class="cart-collapsible-div">F - Floor, wall and ceiling finishes</h1>
+ # F - Floor, wall and ceiling finishes
 
 
 {:refdef: .alphabet-table-key}

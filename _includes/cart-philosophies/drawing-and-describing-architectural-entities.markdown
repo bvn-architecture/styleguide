@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Drawing and describing architectural entities</h1>
+# Drawing and describing architectural entities
 
 <div class="cart-philosophies-wrapper">
 {% include cart-philosophies/cart-philosophies-block.markdown box-type="normal" value="cart-philosophies/drawing-and-describing-architectural-entities/00-block.markdown" %}

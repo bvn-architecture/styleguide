@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Concrete setting-out and waterproofing</h1>
+# Concrete setting-out and waterproofing
 
 <dl>
 

@@ -1,5 +1,5 @@
  <div data-role="collapsible" data-inset="false" markdown="1">
- <h1 class="cart-collapsible-div">Z - Specifications</h1>
+ # Z - Specifications
 
 {:refdef: .alphabet-table-key}
 Z

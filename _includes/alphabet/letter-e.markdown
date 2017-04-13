@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false" markdown="1">
-<h1 class="cart-collapsible-div">E - Reflected ceiling plans</h1>
+# E - Reflected ceiling plans
 
 {:refdef: .alphabet-table-key}
 E

@@ -1,5 +1,5 @@
  <div data-role="collapsible" data-inset="false" markdown="1">
- <h1 class="cart-collapsible-div">Q - Wet areas</h1>
+ # Q - Wet areas
 
 {:refdef: .alphabet-table-key}
 Q

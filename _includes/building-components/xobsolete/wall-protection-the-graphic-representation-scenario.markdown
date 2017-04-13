@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Wall protection: 'the graphic representation' scenario</h1>
+# Wall protection: 'the graphic representation' scenario
 
 <dl>
 

@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false" markdown="1">
-<h1 class="cart-collapsible-div">C - External elevations</h1>
+# C - External elevations
 
 
 {:refdef: .alphabet-table-key}

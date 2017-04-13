@@ -1,5 +1,5 @@
  <div data-role="collapsible" data-inset="false" markdown="1">
- <h1 class="cart-collapsible-div">P - Cleaning and maintenance equipment</h1>
+ # P - Cleaning and maintenance equipment
 
 {:refdef: .alphabet-table-key}
 P

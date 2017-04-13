@@ -1,5 +1,5 @@
  <div data-role="collapsible" data-inset="false" markdown="1">
- <h1 class="cart-collapsible-div">V - Concrete and waterproof plans</h1>
+ # V - Concrete and waterproof plans
 
 {:refdef: .alphabet-table-key}
 V

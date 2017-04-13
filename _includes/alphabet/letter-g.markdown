@@ -1,5 +1,5 @@
  <div data-role="collapsible" data-inset="false" markdown="1">
- <h1 class="cart-collapsible-div">G - Internal spaces</h1>
+ # G - Internal spaces
 
 {:refdef: .alphabet-table-key}
 G

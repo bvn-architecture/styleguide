@@ -1,5 +1,5 @@
  <div data-role="collapsible" data-inset="false" markdown="1">
- <h1 class="cart-collapsible-div">H - Cores, stairs and lifts: Back of house stairs</h1>
+ # H - Cores, stairs and lifts: Back of house stairs
 
 {:refdef: .alphabet-table-key}
 H

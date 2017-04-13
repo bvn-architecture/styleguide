@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Stairs: Feature stairs</h1>
+# Stairs: Feature stairs
 
 <dl>
 

@@ -1,5 +1,5 @@
 <div data-role="collapsible" data-inset="false">
-<h1 class="cart-collapsible-div">Stairs: Escape stairs, back of house stairs</h1>
+# Stairs: Escape stairs, back of house stairs
 
 <dl>
 
