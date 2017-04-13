@@ -1,4 +1,5 @@
-SCHEDULES
+##### Schedules
+{: .caps}
 
 The _architectural drawing set_ includes ‘assembly of elements’ schedules, e.g.door schedule and the room (finishes) schedule.
 

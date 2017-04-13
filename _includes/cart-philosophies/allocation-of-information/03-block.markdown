@@ -1,6 +1,7 @@
-CONTENT OF SPECIFICATION
+##### Content of Specification
+{: .caps}
 
-A typical architectural specification contains two categories of descriptions: 
+A typical architectural specification contains two categories of descriptions:
 
 _Technical_: e.g.materials, fabrication, workmanship, preparation, installation, tests, etc
 
