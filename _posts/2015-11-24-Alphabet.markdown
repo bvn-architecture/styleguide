@@ -12,7 +12,7 @@ image:
 
 
 {% include alphabet/letter-a.markdown key="alphabet/letter-a.markdown" %}
-% include alphabet/letter-b.markdown key="alphabet/letter-b.markdown" %}
+{% include alphabet/letter-b.markdown key="alphabet/letter-b.markdown" %}
 {% include alphabet/letter-c.markdown key="alphabet/letter-c.markdown" %}
 {% include alphabet/letter-d.markdown key="alphabet/letter-d.markdown" %}
 {% include alphabet/letter-e.markdown key="alphabet/letter-e.markdown" %}
