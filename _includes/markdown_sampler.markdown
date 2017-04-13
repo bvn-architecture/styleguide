@@ -50,7 +50,7 @@ Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw deni
 ### Figures
 
 <figure class="full-width">
-![something or other]({{ site.baseurl }}/assets/thesis-29.png)
+![something or other](https://instagram.fbne1-1.fna.fbcdn.net/t51.2885-15/e35/14592189_1782804821974633_6342518475340120064_n.jpg)
 <figcaption>
 This figure is full width
 </figcaption>
@@ -61,7 +61,7 @@ Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vic
 Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
 <figure class="half-width right">
-![something or other]({{ site.baseurl }}/assets/thesis-29.png)
+![something or other](https://instagram.fbne1-1.fna.fbcdn.net/t51.2885-15/e35/14592189_1782804821974633_6342518475340120064_n.jpg)
 <figcaption>
 This figure is half-width and floated right
 </figcaption>
@@ -76,7 +76,7 @@ Try-hard YOLO meggings, letterpress affogato mustache ennui photo booth cred vic
 Selfies bushwick next level, tattooed yuccie four loko sriracha narwhal pabst. Austin retro chambray biodiesel tattooed cliche. Slow-carb tumblr neutra, waistcoat gastropub tacos helvetica food truck raw denim before they sold out yr man braid cold-pressed.
 
 <figure class="half-width left">
-![something or other]({{ site.baseurl }}/assets/thesis-29.png)
+![something or other](https://instagram.fbne1-1.fna.fbcdn.net/t51.2885-15/e35/14592189_1782804821974633_6342518475340120064_n.jpg)
 <figcaption>
 This figure is half-width and floated left
 </figcaption>
