@@ -1,46 +1,9 @@
-<div class="cart-philosophies-grid-wrapper">
-<div class="cart-philosophies-grid-one-of-four" style="border-top: 0px;">SCHEDULES</div>
-<div class="cart-philosophies-grid-two-of-four">EXAMPLES</div>
-<div class="cart-philosophies-grid-three-of-four">SCHEDULE TYPE</div>
-<div class="cart-philosophies-grid-four-of-four">LOCATION</div>
-</div>
 
-
-<div class="cart-philosophies-grid-wrapper">
-<div class="cart-philosophies-grid-one-of-four">schedule the various types of materials as a detailed list</div>
-<div class="cart-philosophies-grid-two-of-four">finishes schedule (as used by interiors)</div>
-<div class="cart-philosophies-grid-three-of-four">‘building elements’ schedule</div>
-<div class="cart-philosophies-grid-four-of-four">Appended to Specifications</div>
-</div>
-
-
-<div class="cart-philosophies-grid-wrapper">
-<div class="cart-philosophies-grid-one-of-four">schedule the various proprietary items used on the project as a list</div>
-<div class="cart-philosophies-grid-two-of-four">furniture schedule; FFE schedule</div>
-<div class="cart-philosophies-grid-three-of-four">‘building elements’ schedule</div>
-<div class="cart-philosophies-grid-four-of-four">Appended to Specifications</div>
-</div>
-
-
-<div class="cart-philosophies-grid-wrapper">
-<div class="cart-philosophies-grid-one-of-four">schedule the same type of individual building elements (with criteria to describe variances) as a list</div>
-<div class="cart-philosophies-grid-two-of-four">door schedule</div>
-<div class="cart-philosophies-grid-three-of-four">‘assembly of elements’ schedule</div>
-<div class="cart-philosophies-grid-four-of-four">in ‘J’ series Door Schedule</div>
-</div>
-
-
-<div class="cart-philosophies-grid-wrapper">
-<div class="cart-philosophies-grid-one-of-four">schedule building elements and performance criterions that we associated with a trade package specification as a list</div>
-<div class="cart-philosophies-grid-two-of-four">specification schedule</div>
-<div class="cart-philosophies-grid-three-of-four">‘building elements’ schedule</div>
-<div class="cart-philosophies-grid-four-of-four">Appended to Specifications</div>
-</div>
-
-
-<div class="cart-philosophies-grid-wrapper">
-<div class="cart-philosophies-grid-one-of-four">schedule rooms/spaces with descriptions of finishes to visible surfaces as a list</div>
-<div class="cart-philosophies-grid-two-of-four">room (finishes) schedule</div>
-<div class="cart-philosophies-grid-three-of-four">‘assembly of elements’ schedule</div>
-<div class="cart-philosophies-grid-four-of-four">in ‘F’ series Room Schedule</div>
-</div>
+| SCHEDULES                                                                                                             | EXAMPLES                                 | SCHEDULE TYPE                     | LOCATION                        |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----------------------------------|---------------------------------|
+| schedule the various types of materials as a detailed list                                                            | finishes schedule (as used by interiors) | _‘building elements’ schedule_    | **Appended to Specifications**  |
+| schedule the various proprietary items used on the project as a list                                                  | furniture schedule; FFE schedule         | _‘building elements’ schedule_    | **Appended to Specifications**  |
+| schedule the same type of individual building elements (with criteria to describe variances) as a list                | door schedule                            | _‘assembly of elements’ schedule_ | **in ‘J’ series Door Schedule** |
+| schedule building elements and performance criterions that we associated with a trade package specification as a list | specification schedule                   | _‘building elements’ schedule_    | **Appended to Specifications**  |
+| schedule rooms/spaces with descriptions of finishes to visible surfaces as a list                                     | room (finishes) schedule                 | _‘assembly of elements’ schedule_ | **in ‘F’ series Room Schedule** |
+{: .cart-philosophies-grid}

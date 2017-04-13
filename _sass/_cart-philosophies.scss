@@ -12,10 +12,6 @@
     }
   }
 
-  .cart-philosophies-table {
-    @include span-columns(12);
-  }
-
   .cart-philosophies-definition {
     background-color: $grey-color-light;
   }
@@ -24,23 +20,58 @@
     border-style: solid;
     border-width: 2px;
   }
+  ////REMOVE THIS LOT EVENTUALLY
+  // .cart-philosophies-table {
+  //   @include span-columns(12);
+  // }
+  //
+  //
+  // .cart-philosophies-guides-table {
+  //   @include span-columns(12);
+  //   border-style: solid;
+  //   border-width: 2px;
+  //   padding-left: 5px;
+  // }
+  //
+  // .cart-philosophies-grid-wrapper {
+  //   @include span-columns(12);
+  //   margin-top: 5px;
+  // }
+  //
+  // .cart-philosophies-grid-wrapper:not(:first-child) {
+  //   border-top: solid;
+  //   border-width: 1px;
+  //   padding-top: 10px;
+  // }
+  ////TO HERE
 
-  .cart-philosophies-guides-table {
-    @include span-columns(12);
-    border-style: solid;
-    border-width: 2px;
-    padding-left: 5px;
-  }
+  .cart-philosophies-grid {
+    thead {
+      text-align: left;
+    }
 
-  .cart-philosophies-grid-wrapper {
-    @include span-columns(12);
-    margin-top: 5px;
-  }
+    table {
+      border-collapse: collapse;
+    }
 
-  .cart-philosophies-grid-wrapper:not(:first-child) {
-    border-top: solid;
-    border-width: 1px;
-    padding-top: 10px;
+
+    td {
+      // min-width: 13em;
+      border-top: 1px solid $text-color;
+      padding-right: 1em;
+      padding-top: .5em;
+      vertical-align: top;
+      width: 20%;
+    }
+
+    tr {
+      border-top: 1px solid $text-color;
+    }
+
+    td:nth-child(1) {
+      width: 40%;
+    }
+
   }
 
 //grids
