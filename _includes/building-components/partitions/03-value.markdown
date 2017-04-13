@@ -1,4 +1,4 @@
-- Construction of the detail only - do not describe applied finishes e.g.paint, sealant, etc
+- Construction of the detail only - do not describe applied finishes e.g. paint, sealant, etc
 - (Generic) internal partitions-tointernal partitions plan details _(if required - not needed if it’s common construction)_
 - (Location specific) internal partitions-to-external wall plan details
 - (Location specific) internal partitions-to-ceiling section details
