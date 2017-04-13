@@ -1,0 +1,22 @@
+@media print {
+
+  nav {
+    display: none;
+  }
+
+  .page-content {
+    margin: 0;
+    max-width: initial;
+    padding: 0;
+  }
+
+  .alphabet {
+    dt {
+      width: 60mm;
+    }
+
+    h1 {
+      break-before: always;
+    }
+  }
+}
