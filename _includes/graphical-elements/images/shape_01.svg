@@ -1,3 +1,3 @@
-<svg id="graphical-elements-shape-01" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.6 100.3" alt="Graphical element #01">
+<svg class="graphical-elements-shape-01" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.6 100.3" alt="Graphical element #01">
   <path fill="#010202" d="M34.9 56.5V38.6h18.3V2.8H7.4v53.7h9.2V68h18.3v29.4h18.3V61.6H34.9"/>
 </svg>

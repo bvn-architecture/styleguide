@@ -7,10 +7,9 @@ Do not change the proportion, design or positioning of these design elements in 
 </div>
 
 <div class="style-guide-block-image" markdown="1">
-{% include graphical-elements/images/logo-structure.svg meta="id='graphical-logo-frame'" %}
+{% include graphical-elements/images/logo-structure.svg meta="class='graphical-logo-frame'" %}
 
-{% include graphical-elements/images/logo-structure.svg meta="id='graphical-logo-box'" %}
+{% include graphical-elements/images/logo-structure.svg meta="class='graphical-logo-box'" %}
 
-{% include graphical-elements/images/logo-structure.svg meta="id='graphical-logo-circle'" %}
+{% include graphical-elements/images/logo-structure.svg meta="class='graphical-logo-circle'" %}
 </div>
-

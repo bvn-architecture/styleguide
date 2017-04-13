@@ -1,4 +1,4 @@
-article.post.graphic-elements {
+.post.graphic-elements {
 
   .graphic-elements-container {
     @include outer-container;
@@ -11,30 +11,30 @@ article.post.graphic-elements {
     }
   }
 
-  #graphical-elements-logo-split {
+  .graphical-elements-logo-split {
     @include shift(3);
     @include span-columns(6);
     @include omega();
 }
 
-  #graphical-logo-frame {
-    #logo-structure-bvn-text {  opacity:  .2;}
-    #logo-structure-circle-bot {opacity: 1;  }
+  .graphical-logo-frame {
+    .logo-structure-bvn-text {opacity: .2;}
+    .logo-structure-circle-bot {opacity: 1;  }
   }
 
-  #graphical-logo-box {
-    #logo-structure-black-box {opacity: 1; }
-    #logo-structure-white-box {opacity: 0; }
-    #logo-structure-bvn-text { opacity: 0; }
-    #logo-structure-frame {    opacity: 0; }
+  .graphical-logo-box {
+    .logo-structure-black-box {opacity: 1; }
+    .logo-structure-white-box {opacity: 0; }
+    .logo-structure-bvn-text { opacity: 0; }
+    .logo-structure-frame {    opacity: 0; }
   }
 
-  #graphical-logo-circle {
-    #logo-structure-black-box {opacity: 0; }
-    #logo-structure-white-box {opacity: 0; }
-    #logo-structure-bvn-text { opacity:.2; }
-    #logo-structure-frame {    opacity: 0; }
-    #logo-structure-circle-bot {fill: $bvn-black; }
+  .graphical-logo-circle {
+    .logo-structure-black-box {opacity: 0; }
+    .logo-structure-white-box {opacity: 0; }
+    .logo-structure-bvn-text { opacity: .2; }
+    .logo-structure-frame {    opacity: 0; }
+    .logo-structure-circle-bot {fill: $bvn-black; }
   }
 
 }

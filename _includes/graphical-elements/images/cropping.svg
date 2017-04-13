@@ -1,4 +1,4 @@
-<svg id="graphical-elements-cropping" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 303.3 216.3" alt="Incorrect example of a graphical element by cropping">
+<svg class="graphical-elements-cropping" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 303.3 216.3" alt="Incorrect example of a graphical element by cropping">
   <path fill="#FFF" d="M2.8 3h297.6v210.5H2.8z"/>
   <path fill="#FFF" d="M3 145.3h25.5v68H3zM102.1 14.4c-8.7 0-16.3-4.5-20.7-11.4h-3.8v36h49v174.3h173.8V3.1H122.8c-4.4 6.8-12 11.3-20.7 11.3z"/>
   <path fill="#FFF" d="M3 213.3v-68h-.2v68.1h25.7v-.1"/>

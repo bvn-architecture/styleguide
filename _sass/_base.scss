@@ -265,16 +265,10 @@ dd {
 
     > ul {
       > li::before {
-        //content: '-';
         padding-right: 8px;
       }
     }
   }
-}
-
-//Jquery collapsible box
-.custom-collapsible {
-  margin: 0 !important;
 }
 
 //changing jquerymobile css
