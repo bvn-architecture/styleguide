@@ -33,10 +33,33 @@
   //   padding-left: 5px;
   // }
   //
-  // .cart-philosophies-grid-wrapper {
-  //   @include span-columns(12);
-  //   margin-top: 5px;
-  // }
+
+  .cp-codes {
+    @include span-columns(12);
+    margin-top: 5px;
+
+    p {
+      border: 0;
+      border-top: 1px solid $grey-color;
+    }
+
+    >:nth-child(1) {
+      @include span-columns(4);
+      font-style: italic;
+      font-weight: bolder;
+    }
+
+    >:nth-child(2) {
+      @include span-columns(4);
+      color: $tertiary-red;
+    }
+
+    >:nth-child(3) {
+      @include span-columns(4);
+      color: $secondary-green;
+    }
+
+  }
   //
   // .cart-philosophies-grid-wrapper:not(:first-child) {
   //   border-top: solid;
