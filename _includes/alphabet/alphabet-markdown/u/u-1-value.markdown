@@ -2,7 +2,7 @@
 - Existing plans
 - Existing room names
 - ‘Enlarged area boxes’ referring to **1:50** and **1:20** enlarged details if required
-- Graphically indicate parts of slab to be removed<br>
+- Graphically indicate parts of slab to be removed\\
 (Slab penetrations are dimensioned in V series drawings)
 - Differentiate between the following demolition categories:
     - <span class="caps">Items to be demolished and removed from site</span>

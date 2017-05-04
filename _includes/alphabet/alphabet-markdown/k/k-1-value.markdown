@@ -1,26 +1,21 @@
 <span class="caps">
-Floor-to-floor section details<br>
-Floor-to-external wall section details<br>
+Floor-to-floor section details\\
+Floor-to-external wall section details\\
 Floor-to-internal partitions section details
 </span>
 
-<br>
-
-<span class="caps">Ceiling-to-ceiling section details<br>
-Ceiling-to-external wall section details<br>
-Ceiling-to-internal partitions section details</span>
-
-<br>
-
-<span>
-EXTERNAL WALL-TO-INTERNAL PARTITION PLAN DETAILS<br>
-ROOF-TO-EXTERNAL WALL SECTION DETAILS<br>
-ROOFING DETAILS<br>
-INTERNAL PARTITION-TO-INTERNAL PARTITION PLAN DETAILS<br>
-(If required - not needed if it’s common construction)
+<span class="caps">Ceiling-to-ceiling section details\\
+Ceiling-to-external wall section details\\
+Ceiling-to-internal partitions section details
 </span>
 
-<br>
+<span>
+EXTERNAL WALL-TO-INTERNAL PARTITION PLAN DETAILS\\
+ROOF-TO-EXTERNAL WALL SECTION DETAILS\\
+ROOFING DETAILS\\
+INTERNAL PARTITION-TO-INTERNAL PARTITION PLAN DETAILS\\
+(If required - not needed if it’s common construction)
+</span>
 
 <div markdown="1">
 - Grid lines where location specific
