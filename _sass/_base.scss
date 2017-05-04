@@ -209,6 +209,7 @@ ul {
   }
 
   li::before {
+    //this is an svg dash
     background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='10'><line x1='20' y1='0' x2='400' y2='0' stroke-width='2' stroke='black'/></svg>");
     background-position: 50% 100%;
     background-repeat: no-repeat;
