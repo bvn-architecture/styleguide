@@ -33,7 +33,7 @@ e.g. WALL MOUNTED WOOD HANDRAIL ON STAINLESS STEEL BRACKETS</span>
 INS-2</span>
 <span  class="cart-philosophies-grid-codes-two-of-three">THERMAL/ACOUSTIC INSULATION</span>
 <span  class="cart-philosophies-grid-codes-three-of-three">Brief architectural description of types of insulation\\
-e.g. 90MM THICK, ALUMINIUM FOIL FACED, EXPANDED POLYSTYRENE CORE RIGID INSULATION BOARD</span>
+e.g. 90mm THICK, ALUMINIUM FOIL FACED, EXPANDED POLYSTYRENE CORE RIGID INSULATION BOARD</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
@@ -65,7 +65,7 @@ e.g. INTERLOCKING CONCRETE PAVERS, RED OXIDE COLOUR, SHOTBLAST FINISH</span>
 PB-2</span>
 <span  class="cart-philosophies-grid-codes-two-of-three">PLASTERBOARD</span>
 <span  class="cart-philosophies-grid-codes-three-of-three">Thickness and type of the drylining sheet materials, i.e. internal or external grade, acoustic, moisture resistance, fire resistance, etc.\\
-e.g. 13MM IMPACT RESISTANT HIGH DENSITY PLASTERBOARD</span>
+e.g. 13mm IMPACT RESISTANT HIGH DENSITY PLASTERBOARD</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
@@ -137,7 +137,7 @@ e.g. BLUE PEARL GRANITE, POLISHED</span>
 TIL-2</span>
 <span  class="cart-philosophies-grid-codes-two-of-three">TILES</span>
 <span  class="cart-philosophies-grid-codes-three-of-three">Architectural description of the colour and finish of tiles\\
-e.g. 600 X 600MM CERAMIC GLAZED TILE, GRAY, MATTE FINISH</span>
+e.g. 600 X 600mm CERAMIC GLAZED TILE, GRAY, MATTE FINISH</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">

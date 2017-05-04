@@ -42,7 +42,7 @@ e.g. TEMPERED SAFETY GLASS BALUSTRADE</span>
 BLK-2</span>
 <span class="cart-philosophies-grid-codes-two-of-three">BLOCKWORK</span>
 <span class="cart-philosophies-grid-codes-three-of-three">Description of different types of concrete masonry units\\
-e.g. 290MM CORE FILLED FACE QUALITY CONCTERE BLOCK</span>
+e.g. 290mm CORE FILLED FACE QUALITY CONCTERE BLOCK</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
@@ -58,7 +58,7 @@ e.g. REMOVABLE, LOCKABLE MILD STEEL POST</span>
 BRD-2</span>
 <span class="cart-philosophies-grid-codes-two-of-three">SHEET MATERIALS</span>
 <span class="cart-philosophies-grid-codes-three-of-three">Various types of boards used – medium density fiberboard, plywood, chipboard and similar\\
-e.g. 1 MM PLYWOOD</span>
+e.g. 1 mm PLYWOOD</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
@@ -82,7 +82,7 @@ e.g. COMPOSITE ALUMINIUM CLADDING PANELS ON PROPRIETARY SUPPORT SYSTEM</span>
 CLG-2</span>
 <span class="cart-philosophies-grid-codes-two-of-three">CEILINGS</span>
 <span class="cart-philosophies-grid-codes-three-of-three">Brief architectural description of ceiling system\\
-e.g. SUSPENDED 300 X 900MM MODULAR ACOUSTIC METAL PANELS, COLOUR GREY</span>
+e.g. SUSPENDED 300 X 900mm MODULAR ACOUSTIC METAL PANELS, COLOUR GREY</span>
 </div>
 
 <div class="cart-philosophies-grid-wrapper" markdown="1">
