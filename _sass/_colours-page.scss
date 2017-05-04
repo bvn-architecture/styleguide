@@ -6,6 +6,20 @@
     width: 5em;
   }
 
+  dt {
+    display: inline-block;
+    float: none;
+    font-weight: bold;
+    text-align: right;
+    width: 1em;
+  }
+
+  dd {
+    display: inline-block;
+    float: none;
+    text-align: right;
+    width: 1.7em;
+  }
 
   .colour-letter {
     display: inline-block;
@@ -91,6 +105,9 @@
 
   .swatch-examples {
     @include span-columns(10);
+    margin-bottom: 2em;
+    margin-top: 2em;
+
     .colour-block {
       display: inline-block;
       float: left;
@@ -107,9 +124,9 @@
       width: 5%;
     }
 
-    >:nth-child(1)  {width: 20%; }
+    >:nth-child(1)  {width:  5%; }
     >:nth-child(2)  {width: 10%; }
-    >:nth-child(3)  {width: 20%; }
+    >:nth-child(3)  {width: 15%; }
     >:nth-child(4)  {width:  5%; }
     >:nth-child(5)  {width: 15%; }
     >:nth-child(6)  {width: 10%; }
@@ -123,7 +140,7 @@
     >:nth-child(14) {width: 20%; }
     >:nth-child(15) {width: 10%; }
     >:nth-child(16) {width: 10%; }
-    >:nth-child(17) {width: 15%; }
+    >:nth-child(17) {width: 10%; }
     >:nth-child(18) {width: 10%; }
     >:nth-child(19) {width:  5%; }
     >:nth-child(20) {width: 10%; }
