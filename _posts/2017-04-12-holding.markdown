@@ -12,7 +12,7 @@ image:
 
 ---
 
-{% include 3dprinting/siteplan.md source="3dprinting/3d-print-tips.md" %}
+{% include 3dprinting/3d-print-tips.md source="3dprinting/3d-print-tips.md" %}
 
 ---
 
