@@ -1,4 +1,5 @@
 # V - Concrete and waterproof plans
+[{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.key }}){:.edit-link .alphabet-edit title="Edit this section"}
 
 {:refdef: .alphabet-table-key}
 V

@@ -1,5 +1,12 @@
 .alphabet {
 
+  .edit-link {
+    float: left;
+    left: initial;
+    position: initial;
+    top: initial;
+  }
+
   dt {
     @include span-columns(12);
   }
