@@ -1,4 +1,4 @@
-## Assets [ {{ site.edit_symbol }} ](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
+## Assets [ {{ site.edit_symbol }} ](https://github.com/bvn-architecture/styleguide/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section" target="_blank"}
 
 Here are the assets for download. Feel free to link to these addresses and use our CDN.
 

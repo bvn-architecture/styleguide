@@ -1,4 +1,4 @@
-## Graphic elements [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section"}
+## Graphic elements [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguide/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section"}
 
 Do not add graphic elements or text to the mark.  
 

@@ -1,5 +1,5 @@
 # N - Metalwork
-[{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.key }}){:.edit-link title="Edit this section"}
+[{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguide/blob/gh-pages/_includes/{{ include.key }}){:.edit-link title="Edit this section"}
 
 {:refdef: .alphabet-table-key}
 N

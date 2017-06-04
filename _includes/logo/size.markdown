@@ -1,4 +1,4 @@
-## Size [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section"}
+## Size [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguide/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section"}
 
 The logo must be kept in its original proportion.
 

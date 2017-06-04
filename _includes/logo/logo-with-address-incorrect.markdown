@@ -1,4 +1,4 @@
-## Logo with address [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguclasse/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section"}
+## Logo with address [{{ site.edit_symbol }}](https://github.com/bvn-architecture/styleguide/blob/gh-pages/_includes/{{ include.source }}){:.edit-link .inline title="Edit this section"}
 
 <div class="style-guide-block-text">
 The logo and address should only ever appear in the top left-hand side corner of the page.
