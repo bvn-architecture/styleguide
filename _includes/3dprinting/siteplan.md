@@ -11,6 +11,8 @@ experience, producing a poster, video or similar website.
 
 ## Methods:
 
+*This is a practical process you can follow to achieve a file ready for 3D printing. For a more conceptual overview of some of the issues you will face, skip to the next section '**Issues***'.
+
 1. **Installing.** Follow this to install the extensions necessary to follow the rest of the processes
 
 2. **Cleaning.** Follow this to clean your model. Cleaning your model throughout the process is recommended.
@@ -270,3 +272,57 @@ without needing to build supports.
     this is recommended:
 
 ![Missing Image](/images/image_15.png)
+
+
+## Issues
+
+### How to split up the model:
+
+*Do I need to split up the model?*
+
+The main reason you'll want to split up the model is because your original model is too big. To calculate whether your model is too big, use the following formula:
+
+*Formula:* (Width &lt;= 223 AND Depth &lt;= 223) OR
+(Width+Depth)/sqrt(2) &lt; 223)
+
+Another reason that you may want to split the model is to make a certain section hot-swappable. In this case, you should know already where you would like to split your model. ***POSSIBLE CONTINUATION HERE (DIFFERENT BRANCH)***
+
+*I need to split up my model because it's too big. Where do I cut?*
+
+It depends on a few factors individual to each model:
+
+1.  Buildings/structures present
+2.  Terrain present
+3.  Purpose of the model
+
+And some static factors too:
+
+1.  Size of the 3D printer
+2.  Lockability (Ensuring the pieces can't slide)
+
+It's likely that you'd rather not cut through any buildings present.
+
+
+
+
+
+
+
+
+2.  Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
