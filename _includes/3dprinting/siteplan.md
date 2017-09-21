@@ -302,9 +302,13 @@ And some static factors too:
 
 It's likely that you'd rather not cut through any buildings present.
 
+![Missing Image](CityCutLinesGrid.jpg)
 
+![Missing Image](CityCutLinesRoads.jpg)
 
+![Missing Image](CityCutLinesJagged.jpg)
 
+![Missing Image](CityCutLinesZoning.jpg)
 
 
 
