@@ -93,7 +93,7 @@ experience, producing a poster, video or similar website.
     “Stray Edges” that will have a button next to them that says fix.
     Click these to deal with the relevant issues.
 
-> ![Missing Image](/images/image_1.png)
+> ![Missing Image](/_includes/3dprinting/images/image_1.png)
 
 6.  There may be some other items that say “Info” rather than fix. These
     represent issues that Solid Inspector can’t fix because there are
@@ -104,17 +104,17 @@ experience, producing a poster, video or similar website.
     surface that isn’t planar. To fix this, draw lines that split the
     surface into planar parts.
 
-![Missing Image](/images/image_2.png)
+![Missing Image](/_includes/3dprinting/images/image_2.png)
 
 7.  If you’ve managed to fix everything, you should see a window like
     this when you open Solid Inspector!
 
-![Missing Image](/images/image_3.png)
+![Missing Image](/_includes/3dprinting/images/image_3.png)
 
 8.  After this, go to **Window &gt; CleanUp<sup>3</sup>** with one of
     the groups selected.
 
-![Missing Image](/images/image_4.png)
+![Missing Image](/_includes/3dprinting/images/image_4.png)
 
 9.  Make sure that either the **Local** or **Selection** radio button is
     selected, **Model** will ignore your group and try to
@@ -155,7 +155,7 @@ experience, producing a poster, video or similar website.
     the group when in a group. For example, the following can’t be cut
     in the order blue &gt; red &gt; green, because blue will cut all the
     way through the buildings. Rather, it should be cut with red
-    first. ![Missing Image](/images/image_5.png)
+    first. ![Missing Image](/_includes/3dprinting/images/image_5.png)
 
 3.  The following is trickier, as there are no full length cuts to base
     the other cuts off of. To deal with this, either red or green should
@@ -164,14 +164,14 @@ experience, producing a poster, video or similar website.
     together again using the CleanUp tool used earlier (Merge
     Adjacent Surfaces).
 
-> ![Missing Image](/images/image_6.png)
+> ![Missing Image](/_includes/3dprinting/images/image_6.png)
 
 4.  Just before cutting, you need to duplicate the item you want to cut.
 
 5.  In order to actually start cutting, select **Tools &gt; Section
     Plane**
 
-![Missing Image](/images/image_7.png)
+![Missing Image](/_includes/3dprinting/images/image_7.png)
 
 6.  Now select a surface that has the angle you want to section from.
 
@@ -188,13 +188,13 @@ experience, producing a poster, video or similar website.
 8.  Repeat steps 5-7 for the duplicate, except flipping the section by
     right clicking and selecting **“Reverse”**.
 
-![Missing Image](/images/image_8.png)
+![Missing Image](/_includes/3dprinting/images/image_8.png)
 
 9.  It’s possible to make some cuts that only go through a part of the
     model by grouping it appropriately, such as the red cut
     pictured below.
 
-    ![Missing Image](/images/image_9.png)
+    ![Missing Image](/_includes/3dprinting/images/image_9.png)
 
 10.  After all the cuts have been made, it’s a good idea to clean
     it again (refer to the cleaning method above).
@@ -204,7 +204,7 @@ experience, producing a poster, video or similar website.
     finish of the underside after the support structures have been
     removed is not the best.
 
-![Missing Image](/images/image_10.png)
+![Missing Image](/_includes/3dprinting/images/image_10.png)
 
 Note: the 3d printers can handle an overhang that is under 30 degrees
 without needing to build supports.
@@ -221,7 +221,7 @@ without needing to build supports.
     press **S**. The model should be in a wireframe yellow box with
     green cubes around it.
 
-![Missing Image](/images/image_11.png)
+![Missing Image](/_includes/3dprinting/images/image_11.png)
 
 2.  Click on one of the corner green cubes. Then, type the scale you
     have calculated you want to achieve, with 1 being the original size.
@@ -239,12 +239,12 @@ without needing to build supports.
 
 6.  Select **File &gt; Export &gt; 3D Model**
 
-![Missing Image](/images/image_12.png)
+![Missing Image](/_includes/3dprinting/images/image_12.png)
 
 7.  Then after choosing your file name, set the “Export type:” to obj,
     and click “Export”.
 
-![Missing Image](/images/image_13.png)
+![Missing Image](/_includes/3dprinting/images/image_13.png)
 
 ### **Setting**:
 
@@ -256,7 +256,7 @@ without needing to build supports.
 3.  From within Cura you can do the following things to your model after
     it’s been selected:
 
-![Missing Image](/images/image_14.png)
+![Missing Image](/_includes/3dprinting/images/image_14.png)
 
 4.  After fixing your model, ensure that:
 
@@ -271,7 +271,7 @@ without needing to build supports.
     Note: If you are unsure about the other settings, setting them to
     this is recommended:
 
-![Missing Image](/images/image_15.png)
+![Missing Image](/_includes/3dprinting/images/image_15.png)
 
 
 ## Issues
@@ -300,15 +300,24 @@ And some static factors too:
 1.  Size of the 3D printer
 2.  Lockability (Ensuring the pieces can't slide)
 
-It's likely that you'd rather not cut through any buildings present.
+The first thing that needs to be considered in the slicing process is the size - you need to maximise the size while still remaining within the dimensions of the 3D printer. The following image shows how you might do that:
 
-![Missing Image](CityCutLinesGrid.jpg)
+![Missing Image](/_includes/3dprinting/images/CityCutLinesGrid.jpg)
 
-![Missing Image](CityCutLinesRoads.jpg)
+Having said that, it's likely that you'd rather not cut through any buildings present. Instead, following roads (or similar, e.g. rivers, paths, etc.) can be a logical way to split the buildings while minimising the impact on the design:
 
-![Missing Image](CityCutLinesJagged.jpg)
+![Missing Image](/_includes/3dprinting/images/CityCutLinesRoads.jpg)
 
-![Missing Image](CityCutLinesZoning.jpg)
+The method pictured above is better, but if the design was cut this way the pieces would be free to slide easily between their respective locations. When this happens, the model can be frustrating to use as pieces constantly push each other out of the way (especially when there are multiple pieces that are supposed to move - if not, the pieces can always be glued down). One method that solves this is creating indented edges that lock in pieces more effectively:
+
+![Missing Image](/_includes/3dprinting/images/CityCutLinesJagged.jpg)
+
+Another method that can be used is putting magnets inside the floor of the 3D print and inside each of the removable sections of the 3D print. This method can also be used to create parts that light up when places on the magnet using magnetic induction lights. These techniques are difficult to achieve (assistance would be required. ***ASK ABOUT HOW THIS IS ACHIEVED***
+
+![Missing Image](/_includes/3dprinting/images/MagnetWithinPrint.jpg)
+
+
+![Missing Image](/_includes/3dprinting/images/CityCutLinesZoning.jpg)
 
 
 
