@@ -321,7 +321,9 @@ These techniques can always be combined for even more secure results.
 The last main thing that needs to be considered is what meaning is being conveyed by the different split sections - not only can splits provide the ability to print a large job, they can also be used to convey information. Some examples of how splits can be used to convey information are:
 
 >   Splitting at the boundaries of council zoning areas
+
 >   Splitting on hill hinge lines
+
 >   ***More options??***
 
 ![Missing Image](/_includes/3dprinting/images/CityCutLinesZoning.jpg)
