@@ -49,10 +49,10 @@ experience, producing a poster, video or similar website.
 
     <https://extensions.sketchup.com/en/content/zorro2>
 
-> *Note:* Although this guide will go through some of the
-> functionalities of these extensions, if you ever get stuck or want to
-> learn more about the extensions there are some excellent video and
-> article tutorials on the above pages.
+    *Note:* Although this guide will go through some of the
+    functionalities of these extensions, if you ever get stuck or want to
+    learn more about the extensions there are some excellent video and
+    article tutorials on the above pages.
 
 3.  Open up SketchUp, select **Window &gt; Preferences**, then open the
     **Extensions** tab.
@@ -260,13 +260,11 @@ without needing to build supports.
 
 4.  After fixing your model, ensure that:
 
-<!-- -->
+    *Print material is set to PLA*
 
->  *Print material is set to PLA*
+    *Infill is set to Light*
 
->  *Infill is set to Light*
-
->  *Enable Support is unchecked*
+    *Enable Support is unchecked*
 
     Note: If you are unsure about the other settings, setting them to
     this is recommended:
@@ -320,11 +318,11 @@ These techniques can always be combined for even more secure results.
 
 The last main thing that needs to be considered is what meaning is being conveyed by the different split sections - not only can splits provide the ability to print a large job, they can also be used to convey information. Some examples of how splits can be used to convey information are:
 
->   Splitting at the boundaries of council zoning areas
+    Splitting at the boundaries of council zoning areas
 
->   Splitting on hill hinge lines
+    Splitting on hill hinge lines
 
->   ***More options??***
+    ***More options??***
 
 ![Missing Image](/_includes/3dprinting/images/CityCutLinesZoning.jpg)
 
