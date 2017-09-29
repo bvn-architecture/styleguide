@@ -280,8 +280,10 @@ without needing to build supports.
 
 The main reason you'll want to split up the model is because your original model is too big. To calculate whether your model is too big, use the following formula:
 
-*Formula:* (Width &lt;= 223 AND Depth &lt;= 223) OR
+(Width &lt;= 223 AND Depth &lt;= 223) OR
 (Width+Depth)/sqrt(2) &lt; 223)
+
+*Note: This formula takes into account the possible ability for you to rotate your model on the 3D printer to make it fit. If one of your dimensions is bigger than 223mm (the printers are 223mm wide by 223mm deep) and yet it fits, you will need to rotate it 45 degrees.
 
 Another reason that you may want to split the model is to make a certain section hot-swappable. In this case, you should know already where you would like to split your model. ***POSSIBLE CONTINUATION HERE (DIFFERENT BRANCH)***
 
@@ -328,14 +330,19 @@ The last main thing that needs to be considered is what meaning is being conveye
 
 
 
-
-2.  Model
-
+### 3D Printer Settings to use
 
 
 
+**Q**
 
+1. Current doc
 
+2. Hot-swappable. When/How?
+
+3. Magnets in 3D prints & floor. Possible inductive lighting?
+
+4. 3D Printing settings
 
 
 
