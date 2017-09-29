@@ -326,6 +326,7 @@ The last main thing that needs to be considered is what meaning is being conveye
 
 After the lines have been chosen, it's important to make sure that when the lines are cut they create a 0.5mm gap. If the models are cut without the gap, they won't fit together flush.
 
+
 ### Dealing with overhangs
 
 slice vs cura tool
@@ -351,12 +352,16 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
  - **Model Detail**
     As there is greater detail in the model, the scale should decrease so that the details can be produced by the 3D printer without apprearing really messy. This also means that it's easier to see the details in the model. Similarly, as there are less details in the model, the scale should increase. This ensures that the model seems less 'chunky' while also reducing the necessary size of the model without comprimising feature visibility.
     
- - **Model Purpose**
-    sdgsdghsfhdFHDFHdfshf
+ - **Model Accuracy & Finish**
+    When 3D printing, the height of each layer determines how well-finished (i.e. smooth) and accurate the final result is (with a smaller height resulting in a more accurate and smoother finish). However, as the layer height decreases and naturally the amount of layers required increases, the time needed to complete the job increases dramatically. To combat this, if you require a better finish, reducing the scale might be appropriate. Large jobs with accurate finishes aren't going to be appreciated by the crowd you made wait.
+    
+ - **Proximity to Standardisation**
+    If you've decided on the model's scale after taking into account the above factors, and you've realised it's going to be 1:493.4, downscaling to 1:500 won't affect the size greatly but will make the model a standard size which may become useful when comparing to other models. Having said this, be careful about upsizing the model (e.g. from 1:2004.3 to 1:2000) as it may not fit. Always check with a rectangular block in the cura software before proceeding.
+
 
 ### Whether to use magnets & how
 
- - Re-usability of model
+WHEN WOULD YOU USE MAGNETS AND WHEN WOULDN'T YOU
  
  - 
 
