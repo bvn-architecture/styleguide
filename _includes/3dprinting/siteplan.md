@@ -329,10 +329,25 @@ After the lines have been chosen, it's important to make sure that when the line
 
 ### Dealing with overhangs
 
-slice vs cura tool
+There are three main ways to deal with overhangs, each with their own positives and negatives:
 
-Overhangs are difficult to deal with 
+| Method | Overview | Positives | Negatives |
+| --- | --- | --- | --- |
+| Supports | Support structures can be generated that branch up from the ground at allowed angles to support structures that overhang. The 3D print is built on top of these structures that can be ripped away once finished. | Easy to generate and use | Bad undersurface finish, can be difficult to remove |
+| Slicing | Slicing the model at overhang points, gluing the pieces together once the print has finished. | Allows for accurate modelling, no material waste | Only applies to 90 degree overhangs, manual process |
+| Angling | Cura software technique that makes every overhang into an angle that can be printed | Easy to generate and use, deals with models that have many overhangs well | Model deformations, experimental technique |
 
+Different situations call for different techniques to be used for an optimal result:
+
+ - When printing a structure with steep overhangs that aren't 90 degrees, while also requiring high accuracy, using supports will ensure that the model isn't deformed, although the finish may not be the best. For example, a 3D printed tree's branches could possibly be printed using the angling technique, although deformations would be avoided using supports.
+
+![Missing Image](/_includes/3dprinting/images/tree.png)
+
+ - When printing a structure with many vertically parallel overhangs that requires good quality surface finishes, angling is the appropriate technique. The angling is difficult to see unless pointed out, and allows for a professional quality finish especially on the surfaces below the overhangs compared to support structures. For example, a print of the insides of an apartment block ***FINISH THIS***
+
+![***FIND IMAGE***](/_includes/3dprinting/images/apartmentinnards.png)
+
+ - When printing a large uninterrupted 90 degree overhang FOR EXAMPLE A BRIDGE.
 
 ### Determining the scale
 
@@ -354,9 +369,12 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
     
  - **Model Accuracy & Finish**
     When 3D printing, the height of each layer determines how well-finished (i.e. smooth) and accurate the final result is (with a smaller height resulting in a more accurate and smoother finish). However, as the layer height decreases and naturally the amount of layers required increases, the time needed to complete the job increases dramatically. To combat this, if you require a better finish, reducing the scale might be appropriate. Large jobs with accurate finishes aren't going to be appreciated by the crowd you made wait.
-    
+
+![Missing Image](/_includes/3dprinting/images/3dPrintRes.png)
+
  - **Proximity to Standardisation**
     If you've decided on the model's scale after taking into account the above factors, and you've realised it's going to be 1:493.4, downscaling to 1:500 won't affect the size greatly but will make the model a standard size which may become useful when comparing to other models. Having said this, be careful about upsizing the model (e.g. from 1:2004.3 to 1:2000) as it may not fit. Always check with a rectangular block in the cura software before proceeding.
+
 
 
 ### Whether to use magnets & how
