@@ -274,7 +274,7 @@ without needing to build supports.
 
 ## Issues
 
-### How to split up the model:
+### <a name="modelSplits">How to split up the model:</a>
 
 *Do I need to split up the model?*
 
@@ -283,7 +283,9 @@ The main reason you'll want to split up the model is because your original model
 (Width &lt;= 223 AND Depth &lt;= 223) OR
 (Width+Depth)/sqrt(2) &lt; 223)
 
-*Note: This formula takes into account the possible ability for you to rotate your model on the 3D printer to make it fit. If one of your dimensions is bigger than 223mm (the printers are 223mm wide by 223mm deep) and yet it fits, you will need to rotate it 45 degrees.
+This formula takes into account the possible ability for you to rotate your model on the 3D printer to make it fit. If one of your dimensions is bigger than 223mm (the printers are 223mm wide by 223mm deep) and yet it fits, you will need to rotate it 45 degrees.
+
+*Note: In order to ensure that your model fits, make a rectangular block of the size you're aiming for and put it into the cura software. Although the advertised dimensions of the 3D printing area is 223mm by 223mm, the software is likely to reject something close to this size.
 
 Another reason that you may want to split the model is to make a certain section hot-swappable. In this case, you should know already where you would like to split your model. ***POSSIBLE CONTINUATION HERE (DIFFERENT BRANCH)***
 
@@ -308,7 +310,7 @@ Having said that, it's likely that you'd rather not cut through any buildings pr
 
 ![Missing Image](/_includes/3dprinting/images/CityCutLinesRoads.jpg)
 
-The method pictured above is better, but if the design was cut this way the pieces would be free to slide easily between their respective locations. When this happens, the model can be frustrating to use as pieces constantly push each other out of the way (especially when there are multiple pieces that are supposed to move - if not, the pieces can always be glued down). One method that solves this is creating indented edges that lock in pieces more effectively:
+The method pictured above is better, but if the design was cut this way the pieces would be free to slide easily between their respective locations. When this happens, the model can be frustrating to use as pieces constantly push each other out of the way (especially when there are multiple pieces that are supposed to move - if not, the pieces can always be glued down). One method that solves this is creating indented edges that lock in pieces more effectively, or L-shaped (among other non-rectangularly shaped) pieces that are less likely to slide around:
 
 ![Missing Image](/_includes/3dprinting/images/CityCutLinesJagged.jpg)
 
@@ -318,19 +320,45 @@ Another method that can be used is putting magnets inside the floor of the 3D pr
 
 These techniques can always be combined for even more secure results.
 
-The last main thing that needs to be considered is what meaning is being conveyed by the different split sections - not only can splits provide the ability to print a large job, they can also be used to convey information. Some examples of how splits can be used to convey information are:
-
-    Splitting at the boundaries of council zoning areas
-
-    Splitting on hill hinge lines
-
-    ***More options??***
+The last main thing that needs to be considered is what meaning is being conveyed by the different split sections - usually, there will be a main piece that should be centred and not split. Splitting the model into sections that are less likely or more likely overall to be remodelled and then reprinted reduces the amount of time wasted in the future while also reducing 3D print waste.
 
 ![Missing Image](/_includes/3dprinting/images/CityCutLinesZoning.jpg)
 
+After the lines have been chosen, it's important to make sure that when the lines are cut they create a 0.5mm gap. If the models are cut without the gap, they won't fit together flush.
+
+### Dealing with overhangs
+
+slice vs cura tool
+
+Overhangs are difficult to deal with 
 
 
-### 3D Printer Settings to use
+### Determining the scale
+
+Different scales may need to be used for different prints. If you are providing a building for the City of Sydney's scale model, the exact specifications can be viewed [here](http://www.cityofsydney.nsw.gov.au/development/application-guide/application-process/model-requirements), which overall requires:
+
+ - A scale of 1:500
+ - 100 metres of site context if there are 10 or below stories
+ - 200 metres of site context if there are more than 10 stories
+
+However, if you aren't modelling for the City of Sydney and there aren't any other preset constrictions on what scale should be used, there are a few things that need to be considered:
+
+ - **Model Size**
+    The larger the model, the greater the scale, but what is more important than the overall site size is the size of the centre piece. Given that you haven't chosen the size of the exterior pieces, scale the centre piece until it will fit inside the 223mm by 223mm printer, using that scale to [determine the splits of the model](#modelSplits). If you have already decided on the model splits, choose the largest piece and scale it so that it fits, using that scale for the rest of the model.
+    
+    *Note: Although you don't necessarily have to fill it up, bigger is usually more impressive and makes it easier to see details.
+ 
+ - **Model Detail**
+    As there is greater detail in the model, the scale should decrease so that the details can be produced by the 3D printer without apprearing really messy. This also means that it's easier to see the details in the model. Similarly, as there are less details in the model, the scale should increase. This ensures that the model seems less 'chunky' while also reducing the necessary size of the model without comprimising feature visibility.
+    
+ - **Model Purpose**
+    sdgsdghsfhdFHDFHdfshf
+
+### Whether to use magnets & how
+
+ - Re-usability of model
+ 
+ - 
 
 
 
