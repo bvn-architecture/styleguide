@@ -376,7 +376,6 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
     If you've decided on the model's scale after taking into account the above factors, and you've realised it's going to be 1:493.4, downscaling to 1:500 won't affect the size greatly but will make the model a standard size which may become useful when comparing to other models. Having said this, be careful about upsizing the model (e.g. from 1:2004.3 to 1:2000) as it may not fit. Always check with a rectangular block in the cura software before proceeding.
 
 
-
 ### Whether to use magnets & how
 
 Using magnets can make a site model presentation to a client look more professional, among many other reasons why you may want to use magnets. However, there are some factors that need to be considered before going ahead with this:
@@ -388,16 +387,24 @@ Using magnets can make a site model presentation to a client look more professio
 
     Ultimaker 3+:
  ![Missing Image](/_includes/3dprinting/images/UM3_Volume.png)
- 
- - **Reusability.** Embedding a magnet's main function is to make sure that a site model sits exactly where it needs to be placed every time it is put back after being removed. If this isn't going to be a regular occur
- 
- - **Amount of movable pieces.** As mentioned above, embedding a magnet ensures that a piece sits where it needs to. If there's only one piece being removed and it's enclosed (diagram 1), then magnets may not be necessary as there's no possibility for sliding - they might even make it more difficult to use than it needs to be given the difficulty of taking the piece out. However, if there are multiple pieces that can be moved (diagram 2), then a magnet can ensure the buildings are placed correctly.
+
+
+ - **Amount of movable pieces.** Embedding a magnet's main function is to make sure that a site model sits exactly where it needs to be placed every time it is put back after being removed. If there's only one piece being removed and it's enclosed (diagram 1), then magnets may not be necessary as there's no possibility for sliding - they might even make it more difficult to use than it needs to be given the difficulty of taking the piece out. However, if there are multiple pieces that can be moved (diagram 2), then a magnet can ensure the buildings are placed correctly.
  
  ![Missing Image](/_includes/3dprinting/images/Slidable1.png)
 
  ![Missing Image](/_includes/3dprinting/images/Slidable2.png)
- 
- - **Difficulty.** Other than the previous factors, it really comes down to how difficult this process is and whether the process is worth it. To achieve this, a decent knowledge of the 3D printing software you're using (most likely Cura) is needed, 
+
+
+ - **Reusability.** As mentioned above, embedding a magnet ensures that a piece sits where it needs to every time it is placed after being removed. If this isn't going to be a regular occurence, the magnets might be a superfluous addition making the printing process unnecessarily difficult.
+
+
+If you've considered the above steps and have decided to use a magnet, these are the steps that need to be followed:
+
+1. 
+
+
+
 
 **Q**
 
