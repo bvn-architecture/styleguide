@@ -379,8 +379,6 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
 
 ### Whether to use magnets & how
 
-WHEN WOULD YOU USE MAGNETS AND WHEN WOULDN'T YOU
-
 Using magnets can make a site model presentation to a client look more professional, among many other reasons why you may want to use magnets. However, there are some factors that need to be considered before going ahead with this:
  
  - **3D Printer Model.** At the Sydney BVN office, there are 2 different types of 3D printers - the Ultimaker 2+ and the Ultimaker 3+. The 2+ has a metal head, so magnets can't be inserted into the prints by that printer. This means that if your model needs the slightly larger print range of the 2+ you won't be able to print to that size and use a magnet.
@@ -391,7 +389,15 @@ Using magnets can make a site model presentation to a client look more professio
     Ultimaker 3+:
  ![Missing Image](/_includes/3dprinting/images/UM3_Volume.png)
  
- - **Another factor**
+ - **Reusability.** Embedding a magnet's main function is to make sure that a site model sits exactly where it needs to be placed every time it is put back after being removed. If this isn't going to be a regular occur
+ 
+ - **Amount of movable pieces.** As mentioned above, embedding a magnet ensures that a piece sits where it needs to. If there's only one piece being removed and it's enclosed (diagram 1), then magnets may not be necessary as there's no possibility for sliding - they might even make it more difficult to use than it needs to be given the difficulty of taking the piece out. However, if there are multiple pieces that can be moved (diagram 2), then a magnet can ensure the buildings are placed correctly.
+ 
+ ![Missing Image](/_includes/3dprinting/images/Slidable1.png)
+
+ ![Missing Image](/_includes/3dprinting/images/Slidable2.png)
+ 
+ - **Difficulty.** Other than the previous factors, it really comes down to how difficult this process is and whether the process is worth it. To achieve this, a decent knowledge of the 3D printing software you're using (most likely Cura) is needed, 
 
 **Q**
 
