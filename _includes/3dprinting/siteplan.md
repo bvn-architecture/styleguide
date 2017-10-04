@@ -359,20 +359,20 @@ Different scales may need to be used for different prints. If you are providing 
 
 However, if you aren't modelling for the City of Sydney and there aren't any other preset constrictions on what scale should be used, there are a few things that need to be considered:
 
- - **Model Size**
+ - **Model Size.**
     The larger the model, the greater the scale, but what is more important than the overall site size is the size of the centre piece. Given that you haven't chosen the size of the exterior pieces, scale the centre piece until it will fit inside the 223mm by 223mm printer, using that scale to [determine the splits of the model](#modelSplits). If you have already decided on the model splits, choose the largest piece and scale it so that it fits, using that scale for the rest of the model.
     
-    *Note: Although you don't necessarily have to fill it up, bigger is usually more impressive and makes it easier to see details.
+    *Note: Although you don't necessarily have to fill it up, bigger is usually more impressive and makes it easier to see details.*
  
- - **Model Detail**
+ - **Model Detail.**
     As there is greater detail in the model, the scale should decrease so that the details can be produced by the 3D printer without apprearing really messy. This also means that it's easier to see the details in the model. Similarly, as there are less details in the model, the scale should increase. This ensures that the model seems less 'chunky' while also reducing the necessary size of the model without comprimising feature visibility.
     
- - **Model Accuracy & Finish**
+ - **Model Accuracy & Finish.**
     When 3D printing, the height of each layer determines how well-finished (i.e. smooth) and accurate the final result is (with a smaller height resulting in a more accurate and smoother finish). However, as the layer height decreases and naturally the amount of layers required increases, the time needed to complete the job increases dramatically. To combat this, if you require a better finish, reducing the scale might be appropriate. Large jobs with accurate finishes aren't going to be appreciated by the crowd you made wait.
 
 ![Missing Image](/_includes/3dprinting/images/3dPrintRes.png)
 
- - **Proximity to Standardisation**
+ - **Proximity to Standardisation.**
     If you've decided on the model's scale after taking into account the above factors, and you've realised it's going to be 1:493.4, downscaling to 1:500 won't affect the size greatly but will make the model a standard size which may become useful when comparing to other models. Having said this, be careful about upsizing the model (e.g. from 1:2004.3 to 1:2000) as it may not fit. Always check with a rectangular block in the cura software before proceeding.
 
 
@@ -380,10 +380,18 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
 ### Whether to use magnets & how
 
 WHEN WOULD YOU USE MAGNETS AND WHEN WOULDN'T YOU
+
+Using magnets can make a site model presentation to a client look more professional, among many other reasons why you may want to use magnets. However, there are some factors that need to be considered before going ahead with this:
  
- - 
+ - **3D Printer Model.** At the Sydney BVN office, there are 2 different types of 3D printers - the Ultimaker 2+ and the Ultimaker 3+. The 2+ has a metal head, so magnets can't be inserted into the prints by that printer. This means that if your model needs the slightly larger print range of the 2+ you won't be able to print to that size and use a magnet.
+ 
+    Ultimaker 2+:
+ ![Missing Image](/_includes/3dprinting/images/UM2_Volume.png)
 
-
+    Ultimaker 3+:
+ ![Missing Image](/_includes/3dprinting/images/UM3_Volume.png)
+ 
+ - **Another factor**
 
 **Q**
 
