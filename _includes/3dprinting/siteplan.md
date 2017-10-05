@@ -420,13 +420,41 @@ Your site model now has a magnet embedded inside it. In order for the magnets to
 
 1. Ensure that the cutting locations line up exactly with the embedded magnets (even a millimetre of difference is too much).
 
-2. Most companies will accept (or require) an illustrator file, so export to this.
+2. Most companies will accept (or require) an illustrator file, so export to this. [Here is a guide](https://static1.squarespace.com/static/548a3f6ee4b0c0f815c40ae1/t/5763a3b7ebbd1a9356dc6459/1466147783949/KINK+laser+cutting+details+17_6_16.pdf) on how kink recieves files; most companies will have a similar policy.
 
 3. On deciding what material to use, this will depend on the thickness of the magnet and the aesthetics you want to achieve. White acrylic works well generally. Try and match the thickness of the material to the thickness of the magnet, preferably going over a little bit. Never have the magnet thicker than the material.
 
-4. Once the material has been cut, 
+4. In order to achieve a smooth finish for easy sliding and a professional aesthetic, you'll need to cut another piece of material to place on top. This material does not need the magnet holes cut into it, but will need to be cut to the same size and shape as the site model. This material needs to be as thin as possible while still remaining opaque.
 
-*Note: Secure the magnet(s) embedded inside the floor opposite in polarity to the magnet(s) inside the prints to ensure that the magnets attract, rather than repel!*
+5. Once the material has been cut, glue the magnets in the holes. ***ASK WHAT GLUE TO USE***
+
+    *Note: Secure the magnet(s) embedded inside the floor opposite in polarity to the magnet(s) inside the prints to ensure that the magnets attract, rather than repel!*
+
+6. Once these have set, glue the surface material on top. ***ASK WHAT GLUE TO USE***
+
+The floor and site model(s) are now finished. Test to see if it works!
+
+
+## Extra Ideas
+
+This article so far has dealt with (relatively) well polished ideas that have been tested multiple times beforehand. Here are some ideas that may suit your project that haven't been as thoroughly proven:
+
+ - **Buildable model.** 
+ 
+    In this method, the model's parts are printed seperately on the building level, so that the actual building can be taken apart. The reasons that you may want to do this include:
+        - Being able to show the building's facade and its interior in the one model. This could also allow you to be able to show different levels of information at the same time.
+        - The ability to replace certain parts of the building (e.g. the facade) without having to re-print the entire model, which takes less time and less material.
+        - 
+ 
+ - **Induction-lit model.**
+ 
+ - 
+
+
+
+
+
+
 
 
 **Q**
