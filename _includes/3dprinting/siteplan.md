@@ -368,7 +368,7 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
     As there is greater detail in the model, the scale should decrease so that the details can be produced by the 3D printer without apprearing really messy. This also means that it's easier to see the details in the model. Similarly, as there are less details in the model, the scale should increase. This ensures that the model seems less 'chunky' while also reducing the necessary size of the model without comprimising feature visibility.
     
  - **Model Accuracy & Finish.**
-    When 3D printing, the height of each layer determines how well-finished (i.e. smooth) and accurate the final result is (with a smaller height resulting in a more accurate and smoother finish). However, as the layer height decreases and naturally the amount of layers required increases, the time needed to complete the job increases dramatically. To combat this, if you require a better finish, reducing the scale might be appropriate. Large jobs with accurate finishes aren't going to be appreciated by the crowd you made wait.
+    When 3D printing, the height of each layer determines how well-finished (i.e. smooth) and accurate the final result is (with a smaller height resulting in a more accurate and smoother finish). However, as the layer height decreases and naturally the amount of layers required increases, the time needed to complete the job increases dramatically. To combat this, if you require a better finish, reducing the scale might be appropriate. You can do a large job with a smooth finish, but make sure you know how much time it will take.
 
 ![Missing Image](/_includes/3dprinting/images/3dPrintRes.png)
 
@@ -397,13 +397,36 @@ Using magnets can make a site model presentation to a client look more professio
 
 
  - **Reusability.** As mentioned above, embedding a magnet ensures that a piece sits where it needs to every time it is placed after being removed. If this isn't going to be a regular occurence, the magnets might be a superfluous addition making the printing process unnecessarily difficult.
+ 
+ - **Laser cutter access.** In order to achieve the floor part of the design, a laser cutter is needed. This will most likely cost a decent amount of money if you need to outsource it (BVN currently does not have a laser cutter in the Sydney office).
 
 
-If you've considered the above steps and have decided to use a magnet, these are the steps that need to be followed:
+If you've considered the above issues and have decided to use a magnet, these are the steps that need to be followed:
 
-1. 
+1. Determine the dimensions of the magnet
+
+2. Create an equivalent hole in the model
+
+3. During the set up of the print, finding out the layer number that the print needs to be stopped at
+
+4. Start the print
+
+5. Insert the magnet, noting which side is facing down (north/south)
+
+6. Unpause the print.
 
 
+Your site model now has a magnet embedded inside it. In order for the magnets to connect to the right locations, the floor of the site model will need magnets also embedded inside of it. The best way to achieve this is using a laser cutter. After ensuring that the cutting locations line up exactly with the embedded magnets, you'll need to find a business to outsource the laser cutting to. [Kink](http://www.kinkfab.com/profile/) is a great company that has worked with BVN on this before, having cut the material, embedded the magnets, gluing them and the covering material on themselves (all within 48 hours, with the possibility of a 24 hour return service given an additional fee). Their only downside is they have quite high rates, so if budget is an issue and deadlines are flexible, some other companies may be more suitable. Given that the company you find only does the laser cutting, the rest of the process is detailed here:
+
+1. Ensure that the cutting locations line up exactly with the embedded magnets (even a millimetre of difference is too much).
+
+2. Most companies will accept (or require) an illustrator file, so export to this.
+
+3. On deciding what material to use, this will depend on the thickness of the magnet and the aesthetics you want to achieve. White acrylic works well generally. Try and match the thickness of the material to the thickness of the magnet, preferably going over a little bit. Never have the magnet thicker than the material.
+
+4. Once the material has been cut, 
+
+*Note: Secure the magnet(s) embedded inside the floor opposite in polarity to the magnet(s) inside the prints to ensure that the magnets attract, rather than repel!*
 
 
 **Q**
