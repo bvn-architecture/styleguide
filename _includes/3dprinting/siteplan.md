@@ -450,8 +450,6 @@ This article so far has dealt with (relatively) well polished ideas that have be
 
     - The ability to replace certain parts of the building (e.g. the facade) without having to re-print the entire model, which takes less time and less material.
 
-    POSSIBLY PUT SOME PHOTOS OF THE EXAMPLE IN HERE??
-
  - **Induction-lit model.**
 
     If magnets are going to be put into the design, it's possible to incorporate some induction lighting circuitry into the 3D print so that lights turn on when the model is placed on the magnet. You may want to use this because of a few reasons:
