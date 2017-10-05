@@ -11,7 +11,7 @@ experience, producing a poster, video or similar website.
 
 ## Methods:
 
-*This is a practical process you can follow to achieve a file ready for 3D printing. For a more conceptual overview of some of the issues you will face, skip to the next section '**Issues***'.
+*This is a practical process you can follow to achieve a file ready for 3D printing. For a more conceptual overview of some of the issues you will face, skip to the next section ['**Issues***'](#issues).
 
 1. **Installing.** Follow this to install the extensions necessary to follow the rest of the processes
 
@@ -272,7 +272,7 @@ without needing to build supports.
 ![Missing Image](/_includes/3dprinting/images/image_15.png)
 
 
-## Issues
+## <a name="issues">Issues</a>
 
 ### <a name="modelSplits">How to split up the model:</a>
 
@@ -287,7 +287,7 @@ This formula takes into account the possible ability for you to rotate your mode
 
 *Note: In order to ensure that your model fits, make a rectangular block of the size you're aiming for and put it into the cura software. Although the advertised dimensions of the 3D printing area is 223mm by 223mm, the software is likely to reject something close to this size.
 
-Another reason that you may want to split the model is to make a certain section hot-swappable. In this case, you should know already where you would like to split your model. ***POSSIBLE CONTINUATION HERE (DIFFERENT BRANCH)***
+Another reason that you may want to split the model is to make a certain section hot-swappable. In this case, you should know already where you would like to split your model.
 
 *I need to split up my model because it's too big. Where do I cut?*
 
