@@ -343,7 +343,7 @@ Different situations call for different techniques to be used for an optimal res
 
 ![Missing Image](/_includes/3dprinting/images/tree.png)
 
- - When printing a structure with many vertically parallel overhangs that requires good quality surface finishes, angling is the appropriate technique. The angling is difficult to see unless pointed out, and allows for a professional quality finish especially on the surfaces below the overhangs compared to support structures. For example, a print of the insides of an apartment block ***FINISH THIS***
+ - When printing a structure with many vertically parallel overhangs that require good quality surface finishes, angling is the appropriate technique. The angling is difficult to see unless pointed out, and allows for a professional quality finish especially on the surfaces below the overhangs when compared to support structures. For example, a print of the insides of an apartment block would print well with this technique, ***FINISH THIS***
 
 ![***FIND IMAGE***](/_includes/3dprinting/images/apartmentinnards.png)
 
