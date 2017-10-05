@@ -314,11 +314,11 @@ The method pictured above is better, but if the design was cut this way the piec
 
 ![Missing Image](/_includes/3dprinting/images/CityCutLinesJagged.jpg)
 
-Another method that can be used is putting magnets inside the floor of the 3D print and inside each of the removable sections of the 3D print. This method can also be used to create parts that light up when places on the magnet using magnetic induction lights. These techniques are difficult to achieve (assistance would be required. ***ASK ABOUT HOW THIS IS ACHIEVED***
+Another method that can be used is putting magnets inside the floor of the 3D print and inside each of the removable sections of the 3D print. This method and the reasoning you might use it can be [found here](#MagnetMethod)
 
 ![Missing Image](/_includes/3dprinting/images/MagnetWithinPrint.jpg)
 
-These techniques can always be combined for even more secure results.
+These techniques should always be combined for even more secure results.
 
 The last main thing that needs to be considered is what meaning is being conveyed by the different split sections - usually, there will be a main piece that should be centred and not split. Splitting the model into sections that are less likely or more likely overall to be remodelled and then reprinted reduces the amount of time wasted in the future while also reducing 3D print waste.
 
@@ -343,11 +343,13 @@ Different situations call for different techniques to be used for an optimal res
 
 ![Missing Image](/_includes/3dprinting/images/tree.png)
 
- - When printing a structure with many vertically parallel overhangs that require good quality surface finishes, angling is the appropriate technique. The angling is difficult to see unless pointed out, and allows for a professional quality finish especially on the surfaces below the overhangs when compared to support structures. For example, a print of the insides of an apartment block would print well with this technique, ***FINISH THIS***
+ - When printing a structure with many vertically parallel overhangs that require good quality surface finishes, angling is the appropriate technique. The angling is difficult to see unless pointed out, and allows for a professional quality finish especially on the surfaces below the overhangs when compared to support structures. For example, a print of an apartment block with many balconies would print well with this technique, as the balconies' surfaces would remain relatively well finished.
 
-![***FIND IMAGE***](/_includes/3dprinting/images/apartmentinnards.png)
+![Missing Image](/_includes/3dprinting/images/ApartmentBalcony.jpg)
 
- - When printing a large uninterrupted 90 degree overhang FOR EXAMPLE A BRIDGE.
+ - When printing a large uninterrupted 90 degree overhang, slicing the model so that this surface can rest on the printing bed is the appropriate technique. For example, a print of a suspension bridge should be sliced so that excessive amounts of support underneath are avoided, and the surface remains smooth.
+ 
+![Missing Image](/_includes/3dprinting/images/SuspensionBridge.png)
 
 ### Determining the scale
 
@@ -376,7 +378,7 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
     If you've decided on the model's scale after taking into account the above factors, and you've realised it's going to be 1:493.4, downscaling to 1:500 won't affect the size greatly but will make the model a standard size which may become useful when comparing to other models. Having said this, be careful about upsizing the model (e.g. from 1:2004.3 to 1:2000) as it may not fit. Always check with a rectangular block in the cura software before proceeding.
 
 
-### Whether to use magnets & how
+### <a name="MagnetMethod"> Whether to use magnets & how </a>
 
 Using magnets can make a site model presentation to a client look more professional, among many other reasons why you may want to use magnets. However, there are some factors that need to be considered before going ahead with this:
  
