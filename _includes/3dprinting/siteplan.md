@@ -11,7 +11,7 @@ experience, producing a poster, video or similar website.
 
 ## Methods:
 
-*This is a practical process you can follow to achieve a file ready for 3D printing. For a more conceptual overview of some of the issues you will face, skip to the next section ['**Issues***'](#issues).
+*This is a practical process you can follow to achieve a file ready for 3D printing. For a more conceptual overview of some of the issues you will face, skip to the next section,* ['***Issues***'](#issues).
 
 1. **Installing.** Follow this to install the extensions necessary to follow the rest of the processes
 
