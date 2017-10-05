@@ -400,6 +400,7 @@ Using magnets can make a site model presentation to a client look more professio
  
  - **Laser cutter access.** In order to achieve the floor part of the design, a laser cutter is needed. This will most likely cost a decent amount of money if you need to outsource it (BVN currently does not have a laser cutter in the Sydney office).
 
+***FIX THESE STEPS UP!!!!***
 
 If you've considered the above issues and have decided to use a magnet, these are the steps that need to be followed:
 
@@ -442,36 +443,22 @@ This article so far has dealt with (relatively) well polished ideas that have be
  - **Buildable model.** 
  
     In this method, the model's parts are printed seperately on the building level, so that the actual building can be taken apart. The reasons that you may want to do this include:
-        - Being able to show the building's facade and its interior in the one model. This could also allow you to be able to show different levels of information at the same time.
-        - The ability to replace certain parts of the building (e.g. the facade) without having to re-print the entire model, which takes less time and less material.
-        - 
- 
+
+    - Being able to show the building's facade and its interior in the one model. This could also allow you to be able to show different levels of information at the same time.
+
+    - The ability to replace certain parts of the building (e.g. the facade) without having to re-print the entire model, which takes less time and less material.
+
+    POSSIBLY PUT SOME PHOTOS OF THE EXAMPLE IN HERE??
+
  - **Induction-lit model.**
- 
- - 
 
+    If magnets are going to be put into the design, it's possible to incorporate some induction lighting circuitry into the 3D print so that lights turn on when the model is placed on the magnet. You may want to use this because of a few reasons:
 
-
-
-
-
-
-
-**Q**
-
-1. Current doc
-
-2. Hot-swappable. When/How?
-
-3. Magnets in 3D prints & floor. Possible inductive lighting?
-
-4. 3D Printing settings
-
-
-
-
-
-
+    - The ability of the model to show how the light it projects shines. This could be especially useful for projects where the building will be used a lot at night time (e.g. stadiums, bars).
+    
+    - Its capability to highlight certain regions of the design. This can be combined with RGB lights to highlight different sections of the design in different colours to represent data.
+    
+    A further possibility for this design could be to incorporate moving magnets on the underside (or magnets in different locations) that change the lighting configurations. Having said all this, incorporating circuitry inside a 3D print of a site model is quite difficult, especially if hidden, so attempt with the foreknowledge that it probably won't take as short as you planned for and won't work as well as you hoped.
 
 
 
