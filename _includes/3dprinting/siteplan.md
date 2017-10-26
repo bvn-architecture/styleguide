@@ -7,7 +7,15 @@
 To represent a site effectively to a client, or to provide models to the
 City of Sydney archive as per requirement. Other methods that could be
 appropriate (for representing models to clients) include creating a VR
-experience, producing a poster, video or similar website.
+experience, producing a poster, video or similar website. Here is a list of the major pros and cons of each method:
+
+
+|Method|Pros|Cons|
+|:---:|---|---|
+|3D Printing|• Shows 3D space intuitively<br>• Potentially interactive<br>• Common representation technique|• Possibly difficult to produce<br>• Static representation<br>• Potentially expensive material|
+|Poster|• Communicates intentions effectively<br>• Relatively easy production<br>• Easy delivery over internet|• Static Representation<br>• Non-3D Representation|
+|Video|• Communicates intentions effectively<br>• Easy delivery over internet|• Non-interactive<br>• Professional standard difficult to achieve|
+|VR Experience|• Interactive<br>• Scale-realistic<br>• High innovation potential|• Requires extensive technology to present<br>• Possibly difficult to produce|
 
 ## Methods:
 
