@@ -391,7 +391,7 @@ This article so far has dealt with (relatively) well polished ideas that have be
     
     - Its capability to highlight certain regions of the design. This can be combined with RGB lights to highlight different sections of the design in different colours to represent data.
     
-    A further possibility for this design could be to incorporate moving magnets on the underside (or magnets in different locations) that change the lighting configurations. Having said all this, incorporating circuitry inside a 3D print of a site model is quite difficult, especially if hidden, so attempt with the foreknowledge that it probably won't take as short as you planned for and won't work as well as you hoped.
+    A further possibility for this design could be to incorporate moving magnets on the underside (or magnets in different locations) that change the lighting configurations. Having said all this, incorporating circuitry inside a 3D print of a site model is quite difficult, especially if hidden, so attempt it knowing that it probably won't take as short as you planned and it likely won't work as well as you hope.
 
 
 
