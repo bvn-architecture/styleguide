@@ -57,10 +57,10 @@ experience, producing a poster, video or similar website. Here is a list of the 
 
         <https://extensions.sketchup.com/en/content/zorro2>
 
-    *Note:* Although this guide will go through some of the
+    *Note: Although this guide will go through some of the
     functionalities of these extensions, if you ever get stuck or want to
     learn more about the extensions there are some excellent video and
-    article tutorials on the above pages.
+    article tutorials on the above pages.*
 
 3.  Open up SketchUp, select **Window &gt; Preferences**, then open the
     **Extensions** tab.
@@ -218,7 +218,7 @@ The main reason you'll want to split up the model is because your original model
 
 This formula takes into account the possible ability for you to rotate your model on the 3D printer to make it fit. If one of your dimensions is bigger than 223mm (the printers are 223mm wide by 223mm deep) and yet it fits, you will need to rotate it 45 degrees.
 
-*Note: In order to ensure that your model fits, make a rectangular block of the size you're aiming for and put it into the cura software. Although the advertised dimensions of the 3D printing area is 223mm by 223mm, the software is likely to reject something close to this size.
+*Note: In order to ensure that your model fits, make a rectangular block of the size you're aiming for and put it into the cura software. Although the advertised dimensions of the 3D printing area is 223mm by 223mm, the software is likely to reject something close to this size.*
 
 Another reason that you may want to split the model is to make a certain section hot-swappable. In this case, you should know already where you would like to split your model.
 
@@ -392,7 +392,5 @@ This article so far has dealt with (relatively) well polished ideas that have be
     - Its capability to highlight certain regions of the design. This can be combined with RGB lights to highlight different sections of the design in different colours to represent data.
     
     A further possibility for this design could be to incorporate moving magnets on the underside (or magnets in different locations) that change the lighting configurations. Having said all this, incorporating circuitry inside a 3D print of a site model is quite difficult, especially if hidden, so attempt it knowing that it probably won't take as short as you planned and it likely won't work as well as you hope.
-
-
 
 
