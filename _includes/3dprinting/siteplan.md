@@ -339,17 +339,19 @@ Using magnets can make a site model presentation to a client look more professio
 
 If you've considered the above issues and have decided to use a magnet, these are the steps that need to be followed:
 
-1. Determine the dimensions of the magnet
+1.  Determine the dimensions of the magnet. If you don't have any dimensions from the package, get a ruler out that has millimetres at least.
 
-2. Create an equivalent hole in the model
+    *Note: Better to over-estimate than under-estimate! The empty space can always be filled in with superglue.*
 
-3. During the set up of the print, finding out the layer number that the print needs to be stopped at
+2.  Create an equivalent hole in the model. 
 
-4. Start the print
+3.  During the set up of the print, find out the layer number that the print needs to be stopped at. In Cura, when in the *layers* view mode, you can scroll through each layer to see when the hole is going to be filled.
 
-5. Insert the magnet, noting which side is facing down (north/south)
+4.  Start the print, keeping track of how long it has been going for, pausing it at the right moment.
 
-6. Unpause the print.
+5.  Insert the magnet, noting which side is facing down (north/south)
+
+6.  Unpause the print, and let the print finish!
 
 
 Your site model now has a magnet embedded inside it. In order for the magnets to connect to the right locations, the floor of the site model will need magnets also embedded inside of it. The best way to achieve this is using a laser cutter. After ensuring that the cutting locations line up exactly with the embedded magnets, you'll need to find a business to outsource the laser cutting to. [Kink](http://www.kinkfab.com/profile/) is a great company that has worked with BVN on this before, having cut the material, embedded the magnets, gluing them and the covering material on themselves (all within 48 hours, with the possibility of a 24 hour return service given an additional fee). Their only downside is they have quite high rates, so if budget is an issue and deadlines are flexible, some other companies may be more suitable. Given that the company you find only does the laser cutting, the rest of the process is detailed here:
