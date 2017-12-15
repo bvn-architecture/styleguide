@@ -21,19 +21,19 @@ experience, producing a poster, video or similar website. Here is a list of the 
 
 *This is a practical process you can follow to achieve a file ready for 3D printing. For a more conceptual overview of some of the issues you will face, skip to the next section,* ['***Issues***'](#issues).
 
-1. **Installing.** Follow this to install the extensions necessary to follow the rest of the processes
+1. [**Installing.**](#installing) Follow this to install the extensions necessary to follow the rest of the processes
 
-2. **Cleaning.** Follow this to clean your model. Cleaning your model throughout the process is recommended.
+2. [**Cleaning.**](#cleaning) Follow this to clean your model. Cleaning your model throughout the process is recommended.
 
-3. **Slicing.** Follow this to slice your model up into manageable chunks for the 3D printer.
+3. [**Slicing.**](#slicing) Follow this to slice your model up into manageable chunks for the 3D printer.
 
-4. **Exporting.** Follow this to export your model into a format acceptable to 3D printing software.
+4. [**Exporting.**](#exporting) Follow this to export your model into a format acceptable to 3D printing software.
 
-5. **Setting.** Follow this to learn how to set the 3D model up for printing in the 3D printing software.
+5. [**Setting.**](#setting) Follow this to learn how to set the 3D model up for printing in the 3D printing software.
 
 
 
-### **Installating**:
+### <a name="installing">**Installating**</a>:
 
 1.  Install SketchUp 2017:
 
@@ -67,7 +67,7 @@ experience, producing a poster, video or similar website. Here is a list of the 
 
 4.  Install the extensions above in the given order.
 
-### **Cleaning**:
+### <a name="cleaning">**Cleaning**</a>:
 
 1.  Import the model into SketchUp.
 
@@ -145,7 +145,7 @@ experience, producing a poster, video or similar website. Here is a list of the 
     this process will reduce the amount of errors you have to deal with
     later on.
 
-### **Slicing**:
+### <a name="slicing">**Slicing**</a>:
 
 1.  The maximum print size on the Ultimaker printers is 223mm wide by
     223mm deep by 300mm high. If your model is larger than any of these
@@ -223,7 +223,7 @@ without needing to build supports.
     and use that). As always, it’s best to clean after this (refer to
     the cleaning method above).
     
-### **Exporting**:
+### <a name="exporting">**Exporting**</a>:
 
 1.  To scale the models down, select everything you want to scale and
     press **S**. The model should be in a wireframe yellow box with
@@ -254,7 +254,7 @@ without needing to build supports.
 
 ![Missing Image](/_includes/3dprinting/images/image_13.png)
 
-### **Setting**:
+### <a name="setting">**Setting**</a>:
 
 1.  To start the printing process, open **Cura**.
 
