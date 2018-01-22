@@ -32,7 +32,7 @@ Another method that can be used is putting magnets inside the floor of the 3D pr
 
 These techniques should always be combined for even more secure results.
 
-The last main thing that needs to be considered is what meaning is being conveyed by the different split sections - usually, there will be a main piece that should be centred and not split. Splitting the model into sections that are less likely or more likely overall to be remodelled and then reprinted reduces the amount of time wasted in the future while also reducing 3D print waste.
+The last main thing that needs to be considered is what are you saying by the different split sections - usually, there will be a main piece that should be centred and not split. As well as this, splitting the model into sections that are less likely or more likely overall to be remodelled and then reprinted reduces the amount of time and material waste.
 
 ![Missing Image](/_includes/3dprinting/images/CityCutLinesZoning.jpg)
 
