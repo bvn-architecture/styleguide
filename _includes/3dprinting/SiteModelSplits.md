@@ -1,6 +1,6 @@
 # How to split your site model and why you should
 
-![Missing Image]
+![Missing Image](/_includes/3dprinting/images/modelSlotPiece.jpg)
 
 To plan out cities, a lot of inner-city councils these days require 3D-printed site models before allowing a building to be built. At the required scale, they're often too big to fit in most 3D-printers. Until the day that most 3D printers can print large models, we'll have model splitting.
 
