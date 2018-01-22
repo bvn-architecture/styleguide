@@ -1,28 +1,16 @@
-# Splitting Site Models
+# How to split your site model and why you should
 
-The main reason you'll want to split up the model is because your original model is too big. To calculate whether your model is too big, use the following formula:
+To plan out cities, a lot of inner-city councils these days require 3D-printed site models before allowing a building to be built. At the required scale, they're often too big to fit in most 3D-printers. Until the day that most 3D printers can print large models, we'll have model splitting.
 
-(Width &lt;= 223 AND Depth &lt;= 223) OR
-(Width+Depth)/sqrt(2) &lt; 223)
+The question is: "Where do I cut?"
 
-This formula takes into account the possible ability for you to rotate your model on the 3D printer to make it fit. If one of your dimensions is bigger than 223mm (the printers are 223mm wide by 223mm deep) and yet it fits, you will need to rotate it 45 degrees.
-
-*Note: In order to ensure that your model fits, make a rectangular block of the size you're aiming for and put it into the cura software. Although the advertised dimensions of the 3D printing area is 223mm by 223mm, the software is likely to reject something close to this size.*
-
-Another reason that you may want to split the model is to make a certain section hot-swappable. In this case, you should know already where you would like to split your model.
-
-*I need to split up my model because it's too big. Where do I cut?*
-
-It depends on a few factors individual to each model:
-
-1.  Buildings/structures present
-2.  Terrain present
-3.  Purpose of the model
-
-And some static factors too:
+It depends on a few things individual to each model:
 
 1.  Size of the 3D printer
-2.  Lockability (Ensuring the pieces can't slide)
+2.  Buildings/structures present
+3.  Terrain present
+4.  Purpose of the model
+5.  Lockability (Ensuring the pieces can't slide)
 
 The first thing that needs to be considered in the slicing process is the size - you need to maximise the size while still remaining within the dimensions of the 3D printer. The following image shows how you might do that:
 
