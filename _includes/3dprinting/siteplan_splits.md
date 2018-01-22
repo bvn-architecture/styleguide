@@ -17,6 +17,18 @@ experience, producing a poster, video or similar website. Here is a list of the 
 |Video|• Communicates intentions effectively<br>• Easy delivery over internet|• Non-interactive<br>• Professional standard difficult to achieve|
 |VR Experience|• Interactive<br>• Scale-realistic<br>• High innovation potential|• Requires extensive technology to present<br>• Possibly difficult to produce|
 
+
+
+--------------------------
+
+--------------------------
+
+--------------------------
+
+
+
+
+
 ## Methods:
 
 *This is a practical process you can follow to achieve a file ready for 3D printing. For a more conceptual overview of some of the issues you will face, skip to the next section,* ['***Issues***'](#issues).
@@ -205,6 +217,31 @@ experience, producing a poster, video or similar website. Here is a list of the 
     ![Missing Image](/_includes/3dprinting/images/image_15.png)
 
 
+
+
+
+
+
+
+
+--------------------------
+
+--------------------------
+
+--------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## <a name="issues">Issues</a>
 
 ### <a name="modelSplits">How to split up the model:</a>
@@ -260,6 +297,32 @@ The last main thing that needs to be considered is what meaning is being conveye
 After the lines have been chosen, it's important to make sure that when the lines are cut they create a 0.5mm gap. If the models are cut without the gap, they won't fit together flush.
 
 
+
+
+
+
+
+
+
+--------------------------
+
+--------------------------
+
+--------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Dealing with overhangs
 
 There are three main ways to deal with overhangs, each with their own positives and negatives:
@@ -309,6 +372,31 @@ However, if you aren't modelling for the City of Sydney and there aren't any oth
 
  - **Proximity to Standardisation.**
     If you've decided on the model's scale after taking into account the above factors, and you've realised it's going to be 1:493.4, downscaling to 1:500 won't affect the size greatly but will make the model a standard size which may become useful when comparing to other models. Having said this, be careful about upsizing the model (e.g. from 1:2004.3 to 1:2000) as it may not fit. Always check with a rectangular block in the cura software before proceeding.
+
+
+
+
+
+
+
+
+
+--------------------------
+
+--------------------------
+
+--------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### <a name="MagnetMethod"> Whether to use magnets & how </a>
@@ -371,6 +459,31 @@ Your site model now has a magnet embedded inside it. In order for the magnets to
 6. Once these have set, glue the surface material on top. ***ASK WHAT GLUE TO USE***
 
 The floor and site model(s) are now finished. Test to see if it works!
+
+
+
+
+
+
+
+
+
+--------------------------
+
+--------------------------
+
+--------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Extra Ideas
